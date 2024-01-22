@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-dischargemeasures <- read_csv("./FishHabitat_DischargeFieldMeasurements.csv")
+dischargemeasures <- read_csv("./DischargeFieldMeasurements.csv")
 
 problems(dischargemeasures)
 
@@ -30,53 +30,16 @@ ggplot(dischargemeasures, aes(x = ParkCode)) +
   geom_bar()
 
 
-
-# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
+# Variables: LocationID, PeriodID and EventID
 
 dischargemeasures |> distinct(LocationID) |> 
-  print(n = 108)
+  print(n = 80)
 
-dischargemeasures |> distinct(LocationNumber) |> # Can I omit LocationNumber??
-  print(n = 40)
+dischargemeasures |> distinct(PeriodID) |> 
+  print(n = 72)
 
-dischargemeasures |> distinct(LocationType) |> 
-  print(n = 40)
-
-dischargemeasures |> distinct(LocationDescription) |> 
-  print(n = 70)
-
-# Variables: StreamName, TributaryName, County ---------------------------------
-
-dischargemeasures |> distinct(StreamName) |> 
-  print(n = 96)
-
-dischargemeasures |> distinct(TributaryName) |> 
-  print(n = 46)
-
-dischargemeasures |> distinct(County) |> 
-  print(n = 40)
-
-# Variables: StretchNumber, ReachID --------------------------------------------
-
-
-dischargemeasures |> distinct(StretchNumber) |> 
-  print(n = 108) 
-
-
-dischargemeasures |> distinct(ReachID) |>  
-  print(n = 109)
-
-
-# Variables: PeriodID, EventID and related variables ---------------------------
-
- 
-t <- dischargemeasures |> 
-  distinct(PeriodID, Season, tbl_SamplingPeriods_StartDate, 
-           tbl_SamplingPeriods_EndDate, 
-           EventID, tbl_SamplingEvents_StartDate, 
-           tbl_SamplingEvents_EndDate, EventComments)
-
- view(t)
+dischargemeasures |> distinct(EventID) |> 
+  print(n = 320)
  
 
 # Variables: ChannelType  ----------------------------------
@@ -120,7 +83,7 @@ ggplot(c, aes(x = Depth_cm)) +
 
 
 ggplot(dischargemeasures, aes(x = Velocity_ms)) +
-  geom_histogram
+  geom_histogram(binwidth = 1)
 
 c <- dischargemeasures |>
   filter(Velocity_ms > 0)
@@ -134,12 +97,7 @@ ggplot(c, aes(x = Velocity_ms)) +
  dischargemeasures |>
    distinct(Comments)  |>  
    print(n = 45)
- 
- # Variable: Units - drop this field??
- 
- dischargemeasures |>
-   distinct(Units)  |>  
-   print(n = 45)
+
  
  
 

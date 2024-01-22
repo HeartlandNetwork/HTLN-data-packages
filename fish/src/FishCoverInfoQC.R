@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-fishcover <- read_csv("./FishHabitat_FishCoverInfo.csv")
+fishcover <- read_csv("./FishCoverInfo.csv")
 
 problems(fishcover)
 
@@ -24,66 +24,21 @@ fishcover |> distinct(ParkName)
 fishcover |> distinct(ParkCode)
 
 
-
 ggplot(fishcover, aes(x = ParkCode)) + 
   geom_bar()
 
-
-
-# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
-
-fishcover |> distinct(LocationID) |> 
-  print(n = 108)
-
-fishcover |> distinct(LocationNumber) |> # Can I omit LocationNumber??
-  print(n = 40)
-
-fishcover |> distinct(LocationType) |> 
-  print(n = 40)
-
-fishcover |> distinct(LocationDescription) |> 
-  print(n = 70)
-
-# Variables: StreamName, TributaryName, County ---------------------------------
-
-fishcover |> distinct(StreamName) |> 
-  print(n = 96)
-
-fishcover |> distinct(TributaryName) |> 
-  print(n = 46)
-
-fishcover |> distinct(County) |> 
-  print(n = 40)
-
-# Variables: StretchNumber, ReachID, ReachLength_m, StreamWatershedArea -------
-
-
-fishcover |> distinct(StretchNumber) |> 
-  print(n = 63) 
-
-
-fishcover |> distinct(ReachID) |>  
+# Variable: LocationID --------------------------------------------------------
+  
+  fishcover |> distinct(LocationID) |> 
   print(n = 80)
 
-fishcover |> distinct(ReachLength_m) |>  
-  print(n = 29)
+# Variables PeriodID and EventID  ---------------------------
 
-fishcover |> distinct(StreamWatershedArea_sqkm) |>  
-  print(n = 51)
+fishcover |> distinct(PeriodID) |> 
+  print(n = 73)
 
-
-
-# Variables: PeriodID, EventID and related variables ---------------------------
-
- 
-t <- fishcover |> 
-  distinct(PeriodID, Season, tbl_SamplingPeriods_StartDate, 
-           tbl_SamplingPeriods_EndDate, 
-           EventID, tbl_SamplingEvents_StartDate, 
-           tbl_SamplingEvents_EndDate, EventComments)
-
- view(t)
- 
+fishcover |> distinct(EventID) |> 
+  print(n = 296)
 
 # Variables: TransectNumber, SampleLocation, SampleLocationDescr  -------------
  

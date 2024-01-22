@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-dischargeinfo <- read_csv("./FishHabitat_DischargeGaugeInfo.csv")
+dischargeinfo <- read_csv("./DischargeGaugeInfo.csv")
 
 problems(dischargeinfo)
 
@@ -30,61 +30,14 @@ ggplot(dischargeinfo, aes(x = ParkCode)) +
   geom_bar()
 
 
+# Variables: LocationID, PeriodID and EventID
 
-# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
+dischargeinfo |> distinct(LocationID) 
 
-dischargeinfo |> distinct(LocationID) |> 
-  print(n = 108)
+dischargeinfo |> distinct(PeriodID) 
 
-dischargeinfo |> distinct(LocationNumber) |> # Can I omit LocationNumber??
-  print(n = 40)
+dischargeinfo |> distinct(EventID) 
 
-dischargeinfo |> distinct(LocationType) |> 
-  print(n = 40)
-
-dischargeinfo |> distinct(LocationDescription) |> 
-  print(n = 70)
-
-# Variables: StreamName, TributaryName, County ---------------------------------
-
-dischargeinfo |> distinct(tbl_Locations_StreamName) |> 
-  print(n = 96)
-
-dischargeinfo |> distinct(TributaryName) |> 
-  print(n = 46)
-
-dischargeinfo |> distinct(County) |> 
-  print(n = 40)
-
-# Variables: StretchNumber, ReachID, ReachLength_m, StreamWatershedArea -------
-
-
-dischargeinfo |> distinct(StretchNumber) |> 
-  print(n = 6) 
-
-
-dischargeinfo |> distinct(ReachID) |>  
-  print(n = 7)
-
-dischargeinfo |> distinct(ReachLength_m) |>  
-  print(n = 7)
-
-dischargeinfo |> distinct(StreamWatershedArea_sqkm) |>  
-  print(n = 7)
-
-
-
-# Variables: PeriodID, EventID and related variables ---------------------------
-
- 
-t <- dischargeinfo |> 
-  distinct(PeriodID, Season, tbl_SamplingPeriods_StartDate, 
-           tbl_SamplingPeriods_EndDate, 
-           EventID, tbl_SamplingEvents_StartDate, 
-           tbl_SamplingEvents_EndDate, EventComments)
-
- view(t)
- 
 
 # Variables: ChannelType, ChannelTypeDescr  ----------------------------------
  
@@ -93,10 +46,12 @@ t <- dischargeinfo |>
  
  dischargeinfo |> distinct(ChannelTypeDescr)
  
- # Variables: GaugeSiteNo, tlu_GauageStations_StreamName, GaugeLocation --------
+ # Variables: GaugeSiteNo, GauageStations_StreamName, GaugeLocation --------
+ 
+ glimpse(dischargeinfo)
  
  dischargeinfo |> 
-   distinct(GaugeSiteNo, tlu_GaugeStations_StreamName, GaugeLocation) |>  
+   distinct(GaugeSiteNo, StreamName, GaugeLocation) |>  
    print(n = 6) # clean up weird chars in GauageLocation
  
 # Variable: tlu_GaugeStations_Comments  

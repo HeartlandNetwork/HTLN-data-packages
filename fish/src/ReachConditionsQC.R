@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-reachconditions <- read_csv("./FishHabitat_ReachConditions.csv")
+reachconditions <- read_csv("./ReachConditions.csv")
 
 problems(reachconditions)
 
@@ -26,61 +26,17 @@ reachconditions |> distinct(ParkCode)
 ggplot(reachconditions, aes(x = ParkCode)) + 
   geom_bar()
 
-# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
+
+# Variables: LocationID, PeriodID and EventID ----------------------------------
 
 reachconditions |> distinct(LocationID) |> 
   print(n = 109)
 
-reachconditions |> distinct(LocationNumber) |> # Can I omit LocationNumber??
-  print(n = 40)
+reachconditions |> distinct(PeriodID) |> 
+  print(n = 117)
 
-reachconditions |> distinct(LocationType) |> 
-  print(n = 4)
-
-reachconditions |> distinct(LocationDescription) |> 
-  print(n = 71)
-
-# Variables: StreamName, TributaryName, County ---------------------------------
-
-reachconditions |> distinct(StreamName) |> 
-  print(n = 96)
-
-reachconditions |> distinct(TributaryName) |> 
-  print(n = 46)
-
-reachconditions |> distinct(County) |> 
-  print(n = 40)
-
-# Variables: StretchNumber, ReachID, ReachLength_m, StreamWatershedArea -------
-
-
-reachconditions |> distinct(StretchNumber) |> 
-  print(n = 63) 
-
-
-reachconditions |> distinct(ReachID) |>  
-  print(n = 109)
-
-reachconditions |> distinct(ReachLength_m) |>  
-  print(n = 30)
-
-reachconditions |> distinct(StreamWatershedArea_sqkm) |>  
-  print(n = 51)
-
-
-
-# Variables: PeriodID, EventID and related variables ---------------------------
-
- 
-t <- reachconditions |> 
-  distinct(PeriodID, Season, 
-           tbl_SamplingPeriods_StartDate, 
-           tbl_SamplingPeriods_EndDate, 
-           EventID, tbl_SamplingEvents_StartDate, 
-           tbl_SamplingEvents_EndDate, EventComments)
-
- view(t)
- 
+reachconditions |> distinct(EventID) |> 
+  print(n = 398)
 
 # Variables: Pct_CloudCover, WindIntensity, PrecipitationType, PrecipitationIntensity  
  
@@ -92,7 +48,7 @@ t <- reachconditions |>
  
  reachconditions |> distinct(PrecipitationType, PrecipitationIntensity) 
  
-   # ?? review these values with Hope
+
    
  # Variables: SH_Springs_Present, SH_StreamFlow_Description  -------------
  
@@ -104,7 +60,8 @@ t <- reachconditions |>
 
 reachconditions |> 
   distinct(WeatherComments) |>  
-  print(n = 75)
+  print(n = 75) |>
+  view()
 
  r <- reachconditions |> 
    distinct(AdditionalComments) |>  

@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-crosssectioninfo <- read_csv("./FishHabitat_CrossSectionInfo.csv")
+crosssectioninfo <- read_csv("./CrossSectionInfo.csv")
 
 problems(crosssectioninfo)
 
@@ -31,53 +31,17 @@ ggplot(crosssectioninfo, aes(x = ParkCode)) +
 
 
 
-# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
+# Variables: LocationID, PeriodID and EventID
 
 crosssectioninfo |> distinct(LocationID) |> 
-  print(n = 108)
+  print(n = )
 
-crosssectioninfo |> distinct(LocationNumber) |> # Can I omit LocationNumber??
-  print(n = 40)
+crosssectioninfo |> distinct(PeriodID) |> 
+  print(n = 111)
 
-crosssectioninfo |> distinct(LocationType) |> 
-  print(n = 40)
+crosssectioninfo |> distinct(EventID) |> 
+  print(n = 393)
 
-crosssectioninfo |> distinct(LocationDescription) |> 
-  print(n = 70)
-
-# Variables: StreamName, TributaryName, County ---------------------------------
-
-crosssectioninfo |> distinct(StreamName) |> 
-  print(n = 96)
-
-crosssectioninfo |> distinct(TributaryName) |> 
-  print(n = 46)
-
-crosssectioninfo |> distinct(County) |> 
-  print(n = 40)
-
-# Variables: StretchNumber, ReachID --------------------------------------------
-
-
-crosssectioninfo |> distinct(LocationID,StretchNumber) |> 
-  print(n = 108) 
-
-
-crosssectioninfo |> distinct(LocationID,ReachID) |>  
-  print(n = 109)
-
-
-# Variables: PeriodID, EventID and related variables ---------------------------
-
- 
-t <- crosssectioninfo |> 
-  distinct(PeriodID, Season, tbl_SamplingPeriods_StartDate, 
-           tbl_SamplingPeriods_EndDate, 
-           EventID, tbl_SamplingEvents_StartDate, 
-           tbl_SamplingEvents_EndDate, EventComments)
-
- view(t)
- 
 
 # Variables: ChannelType and ChannelTypeDescr ----------------------------------
  
@@ -114,8 +78,8 @@ t <- crosssectioninfo |>
  ggplot(c, aes(x = Width_m)) +
    geom_histogram(binwidth = 1)
  
- # Depth_m
- 
+ # Depth_m 
+  
  ggplot(crosssectioninfo, aes(x = Depth_cm)) +
    geom_histogram(binwidth = 1)
  
@@ -143,7 +107,7 @@ t <- crosssectioninfo |>
  
  
  ggplot(c, aes(x = Velocity_ms)) +
-   geom_histogram(binwidth = 0.1
+   geom_histogram(binwidth = 0.1)
  
  
  # Variables: Substrate measures
@@ -156,7 +120,7 @@ t <- crosssectioninfo |>
    geom_histogram(binwidth = 1)
  
  c <- crosssectioninfo |>
-   filter(DomSubstrate  > 10)
+   filter(DomSubstrate  > 0)
  
  ggplot(c, aes(x = DomSubstrate)) +
           geom_histogram(binwidth = 1) 

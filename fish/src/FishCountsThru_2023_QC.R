@@ -5,7 +5,9 @@ fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
 problems(fishcounts)
 
-# view(fishcounts)
+glimpse(fishcounts)
+
+view(fishcounts)
 
 
 # Variable: Parkname -----------------------------------------------------------
@@ -31,7 +33,6 @@ ggplot(fishcounts, aes(x = ParkCode)) +
 
 fishcounts |> distinct(LocationID) |> 
   print(n = 109)
-
 
 # Variables PeriodID and EventID  ---------------------------
 
@@ -130,15 +131,8 @@ ggplot(f, aes(x = BatchWT_g)) +
 
 fishcounts |>
   filter(!is.na(tbl_FishCommSppIndiv_Comments)) |>
-  filter((LocationID == "BUFFRMFISHBM05")&(EventID == "BUFFRMFISH2006JUN12")) |>
-  select(LocationID, EventID, tbl_FishCommSppIndiv_Comments) |>
-  print(n = 1000)
-
-
-fishcounts |>
-  filter(!is.na(tbl_FishCommSppIndiv_Comments)) |>
   distinct(tbl_FishCommSppIndiv_Comments)  |>
-  print(n = 1000)
+  print(n = 304)
 
 # Taxonomic variables ----------------------------------------------------------
 
@@ -147,7 +141,7 @@ f <- fishcounts |>
   arrange(TaxonCode) |>
   print(n = 137)
 
-# view(f)
+view(f)
 
 # Variables: Tolerance code, ToleranceDescription ------------------------------
 
