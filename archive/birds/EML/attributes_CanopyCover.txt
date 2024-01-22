@@ -1,0 +1,8 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkUnit	park name	character				
+Plot	plot id	character				
+SubPlot	subplot number	character				
+EventDate	event date	Date		YYYY-MM-DD		
+CanopyType	conifer hardwood total	character				
+ReadingNumber	1 2 3 4 	character				
+DotScore	densiometer score	numeric	dimensionless			

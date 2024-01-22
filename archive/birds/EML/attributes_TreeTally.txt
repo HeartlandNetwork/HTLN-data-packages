@@ -1,0 +1,11 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkUnit	park name	character				
+Plot	plot id	character				
+SubPlot	subplot number	character				
+EventDate	event date	Date		YYYY-MM-DD		
+TaxonCode	tree taxon code	character				
+Family	tree family	character				
+CommonName	common name	character				
+ScientificName	scientific name	character				
+DBHClass	dbhclass	character				
+TreeCount	count	numeric	dimensionless			

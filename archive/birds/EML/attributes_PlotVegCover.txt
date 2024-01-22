@@ -1,0 +1,8 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkUnit	park name	character				
+Plot	plot id	character				
+EventDate	event date	Date		YYYY-MM-DD		
+VegType	habitat type	character				
+CovClass	cover class code	character				
+MidpointValue	midpoint	numeric	dimensionless			
+Range	range category	character				
