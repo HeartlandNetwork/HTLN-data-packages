@@ -1,0 +1,14 @@
+
+20231018 
+
+Need to include start and end dates from both SamplingPeriod and SamplingEvent tables.
+The values are different
+
+
+From Hope...
+
+We are finished with the HTLNAqVeg1.2.7  and the HTLNFish4.5.2 databases for FY23. 
+Check back with us on the HTLNInvert DB in February. We may still be processing 
+samples from BUFF 2023.
+
+

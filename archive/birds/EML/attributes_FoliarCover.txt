@@ -1,0 +1,9 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkUnit	park name	character				
+Plot	plot id	character				
+SubPlot	subplot number	character				
+EventDate	event date	Date		YYYY-MM-DD		
+FoliarCover	foliar cover type	character				
+CoverClassCode	code code	character				
+CoverClassMidPoint	midpoint	numeric	percent			
+CoverClassRange	description	character				

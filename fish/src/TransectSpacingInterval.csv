@@ -1,0 +1,491 @@
+ParkName,ParkCode,LocationID,PeriodID,EventID,ChannelType,ChannelTypeDescr,Season,ChannelTypeSampledLength_m,NumberOfTransects,TransectSpacingInterval_m
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY23,main,The channel that contains the majority of flow,2006,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2007May21,BUFFRMFish2007May22,main,The channel that contains the majority of flow,2007,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2007May21,BUFFRMFish2007May22,side channel,The channel that contains the lesser amount of flow,2007,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2008May19,BUFFRMFish2008May20,side channel,The channel that contains the lesser amount of flow,2008,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2008May19,BUFFRMFish2008May20,main,The channel that contains the majority of flow,2008,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2009May19,BUFFRMFish2009May27,side channel,The channel that contains the lesser amount of flow,2009,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2009May19,BUFFRMFish2009May27,main,The channel that contains the majority of flow,2009,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2010May17,BUFFRMFish2010May27,side channel,The channel that contains the lesser amount of flow,2010,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2010May17,BUFFRMFish2010May27,main,The channel that contains the majority of flow,2010,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2013May20,BUFFRMFish2013May29,side channel,The channel that contains the lesser amount of flow,2013,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2013May20,BUFFRMFish2013May29,main,The channel that contains the majority of flow,2013,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFrmfish2015May22,BUFFrmfish2015Jun05,Side channel,The channel that contains the lesser amount of flow,2015,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFrmfish2015May22,BUFFrmfish2015Jun05,Main,The channel that contains the majority of flow,2015,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2017May24,BUFFRMFISH2017May31,Side channel,The channel that contains the lesser amount of flow,2017,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2017May24,BUFFRMFISH2017May31,Main,The channel that contains the majority of flow,2017,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2019May22,BUFFRMFISH2019May23,side channel,The channel that contains the lesser amount of flow,2019,290,5,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2019May22,BUFFRMFISH2019May23,main,The channel that contains the majority of flow,2019,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2023May23,BUFFRMFISH2023May24,main,The channel that contains the majority of flow,2023,290,11,29
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2023May23,BUFFRMFISH2023May24,side channel,The channel that contains the lesser amount of flow,2023,290,6,29
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY30,main,The channel that contains the majority of flow,2006,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2007May21,BUFFRMFish2007May23,main,The channel that contains the majority of flow,2007,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2008May19,BUFFRMFish2008May22,main,The channel that contains the majority of flow,2008,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2009May19,BUFFRMFish2009May28,main,The channel that contains the majority of flow,2009,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2010May17,BUFFRMFish2010May26,main,The channel that contains the majority of flow,2010,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2013May20,BUFFRMFish2013May28,main,The channel that contains the majority of flow,2013,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFrmfish2015May22,BUFFrmfish2015Jun09,Main,The channel that contains the majority of flow,2015,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2017May24,BUFFRMFISH2017Jun01,Main,The channel that contains the majority of flow,2017,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2019May22,BUFFRMFISH2019Jun12,main,The channel that contains the majority of flow,2019,440,11,44
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN01,main,The channel that contains the majority of flow,2006,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2007May21,BUFFRMFish2007May30,main,The channel that contains the majority of flow,2007,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2008May19,BUFFRMFish2008Jun03,main,The channel that contains the majority of flow,2008,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2008May19,BUFFRMFish2008Jun03,backwater_main,Backwater habitat off of the main channel,2008,23,3,10
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2009May19,BUFFRMFish2009Jun03,main,The channel that contains the majority of flow,2009,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2010May17,BUFFRMFish2010Jun01,main,The channel that contains the majority of flow,2010,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2013May20,BUFFRMFish2013Jun19,main,The channel that contains the majority of flow,2013,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFrmfish2015May22,BUFFrmfish2015Jun30,backwater_main,Backwater habitat off of the main channel,2015,25,3,12.5
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFrmfish2015May22,BUFFrmfish2015Jun30,Main,The channel that contains the majority of flow,2015,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2017May24,BUFFRMFISH2017Jun02,Main,The channel that contains the majority of flow,2017,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2019May22,BUFFRMFISH2019Jun14,main,The channel that contains the majority of flow,2019,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2023May23,BUFFRMFISH2023May25,main,The channel that contains the majority of flow,2023,600,11,60
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN02,main,The channel that contains the majority of flow,2006,620,11,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2007May21,BUFFRMFish2007May31,main,The channel that contains the majority of flow,2007,620,11,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2008May19,BUFFRMFish2008Jun04,main,The channel that contains the majority of flow,2008,620,11,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2009May19,BUFFRMFish2009Jun08,main,The channel that contains the majority of flow,2009,620,11,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2010May17,BUFFRMFish2010Jun03,main,The channel that contains the majority of flow,2010,310,6,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2013May20,BUFFRMFish2013Jun17,main,The channel that contains the majority of flow,2013,620,10,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFrmfish2015May22,BUFFrmfish2015Jul01,Main,The channel that contains the majority of flow,2015,620,11,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2017May24,BUFFRMFISH2017Jun15,Main,The channel that contains the majority of flow,2017,620,11,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2019May22,BUFFRMFISH2019Jun19,main,The channel that contains the majority of flow,2019,620,9,62
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2023May23,BUFFRMFISH2023Jun01,main,The channel that contains the majority of flow,2023,620,9,62
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN12,main,The channel that contains the majority of flow,2006,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2007May21,BUFFRMFish2007Jun20,main,The channel that contains the majority of flow,2007,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2008May19,BUFFRMFish2008Jun05,main,The channel that contains the majority of flow,2008,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2009May19,BUFFRMFish2009Jun09,main,The channel that contains the majority of flow,2009,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2010May17,BUFFRMFish2010Jun02,main,The channel that contains the majority of flow,2010,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2013May20,BUFFRMFish2013Jun18,main,The channel that contains the majority of flow,2013,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2017May24,BUFFRMFISH2017Jun14,Main,The channel that contains the majority of flow,2017,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2017May24,BUFFRMFISH2017Jun14,Backwater_main,Backwater habitat off of the main channel,2017,62,3,31
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2019May22,BUFFRMFISH2019Jun18,main,The channel that contains the majority of flow,2019,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2023May23,BUFFRMFISH2023Jun07,main,The channel that contains the majority of flow,2023,560,11,56
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN05,main,The channel that contains the majority of flow,2006,726,11,73
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2007May21,BUFFRMFish2007Jun04,main,The channel that contains the majority of flow,2007,726,11,73
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2008May19,BUFFRMFish2008Jun18,main,The channel that contains the majority of flow,2008,726,11,72
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2009May19,BUFFRMFish2009Jun10,main,The channel that contains the majority of flow,2009,726,11,73
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2010May17,BUFFRMFish2010Jun09,main,The channel that contains the majority of flow,2010,726,11,72
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2013May20,BUFFRMFish2013Jun11,main,The channel that contains the majority of flow,2013,726,11,72.6
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2017May24,BUFFRMFISH2017Jun21,Main,The channel that contains the majority of flow,2017,726,11,72.6
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2019May22,BUFFRMFISH2019Jun20,main,The channel that contains the majority of flow,2019,726,11,72.6
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2023May23,BUFFRMFISH2023Jun14,main,The channel that contains the majority of flow,2023,726,11,72.6
+Buffalo National River,BUFF,BUFFRMFISHBT01,BUFFRMFISH2009May19,BUFFRMFish2009May19,main,The channel that contains the majority of flow,2009,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT03,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY22,main,The channel that contains the majority of flow,2006,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT04,BUFFRMFISH2008May19,BUFFRMFish2008May21,main,The channel that contains the majority of flow,2008,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFRMFISH2007May21,BUFFRMFish2007May21,main,The channel that contains the majority of flow,2007,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFrmfish2015May22,BUFFrmfish2015Jun03,Main,The channel that contains the majority of flow,2015,232,11,23
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFRMFISH2019May22,BUFFRMFISH2019Jun05,main,The channel that contains the majority of flow,2019,232,10,23
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFRMFISH2023May23,BUFFRMFISH2023Jun02,main,The channel that contains the majority of flow,2023,232,9,23
+Buffalo National River,BUFF,BUFFRMFISHBT06,BUFFRMFISH2009May19,BUFFRMFish2009May19,main,The channel that contains the majority of flow,2009,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2007May21,BUFFRMFish2007May25,main,The channel that contains the majority of flow,2007,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2013May20,BUFFRMFish2013May21,main,The channel that contains the majority of flow,2013,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFrmfish2015May22,BUFFrmfish2015May22,Main,The channel that contains the majority of flow,2015,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2017May24,BUFFRMFISH2017May24,Main,The channel that contains the majority of flow,2017,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2019May22,BUFFRMFISH2019May22,main,The channel that contains the majority of flow,2019,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2021May17,BUFFRMFISH2021May18,main,The channel that contains the majority of flow,2021,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2023May23,BUFFRMFISH2023May23,main,The channel that contains the majority of flow,2023,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT08,BUFFRMFISH2010May17,BUFFRMFish2010May17,main,The channel that contains the majority of flow,2010,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT09,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY30,main,The channel that contains the majority of flow,2006,260,11,26
+Buffalo National River,BUFF,BUFFRMFISHBT09,BUFFrmfish2015May22,BUFFrmfish2015Jun10,Main,The channel that contains the majority of flow,2015,260,11,26
+Buffalo National River,BUFF,BUFFRMFISHBT09,BUFFRMFISH2019May22,BUFFRMFISH2019Jun12,main,The channel that contains the majority of flow,2019,260,11,26
+Buffalo National River,BUFF,BUFFRMFISHBT10,BUFFRMFISH2009May19,BUFFRMFish2009May20,main,The channel that contains the majority of flow,2009,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT11,BUFFRMFISH2009May19,BUFFRMFish2009May20,main,The channel that contains the majority of flow,2009,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT12,BUFFRMFISH2007May21,BUFFRMFish2007May29,main,The channel that contains the majority of flow,2007,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT13,BUFFRMFISH2008May19,BUFFRMFish2008May23,main,The channel that contains the majority of flow,2008,220,11,22
+Buffalo National River,BUFF,BUFFRMFISHBT14,BUFFRMFISH2010May17,BUFFRMFish2010May18,main,The channel that contains the majority of flow,2010,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2008May19,BUFFRMFish2008May28,main,The channel that contains the majority of flow,2008,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2012May21,BUFFRMFish2012May22,main,The channel that contains the majority of flow,2012,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2013May20,BUFFRMFish2013May20,main,The channel that contains the majority of flow,2013,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFrmfish2015May22,BUFFrmfish2015May28,Main,The channel that contains the majority of flow,2015,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2017May24,BUFFRMFISH2017May24,Main,The channel that contains the majority of flow,2017,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2019May22,BUFFRMFISH2019Jun06,main,The channel that contains the majority of flow,2019,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2021May17,BUFFRMFISH2021May17,main,The channel that contains the majority of flow,2021,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2023May23,BUFFRMFISH2023May26,main,The channel that contains the majority of flow,2023,200,11,20
+Buffalo National River,BUFF,BUFFRMFISHBT16,BUFFRMFISH2008May19,BUFFRMFish2008May27,main,The channel that contains the majority of flow,2008,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT17,BUFFRMFISH2010May17,BUFFRMFish2010Jun23,main,The channel that contains the majority of flow,2010,460,11,46
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2008May19,BUFFRMFish2008May19,main,The channel that contains the majority of flow,2008,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2013May20,BUFFRMFish2013Jun06,main,The channel that contains the majority of flow,2013,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFrmfish2015May22,BUFFrmfish2015May29,Main,The channel that contains the majority of flow,2015,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2017May24,BUFFRMFISH2017May25,Main,The channel that contains the majority of flow,2017,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2019May22,BUFFRMFISH2019May24,main,The channel that contains the majority of flow,2019,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2021May17,BUFFRMFISH2021Jun09,main,The channel that contains the majority of flow,2021,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2023May23,BUFFRMFISH2023May30,main,The channel that contains the majority of flow,2023,165,11,16.5
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2009May19,BUFFRMFish2009May21,main,The channel that contains the majority of flow,2009,500,11,50
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2012May21,BUFFRMFish2012May22,main,The channel that contains the majority of flow,2012,500,11,50
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2013May20,BUFFRMFish2013Jun10,main,The channel that contains the majority of flow,2013,450,11,45
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFrmfish2015May22,BUFFrmfish2015Jun15,Main,The channel that contains the majority of flow,2015,500,11,50
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2017May24,BUFFRMFISH2017May30,Main,The channel that contains the majority of flow,2017,450,11,45
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2019May22,BUFFRMFISH2019May28,main,The channel that contains the majority of flow,2019,450,11,45
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2021May17,BUFFRMFISH2021Jun16,main,The channel that contains the majority of flow,2021,450,11,45
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2023May23,BUFFRMFISH2023May31,main,The channel that contains the majority of flow,2023,450,11,45
+Buffalo National River,BUFF,BUFFRMFISHBT21,BUFFRMFISH2007May21,BUFFRMFish2007Jun01,main,The channel that contains the majority of flow,2007,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT22,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY25,main,The channel that contains the majority of flow,2006,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFRMFISH2009May19,BUFFRMFish2009May26,main,The channel that contains the majority of flow,2009,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFrmfish2015May22,BUFFrmfish2015Jun04,Main,The channel that contains the majority of flow,2015,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFRMFISH2019May22,BUFFRMFISH2019Jun17,main,The channel that contains the majority of flow,2019,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFRMFISH2023May23,BUFFRMFISH2023Jun06,main,The channel that contains the majority of flow,2023,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT24,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY24,main,The channel that contains the majority of flow,2006,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT25,BUFFRMFISH2007May21,BUFFRMFish2007Jun06,main,The channel that contains the majority of flow,2007,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2010May17,BUFFRMFish2010Jun08,main,The channel that contains the majority of flow,2010,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2012May21,BUFFRMFish2012May21,main,The channel that contains the majority of flow,2012,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2013May20,BUFFRMFish2013May20,main,The channel that contains the majority of flow,2013,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2017May24,BUFFRMFISH2017Jun13,Main,The channel that contains the majority of flow,2017,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2021May17,BUFFRMFISH2021May24,main,The channel that contains the majority of flow,2021,180,11,18
+Buffalo National River,BUFF,BUFFRMFISHBT28,BUFFRMFISH2008May19,BUFFRMFish2008Jun18,main,The channel that contains the majority of flow,2008,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT29,BUFFRMFISH2010May17,BUFFRMFish2010Jun10,main,The channel that contains the majority of flow,2010,370,11,36
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN06,main,The channel that contains the majority of flow,2006,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2013May20,BUFFRMFish2013Jun12,main,The channel that contains the majority of flow,2013,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2017May24,BUFFRMFISH2017Jun22,Main,The channel that contains the majority of flow,2017,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2021May17,BUFFRMFISH2021Jun10,main,The channel that contains the majority of flow,2021,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN06,main,The channel that contains the majority of flow,2006,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2013May20,BUFFRMFish2013Jun12,main,The channel that contains the majority of flow,2013,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2017May24,BUFFRMFISH2017Jun22,Main,The channel that contains the majority of flow,2017,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2021May17,BUFFRMFISH2021Jun11,main,The channel that contains the majority of flow,2021,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT32,BUFFRMFISH2010May17,BUFFRMFish2010Jun11,main,The channel that contains the majority of flow,2010,150,11,15
+Buffalo National River,BUFF,BUFFRMFISHBT33,BUFFRMFISH2007May21,BUFFRMFish2007Jun05,main,The channel that contains the majority of flow,2007,150,11,15
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2008Jul09,EFMOStfish2008Jul09,main,The channel that contains the majority of flow,2008,150,11,15
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2014Aug13,EFMOStfish2014Aug13,main,The channel that contains the majority of flow,2014,150,11,15
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2017July18,EFMOStfish2017Jul18,Main,The channel that contains the majority of flow,2017,150,11,15
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2023Jul19,EFMOStfish2023Jul19,main,The channel that contains the majority of flow,2023,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2006Jun28,GWCAStfish2006Jun28,main,The channel that contains the majority of flow,2006,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2007May02,GWCAStfish2007May02,main,The channel that contains the majority of flow,2007,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2010May05,GWCAStfish2010May05,main,The channel that contains the majority of flow,2010,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2013May01,GWCAStfish2013May01,main,The channel that contains the majority of flow,2013,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2016May02,GWCAStfish2016May02,Main,The channel that contains the majority of flow,2016,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2019May06,GWCAStfish2019May06,main,The channel that contains the majority of flow,2019,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2022May02,GWCAStfish2022May03,main,The channel that contains the majority of flow,2022,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2006Jun28,GWCAStfish2006Jun28,main,The channel that contains the majority of flow,2006,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2007May02,GWCAStfish2007May02,main,The channel that contains the majority of flow,2007,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2010May05,GWCAStfish2010May05,main,The channel that contains the majority of flow,2010,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2013May01,GWCAStfish2013May01,main,The channel that contains the majority of flow,2013,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2016May02,GWCAStfish2016May02,Main,The channel that contains the majority of flow,2016,105,8,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2019May06,GWCAStfish2019May06,main,The channel that contains the majority of flow,2019,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2022May02,GWCAStfish2022May09,main,The channel that contains the majority of flow,2022,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2006Jun28,GWCAStfish2006Jun28,main,The channel that contains the majority of flow,2006,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2007May02,GWCAStfish2007May02,main,The channel that contains the majority of flow,2007,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2010May05,GWCAStfish2010May05,main,The channel that contains the majority of flow,2010,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2013May01,GWCAStfish2013May01,main,The channel that contains the majority of flow,2013,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2016May02,GWCAStfish2016May02,Main,The channel that contains the majority of flow,2016,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2019May06,GWCAStfish2019May06,main,The channel that contains the majority of flow,2019,150,11,15
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2022May02,GWCAStfish2022May03,main,The channel that contains the majority of flow,2022,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2008Jul08,HEHOStfish2008Jul08,main,The channel that contains the majority of flow,2008,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2011Jul11,HEHOStfish2011Jul11,main,The channel that contains the majority of flow,2011,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2014Aug12,HEHOStfish2014Aug12,main,The channel that contains the majority of flow,2014,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2017July18,HEHOStfish2017Jul18,Main,The channel that contains the majority of flow,2017,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2021Jul26,HEHOStfish2021Jul26,main,The channel that contains the majority of flow,2021,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2022Jul05,HEHOStfish2022Jul05,main,The channel that contains the majority of flow,2022,150,11,15
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2023Jul17,HEHOStfish2023Jul17,main,The channel that contains the majority of flow,2023,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2009Jun16,HOSPStfish2009Jun16,main,The channel that contains the majority of flow,2009,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2012Jul10,HOSPStfish2012Jul10,main,The channel that contains the majority of flow,2012,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2015Jul07,HOSPStfish2015Jul07,Main,The channel that contains the majority of flow,2015,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2018Jul09,HOSPStfish2018Jul09,main,The channel that contains the majority of flow,2018,150,10,15
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2009Jun16,HOSPStfish2009Jun16,main,The channel that contains the majority of flow,2009,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2012Jul10,HOSPStfish2012Jul10,main,The channel that contains the majority of flow,2012,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2015Jul07,HOSPStfish2015Jul07,Main,The channel that contains the majority of flow,2015,150,11,15
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2018Jul09,HOSPStfish2018Jul10,main,The channel that contains the majority of flow,2018,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2006OCT02,OZARRMFISH2006OCT04,main,The channel that contains the majority of flow,2006,342,11,34.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2007Oct01,OZARRMFish2007Oct18,main,The channel that contains the majority of flow,2007,342,11,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2008Oct06,OZARRMFish2008Oct09,main,The channel that contains the majority of flow,2008,342,11,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2009Oct05,OZARRMFish2009Oct06,main,The channel that contains the majority of flow,2009,342,11,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2012Sep24,OZARRMFish2012Sep24,main,The channel that contains the majority of flow,2012,342,11,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2014Sep22,OZARRMFish2014Sep23,main,The channel that contains the majority of flow,2014,342,11,34.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFish2016Sep19,OZARRMFish2016Sep19,Main,The channel that contains the majority of flow,2016,342,11,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2018Sep18,OZARRMFISH2018Sep19,main,The channel that contains the majority of flow,2018,342,10,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2022Aug29,OZARRMFISH2022Aug29,main,The channel that contains the majority of flow,2022,342,10,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2006OCT02,OZARRMFISH2006OCT20,main,The channel that contains the majority of flow,2006,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2006OCT02,OZARRMFISH2006OCT20,backwater_main,Backwater habitat off of the main channel,2006,,3,
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2007Oct01,OZARRMFish2007Oct10,backwater_main,Backwater habitat off of the main channel,2007,50,3,16
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2007Oct01,OZARRMFish2007Oct10,main,The channel that contains the majority of flow,2007,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2008Oct06,OZARRMFish2008Oct16,backwater_main,Backwater habitat off of the main channel,2008,50,3,25
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2008Oct06,OZARRMFish2008Oct16,main,The channel that contains the majority of flow,2008,500,10,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2009Oct05,OZARRMFish2009Oct07,main,The channel that contains the majority of flow,2009,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2009Oct05,OZARRMFish2009Oct07,backwater_main,Backwater habitat off of the main channel,2009,42,3,21
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2012Sep24,OZARRMFish2012Sep27,backwater_main,Backwater habitat off of the main channel,2012,,2,
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2012Sep24,OZARRMFish2012Sep27,main,The channel that contains the majority of flow,2012,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2014Sep22,OZARRMFish2014Sep24,main,The channel that contains the majority of flow,2014,500,10,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFish2016Sep19,OZARRMFish2016Sep28,Main,The channel that contains the majority of flow,2016,450,11,45
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFish2016Sep19,OZARRMFish2016Sep28,Backwater_main,Backwater habitat off of the main channel,2016,40,3,20
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2018Sep18,OZARRMFISH2018Sep26,main,The channel that contains the majority of flow,2018,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2022Aug29,OZARRMFISH2022Aug30,main,The channel that contains the majority of flow,2022,350,11,35
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2022Aug29,OZARRMFISH2022Aug30,backwater_main,Backwater habitat off of the main channel,2022,57,3,23.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2006OCT02,OZARRMFISH2006OCT19,main,The channel that contains the majority of flow,2006,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2006OCT02,OZARRMFISH2006OCT19,backwater_main,Backwater habitat off of the main channel,2006,76,3,37.9
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2007Oct01,OZARRMFish2007Oct10,main,The channel that contains the majority of flow,2007,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2007Oct01,OZARRMFish2007Oct10,backwater_main,Backwater habitat off of the main channel,2007,57,3,28.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2008Oct06,OZARRMFish2008Oct17,main,The channel that contains the majority of flow,2008,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2008Oct06,OZARRMFish2008Oct17,backwater_main,Backwater habitat off of the main channel,2008,44,3,22
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2009Oct05,OZARRMFish2009Oct08,main,The channel that contains the majority of flow,2009,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2012Sep24,OZARRMFish2012Sep26,main,The channel that contains the majority of flow,2012,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2014Sep22,OZARRMFish2014Sep25,backwater_main,Backwater habitat off of the main channel,2014,184,3,61.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2014Sep22,OZARRMFish2014Sep25,main,The channel that contains the majority of flow,2014,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFish2016Sep19,OZARRMFish2016Sep29,Main,The channel that contains the majority of flow,2016,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFish2016Sep19,OZARRMFish2016Sep29,Backwater_main,Backwater habitat off of the main channel,2016,40,3,20
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2018Sep18,OZARRMFISH2018Sep27,main,The channel that contains the majority of flow,2018,660,11,66
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep06,side channel,The channel that contains the lesser amount of flow,2022,640,11,64
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep06,main,The channel that contains the majority of flow,2022,640,11,64
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2006OCT02,OZARRMFISH2006OCT25,side channel,The channel that contains the lesser amount of flow,2006,702,8,70.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2006OCT02,OZARRMFISH2006OCT25,main,The channel that contains the majority of flow,2006,702,11,70.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2006OCT02,OZARRMFISH2006OCT25,backwater_side,Backwater habitat off of the side channel,2006,55,3,27.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2006OCT02,OZARRMFISH2006OCT25,backwater_main,Backwater habitat off of the main channel,2006,41,3,20.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2007Oct01,OZARRMFish2007Oct12,main,The channel that contains the majority of flow,2007,702,11,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2007Oct01,OZARRMFish2007Oct12,side channel,The channel that contains the lesser amount of flow,2007,702,8,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2007Oct01,OZARRMFish2007Oct12,backwater_side,Backwater habitat off of the side channel,2007,40,3,20
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2007Oct01,OZARRMFish2007Oct12,backwater_main,Backwater habitat off of the main channel,2007,28,3,14
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2008Oct06,OZARRMFish2008Oct27,side channel,The channel that contains the lesser amount of flow,2008,702,8,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2008Oct06,OZARRMFish2008Oct27,main,The channel that contains the majority of flow,2008,702,11,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2008Oct06,OZARRMFish2008Oct27,backwater_side,Backwater habitat off of the side channel,2008,79,3,39.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2008Oct06,OZARRMFish2008Oct27,backwater_main,Backwater habitat off of the main channel,2008,30,3,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,backwater_main,Backwater habitat off of the main channel,2009,86,3,43
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,backwater_side,Backwater habitat off of the side channel,2009,69,3,34
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,main,The channel that contains the majority of flow,2009,702,11,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,side channel,The channel that contains the lesser amount of flow,2009,702,6,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2012Sep24,OZARRMFish2012Oct09,side channel,The channel that contains the lesser amount of flow,2012,700,8,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2012Sep24,OZARRMFish2012Oct09,backwater_main,Backwater habitat off of the main channel,2012,15,3,7
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2012Sep24,OZARRMFish2012Oct09,main,The channel that contains the majority of flow,2012,702,11,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2012Sep24,OZARRMFish2012Oct09,backwater_side,Backwater habitat off of the side channel,2012,72,3,36
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2014Sep22,OZARRMFish2014Oct09,backwater_side,Backwater habitat off of the side channel,2014,30,3,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2014Sep22,OZARRMFish2014Oct09,main,The channel that contains the majority of flow,2014,702,11,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2014Sep22,OZARRMFish2014Oct09,backwater_main,Backwater habitat off of the main channel,2014,90,3,45
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2014Sep22,OZARRMFish2014Oct09,side channel,The channel that contains the lesser amount of flow,2014,702,9,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFish2016Sep19,OZARRMFish2016Oct05,Side channel,The channel that contains the lesser amount of flow,2016,702,8,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFish2016Sep19,OZARRMFish2016Oct05,Main,The channel that contains the majority of flow,2016,702,11,70
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFish2016Sep19,OZARRMFish2016Oct05,Backwater_side,Backwater habitat off of the side channel,2016,,3,
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFish2016Sep19,OZARRMFish2016Oct05,Backwater_main,Backwater habitat off of the main channel,2016,25,3,12.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2018Sep18,OZARRMFISH2018Oct09,side channel,The channel that contains the lesser amount of flow,2018,702,9,70.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2018Sep18,OZARRMFISH2018Oct09,main,The channel that contains the majority of flow,2018,702,11,70.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2018Sep18,OZARRMFISH2018Oct09,backwater_side,Backwater habitat off of the side channel,2018,38,3,19
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2018Sep18,OZARRMFISH2018Oct09,backwater_main,Backwater habitat off of the main channel,2018,32,3,16
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2022Aug29,OZARRMFISH2022Sep09,side channel,The channel that contains the lesser amount of flow,2022,702,5,70.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2022Aug29,OZARRMFISH2022Sep09,backwater_main,Backwater habitat off of the main channel,2022,87,3,43.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2022Aug29,OZARRMFISH2022Sep09,main,The channel that contains the majority of flow,2022,702,11,70.2
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2006OCT02,OZARRMFISH2006OCT23,main,The channel that contains the majority of flow,2006,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2007Oct01,OZARRMFish2007Oct16,backwater_main,Backwater habitat off of the main channel,2007,52,3,25
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2007Oct01,OZARRMFish2007Oct16,main,The channel that contains the majority of flow,2007,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2008Oct06,OZARRMFish2008Oct15,main,The channel that contains the majority of flow,2008,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2008Oct06,OZARRMFish2008Oct15,backwater_main,Backwater habitat off of the main channel,2008,44,3,22
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2009Oct05,OZARRMFish2009Oct20,main,The channel that contains the majority of flow,2009,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2009Oct05,OZARRMFish2009Oct20,backwater_main,Backwater habitat off of the main channel,2009,51,3,25
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2012Sep24,OZARRMFish2012Oct10,main,The channel that contains the majority of flow,2012,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2012Sep24,OZARRMFish2012Oct10,backwater_main,Backwater habitat off of the main channel,2012,120,3,60
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2014Sep22,OZARRMFish2014Oct08,backwater_main,Backwater habitat off of the main channel,2014,36,3,18
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2014Sep22,OZARRMFish2014Oct08,main,The channel that contains the majority of flow,2014,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFish2016Sep19,OZARRMFish2016Oct06,Main,The channel that contains the majority of flow,2016,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFish2016Sep19,OZARRMFish2016Oct06,Backwater_main,Backwater habitat off of the main channel,2016,40,3,20
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2018Sep18,OZARRMFISH2018Oct10,main,The channel that contains the majority of flow,2018,1000,10,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2018Sep18,OZARRMFISH2018Oct10,backwater_main,Backwater habitat off of the main channel,2018,125,3,62
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2022Aug29,OZARRMFISH2022Sep12,main,The channel that contains the majority of flow,2022,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2006OCT02,OZARRMFISH2006OCT24,backwater_main,Backwater habitat off of the main channel,2006,189,6,38
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2006OCT02,OZARRMFISH2006OCT24,main,The channel that contains the majority of flow,2006,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2007Oct01,OZARRMFish2007Oct17,main,The channel that contains the majority of flow,2007,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2007Oct01,OZARRMFish2007Oct17,backwater_main,Backwater habitat off of the main channel,2007,67,6,13
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2008Oct06,OZARRMFish2008Oct29,backwater_main,Backwater habitat off of the main channel,2008,18,1,9
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2008Oct06,OZARRMFish2008Oct29,main,The channel that contains the majority of flow,2008,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2009Oct05,OZARRMFish2009Oct21,main,The channel that contains the majority of flow,2009,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2009Oct05,OZARRMFish2009Oct21,backwater_main,Backwater habitat off of the main channel,2009,124,3,62
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2012Sep24,OZARRMFish2012Oct11,main,The channel that contains the majority of flow,2012,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2012Sep24,OZARRMFish2012Oct11,backwater_main,Backwater habitat off of the main channel,2012,103,3,51.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2014Sep22,OZARRMFish2014Oct16,main,The channel that contains the majority of flow,2014,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2014Sep22,OZARRMFish2014Oct16,backwater_main,Backwater habitat off of the main channel,2014,223,6,45
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFish2016Sep19,OZARRMFish2016Oct12,Main,The channel that contains the majority of flow,2016,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFish2016Sep19,OZARRMFish2016Oct12,backwater_main,Backwater habitat off of the main channel,2016,90,6,18
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2018Sep18,OZARRMFISH2018Oct11,backwater_main,Backwater habitat off of the main channel,2018,347,6,69
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2018Sep18,OZARRMFISH2018Oct11,main,The channel that contains the majority of flow,2018,1000,11,100
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT01,OZARRMFISH2009Oct05,OZARRMFish2009Oct05,main,The channel that contains the majority of flow,2009,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT02,OZARRMFISH2007Oct01,OZARRMFish2007Oct09,main,The channel that contains the majority of flow,2007,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT03,OZARRMFISH2009Oct05,OZARRMFish2009Oct16,main,The channel that contains the majority of flow,2009,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT04,OZARRMFISH2010Oct05,OZARRMFish2010Oct06,main,The channel that contains the majority of flow,2010,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,OZARRMFISH2010Oct05,OZARRMFish2010Oct06,main,The channel that contains the majority of flow,2010,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,OZARRMFISH2012Sep24,OZARRMFish2012Oct18,main,The channel that contains the majority of flow,2012,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,OZARRMFish2016Sep19,OZARRMFish2016Oct04,Main,The channel that contains the majority of flow,2016,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT07,OZARRMFISH2008Oct06,OZARRMFish2008Oct06,main,The channel that contains the majority of flow,2008,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2006OCT02,OZARRMFISH2006OCT03,main,The channel that contains the majority of flow,2006,348,11,34.8
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2014Sep22,OZARRMFish2014Sep22,main,The channel that contains the majority of flow,2014,348,11,34.8
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2018Sep18,OZARRMFISH2018Sep18,main,The channel that contains the majority of flow,2018,348,11,35
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2022Aug29,OZARRMFISH2022Sep02,main,The channel that contains the majority of flow,2022,348,11,34.8
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT09,OZARRMFISH2008Oct06,OZARRMFish2008Oct15,main,The channel that contains the majority of flow,2008,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT11,OZARRMFISH2007Oct01,OZARRMFish2007Oct05,main,The channel that contains the majority of flow,2007,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT12,OZARRMFISH2010Oct05,OZARRMFish2010Oct05,main,The channel that contains the majority of flow,2010,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT13,OZARRMFISH2006OCT02,OZARRMFISH2006OCT02,main,The channel that contains the majority of flow,2006,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2012Sep24,OZARRMFish2012Sep25,backwater_main,Backwater habitat off of the main channel,2012,91,3,45.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2012Sep24,OZARRMFish2012Sep25,main,The channel that contains the majority of flow,2012,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2014Sep22,OZARRMFish2014Sep25,backwater_main,Backwater habitat off of the main channel,2014,81,3,40.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2014Sep22,OZARRMFish2014Sep25,main,The channel that contains the majority of flow,2014,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFish2016Sep19,OZARRMFish2016Sep20,Main,The channel that contains the majority of flow,2016,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFish2016Sep19,OZARRMFish2016Sep20,Backwater_main,Backwater habitat off of the main channel,2016,100,3,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2018Sep18,OZARRMFISH2018Sep21,backwater_main,Backwater habitat off of the main channel,2018,100,3,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2018Sep18,OZARRMFISH2018Sep21,main,The channel that contains the majority of flow,2018,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2022Aug29,OZARRMFISH2022Sep08,main,The channel that contains the majority of flow,2022,500,11,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2022Aug29,OZARRMFISH2022Sep08,backwater_main,Backwater habitat off of the main channel,2022,100,3,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT15,OZARRMFISH2012Sep24,OZARRMFish2012Sep24,main,The channel that contains the majority of flow,2012,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT15,OZARRMFish2016Sep19,OZARRMFish2016Sep19,Main,The channel that contains the majority of flow,2016,150,8,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT15,OZARRMFish2016Sep19,OZARRMFish2016Sep19,backwater_main,Backwater habitat off of the main channel,2016,80,3,40
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,OZARRMFISH2014Sep22,OZARRMFish2014Oct07,main,The channel that contains the majority of flow,2014,310,11,31
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,OZARRMFISH2018Sep18,OZARRMFISH2018Oct03,main,The channel that contains the majority of flow,2018,290,11,29
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,OZARRMFISH2022Aug29,OZARRMFISH2022Sep22,main,The channel that contains the majority of flow,2022,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2006OCT02,OZARRMFISH2006OCT18,main,The channel that contains the majority of flow,2006,400,11,40
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2007Oct01,OZARRMFish2007Oct04,main,The channel that contains the majority of flow,2007,360,10,40
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2008Oct06,OZARRMFish2008Oct08,main,The channel that contains the majority of flow,2008,360,9,36
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2009Oct05,OZARRMFish2009Oct14,main,The channel that contains the majority of flow,2009,360,11,36
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2012Sep24,OZARRMFish2012Oct02,main,The channel that contains the majority of flow,2012,360,11,36
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2014Sep22,OZARRMFish2014Oct02,main,The channel that contains the majority of flow,2014,360,9,36
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFish2016Sep19,OZARRMFish2016Sep27,Main,The channel that contains the majority of flow,2016,290,11,29
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2018Sep18,OZARRMFISH2018Sep25,main,The channel that contains the majority of flow,2018,360,10,36
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2022Aug29,OZARRMFISH2022Aug31,main,The channel that contains the majority of flow,2022,290,11,29
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2006OCT02,OZARRMFISH2006OCT19,main,The channel that contains the majority of flow,2006,286,11,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2006OCT02,OZARRMFISH2006OCT19,backwater_main,Backwater habitat off of the main channel,2006,79,6,15.8
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2007Oct01,OZARRMFish2007Oct02,main,The channel that contains the majority of flow,2007,286,8,50
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2007Oct01,OZARRMFish2007Oct02,backwater_main,Backwater habitat off of the main channel,2007,31,3,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2008Oct06,OZARRMFish2008Oct10,main,The channel that contains the majority of flow,2008,286,11,28
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2008Oct06,OZARRMFish2008Oct10,backwater_main,Backwater habitat off of the main channel,2008,67,3,33.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2009Oct05,OZARRMFish2009Oct14,main,The channel that contains the majority of flow,2009,286,11,28
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2009Oct05,OZARRMFish2009Oct14,backwater_main,Backwater habitat off of the main channel,2009,46,3,23
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2012Sep24,OZARRMFish2012Oct01,main,The channel that contains the majority of flow,2012,286,11,28
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2012Sep24,OZARRMFish2012Oct01,backwater_main,Backwater habitat off of the main channel,2012,77,3,38.3
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2014Sep22,OZARRMFish2014Oct03,main,The channel that contains the majority of flow,2014,286,11,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2014Sep22,OZARRMFish2014Oct03,side channel,The channel that contains the lesser amount of flow,2014,286,6,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFish2016Sep19,OZARRMFish2016Sep27,Side channel,The channel that contains the lesser amount of flow,2016,286,5,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFish2016Sep19,OZARRMFish2016Sep27,Main,The channel that contains the majority of flow,2016,286,11,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2018Sep18,OZARRMFISH2018Sep28,side channel,The channel that contains the lesser amount of flow,2018,286,5,28
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2018Sep18,OZARRMFISH2018Sep28,main,The channel that contains the majority of flow,2018,286,11,28
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2022Aug29,OZARRMFISH2022Sep01,main,The channel that contains the majority of flow,2022,286,11,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2022Aug29,OZARRMFISH2022Sep01,side channel,The channel that contains the lesser amount of flow,2022,286,5,28.6
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2006OCT02,OZARRMFISH2006OCT05,main,The channel that contains the majority of flow,2006,385,11,38.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2007Oct01,OZARRMFish2007Oct03,main,The channel that contains the majority of flow,2007,342,10,38.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2008Oct06,OZARRMFish2008Oct07,main,The channel that contains the majority of flow,2008,385,11,38.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,main,The channel that contains the majority of flow,2009,385,11,38
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2012Sep24,OZARRMFish2012Oct03,main,The channel that contains the majority of flow,2012,385,11,38.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2014Sep22,OZARRMFish2014Oct01,main,The channel that contains the majority of flow,2014,385,9,38.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFish2016Sep19,OZARRMFish2016Sep22,Main,The channel that contains the majority of flow,2016,320,11,32
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2018Sep18,OZARRMFISH2018Sep20,main,The channel that contains the majority of flow,2018,385,10,38.5
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep07,main,The channel that contains the majority of flow,2022,213,10,21.3
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT01,OZARRMFISH2006OCT02,OZARRMFISH2006OCT06,main,The channel that contains the majority of flow,2006,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT02,OZARRMFISH2007Oct01,OZARRMFish2007Oct01,main,The channel that contains the majority of flow,2007,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2009Oct05,OZARRMFish2009Oct13,main,The channel that contains the majority of flow,2009,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2012Sep24,OZARRMFish2012Oct02,main,The channel that contains the majority of flow,2012,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2014Sep22,OZARRMFish2014Oct02,main,The channel that contains the majority of flow,2014,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFish2016Sep19,OZARRMFish2016Sep21,Main,The channel that contains the majority of flow,2016,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2018Sep18,OZARRMFISH2018Oct02,main,The channel that contains the majority of flow,2018,150,11,15
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep13,main,The channel that contains the majority of flow,2022,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul24,main,The channel that contains the majority of flow,2007,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul24,main,The channel that contains the majority of flow,2008,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2009Aug25,OZRSSPRNGS2009Aug25,main,The channel that contains the majority of flow,2009,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul26,main,The channel that contains the majority of flow,2010,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul28,main,The channel that contains the majority of flow,2011,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul24,main,The channel that contains the majority of flow,2012,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Jul29,main,The channel that contains the majority of flow,2013,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul30,main,The channel that contains the majority of flow,2014,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul27,main,The channel that contains the majority of flow,2015,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul29,main,The channel that contains the majority of flow,2015,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul25,main,The channel that contains the majority of flow,2016,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul25,main,The channel that contains the majority of flow,2017,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul25,main,The channel that contains the majority of flow,2018,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSprngs2019Jul29,OZRSSprngs2019Jul29,main,The channel that contains the majority of flow,2019,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,OZRSSprngs2022Jul27,OZRSSprngs2022Jul27,main,The channel that contains the majority of flow,2022,190,11,19
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul30,main,The channel that contains the majority of flow,2007,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul24,main,The channel that contains the majority of flow,2008,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul27,main,The channel that contains the majority of flow,2009,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul26,main,The channel that contains the majority of flow,2010,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul28,main,The channel that contains the majority of flow,2011,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul26,main,The channel that contains the majority of flow,2012,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Sep16,main,The channel that contains the majority of flow,2013,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul31,main,The channel that contains the majority of flow,2014,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul28,main,The channel that contains the majority of flow,2015,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul28,main,The channel that contains the majority of flow,2016,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul27,main,The channel that contains the majority of flow,2017,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul23,main,The channel that contains the majority of flow,2018,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSprngs2019Jul29,OZRSSprngs2019Jul30,main,The channel that contains the majority of flow,2019,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSprngs2020Jul29,OZRSSprngs2020Aug03,main,The channel that contains the majority of flow,2020,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,OZRSSprngs2021Aug03,OZRSSprngs2021Aug05,main,The channel that contains the majority of flow,2021,460,11,46
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Aug01,main,The channel that contains the majority of flow,2007,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul22,main,The channel that contains the majority of flow,2008,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul29,main,The channel that contains the majority of flow,2009,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul29,main,The channel that contains the majority of flow,2010,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul25,main,The channel that contains the majority of flow,2011,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul23,main,The channel that contains the majority of flow,2012,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Aug30,main,The channel that contains the majority of flow,2013,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul28,main,The channel that contains the majority of flow,2014,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul27,main,The channel that contains the majority of flow,2015,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul28,main,The channel that contains the majority of flow,2016,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul24,main,The channel that contains the majority of flow,2017,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul25,main,The channel that contains the majority of flow,2018,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSprngs2019Jul29,OZRSSprngs2019Jul31,main,The channel that contains the majority of flow,2019,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSprngs2020Jul29,OZRSSprngs2020Jul29,main,The channel that contains the majority of flow,2020,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,OZRSSprngs2023Aug01,OZRSSprngs2023Aug02,main,The channel that contains the majority of flow,2023,160,11,16
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul25,main,The channel that contains the majority of flow,2007,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul23,main,The channel that contains the majority of flow,2008,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul28,main,The channel that contains the majority of flow,2009,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul29,main,The channel that contains the majority of flow,2010,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul27,main,The channel that contains the majority of flow,2011,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul25,main,The channel that contains the majority of flow,2012,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Sep13,main,The channel that contains the majority of flow,2013,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul30,main,The channel that contains the majority of flow,2014,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Aug06,main,The channel that contains the majority of flow,2015,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul27,main,The channel that contains the majority of flow,2016,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul26,main,The channel that contains the majority of flow,2017,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul24,main,The channel that contains the majority of flow,2018,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSprngs2019Jul29,OZRSSprngs2019Jul31,main,The channel that contains the majority of flow,2019,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,OZRSSprngs2021Aug03,OZRSSprngs2021Aug03,main,The channel that contains the majority of flow,2021,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul31,main,The channel that contains the majority of flow,2007,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul21,main,The channel that contains the majority of flow,2008,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul30,main,The channel that contains the majority of flow,2009,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul28,main,The channel that contains the majority of flow,2010,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul26,main,The channel that contains the majority of flow,2011,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul24,main,The channel that contains the majority of flow,2012,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Jul29,main,The channel that contains the majority of flow,2013,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul29,main,The channel that contains the majority of flow,2014,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul29,main,The channel that contains the majority of flow,2015,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul27,main,The channel that contains the majority of flow,2016,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul24,main,The channel that contains the majority of flow,2017,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul26,main,The channel that contains the majority of flow,2018,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSprngs2019Jul29,OZRSSprngs2019Jul31,main,The channel that contains the majority of flow,2019,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSprngs2020Jul29,OZRSSprngs2020Jul29,main,The channel that contains the majority of flow,2020,240,11,24
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,OZRSSprngs2023Aug01,OZRSSprngs2023Aug01,main,The channel that contains the majority of flow,2023,300,11,30
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul23,main,The channel that contains the majority of flow,2007,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul25,main,The channel that contains the majority of flow,2008,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul30,main,The channel that contains the majority of flow,2009,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul28,main,The channel that contains the majority of flow,2010,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul28,main,The channel that contains the majority of flow,2011,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul24,main,The channel that contains the majority of flow,2012,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Sep04,main,The channel that contains the majority of flow,2013,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul30,main,The channel that contains the majority of flow,2014,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Aug06,main,The channel that contains the majority of flow,2015,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul27,main,The channel that contains the majority of flow,2016,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul25,main,The channel that contains the majority of flow,2017,50,3,25
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul24,main,The channel that contains the majority of flow,2018,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSprngs2019Jul29,OZRSSprngs2019Sep05,main,The channel that contains the majority of flow,2019,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,OZRSSprngs2022Jul27,OZRSSprngs2022Aug03,main,The channel that contains the majority of flow,2022,36,3,18
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul29,main,The channel that contains the majority of flow,2011,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul26,main,The channel that contains the majority of flow,2012,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Aug16,main,The channel that contains the majority of flow,2013,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul31,main,The channel that contains the majority of flow,2014,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul28,main,The channel that contains the majority of flow,2015,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul25,main,The channel that contains the majority of flow,2016,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul27,main,The channel that contains the majority of flow,2017,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul23,main,The channel that contains the majority of flow,2018,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSprngs2019Jul29,OZRSSprngs2019Jul29,main,The channel that contains the majority of flow,2019,150,11,15
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,OZRSSprngs2022Jul27,OZRSSprngs2022Jul28,main,The channel that contains the majority of flow,2022,150,11,15
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2009May01,PERIStfish2009May01,main,The channel that contains the majority of flow,2009,150,11,15
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2012May02,PERIStfish2012May02,main,The channel that contains the majority of flow,2012,150,11,15
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2015May12,PERIStfish2015May12,Main,The channel that contains the majority of flow,2015,150,11,15
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2018May10,PERIStfish2018May10,main,The channel that contains the majority of flow,2018,150,11,15
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2021May06,PERIStfish2021May06,main,The channel that contains the majority of flow,2021,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2006Jun15,WICRStfish2006Jun15,main,The channel that contains the majority of flow,2006,340,11,34
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2007May09,WICRStfish2007May09,main,The channel that contains the majority of flow,2007,340,11,34
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2010May03,WICRStfish2010May03,main,The channel that contains the majority of flow,2010,340,11,34
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2013May06,WICRStfish2013May06,main,The channel that contains the majority of flow,2013,340,11,34
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2016May04,WICRStfish2016May04,Main,The channel that contains the majority of flow,2016,340,11,34
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2019Jun03,WICRStfish2019Jun11,main,The channel that contains the majority of flow,2019,340,11,30
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2022Jun02,WICRStfish2022Jun14,main,The channel that contains the majority of flow,2022,340,11,34
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2006Jun15,WICRStfish2006Jun15,main,The channel that contains the majority of flow,2006,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2007May09,WICRStfish2007May09,main,The channel that contains the majority of flow,2007,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2010May03,WICRStfish2010May03,main,The channel that contains the majority of flow,2010,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2013May06,WICRStfish2013May06,main,The channel that contains the majority of flow,2013,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2016May04,WICRStfish2016May04,Main,The channel that contains the majority of flow,2016,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2019Jun03,WICRStfish2019Jun03,main,The channel that contains the majority of flow,2019,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2022Jun02,WICRStfish2022Jun09,main,The channel that contains the majority of flow,2022,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2006Jun15,WICRStfish2006Jun15,main,The channel that contains the majority of flow,2006,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2007May09,WICRStfish2007May09,main,The channel that contains the majority of flow,2007,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2010May03,WICRStfish2010May03,main,The channel that contains the majority of flow,2010,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2013May06,WICRStfish2013May06,main,The channel that contains the majority of flow,2013,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2016May04,WICRStfish2016May04,Main,The channel that contains the majority of flow,2016,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2019Jun03,WICRStfish2019Jun03,main,The channel that contains the majority of flow,2019,150,11,15
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2022Jun02,WICRStfish2022Jun02,main,The channel that contains the majority of flow,2022,150,11,15

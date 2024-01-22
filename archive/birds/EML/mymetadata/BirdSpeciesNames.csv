@@ -1,0 +1,217 @@
+TaxonCode,CommonName,ScientificName
+ACFL,acadian flycatcher,Empidonax virescens
+AMBI,american Bittern,Botaurus lentiginosus
+AMCO,american Coot,Fulica americana
+AMCR,american crow,Corvus brachyrhynchos
+AMGO,american goldfinch,Spinus tristis
+AMKE,american kestrel,Falco sparverius
+AMRE,american redstart,Setophaga ruticilla
+AMRO,american robin,Turdus migratorius
+AMWO,american woodcock,Scolopax minor
+ANHI,anhinga,Anhinga anhinga
+ATSP,american tree sparrow,Spizelloides arborea
+BACS,bachman's Sparrow,Peucaea aestivalis
+BAEA,bald eagle,Haliaeetus leucocephalus
+BANS,bank swallow,Riparia riparia
+BAOR,northern oriole,Icterus galbula
+BARS,barn swallow,Hirundo rustica
+BAWW,black-and-white warbler,Mniotilta varia
+BBCU,black-billed cuckoo,Coccyzus erythropthalmus
+BBSA,buff-breasted sandpiper,Tryngites subruficollis
+BBWA,bay-breasted warbler,Setophaga castanea
+BCCH,black-capped chickadee,Poecile atricapillus
+BCNH,black-crowned night-heron,Nycticorax nycticorax
+BADO,barred owl,Strix varia
+BEKI,belted kingfisher,Megaceryle alcyon
+BEVI,bell's vireo,Vireo bellii
+BEWR,bewick's wren,Thryomanes bewickii
+BGGN,blue-gray gnatcatcher,Polioptila caerulea
+BHCO,brown-headed cowbird,Molothrus ater
+BLBW,blackburnian warbler,Setophaga fusca
+BLGR,blue grosbeak,Passerina caerulea
+BLJA,blue jay,Cyanocitta cristata
+BLPW,blackpoll warbler,Setophaga striata
+BLTE,black tern,Chlidonias niger
+BLVU,black vulture,Coragyps atratus
+BOBO,bobolink,Dolichonyx oryzivorus
+BRBL,brewer's blackbird,Euphagus cyanocephalus
+BRCR,brown creeper,Certhia americana
+BRTH,brown thrasher,Toxostoma rufum
+BTBW,black-throated blue warbler,Setophaga caerulescens
+BTNW,black-throated green warbler,Setophaga virens
+BUOW,burrowing owl,Athene cunicularia
+BWHA,broad-winged hawk,Buteo platypterus
+BWTE,blue-winged teal,Anas discors
+BWWA,blue-winged warbler,Vermivora cyanoptera
+CACH,carolina chickadee,Poecile carolinensis
+CAEG,cattle egret,Bubulcus ibis
+CANG,canada goose,Branta canadensis
+CARW,carolina wren,Thryothorus ludovicianus
+CAWA,canada warbler,Cardellina canadensis
+CCSP,clay-colored sparrow,Spizella pallida
+CEDW,cedar waxwing,Bombycilla cedrorum
+CERW,cerulean warbler,Setophaga cerulea
+CHSP,chipping sparrow,Spizella passerina
+CHSW,chimney swift,Chaetura pelagica
+CITE,cinnamon teal,Anas cyanoptera
+CLSW,cliff swallow,Petrochelidon pyrrhonota
+COGR,common grackle,Quiscalus quiscula
+COHA,cooper's hawk,Accipiter cooperii
+COMO,common moorhen,Gallinula chloropus
+CONI,common nighthawk,Chordeiles minor
+COSN,common snipe,Gallinago gallinago
+COYE,common yellowthroat,Geothlypis trichas
+CSWA,chestnut-sided warbler,Setophaga pensylvanica
+CWWI,chuck-will's-widow,Antrostomus carolinensis
+DCCO,double-crested cormorant,Phalacrocorax auritus
+DICK,dickcissel,Spiza americana
+DOWO,downy woodpecker,Dryobates pubescens
+EABL,eastern bluebird,Sialia sialis
+EAGR,eared grebe,Podiceps nigricollis
+EAKI,eastern kingbird,Tyrannus tyrannus
+EAME,eastern meadowlark,Sturnella magna
+EAPH,eastern phoebe,Sayornis phoebe
+EATO,"rufous-sided towhee, eastern towhee",Pipilo erythrophthalmus
+EAWP,eastern wood-pewee,Contopus virens
+EUCD,eurasian collared-dove,Streptopelia decaocto
+EUST,european starling,Sturnus vulgaris
+FICR,fish crow,Corvus ossifragus
+FISP,field sparrow,Spizella pusilla
+GBHE,great blue heron,Ardea herodias
+GCFL,great crested flycatcher,Myiarchus crinitus
+GCKI,golden-crowned kinglet,Regulus satrapa
+GHOW,great horned owl,Bubo virginianus
+GRPC,greater prairie-chicken,Tympanuchus cupido
+GRCA,gray catbird,Dumetella carolinensis
+GREG,great egret,Ardea alba
+GRHE,green (green-backed) heron,Butorides virescens
+GRRO,greater roadrunner,Geococcyx californianus
+GRSP,grasshopper sparrow,Ammodramus savannarum
+GTGR,great-tailed grackle,Quiscalus mexicanus
+GWWA,golden-winged warbler,Vermivora chrysoptera
+HAWO,hairy woodpecker,Leuconotopicus villosus
+HESP,henslow's sparrow,Ammodramus henslowii
+HETH,hermit thrush,Catharus guttatus
+HOFI,house finch,Haemorhous mexicanus
+HOLA,horned lark,Eremophila alpestris
+HOME,hooded merganser,Lophodytes cucullatus
+HOSP,house sparrow,Passer domesticus
+HOWA,hooded warbler,Setophaga citrina
+HOWR,house wren,Troglodytes aedon
+INBU,indigo bunting,Passerina cyanea
+KEWA,kentucky warbler,Geothlypis formosa
+KILL,killdeer,Charadrius vociferus
+KIRA,king rail,Rallus elegans
+LALO,lapland Longspur,Calcarius lapponicus
+LARB,lark bunting,Calamospiza melanocorys
+LASP,lark sparrow,Chondestes grammacus
+LBHE,little blue heron,Egretta caerulea
+LEBI,least bittern,Ixobrychus exilis
+LEFL,least flycatcher,Empidonax minimus
+LETE,least tern,Sternula antillarum
+LISP,lincoln's sparrow,Melospiza lincolnii
+LOSH,loggerhead shrike,Lanius ludovicianus
+LOWA,louisiana waterthrush,Parkesia motacilla
+MALL,mallard,Anas platyrhynchos
+MAWA,magnolia warbler,Setophaga magnolia
+MAWR,marsh wren,Cistothorus palustris
+MIKI,mississippi kite,Ictinia mississippiensis
+MODO,mourning dove,Zenaida macroura
+NAWA,nashville warbler,Leiothlypis ruficapilla
+NOBO,northern bobwhite,Colinus virginianus
+NOCA,northern cardinal,Cardinalis cardinalis
+NOHA,northern harrier,Circus cyaneus
+NOMO,northern mockingbird,Mimus polyglottos
+NOPA,northern parula,Setophaga americana
+NOWA,northern waterthrush,Parkesia noveboracensis
+NRWS,northern rough-winged swallow,Stelgidopteryx serripennis
+NSHO,northern shoveler,Anas clypeata
+OROR,orchard oriole,Icterus spurius
+OSFL,olive-sided flycatcher,Contopus cooperi
+OVEN,ovenbird,Seiurus aurocapilla
+PABU,painted bunting,Passerina ciris
+PAWA,palm warbler,Setophaga palmarum
+PBGR,pied-billed grebe,Podilymbus podiceps
+PEFA,peregrine falcon,Falco peregrinus
+PHVI,philadelphia vireo,Vireo philadelphicus
+PIWA,pine warbler,Setophaga pinus
+PIWO,pileated woodpecker,Dryocopus pileatus
+PRAW,prairie warbler,Setophaga discolor
+PROW,prothonotary warbler,Protonotaria citrea
+PUFI,purple finch,Haemorhous purpreus
+PUGA,purple gallinule,Porphyrio martinica
+PUMA,purple martin,Progne subis
+RBGR,rose-breasted grosbeak,Pheucticus ludovicianus
+RBGU,ring-billed gull,Larus delawarensis
+RBWO,red-bellied woodpecker,Melanerpes carolinus
+RCKI,ruby-crowned kinglet,Regulus calendula
+REDH,redhead,Aythya americana
+REVI,red-eyed vireo,Vireo olivaceus
+RHWO,red-headed woodpecker,Melanerpes erythrocephalus
+ROPI,rock pigeon,Columba livia
+ROWR,rock wren,Salpinctes obsoletus
+RNEP,ring-necked pheasant,Phasianus colchicus
+RSHA,red-shouldered hawk,Buteo lineatus
+RTHA,red-tailed hawk,Buteo jamaicensis
+RTHU,ruby-throated hummingbird,Archilochus colubris
+RUDU,ruddy duck,Oxyura jamaicensis
+RWBL,red-winged blackbird,Agelaius phoeniceus
+SAPH,say's phoebe,Sayornis saya
+SAVS,savannah sparrow,Passerculus sandwichensis
+SCTA,scarlet tanager,Piranga olivacea
+SESA,semipalmated sandpiper,Calidris pusilla
+SEWR,sedge wren,Cistothorus platensis
+SNEG,snowy egret,Egretta thula
+SORA,sora,Porzana carolina
+SOSA,solitary sandpiper,Tringa solitaria
+SOSP,song sparrow,Melospiza melodia
+SPSA,spotted sandpiper,Actitis macularius
+SPTO,spotted (rufous-side) towhee,Pipilo maculatus
+SSHA,sharp-shinned hawk,Accipiter striatus
+STFL,scissor-tailed flycatcher,Tyrannus forficatus
+STGR,sharp-tailed grouse,Tympanuchus phasianellus
+SUTA,summer tanager,Piranga rubra
+SWHA,swainson's hawk,Buteo swainsoni
+SWSP,swamp sparrow,Melospiza georgiana
+SWTH,swainson's thrush,Catharus ustulatus
+TEWA,tennessee warbler,Leiothlypis peregrina
+TRES,tree swallow,Tachycineta bicolor
+TUTI,tufted titmouse,Baeolophus bicolor
+TUVU,turkey vulture,Cathartes aura
+UPSA,upland sandpiper,Bartramia longicauda
+VEER,veery,Catharus fuscescens
+VESP,vesper sparrow,Pooecetes gramineus
+WAVI,warbling vireo,Vireo gilvus
+WBNU,white-breasted nuthatch,Sitta carolinensis
+WCSP,white-crowned sparrow,Zonotrichia leucophrys
+WEKI,western kingbird,Tyrannus verticalis
+WEME,western meadowlark,Sturnella neglecta
+WEVI,white-eyed vireo,Vireo griseus
+WEWA,worm-eating warbler,Helmitheros vermivorum
+WFIB,white-faced ibis,Plegadis chihi
+WHIB,white ibis,Eudocimus albus
+WIFL,willow flycatcher,Empidonax traillii
+WIPH,wilson's phalarope,Phalaropus tricolor
+WITU,wild turkey,Meleagris gallopavo
+WIWA,wilson's warbler,Cardellina pusilla
+WODU,wood duck,Aix sponsa
+WOTH,wood thrush,Hylocichla mustelina
+EWPW,Eastern whip-poor-will,Antrostomus vociferus
+WTSP,white-throated sparrow,Zonotrichia albicollis
+WWDO,white-winged dove,Zenaida asiatica
+YBCH,yellow-breasted chat,Icteria virens
+YBCU,yellow-billed cuckoo,Coccyzus americanus
+YBFL,yellow-bellied flycatcher,Empidonax flaviventris
+YBSA,yellow-bellied sapsucker,Sphyrapicus varius
+YEWA,yellow warbler,Setophaga petechia
+YHBL,yellow-headed blackbird,Xanthocephalus xanthocephalus
+YRWA,yellow-rumped warbler,Setophaga coronata
+NOFL,northern flicker,Colaptes auratus
+YTVI,yellow-throated vireo,Vireo flavifrons
+YTWA,yellow-throated warbler,Setophaga dominica
+ALFL,Alder Flycatchetr,Empidonax alnorum
+DEJU,Darl-eyed Junco,Junco hyemalis
+BHVI,Blue-headed Vireo,Vireo solitarius
+OCWA,Orange-crowned Warbler,Leiothlypis celata
+RUBL,rusty blackbird,Euphagus carolinus
+WEFL,Western Flycatcher,Empidonax difficilis

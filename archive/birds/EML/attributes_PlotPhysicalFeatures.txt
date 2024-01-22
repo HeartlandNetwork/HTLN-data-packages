@@ -1,0 +1,9 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkUnit	park name	character				
+Plot	plot id	character				
+HabitatType	prairie / riparian	character				
+Slope	clinometer	numeric	degree			
+SlopeVariability	description	character				
+Aspect	slope direction	numeric	degree			
+AspectVariability	description	character				
+InRiparianCorridor	0 - false 1 -true	numeric	dimensionless			

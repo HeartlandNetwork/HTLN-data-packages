@@ -1,0 +1,119 @@
+ParkName,ParkCode,LocationID,LocationNumber,LocationType,LocationDescription,StreamName,TributaryName,County,StretchNumber,ReachID,ReachLength_m,StreamWatershedArea_sqkm
+Buffalo National River,BUFF,BUFFRMFISHBM01,01,Mainstem,,Buffalo River,,Newton,24,BUFFM01,290,238.00
+Buffalo National River,BUFF,BUFFRMFISHBM02,02,Mainstem,,Buffalo River,,Newton,55,BUFFM02,440,566.00
+Buffalo National River,BUFF,BUFFRMFISHBM03,03,Mainstem,,Buffalo River,,Newton,59,BUFFM03,600,1274.00
+Buffalo National River,BUFF,BUFFRMFISHBM04,04,Mainstem,,Buffalo River,,Searcy,69,BUFFM04,620,1975.00
+Buffalo National River,BUFF,BUFFRMFISHBM05,05,Mainstem,,Buffalo River,,Searcy,73,BUFFM05,560,2478.00
+Buffalo National River,BUFF,BUFFRMFISHBM06,06,Mainstem,,Buffalo River,,Marion,87,BUFFM06,726,2988.00
+Buffalo National River,BUFF,BUFFRMFISHBT01,01,Tributary,First riffle above water crossing,Smith Creek,Smith,Newton,279,BUFFT01,150,22.00
+Buffalo National River,BUFF,BUFFRMFISHBT02,02,Tributary,,Moore Creek,Moore,Newton,481,BUFFT02,,14.00
+Buffalo National River,BUFF,BUFFRMFISHBT03,03,Tributary,Whiteley Creek - US Hwy 21; upstream of Hwy,Whiteley Creek,Whiteley,Newton,640,BUFFT03,150,14.00
+Buffalo National River,BUFF,BUFFRMFISHBT04,04,Tributary,Sneeds Creek. Downstream boundary is located at large boulder in center of channel 2 riffles upstream of stretch,Sneeds Creek,Sneeds,Newton,441,BUFFT04,150,12.00
+Buffalo National River,BUFF,BUFFRMFISHBT05,05,Tributary,end of fish reach located at second riffle upstream of second slab. Upper end of site located at bottom of riffle next to waterfall,Cecil Creek,Cecil,Newton,462,BUFFT05,232,59.00
+Buffalo National River,BUFF,BUFFRMFISHBT06,06,Tributary,Began at second riffle up from confluence with Buffalo River,Glade Creek,Glade,Newton,403,BUFFT06,150,6.00
+Buffalo National River,BUFF,BUFFRMFISHBT07,07,Tributary,Mill creek at Pruitt,Mill Creek,Mill,Newton,646,BUFFT07,180,55.00
+Buffalo National River,BUFF,BUFFRMFISHBT08,08,Tributary,Downstream boundry located at 2nd riffle from confluence with Buffalo River; Vanishing Creek,Vanishing Creek,Vanishing,Newton,229,BUFFT08,150,4.00
+Buffalo National River,BUFF,BUFFRMFISHBT09,09,Tributary,Little Buffalo,Little Buffalo,Little Buffalo,Newton,420,BUFFT09,260,371.00
+Buffalo National River,BUFF,BUFFRMFISHBT10,10,Tributary,Reach begins ~ 50m upstream of confluence with Buffalo. Begins at head of 2nd riffle.,Wells Creek,Wells,Newton,638,BUFFT10,150,31.00
+Buffalo National River,BUFF,BUFFRMFISHBT11,11,Tributary,Reach begins ~130m below road crossing & ends ~20m upstream of road crossing,Rock Creek,Rock,Newton,317,BUFFT11,150,16.00
+Buffalo National River,BUFF,BUFFRMFISHBT12,12,Tributary,located 1.5 miles from Hasty; lower reach boundry located at riffle just upstream of second road crossing,Sheldon Branch,Sheldon Branch,Newton,242,BUFFT12,150,8.00
+Buffalo National River,BUFF,BUFFRMFISHBT13,13,Tributary,Big Creek-site begins at bluff on river left upstream of riffle,Big Creek (U),Big,Newton,244,BUFFT13,226,232.00
+Buffalo National River,BUFF,BUFFRMFISHBT14,14,Tributary,Downstream boundry located at head of 3rd riffle from confluence with Buffalo River; Lick Creek,Lick Creek,Lick,Newton,367,BUFFT14,150,12.00
+Buffalo National River,BUFF,BUFFRMFISHBT15,15,Tributary,Davis Creek-downstream boundary about 100m from mouth,Davis Creek,Davis,Newton,383,BUFFT15,200,72.00
+Buffalo National River,BUFF,BUFFRMFISHBT16,16,Tributary,Mill Branch- at Mt Hershey downstream boundary about 80m from mouth. Fish reach starts at old bridge columns,Mill Branch,Mill Branch,Newton,225,BUFFT16,150,10.00
+Buffalo National River,BUFF,BUFFRMFISHBT17,17,Tributary,Richland Creek; Reach begin about 300 meter upstream of low water crossing and ended at second riffle upstream of low water crossing.,Richland Creek,Richland,Searcy,304,BUFFT17,460,312.00
+Buffalo National River,BUFF,BUFFRMFISHBT18,18,Tributary,,Slay Branch,Slay Branch,Searcy,232,BUFFT18,,13.00
+Buffalo National River,BUFF,BUFFRMFISHBT19,19,Tributary,Calf Creek-reach is located in S-bend downstream of ford. Upper boundary about 200m downstream of ford.,Calf Creek,Calf,Searcy,378,BUFFT19,165,128.00
+Buffalo National River,BUFF,BUFFRMFISHBT20,20,Tributary,Reach begins ~300 m upstream of confluence with Buffalo,Bear Creek,Bear,Searcy,472,BUFFT20,450,238.00
+Buffalo National River,BUFF,BUFFRMFISHBT21,21,Tributary,sampled above location where road crosses stream. lower boundry starts 2 riffles above road,Brush Creek,Brush,Searcy,241,BUFFT21,150,52.00
+Buffalo National River,BUFF,BUFFRMFISHBT22,22,Tributary,Begins at 2nd riffle from mouth of Spring Creek; Access is downstream about 1 km at Spring Creek Access,Spring Creek,Spring,Searcy,300,BUFFT22,200,34.00
+Buffalo National River,BUFF,BUFFRMFISHBT23,23,Tributary,Reach begins at 2nd riffle above floodplain,Water Creek,Water,Searcy,574,BUFFT23,150,99.00
+Buffalo National River,BUFF,BUFFRMFISHBT24,24,Tributary,Hickory Creek across Buffalo Point canoe access; Reach begins at large tree overhanging bank at 1st riffle upstream of floodprone area,Hickory Creek,Hickory,Marion,649,BUFFT24,150,10.00
+Buffalo National River,BUFF,BUFFRMFISHBT25,25,Tributary,Panther Creek; downstream boundry begins at riffle above fallen log; upsteam end 9m above spring,Little Panther Creek,Panther,Marion,238,BUFFT25,150,17.00
+Buffalo National River,BUFF,BUFFRMFISHBT26,26,Tributary,,Rush Creek,Rush,Marion,694,BUFFT26,,39.00
+Buffalo National River,BUFF,BUFFRMFISHBT27,27,Tributary,Clabber Creek - downstream boundary starts at 2nd riffle from confluence - approximately 70 meters upstream of road crossing,Clabber Creek,Clabber,Marion,476,BUFFT27,180,69.00
+Buffalo National River,BUFF,BUFFRMFISHBT28,28,Tributary,Boat Creek-lower boundary begins upstream of debris- out of flood plain,Boat Creek,Boat,Marion,484,BUFFT28,150,10.00
+Buffalo National River,BUFF,BUFFRMFISHBT29,29,Tributary,Big Creek; Reach begins at 2nd riffle above stretch boundary; reach very shallow and wide in first half of reach,Big Creek (L),Big,Marion,366,BUFFT29,370,347.00
+Buffalo National River,BUFF,BUFFRMFISHBT30,30,Tributary,Middle Creek - begins upstream of island/gravel bar on river. Reach begins at 2nd riffle upstream of mouth and ends at riffle upstream from big bluff w/ deep pool,Middle Creek,Middle,Marion,603,BUFFT30,150,29.00
+Buffalo National River,BUFF,BUFFRMFISHBT31,31,Tributary,Leatherwood Creek - site begins at 2nd riffle up from mouth. 1st riffle is bedrock shelf. Site ends at riffle down from bluff pool (bluff on river right),Leatherwood Creek,Leatherwood,Marion,623,BUFFT31,150,33.00
+Buffalo National River,BUFF,BUFFRMFISHBT32,32,Tributary,Cow creek; lower boundary at 2nd riffle above stretch,Cow Creek,Cow,Marion,275,BUFFT32,150,9.00
+Buffalo National River,BUFF,BUFFRMFISHBT33,33,Tributary,50 meters to end of fish reach from mouth; fish reach lower boundry located upstream of 3rd cascade,Stewart Creek,Stewart,Marion,390,BUFFT33,150,7.00
+Effigy Mounds National Monument,EFMO,EFMOStfish01,01,Mainstem,Dousmans Creek. Reach begins at road crossing.,Dousman Creek,,Allamakee,,EFMOUPP01,150,
+George Washington Carver National Monument,GWCA,GWCAStfish01,01,Mainstem,Carver Branch - Reach begins at the riffle below trail bridge and ends ca. 30 m downstream of deck/lookout,Carver Branch,,Newton,,GWCALOW01,150,
+George Washington Carver National Monument,GWCA,GWCAStfish02,02,Mainstem,Williams Branch. Reach begins ~15m from confluence with Carver - upstream of 1st riffle.,Williams Branch,,Newton,,GWCALOW02,150,
+George Washington Carver National Monument,GWCA,GWCAStfish03,03,Mainstem,Harkins Branch. Reach begins at riffle upstream of gate (park boundary),Harkins Branch,,Newton,,GWCALOW03,150,
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,01,Mainstem,Hoover Creek. Reach begins above walking bridge,Hoover Creek,,Cedar,,HEHOLOW01,150,
+Homestead National Monument of America,HOME,HOMEShiner01lower,1,mainstem,,Cub Creek - North,,Gage,,HOMELOW01,,
+Homestead National Monument of America,HOME,HOMEShiner01upper,1,mainstem,,Cub Creek - West,,Gage,,HOMEUPP01,,
+Hot Springs National Park,HOSP,HOSPStfish01,01,Mainstem,Gulpha Creek. Downstream boundary begins ~100m upstream of upper bridge at campground,Gulpha Creek,,Garland,,HOSPLOW01,150,
+Hot Springs National Park,HOSP,HOSPStfish02,02,Mainstem,Bull Bayou. Upstream boundary begins ~100m downstream of bridge on Blacksnake Road.,Bull Bayou,,Garland,,HOSPLOW02,150,
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,01,Mainstem,Site begins at 2nd riffle upstream of lower stretch boundary. Riffle located above road access and flagged on both banks and yellow rebar on river right. Upper end of reach flagged on river left.,Current River,,Shannon,14,CURRM01,342,383.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,02,Mainstem,Stretch boundary approximately 1km upstream of Presley Center. Lower end of reach at 1st full riffle upstream of stretch bdr - staked w/ yellow rebar on river right. Upper end staked on river left.,Current River,,Shannon,35,CURRM02,450,1135.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,03,Mainstem,Reach located at 2nd riffle above lower stretch bndry. Lower end at head of island ( backwater on river left not included). Upper end located below riffle with bluff on river right. Reach flagged.,Current River,,Shannon,42,CURRM03,660,1985.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,04,Mainstem,Reach lower end at 2nd riffle above lower stretch bndry - large island splits channel. Lower end staked (yellow) on river left. Upper end located approx 200m above island -staked on river right.,Current River,,Shannon,67,CURRM04,702,3490.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,05,Mainstem,Stretch bndry at riffle - this was skipped. Next riffle is lower end of reach. Lower end at island with backwater on river left. Upper end flagged on river left on gravel bar.,Current River,,Shannon,71,CURRM05,1000,3630.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,06,Mainstem,Stretch bndry at head of riffle/run. Reach lower end at the next upstream riffle - small island splits riffle - back water area on river left. Upper end staked (orange rebar) on river right.,Current River,,Carter,97,CURRM06,1000,4664.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT01,01,Tributary,Shafer Spring - downstream boundary approximately 15m downstream of road crossing,Shafer Spring,Shafer Spring,Dent,819,CURRT01,150,22.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT02,02,Tributary,,Sutton Creek,Sutton,Shannon,850,CURRT02,150,11.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT03,03,Tributary,Thompson Creek - reach ends ~ 30m upstream of road crossing,Thompson Creek,Thompson,Shannon,576,CURRT03,150,7.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT04,04,Tributary,Prairie Hollow; Reach beigns at most downstream location with flow; reach ends ~70 m upstream of low water bridge.,Prairie Hollow,Prairie Hollow,Shannon,920,CURRT04,150,7.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT05,05,Tributary,,Thorny Hollow,Thorny Hollow,Shannon,473,CURRT05,,4.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,06,Tributary,Blair Creek; lower boundry at bedrock riffle area.,Blair Creek,Blair,Shannon,917,CURRT06,150,112.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT07,07,Tributary,,Powdermill Creek,Powder Mill,Shannon,494,CURRT07,150,13.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,08,Tributary,End of reach located at downstream end of 2nd riffle up from stretch lower boundary - Rocky Creek,Rocky Creek,Rocky,Shannon,657,CURRT08,348,58.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT09,09,Tributary,,Carr Creek,Carr,Shannon,695,CURRT09,150,47.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT10,10,Tributary,did not sample in 2008; stream dry,Thorny Creek,Thorny,Shannon,711,CURRT10,,11.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT11,11,Tributary,,Chilton Creek,Chilton,Carter,930,CURRT11,150,10.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT12,12,Tributary,Rogers Creek; Reach begins at 2nd riffle upstream of confluence with small trib.,Rogers Creek,Rogers,Carter,950,CURRT12,150,47.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT13,13,Tributary,Lower end of reach begins upstream of small cabin - Mill Creek,Mill Creek,Mill,Carter,685,CURRT13,150,62.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,14,Tributary,Sinking  Creek - site begins ~100meters upstream of Bridge,Sinking Creek,Sinking,Shannon,463,CURRT14,500,326.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT15,15,Tributary,Reach begins ~50meters  upstream of confluence with Current River,Big Creek (W),Big West,Shannon,734,CURRT15,150,334.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,16,Tributary,,Big Creek (E),Big East,Shannon,856,CURRT16,150,152.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,01,Mainstem,Stretch ends at a riffle above a trib. 1st riffle above confluence skipped. Reach lower end at middle of riffle/run - staked  on river right. Upper end at middle of pool along a bluff - staked on left,Jack's Fork,,Shannon,105,JACKM01,290,482.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,02,Mainstem,Stretch bndry at access road (HWY M). Reach lower end at 2nd riffle above stretch bndry. Lower end staked/flagged on river right. Upper end downstream of riffle - flagged on river right.,Jack's Fork,,Shannon,114,JACKM02,286,597.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,03,Mainstem,Stretch bndry at confluence w/ small side channel. Reach lower end at 2nd riffle above bndry. Upper end below next riffle. Upper and lower ends flagged on river right.,Jack's Fork,,Shannon,123,JACKM03,320,716.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT01,01,Tributary,Flat Rock Creek ; Lower boundary of reach located at 2nd riffle upstream of confluence with Jacks Fork,Flat Rock Hollow,Flat Rock Hollow,Shannon,907,JACKT01,150,13.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT02,02,Tributary,,Water Branch,Water Branch,Shannon,542,JACKT02,150,29.00
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,03,Tributary,Shawnee Creek - reach starts upstream of horse crossing,Shawnee Creek,Shawnee,Shannon,699,JACKT03,150,52.00
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE01,01,Spring,,Alley Spring,,Shannon,,OZARSPRALL,190,
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE02,02,Spring,,Big Spring,,Carter,,OZARSPRBIG,460,
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE03,03,Spring,,Blue Spring,,Shannon,,OZARSPRBLU,160,
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE04,04,Spring,,Pulltite Spring,,Shannon,,OZARSPRPUL,150,
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE05,05,Spring,,Round Spring,,Shannon,,OZARSPRROU,240,
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE06,06,Spring,,Welch Spring,,Shannon,,OZARSPRWEL,36,
+Ozark National Scenic Riverways - SPRINGS,OZRS,OZRSSPRNGSSITE07,07,Spring,,Phillips Spring,,Carter,,OZARSPRPHI,150,
+Pea Ridge National Military Park,PERI,PERIStfish01,01,Mainstem,Pratt Creek. Reach is below tour road.  Upper boundry is 20m downstream of tour road.,Pratt Creek,,Benton,,PERILOW01,150,
+Pipestone National Monument,PIPE,PIPEShiner01above,1,mainstem,,Pipestone Creek - Above falls,,Pipestone,,PIPEABV01,,
+Pipestone National Monument,PIPE,PIPEShiner01lower,1,mainstem,,Pipestone Creek - Lower,,Pipestone,,PIPELOW01,,
+Pipestone National Monument,PIPE,PIPEShiner01middl,1,mainstem,,Pipestone Creek - Middle,,Pipestone,,PIPEMID01,,
+Pipestone National Monument,PIPE,PIPEShiner01upper,1,mainstem,,Pipestone Creek - Upper,,Pipestone,,PIPEUPP01,,
+Ozark National Scenic Riverways,OZAR,Shift_OZARRMFISHCM02,02,Mainstem,Fish Reach shifted in 2022 due to sensitive habitat and species located in orginial reach. Shifted reach is adjacent to and downstream of original reach.,Current River,,Shannon,35,Shift_CURRM02,350,1135.00
+Ozark National Scenic Riverways,OZAR,Shift_OZARRMFISHCM03,03,Mainstem,Reach shifted in 2022 due to presence of sensitive habitat and species in original reach. Shifted reach is in two sections: Upper section of shifted reach (440 m) is part of orginial reach. Lower section is new bluff pool (200 m) sampled.,Current River,,Shannon,42,Shift_CURRM03,640,1985.00
+Ozark National Scenic Riverways,OZAR,Shift_OZARRMFISHCM06,06,Mainstem,Reach was shifted in 2022 due to sensitive habitat and species within orginial reach. Shifted reach is upstream and adjancent to orginial reach. Backwater located at upper end of orginial reach is included as the downstream end of the shifted reach.,Current River,,Carter,97,Shift_CURRM06,903,4664.00
+Ozark National Scenic Riverways,OZAR,Shift_OZARRMFISHJM03,03,Mainstem,Reach shifted in 2022 due to sensitive habitat and species in original reach. Shifted reach is 213 m of downstream portion of orginial reach (orginial reach was 320 m.,Jack's Fork,,Shannon,123,Shift_JACKM03,213,716.00
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,1,mainstem,Pasture Name: Brome,Creek 1 - Lower,,Chase,,TAPRLOW01,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,1,mainstem,Pasture Name: West Traps,Creek 1 - Middle,,Chase,,TAPRMID01,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,1,mainstem,Pasture Name: Windmill,Creek 1 - Upper,,Chase,,TAPRUPP01,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,2,mainstem,Pasture Name: Brome,Creek 2 - Lower,,Chase,,TAPRLOW02,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,2,mainstem,Pasture Name: West Traps,Creek 2 - Middle,,Chase,,TAPRMID02,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,4,mainstem,Pasture Name: Crusher Hill,Creek 4 - Middle,,Chase,,TAPRMID04,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner05middl,5,mainstem,Pasture Name: Crusher Hill,Creek 5 - Middle,,Chase,,TAPRMID05,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,10,mainstem,Pasture Name: Two Sections,Creek 10 - Middle,,Chase,,TAPRMID10,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,10,mainstem,Pasture Name: Two Sections,Creek 10 - Upper,,Chase,,TAPRUPP10,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,12,mainstem,Pasture Name: Two Sections,Creek 12 - Middle,,Chase,,TAPRMID12,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17lower,17,mainstem,Pasture Name: Big. formerly West Branch,Creek 17 - Lower,,Chase,,TAPRLOW17,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,17,mainstem,Pasture Name: Big. formerly West Branch,Creek 17 - Upper,,Chase,,TAPRUPP17,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,18,mainstem,Pasture Name: Big. formerly West Branch,Creek 18 - Middle,,Chase,,TAPRMID18,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,22,mainstem,Pasture Name: Big. formerly Gas House,Creek 22 - Lower,,Chase,,TAPRLOW22,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,22,mainstem,Pasture Name: Big. formerly Gas House,Creek 22 - Left Upper,,Chase,,TAPRUPL22,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,22,mainstem,Pasture Name: Big. formerly Gas House,Creek 22 - Right Upper,,Chase,,TAPRUPR22,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,23,mainstem,Pasture Name: Windmill,Creek 23 - Middle,,Chase,,TAPRMID23,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,24,mainstem,Pasture Name: Crusher Hill,Creek 24 - Lower,,Chase,,TAPRLOW24,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,24,mainstem,Pasture Name: Red House,Creek 24 - Middle,,Chase,,TAPRMID24,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,34,mainstem,Pasture Name: Big. formerly West Branch,Creek 34 - Lower,,Chase,,TAPRLOW34,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,35,mainstem,Pasture Name: Brome. by low water bridge,Fox Creek,,Chase,,TAPRLOW35,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,36,mainstem,Pasture Name: Big. formerly West Branch,Palmer Creek - Middle,,Chase,,TAPRMID36,,
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,36,mainstem,Pasture Name: Big. formerly West Branch,Palmer Creek - Upper,,Chase,,TAPRUPP36,,
+Wilson's Creek National Battlefield,WICR,WICRStfish01,01,Mainstem,Wilson's Lower. Reach begins upstream of confluence with Terrell at old bridge,Wilson's Creek (L),,Greene,,WICRLOW02,340,
+Wilson's Creek National Battlefield,WICR,WICRStfish02,02,Mainstem,Skeggs Branch. Reach begins at 1st riffle upstream of tour road.,Skeggs Branch,,Greene,,WICRLOW03,150,
+Wilson's Creek National Battlefield,WICR,WICRStfish03,03,Mainstem,Terrell. Reach begins at 1st riffle above bridge (~70 m above bridge),Terrell Creek,,Christian,,WICRLOW04,150,

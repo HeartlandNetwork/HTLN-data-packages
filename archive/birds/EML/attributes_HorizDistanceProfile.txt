@@ -1,0 +1,10 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkUnit	park name	character				
+Plot	plot ID	character				
+SubPlot	subplot number	character				
+EventDate	event date	Date		YYYY-MM-DD		
+Distance	distance category	character				
+Height	height category	character				
+CoverClassCode	cover class code	character				
+CoverClassMidPoint	cover class mid point	numeric	percent			
+CoverClassRange	range category	character				

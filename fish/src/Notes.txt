@@ -1,0 +1,29 @@
+
+
+Use only Season from SamplingPeriods
+
+Need to include EventComments in each new habitat export.
+
+Each habitat csv will need to be exported again to bring over the comma -> periods.
+ 
+
+C:\Users\GRowell\work\Databases\DataPackages\Fish
+
+HTLNFish4.5.2.accdb replaced commans with periods
+
+
+Habitat data tables requiring separate export queries
+
+x tbl_BankMeasurementInfo
+x tbl_ReachConditions
+x tbl_FishCoverInfo
+x tbl_CrossSectionInfo
+x tbl_TransectSpacingInterval
+x tbl_DischargeDetail
+x tbl_ReachMeasurements
+x tbl_DischargeGauge
+x tbl_ShinerSubstrate
+x tbl_ShinerRiparianCorridor
+
+
+
