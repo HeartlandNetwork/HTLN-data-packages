@@ -96,7 +96,7 @@ crosssectioninfo |> distinct(EventID) |>
  
  
  c <- crosssectioninfo |>
-   filter(Velocity_ms > 0)
+   filter(Velocity_ms > 0 & Velocity_ms < 3)
  
  ggplot(c, aes(x = Velocity_ms)) +
    geom_histogram(binwidth = 0.01)

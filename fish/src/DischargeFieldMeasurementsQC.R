@@ -76,7 +76,7 @@ c <- dischargemeasures |>
   filter(Depth_cm > 0)
 
 ggplot(c, aes(x = Depth_cm)) +
-  geom_histogram(binwidth = 1)
+  geom_histogram(binwidth = 5)
 
 
 # Variable: Velocity_ms -------------------------------------
