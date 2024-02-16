@@ -53,7 +53,8 @@ transectspacing |> distinct(EventID) |>
  transectspacing |> distinct(TransectSpacingInterval_m) |>
    print(n = 65)
  
- 
+ ggplot(transectspacing, aes(x = TransectSpacingInterval_m)) +
+   geom_histogram(binwidth = 1)
  
  
  
