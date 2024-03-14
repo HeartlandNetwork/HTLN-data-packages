@@ -21,7 +21,8 @@ fishcounts |> distinct(ParkName)
 
 # Unique list - PASS
 
-fishcounts |> distinct(ParkCode)
+fishcounts |> distinct(ParkCode) |>
+  arrange(ParkCode)
 
 
 ggplot(fishcounts, aes(x = ParkCode)) + 
@@ -40,6 +41,7 @@ fishcounts |> distinct(PeriodID) |>
   print(n = 120)
 
 fishcounts |> distinct(EventID) |> 
+  arrange(EventID) |>
   print(n = 399)
 
 # Sampling variables -----------------------------------------------------------
