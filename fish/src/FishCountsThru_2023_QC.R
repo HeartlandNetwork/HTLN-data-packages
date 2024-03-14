@@ -140,7 +140,7 @@ fishcounts |>
 
 f <- fishcounts |>
   distinct(TaxonCode, TSN, CommonName, FamilyName, ScientificName, tlu_TaxaSpecies_Comments)  |>
-  arrange(TaxonCode) |>
+  arrange(CommonName) |>
   print(n = 137)
 
 view(f)
