@@ -1,13 +1,15 @@
 
 library(tidyverse)
 
+# setwd("./fish/src")
+
 fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
 problems(fishcounts)
 
 glimpse(fishcounts)
 
-view(fishcounts)
+# view(fishcounts)
 
 
 # Variable: Parkname -----------------------------------------------------------
@@ -139,11 +141,20 @@ fishcounts |>
 # Taxonomic variables ----------------------------------------------------------
 
 f <- fishcounts |>
-  distinct(TaxonCode, TSN, CommonName, FamilyName, ScientificName, tlu_TaxaSpecies_Comments)  |>
+  distinct(TaxonCode, TSN, CommonName, FamilyName, ScientificName, Comments)  |>
+  arrange(CommonName) |>
+  print(n = 137)
+
+view(f) 
+
+
+f <- fishcounts |>
+  distinct(CommonName, ScientificName)  |>
   arrange(CommonName) |>
   print(n = 137)
 
 view(f)
+
 
 # Variables: Tolerance code, ToleranceDescription ------------------------------
 
