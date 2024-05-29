@@ -1,0 +1,9 @@
+givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+Jennifer		Haack-Gaynor	NPS HTLN	jennifer_haack@nps.gov	0000-0003-4497-5128	creator			
+Craig		Young	NPS	craig_young@nps.gov	0000-0002-1687-8825	creator			
+Brian		Witcher	NPS	brian_witcher@nps.gov	0009-0002-4646-3601	creator			
+Mike		DeBacker	NPS HTLN	mike_debacker@nps.gov	0009-0007-3221-0933	creator			
+Gary		Sullivan	NPS			creator			
+Rodney		Rovang	NPS			creator			
+Robert		Baker	NPS	robert_baker@nps.gov	0000-0001-7591-5035	creator			
+Jennifer		Haack-Ganor	NPS	jennifer_haack@nps.gov	0000-0003-4497-5128	contact			

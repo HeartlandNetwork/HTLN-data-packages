@@ -1,0 +1,17 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel Type Codes	categorical				
+SiteNumber	Site number	numeric	number			
+SampleLocation	Sample location	categorical				
+RiparianCover_0to25_Meters	Riparian cover type from 0 to 25 meters from bank	categorical				
+RiparianCover_26to50_Meters	Riparian cover type from 26 to 50 meters from bank	categorical				
+RiparianCover_51to75_Meters	Riparian cover type from 51 to 75 meters from bank	categorical				
+RiparianCover_76to100_Meters	Riparian cover type from 76 to 100 meters from bank	categorical				
+RiparianCover_GT100_Meters	Riparian cover type from 51 to 75 meters from bank	categorical				
+StreamBankErosionCover	Streambank Erosion Daubenmire cover class code	categorical				
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

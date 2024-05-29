@@ -1,0 +1,3 @@
+name	name_type	name_resolved	authority_system	authority_id
+Physaria filiformis	scientific	Physaria filiformis	ITIS	823238
+Juniperus virginiana	scientific	Juniperus virginiana	ITIS	18048

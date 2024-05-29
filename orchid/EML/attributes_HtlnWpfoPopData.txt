@@ -1,0 +1,17 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ID	Auto number identifier. It has no meaning except to be unique for each record. For indexing only	character				
+YEAR	Year the plant survey took place	Date		YYYY		
+PLANTID	Plant ID the identifier given to each plant for any given year. This is unique within any given year but is not unique when looking at multiple years of data.	numeric	dimensionless			
+PHENOLOGY	Was the plant vegetative only or was it reproductive (produces flowers).	categorical				
+PopUnit	The search unit the plants were surveyed in	categorical				
+HEIGHTCM	Height in cm of the plant from ground base to the very top of the plant. 	numeric	centimeter		NA	Either data was missing due to a glitch in the device collecting the field information. Or a flower stalk was produced but an accurate height measurement could not be obtained because the plant was damaged by animal or other means.
+FLOWERPOSI	Number of flowers the plant produced	numeric	dimensionless		NA	Either data was missing due to a glitch in the device collecting the field information. Or a flower stalk was produced but an accurate flower count could not be obtained because the plant was damaged by animal or other means.  
+HeightInfl_cm	Height in cm of the plant from ground base to the very top of the plant. 	numeric	centimeter		NA	Either data was missing due to a glitch in the device collecting the field information. Or a flower stalk was produced but an accurate height measurement could not be obtained because the plant was damaged by animal or other means.  
+FlwrStage	What stage the flower was in at the time of sampling. Only started collecting this observation in 2012	categorical			NA	Not collected before 2012. Data are missing or not recorded. See COMMENTS for potential explanations
+FlwrCond	What condition the flower was in at the time of sampling. Only started collecting this observation in 2012	categorical			NA	Not collected before 2012. Data are missing or not recorded. See COMMENTS for potential explanations
+COMMENTS	Any notes about the plant	character			NA	No comments were made
+TypeFlower	"Plant flower type (all flowers aborted, vegetative plant, flowers produced, all flowers browsed off) at the time of survey."	categorical				
+GPS_DATE	The date the survey took place.	Date		YYYY-MM-DD		
+GPS_TIME	The time the survey took place. First documented in 2001. 12-hour time	Date		hh:mm	NA	Not collected before 2012
+dwcType	Type of record	categorical				
+dwcBasisOfRecord	How the observatiosn were made	categorical				

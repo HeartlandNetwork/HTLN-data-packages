@@ -1,0 +1,136 @@
+name	name_type	name_resolved	authority_system	authority_id
+Ambloplites ariommus	scientific	Ambloplites ariommus	GBIF Backbone Taxonomy	2394517
+Ambloplites constellatus	scientific	Ambloplites constellatus	GBIF Backbone Taxonomy	2394513
+Ameiurus melas	scientific	Ameiurus melas	GBIF Backbone Taxonomy	2340977
+Ameiurus natalis	scientific	Ameiurus natalis	GBIF Backbone Taxonomy	2340969
+Campostoma anomalum	scientific	Campostoma anomalum	GBIF Backbone Taxonomy	2361357
+Campostoma	scientific	Campostoma	GBIF Backbone Taxonomy	2361338
+Catostomus commersonii	scientific	Catostomus commersonii	GBIF Backbone Taxonomy	2359014
+Chrosomus erythrogaster	scientific	Chrosomus erythrogaster	GBIF Backbone Taxonomy	2365382
+Cottus bairdii	scientific	Cottus bairdii	GBIF Backbone Taxonomy	2334131
+Cottus carolinae	scientific	Cottus carolinae	GBIF Backbone Taxonomy	2334072
+Cottus immaculatus	scientific	Cottus immaculatus	GBIF Backbone Taxonomy	5962227
+Cottus	scientific	Cottus	GBIF Backbone Taxonomy	2334066
+Notropis greenei	scientific	Notropis greenei	GBIF Backbone Taxonomy	2362277
+Cyprinella lutrensis	scientific	Cyprinella lutrensis	GBIF Backbone Taxonomy	5207666
+Erimyzon claviformis	scientific	Erimyzon claviformis	GBIF Backbone Taxonomy	5962904
+Erimystax harryi	scientific	Erimystax harryi	GBIF Backbone Taxonomy	2362097
+Etheostoma autumnale	scientific	Etheostoma autumnale	GBIF Backbone Taxonomy	5853466
+Etheostoma caeruleum	scientific	Etheostoma caeruleum	GBIF Backbone Taxonomy	2382341
+Etheostoma cragini	scientific	Etheostoma cragini	GBIF Backbone Taxonomy	2382268
+Etheostoma euzonum erizonum	scientific	Etheostoma euzonum erizonum	GBIF Backbone Taxonomy	NA
+Etheostoma euzonum	scientific	Etheostoma euzonum	GBIF Backbone Taxonomy	2382395
+Etheostoma flabellare	scientific	Etheostoma flabellare	GBIF Backbone Taxonomy	2382246
+Etheostoma juliae	scientific	Etheostoma juliae	GBIF Backbone Taxonomy	2382294
+Etheostoma mihileze	scientific	Etheostoma mihileze	GBIF Backbone Taxonomy	5853467
+Etheostoma nigrum	scientific	Etheostoma nigrum	GBIF Backbone Taxonomy	2382319
+Etheostoma radiosum	scientific	Etheostoma radiosum	GBIF Backbone Taxonomy	2382258
+Etheostoma spectabile	scientific	Etheostoma spectabile	GBIF Backbone Taxonomy	2382332
+Etheostoma	scientific	Etheostoma	GBIF Backbone Taxonomy	2382199
+Etheostoma uniporum	scientific	Etheostoma uniporum	GBIF Backbone Taxonomy	2382354
+Fundulus catenatus	scientific	Fundulus catenatus	GBIF Backbone Taxonomy	5203654
+Hybopsis amblops	scientific	Hybopsis amblops	GBIF Backbone Taxonomy	2366620
+Hypentelium nigricans	scientific	Hypentelium nigricans	GBIF Backbone Taxonomy	2358931
+Ichthyomyzon	scientific	Ichthyomyzon	GBIF Backbone Taxonomy	2421239
+Ichthyomyzon castaneus	scientific	Ichthyomyzon castaneus	GBIF Backbone Taxonomy	2421240
+Ichthyomyzon fossor	scientific	Ichthyomyzon fossor	GBIF Backbone Taxonomy	2421249
+Ichthyomyzon gagei	scientific	Ichthyomyzon gagei	GBIF Backbone Taxonomy	2421246
+Lampetra aepyptera	scientific	Lampetra aepyptera	GBIF Backbone Taxonomy	5216490
+Lampetra	scientific	Lampetra	GBIF Backbone Taxonomy	2421329
+Lepomis humilis x megalotis	scientific	Lepomis humilis x megalotis	GBIF Backbone Taxonomy	NA
+Lepomis megalotis	scientific	Lepomis megalotis	GBIF Backbone Taxonomy	2394510
+Lethenteron appendix	scientific	Lethenteron appendix	GBIF Backbone Taxonomy	2421396
+Luxilus cardinalis	scientific	Luxilus cardinalis	GBIF Backbone Taxonomy	2366982
+Luxilus chrysocephalus	scientific	Luxilus chrysocephalus	GBIF Backbone Taxonomy	2366993
+Luxilus cornutus	scientific	Luxilus cornutus	GBIF Backbone Taxonomy	2366967
+Luxilus pilsbryi	scientific	Luxilus pilsbryi	GBIF Backbone Taxonomy	2366961
+Luxilus zonatus	scientific	Luxilus zonatus	GBIF Backbone Taxonomy	2366990
+Lythrurus umbratilis	scientific	Lythrurus umbratilis	GBIF Backbone Taxonomy	2366052
+Micropterus dolomieu	scientific	Micropterus dolomieu	GBIF Backbone Taxonomy	5211250
+Minytrema melanops	scientific	Minytrema melanops	GBIF Backbone Taxonomy	2358945
+Moxostoma carinatum	scientific	Moxostoma carinatum	GBIF Backbone Taxonomy	2358998
+Moxostoma duquesnii	scientific	Moxostoma duquesnii	GBIF Backbone Taxonomy	2358983
+Moxostoma erythrurum	scientific	Moxostoma erythrurum	GBIF Backbone Taxonomy	2358966
+Moxostoma pisolabrum	scientific	Moxostoma pisolabrum	GBIF Backbone Taxonomy	2358979
+Moxostoma	scientific	Moxostoma	GBIF Backbone Taxonomy	2358961
+Nocomis asper	scientific	Nocomis asper	GBIF Backbone Taxonomy	2365438
+Nocomis biguttatus	scientific	Nocomis biguttatus	GBIF Backbone Taxonomy	2365443
+Noturus albater	scientific	Noturus albater	GBIF Backbone Taxonomy	2341019
+Notropis atherinoides	scientific	Notropis atherinoides	GBIF Backbone Taxonomy	2362170
+Notropis boops	scientific	Notropis boops	GBIF Backbone Taxonomy	2362225
+Notropis dorsalis	scientific	Notropis dorsalis	GBIF Backbone Taxonomy	2366615
+Noturus exilis	scientific	Noturus exilis	GBIF Backbone Taxonomy	2341039
+Noturus flavus	scientific	Noturus flavus	GBIF Backbone Taxonomy	2341033
+Noturus flavater	scientific	Noturus flavater	GBIF Backbone Taxonomy	2341032
+Noturus gyrinus	scientific	Noturus gyrinus	GBIF Backbone Taxonomy	2341016
+Noturus lachneri	scientific	Noturus lachneri	GBIF Backbone Taxonomy	2341014
+Noturus maydeni	scientific	Noturus maydeni	GBIF Backbone Taxonomy	2341008
+Notropis nubilus	scientific	Notropis nubilus	GBIF Backbone Taxonomy	2362271
+Notropis ozarcanus	scientific	Notropis ozarcanus	GBIF Backbone Taxonomy	2362298
+Notropis percobromus	scientific	Notropis percobromus	GBIF Backbone Taxonomy	2362249
+Notropis stramineus	scientific	Notropis stramineus	GBIF Backbone Taxonomy	2362216
+Notropis telescopus	scientific	Notropis telescopus	GBIF Backbone Taxonomy	2362332
+Oncorhynchus mykiss	scientific	Oncorhynchus mykiss	GBIF Backbone Taxonomy	5204019
+Percina caprodes	scientific	Percina caprodes	GBIF Backbone Taxonomy	2382103
+Percina evides	scientific	Percina evides	GBIF Backbone Taxonomy	2382105
+Percina maculata	scientific	Percina maculata	GBIF Backbone Taxonomy	2382061
+Phenacobius mirabilis	scientific	Phenacobius mirabilis	GBIF Backbone Taxonomy	2363799
+Pimephales tenellus	scientific	Pimephales tenellus	GBIF Backbone Taxonomy	2367757
+Rhinichthys atratulus	scientific	Rhinichthys atratulus	GBIF Backbone Taxonomy	2359823
+Rhinichthys cataractae	scientific	Rhinichthys cataractae	GBIF Backbone Taxonomy	2359811
+Salmo trutta	scientific	Salmo trutta	GBIF Backbone Taxonomy	8215487
+Semotilus atromaculatus	scientific	Semotilus atromaculatus	GBIF Backbone Taxonomy	2360481
+Anguilla rostrata	scientific	Anguilla rostrata	GBIF Backbone Taxonomy	5212956
+Aphredoderus sayanus	scientific	Aphredoderus sayanus	GBIF Backbone Taxonomy	2401749
+Aplodinotus grunniens	scientific	Aplodinotus grunniens	GBIF Backbone Taxonomy	2400265
+Carpiodes carpio	scientific	Carpiodes carpio	GBIF Backbone Taxonomy	2358948
+Carpiodes cyprinus	scientific	Carpiodes cyprinus	GBIF Backbone Taxonomy	2358950
+Culaea inconstans	scientific	Culaea inconstans	GBIF Backbone Taxonomy	2356556
+Cyprinus carpio	scientific	Cyprinus carpio	GBIF Backbone Taxonomy	4286975
+Cyprinella galactura	scientific	Cyprinella galactura	GBIF Backbone Taxonomy	5207653
+Dorosoma cepedianum	scientific	Dorosoma cepedianum	GBIF Backbone Taxonomy	2413541
+Esox americanus vermiculatus	scientific	Esox americanus vermiculatus	GBIF Backbone Taxonomy	NA
+Esox niger	scientific	Esox niger	GBIF Backbone Taxonomy	2346629
+Etheostoma blennioides	scientific	Etheostoma blennioides	GBIF Backbone Taxonomy	2382397
+Etheostoma exile	scientific	Etheostoma exile	GBIF Backbone Taxonomy	2382377
+Etheostoma zonale	scientific	Etheostoma zonale	GBIF Backbone Taxonomy	2382365
+Esox lucius	scientific	Esox lucius	GBIF Backbone Taxonomy	2346633
+Fundulus notatus	scientific	Fundulus notatus	GBIF Backbone Taxonomy	5203690
+Fundulus olivaceus	scientific	Fundulus olivaceus	GBIF Backbone Taxonomy	5203637
+Gambusia affinis	scientific	Gambusia affinis	GBIF Backbone Taxonomy	2350580
+Hiodon tergisus	scientific	Hiodon tergisus	GBIF Backbone Taxonomy	2402318
+Hybognathus hankinsoni	scientific	Hybognathus hankinsoni	GBIF Backbone Taxonomy	2364394
+Ictiobus cyprinellus	scientific	Ictiobus cyprinellus	GBIF Backbone Taxonomy	2359081
+Ictalurus punctatus	scientific	Ictalurus punctatus	GBIF Backbone Taxonomy	5202520
+Labidesthes sicculus	scientific	Labidesthes sicculus	GBIF Backbone Taxonomy	2412271
+Lepomis cyanellus x humilis	scientific	Lepomis cyanellus x humilis	GBIF Backbone Taxonomy	NA
+Lepomis miniatus x cyanellus	scientific	Lepomis miniatus x cyanellus	GBIF Backbone Taxonomy	NA
+Lepomis cyanellus	scientific	Lepomis cyanellus	GBIF Backbone Taxonomy	2394494
+Lepomis gulosus	scientific	Lepomis gulosus	GBIF Backbone Taxonomy	2394507
+Lepomis humilis	scientific	Lepomis humilis	GBIF Backbone Taxonomy	2394483
+Lepomis miniatus x megalotis	scientific	Lepomis miniatus x megalotis	GBIF Backbone Taxonomy	NA
+Lepomis macrochirus	scientific	Lepomis macrochirus	GBIF Backbone Taxonomy	2394503
+Lepomis megalotis x cyanellus	scientific	Lepomis megalotis x cyanellus	GBIF Backbone Taxonomy	NA
+Lepomis microlophus	scientific	Lepomis microlophus	GBIF Backbone Taxonomy	2394501
+Lepomis miniatus	scientific	Lepomis miniatus	GBIF Backbone Taxonomy	2394505
+Lepomis macrochirus x cyanellus	scientific	Lepomis macrochirus x cyanellus	GBIF Backbone Taxonomy	NA
+Lepomis megalotis x macrochirus	scientific	Lepomis megalotis x macrochirus	GBIF Backbone Taxonomy	NA
+Lepisosteus osseus	scientific	Lepisosteus osseus	GBIF Backbone Taxonomy	2346701
+Lota lota	scientific	Lota lota	GBIF Backbone Taxonomy	2415460
+Micropterus punctulatus	scientific	Micropterus punctulatus	GBIF Backbone Taxonomy	5211245
+Micropterus salmoides	scientific	Micropterus salmoides	GBIF Backbone Taxonomy	2394563
+Notemigonus crysoleucas	scientific	Notemigonus crysoleucas	GBIF Backbone Taxonomy	2363714
+Notropis volucellus	scientific	Notropis volucellus	GBIF Backbone Taxonomy	2362211
+Perca flavescens	scientific	Perca flavescens	GBIF Backbone Taxonomy	2382004
+Pimephales notatus	scientific	Pimephales notatus	GBIF Backbone Taxonomy	2367736
+Pimephales promelas	scientific	Pimephales promelas	GBIF Backbone Taxonomy	2367742
+Pomoxis annularis	scientific	Pomoxis annularis	GBIF Backbone Taxonomy	2394534
+Pylodictis olivaris	scientific	Pylodictis olivaris	GBIF Backbone Taxonomy	2341077
+Cyprinidae	scientific	Cyprinidae	GBIF Backbone Taxonomy	7336
+Lepomis macrochirus x miniatus	scientific	Lepomis macrochirus x miniatus	GBIF Backbone Taxonomy	NA
+Lepomis	scientific	Lepomis	GBIF Backbone Taxonomy	2394482
+Luxilus	scientific	Luxilus	GBIF Backbone Taxonomy	2366958
+NA	scientific	NA	NA	NA
+Notropis	scientific	Notropis	GBIF Backbone Taxonomy	2362128
+Noturus	scientific	Noturus	GBIF Backbone Taxonomy	2341007
+Pimephales	scientific	Pimephales	GBIF Backbone Taxonomy	2367732

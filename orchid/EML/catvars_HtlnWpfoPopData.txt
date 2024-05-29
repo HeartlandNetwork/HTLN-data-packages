@@ -1,0 +1,31 @@
+attributeName	code	definition
+FlwrCond	Aborted Flwr	Flowers failed to fully develop
+FlwrCond	All Flowers Grazed Off	Flowers were grazed
+FlwrCond	Damaged	Physical damage of some kind occurred
+FlwrCond	Damaged - Insect	Physical damage caused by insects occurred
+FlwrCond	Damaged - Other	Physical damage of some kind occurred
+FlwrCond	Fair	Observer noted flowers in fair condition
+FlwrCond	Healthy	Observer noted flowers in healthy condition
+FlwrCond	Other	Unspecified observation that did not fit into the other catagories. See COMMENTS for more information.
+FlwrCond	Starting to Die Back	Inflorescence is beginning to senesce
+FlwrCond	NA	Not Applicable/No data
+FlwrStage	All Buds	No flowers have yet opened
+FlwrStage	All Flowers	All flowers have opened
+FlwrStage	Half Buds and Flower	50% of flowers have opened
+FlwrStage	Mostly Buds	Less than 50% of flowers have opened
+FlwrStage	Mostly Flowers	More than 50%  of flowers have opened
+FlwrStage	No Buds or Flowers	No Buds or Flowers observed
+FlwrStage	Other	Something else happened
+FlwrStage	NA	Not Applicable/No data
+PHENOLOGY	Reproductive	Not vegetative
+PopUnit	A	Location Unit A
+PopUnit	B	Location Unit B
+PopUnit	C	Location Unit C
+PopUnit	D	Location Unit D
+PopUnit	None	Located outside of units
+TypeFlower	All Aborted	All flowers have aborted
+TypeFlower	All Browsed	All flowers have been browsed
+TypeFlower	Flowers Produced	Flowers were produced
+TypeFlower	Pre-flower Emergence	"Flowering inflorescence produced but flowering buds have not yet been produced, precluding counting flower number"
+dwcBasisOfRecord	HumanObservation	All observations collected by human s
+dwcType	event	All observations occurred at a specific point in time

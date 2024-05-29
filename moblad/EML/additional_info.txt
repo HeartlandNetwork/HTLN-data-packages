@@ -1,0 +1,1 @@
+﻿Geographical information for the sampled bladderpods/grid cells was dropped from these datasets due to the threatened status of the Missouri bladderpod at the time of publishing.

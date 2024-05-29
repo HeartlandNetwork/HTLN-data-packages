@@ -1,0 +1,13 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+PeriodID	Sampling season	character				
+Season	Year of Sampling Period Start Date	Date		YYYY		
+SamplingPeriods_StartDate	Start date of sampling period (sampling season)	Date		MM/DD/YYYY		
+SamplingPeriods_EndDate	End date of sampling period (sampling season)	Date		MM/DD/YYYY		
+EventID	EventID code (primary key)	character				
+SamplingEvents_StartDate	Start date of sampling event (sampling visit)	Date		MM/DD/YYYY		
+SamplingEvents_EndDate	End date of sampling event (sampling visit)	Date		MM/DD/YYYY		
+EventComments	Event (sampling visit) comments	character				
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

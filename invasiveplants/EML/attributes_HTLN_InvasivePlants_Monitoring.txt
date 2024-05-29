@@ -1,0 +1,19 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	The name of the park.	character			-9999	Data is not available
+ParkCode	The park acronym.	categorical			-9999	Data is not available
+LocationID	The unique identifier for the site location.	character			-9999	Data is not available
+PeriodID	"The unique identifier for the data collection period based on the park code, project code, and start date of the sampling period."	character			-9999	Data is not available
+CoverClassInMetersSquared	The number corresponding to estimation of foliar coverage of the taxa in square meters.	categorical			-9999	Data is not available
+CommonName	"The accepted HTLN common name(s) of taxa, used when discussing taxa with managers."	character			-9999	Data is not available
+VerbatimIdentification	The taxonomic identification as it appeared in the original record.	character			-9999	Data is not available
+LatitudeInDecimalDegrees	The latitude in decimal degrees.	numeric	degree		-9999	Data is not available
+LongitudeInDecimalDegrees	The longitude in decimal degrees.	numeric	degree		-9999	Data is not available
+GeodeticDatum	The geodetic datum upon which the geographic coordinates given in LatitudeInDecimalDegrees and LongitudeInDecimalDegrees are based.	categorical			-9999	Data is not available
+VerbatimCoordinates	The verbatim original spatial coordinates of the LocationID.	character			-9999	Data is not available
+VerbatimCoordinatesSystem	The coordinate format for the VerbatimCoordinates of the LocationID.	categorical			-9999	Data is not available
+VerbatimSRS	The spatial reference system (SRS) upon which coordinates given in VerbatimCoordinates are based.	categorical			-9999	Data is not available
+Date	The date on which the sampling event occurred.	Date		yyyy-mm-dd	-9999	Data is not available
+Type	The nature of the resource.	categorical			-9999	Data is not available
+BasisofRecord	The specific nature of the data record.	categorical			-9999	Data is not available
+ScientificName	The scientific name of the organism.	character			-9999	Data is not available
+TaxonRank	The taxonomic rank of the most specific name in ScientificName.	categorical			-9999	Data is not available

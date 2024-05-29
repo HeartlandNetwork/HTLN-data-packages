@@ -1,0 +1,10 @@
+attributeName	code	definition
+Status	Active	Active site
+Status	Retired	Retired site
+dwcBasisOfRecord	MachineObservation	An output of a machine observation process.
+dwcType	Event	An action that occurs at some location during some time.
+startDDDatum	EPSG:4326	WGS 84
+startUTMDatum	EPSG:32614	WGS 84 / UTM zone 14N
+startUTMDatum	EPSG:32615	WGS 84 / UTM zone 14N
+startUTMZone	14N	UTM Zone 14N
+startUTMZone	15N	UTM Zone 15N

@@ -1,0 +1,15 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel type description	categorical				
+GaugeSiteNo	Guage site identifier	numeric	dimensionless			
+StreamName	River or stream name	categorical				
+GaugeLocation	Gauge location description	categorical				
+GaugeStationSource	Gauge station owner	categorical				
+Discharge_CentimetersPerSecond	Discharge rate	numeric	centimeterPerSecond			
+Comments	Comments	character				
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

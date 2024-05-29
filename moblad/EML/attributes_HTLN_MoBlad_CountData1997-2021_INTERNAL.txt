@@ -1,0 +1,14 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	categorical				
+ParkCode	Park unit code	categorical				
+dwcType	The nature or genre of the resource	categorical				
+dwcBasisOfRecord	The specific nature of the data record	categorical				
+CalYr	Calendar year the survey takes place in	Date		yyyy		
+scientificName	The binomial nomenclature of the observed organism at the time of publishing	character				
+GridSizeInMeters	Size of cells in the grid	numeric	meter			
+DataReleaseID	Grid cell identifier. The first character is the grid identification followed by the cell identifier (GRID_cellID)	character				
+DensityClass	Abundance class for estimating the number of individuals in a defined area	categorical			-1	Indicates a grid cell that was not sampled
+ClassRange	Range of abundance values contained by each abundance class	categorical			Not Sampled	Indicates a grid cell that was not sampled
+LowerBound	Lower boundary of the abundance class range	numeric	dimensionless		NA	Not applicable
+UpperBound	Upper boundary of the abundance class range	numeric	dimensionless		NA	Not applicable
+Midpoint	Midpoint of the abundance class range	numeric	dimensionless		NA	Not applicable

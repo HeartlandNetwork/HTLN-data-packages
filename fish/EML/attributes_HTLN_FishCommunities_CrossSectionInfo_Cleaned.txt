@@ -1,0 +1,25 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel type descriptions	categorical				
+SiteNumber	Site number	numeric	dimensionless			
+TransectNumber	Transect number	numeric	dimensionless			
+SampleLocation	Sample location description	categorical				
+ChannelUnit	Channel unit description	categorical				
+PoolForm	Pool form descriptions	categorical			NA	No observation
+Width_Meters	Width of channel at transect	numeric	meter		-999	No observation
+Depth_Centimeters	Depth at sample location	numeric	centimeter		-999	No observation
+Velocity_MetersPerSecond	Velocity at sample location	numeric	meterPerSecond		-999	No observation
+Velocity_MetersPerSecond_flag	Data quality flag for Velocity_MetersPerSecond	categorical				
+DominantWentworthSubstrate_Millimeters	Average grain size of dominant substrate according to the Wentworth grade scale	categorical			-999	No observation
+WentworthMidpoint_Millimeters	Midpoint value of grain size of dominant substrate 	numeric	millimeter		-999	No observation
+EmbeddedCanopyCover	Embedded cover description and pecentage 	categorical			NA	No observation
+ECC_MidpointValue1_Percent	Embedded cover midpoint	numeric	percent		-999	No observation
+CanopyCover	Canopy cover description and pecentage 	categorical			NA	No observation
+ECC_MidpointValue2_Percent	Canopy cover midpoint	numeric	percent		-999	No observation
+Comment	Comments	character			NA	No observation
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

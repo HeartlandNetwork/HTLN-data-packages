@@ -1,0 +1,6 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+YEAR	Year	Date		YYYY		
+CountOfPopUnit	Total number of orchids for that unit for that year	numeric	dimensionless			
+UnitCode	Code for the search unit	categorical				
+dwcType	Type of observation	categorical				
+dwcBasisOfRecord	How observations were made	categorical				

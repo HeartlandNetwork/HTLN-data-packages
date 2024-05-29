@@ -1,0 +1,12 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel type descriptions	categorical				
+ChannelTypeSampledLength_Meters	Total length of the channel type sampled in meters (range 1-100m)	numeric	meter		-999	No observation
+NumberOfTransects	Number of transects within the sampled channel type (range 1-11)	numeric	number			
+TransectSpacingInterval_Meters	Interval length in meters between transects within the sampled channel type  (range 10-100m)	numeric	meter		-999	No observation
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

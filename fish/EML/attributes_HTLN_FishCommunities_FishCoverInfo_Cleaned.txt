@@ -1,0 +1,21 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+TransectNumber	Transect number	numeric	dimensionless			
+SampleLocation	Sample location in the channel	categorical				
+ChannelType	Channel type code	categorical				
+HydroMoss_HY	Hydrophytes and mosses present	categorical				
+Boulders_BO	Boulders present	categorical				
+Artificial_AR	Artificial cover present	categorical				
+SmallWoodDeb_SWD	Small woody debris present	categorical				
+LargeWoodDeb_LWD	Large woody debris present	categorical				
+TreesRoots_TR	Trees and roots present	categorical				
+OverhangVeg_OV	Overhanging vegetation present	categorical				
+UndercutBank_UC	Undercut bank present	categorical				
+Bluff_BL	Bluff within 5 meters of water present	categorical				
+Comment	Comments	character			NA	No comment
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

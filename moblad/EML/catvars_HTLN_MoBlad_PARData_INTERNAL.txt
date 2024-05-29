@@ -1,0 +1,6 @@
+attributeName	code	definition
+ParkCode	WICR	Wilson's Creek National Battlefield
+ParkName	Wilson's Creek National Battlefield	Wilson's Creek National Battlefield
+PeriodDescriptor	Spring	Season of spring
+dwcBasisOfRecord	HumanObservation	Observation made in-person
+dwcType	Event	An occurence of sampling

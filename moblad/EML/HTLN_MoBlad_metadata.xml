@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="HTLN_MoBlad_metadata" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="unknown">
+  <dataset>
+    <alternateIdentifier>doi: https://doi.org/10.57830/2303034</alternateIdentifier>
+    <title>Missouri Bladderpod Monitoring Data at Wilson's Creek National Battlefield, 1997-2021 - Data Package</title>
+    <creator>
+      <individualName>
+        <givenName>James</givenName>
+        <givenName>R</givenName>
+        <surName>Brown</surName>
+      </individualName>
+      <organizationName>Student Conservation Association</organizationName>
+      <electronicMailAddress>James_Brown@partner.nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0009-0004-5867-1904</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Craig</givenName>
+        <surName>Young</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <electronicMailAddress>Craig_Young@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-1687-8825</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Jennifer</givenName>
+        <surName>Haack-Gaynor</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <electronicMailAddress>Jennifer_Haack@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-4497-5128</userId>
+    </creator>
+    <metadataProvider>
+      <organizationName>IMD</organizationName>
+    </metadataProvider>
+    <metadataProvider>
+      <organizationName>HTLN</organizationName>
+    </metadataProvider>
+    <associatedParty>
+      <individualName>
+        <givenName>John</givenName>
+        <surName>Boetsch</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <electronicMailAddress>John_Boetsch@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-0784-2211</userId>
+      <role>contributor</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Mike</givenName>
+        <surName>DeBacker</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <electronicMailAddress>Mike_DeBacker@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0009-0007-3221-0933</userId>
+      <role>contributor</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Lisa</givenName>
+        <surName>Thomas</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <role>contributor</role>
+    </associatedParty>
+    <pubDate>2024-05-01</pubDate>
+    <language>eng</language>
+    <abstract>
+      <para>The Heartland Inventory and Monitoring Network monitors the Missouri bladderpod (Physaria filiformis, formerly Lesquerella filiformis) a federally threatened plant at Wilson’s Creek National Battlefield. The plant is surveyed annually in the spring with the objectives to track changes in the abundance, distribution, and persistence of the Missouri bladderpod through time at Wilson’s Creek National Battlefield. Values for photosynthetically active radiation and Eastern red cedar basal area are also collected to see how that may play a role in plant density amounts over time.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>Monitoring</keyword>
+      <keyword>Heartland Network</keyword>
+      <keyword>National Park Service</keyword>
+      <keyword>NPS</keyword>
+      <keyword>HTLN</keyword>
+      <keyword>Federally Threatened</keyword>
+      <keyword>T&amp;E</keyword>
+      <keyword>Sensitive</keyword>
+      <keyword>Missouri Bladderpod</keyword>
+      <keyword>Lesquerella filiformis</keyword>
+      <keyword>Physaria filiformis</keyword>
+      <keyword>823238</keyword>
+      <keyword>23181</keyword>
+    </keywordSet>
+    <keywordSet>
+      <keyword>long-term monitoring</keyword>
+      <keyword>plant</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <additionalInfo>
+      <para>Geographical information for the sampled bladderpods/grid cells was dropped from these datasets due to the threatened status of the Missouri bladderpod at the time of publishing.</para>
+    </additionalInfo>
+    <intellectualRights>This product has been determined to contain Controlled Unclassified Information (CUI) by the National Park Service, and is intended for internal use only. It is not published under an open license. Unauthorized access, use, and distribution are prohibited.</intellectualRights>
+    <licensed>
+      <licenseName>No License/Controlled Unclassified Information</licenseName>
+    </licensed>
+    <coverage>
+      <geographicCoverage system="content unit link">
+        <geographicDescription>NPS Content Unit Link: WICR</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-93.394</westBoundingCoordinate>
+          <eastBoundingCoordinate>-93.4236</eastBoundingCoordinate>
+          <northBoundingCoordinate>37.1215</northBoundingCoordinate>
+          <southBoundingCoordinate>37.0799</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>1997-01-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2021-12-31</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>kingdom</taxonRankName>
+          <taxonRankValue>Plantae</taxonRankValue>
+          <commonName>plants</commonName>
+          <taxonId provider="https://itis.gov">202422</taxonId>
+          <taxonomicClassification>
+            <taxonRankName>subkingdom</taxonRankName>
+            <taxonRankValue>Viridiplantae</taxonRankValue>
+            <commonName>green plants</commonName>
+            <taxonId provider="https://itis.gov">954898</taxonId>
+            <taxonomicClassification>
+              <taxonRankName>infrakingdom</taxonRankName>
+              <taxonRankValue>Streptophyta</taxonRankValue>
+              <commonName>land plants</commonName>
+              <taxonId provider="https://itis.gov">846494</taxonId>
+              <taxonomicClassification>
+                <taxonRankName>superdivision</taxonRankName>
+                <taxonRankValue>Embryophyta</taxonRankValue>
+                <taxonId provider="https://itis.gov">954900</taxonId>
+                <taxonomicClassification>
+                  <taxonRankName>division</taxonRankName>
+                  <taxonRankValue>Tracheophyta</taxonRankValue>
+                  <commonName>vascular plants</commonName>
+                  <commonName>tracheophytes</commonName>
+                  <taxonId provider="https://itis.gov">846496</taxonId>
+                  <taxonomicClassification>
+                    <taxonRankName>subdivision</taxonRankName>
+                    <taxonRankValue>Spermatophytina</taxonRankValue>
+                    <commonName>spermatophytes</commonName>
+                    <commonName>seed plants</commonName>
+                    <taxonId provider="https://itis.gov">846504</taxonId>
+                    <taxonomicClassification>
+                      <taxonRankName>class</taxonRankName>
+                      <taxonRankValue>Magnoliopsida</taxonRankValue>
+                      <taxonId provider="https://itis.gov">18063</taxonId>
+                      <taxonomicClassification>
+                        <taxonRankName>superorder</taxonRankName>
+                        <taxonRankValue>Rosanae</taxonRankValue>
+                        <taxonId provider="https://itis.gov">846548</taxonId>
+                        <taxonomicClassification>
+                          <taxonRankName>order</taxonRankName>
+                          <taxonRankValue>Brassicales</taxonRankValue>
+                          <taxonId provider="https://itis.gov">822943</taxonId>
+                          <taxonomicClassification>
+                            <taxonRankName>family</taxonRankName>
+                            <taxonRankValue>Brassicaceae</taxonRankValue>
+                            <commonName>mustards</commonName>
+                            <commonName>crucifers</commonName>
+                            <taxonId provider="https://itis.gov">22669</taxonId>
+                            <taxonomicClassification>
+                              <taxonRankName>genus</taxonRankName>
+                              <taxonRankValue>Physaria</taxonRankValue>
+                              <commonName>twinpod</commonName>
+                              <taxonId provider="https://itis.gov">23269</taxonId>
+                              <taxonomicClassification>
+                                <taxonRankName>species</taxonRankName>
+                                <taxonRankValue>Physaria filiformis</taxonRankValue>
+                                <commonName>limestoneglade bladderpod</commonName>
+                                <commonName>Missouri bladderpod</commonName>
+                                <taxonId provider="https://itis.gov">823238</taxonId>
+                              </taxonomicClassification>
+                            </taxonomicClassification>
+                          </taxonomicClassification>
+                        </taxonomicClassification>
+                      </taxonomicClassification>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>kingdom</taxonRankName>
+          <taxonRankValue>Plantae</taxonRankValue>
+          <commonName>plants</commonName>
+          <taxonId provider="https://itis.gov">202422</taxonId>
+          <taxonomicClassification>
+            <taxonRankName>subkingdom</taxonRankName>
+            <taxonRankValue>Viridiplantae</taxonRankValue>
+            <commonName>green plants</commonName>
+            <taxonId provider="https://itis.gov">954898</taxonId>
+            <taxonomicClassification>
+              <taxonRankName>infrakingdom</taxonRankName>
+              <taxonRankValue>Streptophyta</taxonRankValue>
+              <commonName>land plants</commonName>
+              <taxonId provider="https://itis.gov">846494</taxonId>
+              <taxonomicClassification>
+                <taxonRankName>superdivision</taxonRankName>
+                <taxonRankValue>Embryophyta</taxonRankValue>
+                <taxonId provider="https://itis.gov">954900</taxonId>
+                <taxonomicClassification>
+                  <taxonRankName>division</taxonRankName>
+                  <taxonRankValue>Tracheophyta</taxonRankValue>
+                  <commonName>vascular plants</commonName>
+                  <commonName>tracheophytes</commonName>
+                  <taxonId provider="https://itis.gov">846496</taxonId>
+                  <taxonomicClassification>
+                    <taxonRankName>subdivision</taxonRankName>
+                    <taxonRankValue>Spermatophytina</taxonRankValue>
+                    <commonName>spermatophytes</commonName>
+                    <commonName>seed plants</commonName>
+                    <taxonId provider="https://itis.gov">846504</taxonId>
+                    <taxonomicClassification>
+                      <taxonRankName>class</taxonRankName>
+                      <taxonRankValue>Pinopsida</taxonRankValue>
+                      <commonName>conifers</commonName>
+                      <taxonId provider="https://itis.gov">500009</taxonId>
+                      <taxonomicClassification>
+                        <taxonRankName>subclass</taxonRankName>
+                        <taxonRankValue>Pinidae</taxonRankValue>
+                        <taxonId provider="https://itis.gov">954916</taxonId>
+                        <taxonomicClassification>
+                          <taxonRankName>order</taxonRankName>
+                          <taxonRankValue>Pinales</taxonRankValue>
+                          <commonName>pines</commonName>
+                          <taxonId provider="https://itis.gov">500028</taxonId>
+                          <taxonomicClassification>
+                            <taxonRankName>family</taxonRankName>
+                            <taxonRankValue>Cupressaceae</taxonRankValue>
+                            <commonName>cypress</commonName>
+                            <commonName>redwood</commonName>
+                            <taxonId provider="https://itis.gov">18042</taxonId>
+                            <taxonomicClassification>
+                              <taxonRankName>genus</taxonRankName>
+                              <taxonRankValue>Juniperus</taxonRankValue>
+                              <commonName>juniper</commonName>
+                              <commonName>cedar</commonName>
+                              <commonName>redcedar</commonName>
+                              <taxonId provider="https://itis.gov">18047</taxonId>
+                              <taxonomicClassification>
+                                <taxonRankName>species</taxonRankName>
+                                <taxonRankValue>Juniperus virginiana</taxonRankValue>
+                                <commonName>eastern red-cedar</commonName>
+                                <commonName>red cedar juniper</commonName>
+                                <commonName>eastern redcedar</commonName>
+                                <taxonId provider="https://itis.gov">18048</taxonId>
+                              </taxonomicClassification>
+                            </taxonomicClassification>
+                          </taxonomicClassification>
+                        </taxonomicClassification>
+                      </taxonomicClassification>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Judd</givenName>
+        <surName>Patterson</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <electronicMailAddress>Judd_Patterson@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-0951-7917</userId>
+    </contact>
+    <contact>
+      <individualName>
+        <givenName>Sherry</givenName>
+        <surName>Leis</surName>
+      </individualName>
+      <organizationName>National Park Service</organizationName>
+      <electronicMailAddress>Sherry_Leis@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-4092-6767</userId>
+    </contact>
+    <publisher>
+      <organizationName>National Park Service</organizationName>
+      <address>
+        <deliveryPoint>1201 Oakridge Drive, Suite 150</deliveryPoint>
+        <city>Fort Collins</city>
+        <administrativeArea>CO</administrativeArea>
+        <postalCode>80525</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>irma@nps.gov</electronicMailAddress>
+      <onlineUrl>http://www.nps.gov</onlineUrl>
+      <userId directory="https://ror.org/">https://ror.org/044zqqy65</userId>
+    </publisher>
+    <methods>
+      <methodStep>
+        <description>
+          <para>Beginning the first week in April of each year, the Missouri bladderpod population at grid A is inspected twice weekly to note the phenological status of the plants. Flowering typically begins in early to mid-April. Once peak flowering is observed, monitoring surveys begin. At grid A and C, observers mark the corners of 5 m X 5 m cells. During most years at grid A, only cells in the core area are sampled. Every five years, however, the entire grid is sampled. At the other eight grids, observers navigate in 15 m × 15 m (225 m^2) cells using a GNSS (global navigation satellite system) device; corners are not marked. For all sites, Missouri bladderpod density is estimated in grid cells using a density class scale: 0 = no plants, 1 = 1-9 plants, 2 = 10-49 plants, 3 = 50-99 plants, 4 = 100-499 plants, 5 = 500-999 plants, 6 = 1,000-4,999 plants, and 7 = &gt;5,000 plants.&#13;
+Prior to estimating density, observers calibrate their estimates. Observers estimate abundance using the density class scale (0 = no plants, 1 = 1-9 plants, 2 = 10-49 plants, 3 = 50-99 plants, 4 = 100-499 plants, 5 = 500-999 plants, 6 = 1,000-4,999 plants, 7 = &gt;5,000 plants) and then count the plants in the plot at the ground-level. This process is performed over a range of plot densities until estimates match counts. Observers should also compare results until estimates begin to converge. When estimating density, observers should consider counting up to 100 bladderpods in a 5 × 5m plot before determining estimates. Observers have the discretion to count as many plants as needed to improve confidence in the density estimate. Such counting may encompass all plants in the cell or only the plants in certain section of the plot (e.g., a particularly dense cluster of plants). If needed, plants may be counted in a portion of the plot and then extrapolated to the 5 × 5 m plot. Accuracy Assessment for Density Class Estimation is done on grid A only. &#13;
+After estimating density for each 5 × 5 m plot at grid A, 60 cells are randomly selected using the rand() function in Excel. Each plot is visited to assess reliability of density class assignments. Additional cells of known density class are selected subjectively for accuracy assessment to bring the total number of cells assessed per density class to 10.&#13;
+Habitat measurement only takes place on grid A. The percentage of photosynthetically active radiation (PAR) is measured at each plot center using LI-190 Quantum Sensors. PAR is the part of the electromagnetic radiation spectrum (400-700 nm) used in photosynthesis. Field workers also measure the diameter at breast height &#13;
+(dbh) of all Eastern red cedar (Juniperus virginiana) stems reaching breast height (1.37 m). Because cedar basal area will not vary greatly in the absence of disturbance, such measurements are only required on a five-year basis. Observers should, however, measure cedar basal area following significant canopy changes (e.g., thinning, fire, ice storms, tornados).&#13;
+</para>
+        </description>
+      </methodStep>
+    </methods>
+    <dataTable>
+      <entityName>HTLN Missouri Bladderpod Survey Accuracy</entityName>
+      <entityDescription>HTLN Missouri bladderpod accuracy data for 2006 to 2021 for grid A</entityDescription>
+      <physical>
+        <objectName>HTLN_MoBlad_AccuracyGridA_INTERNAL.csv</objectName>
+        <size unit="bytes">85363</size>
+        <authentication method="MD5">f044410a9d9c64ce1401214cdc3178d6</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2303034</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>ParkCode</attributeName>
+          <attributeDefinition>Park unit code</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>WICR</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>The nature or genre of the resource</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Event</code>
+                    <definition>An occurence of sampling</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>The specific nature of the data record</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>Observation made in-person</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName</attributeName>
+          <attributeDefinition>The binomial nomenclature of the observed organism at the time of publishing</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The binomial nomenclature of the observed organism at the time of publishing</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DataReleaseID</attributeName>
+          <attributeDefinition>Grid cell identifier. The first character is the grid identification, followed by the cell identifier (GRID_cellID)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Grid cell identifier. The first character is the grid identification, followed by the cell identifier (GRID_cellID)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CalYr</attributeName>
+          <attributeDefinition>Calendar year the survey took place</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>yyyy</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Type</attributeName>
+          <attributeDefinition>Type of sample SRS is simple random sample; subj is non-randomly selected. Non-random would have been selected if not enough random cells occurred in higher density classes</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>srs</code>
+                    <definition>Simple Random Sample</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>strat</code>
+                    <definition>Stratified Random Sample</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>subj</code>
+                    <definition>Non-randomly Selected Sample</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Count</attributeName>
+          <attributeDefinition>Number of individuals found in a given grid cell</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">2310</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DensityClass_Estimated</attributeName>
+          <attributeDefinition>Missouri bladderpod density class, estimated in 5x5 m plot at grid A</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>No plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>1-9 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>10-49 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>50-99 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>100-499 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5</code>
+                    <definition>500-999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>6</code>
+                    <definition>1,000-4,999 plants</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DensityClass_Actual</attributeName>
+          <attributeDefinition>Based on the count what the true density class is/should be for the grid plot</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>No plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>1-9 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>10-49 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>50-99 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>100-499 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5</code>
+                    <definition>500-999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>6</code>
+                    <definition>1,000-4,999 plants</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Correct</attributeName>
+          <attributeDefinition>Count is within 20% of upper bound for density class 1, and within 10% of upper and lower bounds for density classes 2+</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>FALSE</code>
+                    <definition>Value in count is NOT within 20% of upper bound for density class 1</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TRUE</code>
+                    <definition>Value in count falls within 20% of upper bound for density class 1, and within 10% of upper and lower bounds for density classes 2+</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>965</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Eastern Red Cedar Occurrences and Sizes</entityName>
+      <entityDescription>Diameter of Eastern red cedars found within bladderpod survey grid A at WICR</entityDescription>
+      <physical>
+        <objectName>HTLN_MoBlad_CedarData_INTERNAL.csv</objectName>
+        <size unit="bytes">392685</size>
+        <authentication method="MD5">72d5e4809c202aabd5808108350c4d5c</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2303034</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>ParkName</attributeName>
+          <attributeDefinition>Park name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Wilson's Creek National Battlefield</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ParkCode</attributeName>
+          <attributeDefinition>Park unit code</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>WICR</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>The nature or genre of the resource</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Event</code>
+                    <definition>An occurence of sampling</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>The specific nature of the data record</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>Observation made in-person</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CalYr</attributeName>
+          <attributeDefinition>Calendar year the survey took place</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>yyyy</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName</attributeName>
+          <attributeDefinition>The binomial nomenclature of the observed organism at the time of publishing</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The binomial nomenclature of the observed organism at the time of publishing</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DataReleaseID</attributeName>
+          <attributeDefinition>Grid cell identifier. The first character is the grid identification, followed by the cell identifier (GRID_cellID)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Grid cell identifier. The first character is the grid identification, followed by the cell identifier (GRID_cellID)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dbhInCentimeters</attributeName>
+          <attributeDefinition>Diameter at breast height of Juniperus virginiana</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.1</minimum>
+                  <maximum exclusive="false">31.8</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>3476</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>HTLN Missouri Bladderpod Counts, 1997-2021</entityName>
+      <entityDescription>HTLN Missouri bladderpod survey data from 1997 to 2021 for 10 grids</entityDescription>
+      <physical>
+        <objectName>HTLN_MoBlad_CountData1997-2021_INTERNAL.csv</objectName>
+        <size unit="bytes">2125668</size>
+        <authentication method="MD5">902aff5ed79e1b8c85fdca0afe82c20d</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2303034</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>ParkName</attributeName>
+          <attributeDefinition>Park name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Wilson's Creek National Battlefield</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ParkCode</attributeName>
+          <attributeDefinition>Park unit code</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>WICR</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>The nature or genre of the resource</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Event</code>
+                    <definition>An occurence of sampling</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>The specific nature of the data record</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>Observation made in-person</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CalYr</attributeName>
+          <attributeDefinition>Calendar year the survey takes place in</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>yyyy</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName</attributeName>
+          <attributeDefinition>The binomial nomenclature of the observed organism at the time of publishing</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The binomial nomenclature of the observed organism at the time of publishing</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>GridSizeInMeters</attributeName>
+          <attributeDefinition>Size of cells in the grid</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">5</minimum>
+                  <maximum exclusive="false">15</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DataReleaseID</attributeName>
+          <attributeDefinition>Grid cell identifier. The first character is the grid identification followed by the cell identifier (GRID_cellID)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Grid cell identifier. The first character is the grid identification followed by the cell identifier (GRID_cellID)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DensityClass</attributeName>
+          <attributeDefinition>Abundance class for estimating the number of individuals in a defined area</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>-1</code>
+                    <definition>Not sampled</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>No plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>1-9 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>10-49 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>50-99 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>100-499 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5</code>
+                    <definition>500-999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>6</code>
+                    <definition>1,000-4,999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>&gt;5,000 plants</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-1</code>
+            <codeExplanation>Indicates a grid cell that was not sampled</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>ClassRange</attributeName>
+          <attributeDefinition>Range of abundance values contained by each abundance class</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>No plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1 - 10</code>
+                    <definition>1-9 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>10 - 50</code>
+                    <definition>10-49 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>100 - 500</code>
+                    <definition>100-499 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1000 - 5000</code>
+                    <definition>1000-4999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>50 - 100</code>
+                    <definition>50-99 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>500 - 1000</code>
+                    <definition>500-999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5000 - 10000</code>
+                    <definition>5,000-9,999 plants</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Not Sampled</code>
+                    <definition>Not sampled</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>Not Sampled</code>
+            <codeExplanation>Indicates a grid cell that was not sampled</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>LowerBound</attributeName>
+          <attributeDefinition>Lower boundary of the abundance class range</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">5000</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not applicable</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>UpperBound</attributeName>
+          <attributeDefinition>Upper boundary of the abundance class range</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">9999</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not applicable</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Midpoint</attributeName>
+          <attributeDefinition>Midpoint of the abundance class range</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">7499.5</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not applicable</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>16828</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>HTLN Missouri Bladderpod Photosynthesis Activity</entityName>
+      <entityDescription>Photosynthetically Active Radiation of Missouri bladderpod in grid A in 2007-2008, and 2015</entityDescription>
+      <physical>
+        <objectName>HTLN_MoBlad_PARData_INTERNAL.csv</objectName>
+        <size unit="bytes">202077</size>
+        <authentication method="MD5">2c13dc3bb9ae9c0757d226b9029deaba</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2303034</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>ParkName</attributeName>
+          <attributeDefinition>Park name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Wilson's Creek National Battlefield</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ParkCode</attributeName>
+          <attributeDefinition>Park unit code</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>WICR</code>
+                    <definition>Wilson's Creek National Battlefield</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>The nature or genre of the resource</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Event</code>
+                    <definition>An occurence of sampling</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>The specific nature of the data record</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>Observation made in-person</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PeriodDescriptor</attributeName>
+          <attributeDefinition>What season the survey took place in</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Spring</code>
+                    <definition>Season of spring</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CalYr</attributeName>
+          <attributeDefinition>Calendar year the survey took place in</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>yyyy</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName</attributeName>
+          <attributeDefinition>The binomial nomenclature of the observed organism at the time of publishing</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The binomial nomenclature of the observed organism at the time of publishing</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DataReleaseID</attributeName>
+          <attributeDefinition>Grid cell identifier; the first character is the grid identification, followed by the cell identifier (GRID_cellID)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Grid cell identifier; the first character is the grid identification, followed by the cell identifier (GRID_cellID)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Reading_No</attributeName>
+          <attributeDefinition>The running count of readings taken within the corresponding grid cell throughout the corresponding calendar year</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">4</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PAR_CanopyInMicroMolePerMeterSquaredPerSecond</attributeName>
+          <attributeDefinition>Photosynthetically active radiation (PAR) reading under canopy, averaged over 15 sec (simultaneous with PAR in full sun reading using LI-250A Light Meter and LI-190 Quantum Sensor). This is the non-control part of the ratio. Measurement taken at same time as full sun value, but at grid location. PAR_Canopy divided by PAR_FullSun will give you the percent of full sun at the grid cell.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>micromolePerMeterSquaredPerSecond</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">21.5</minimum>
+                  <maximum exclusive="false">2164</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PAR_FullSunInMicroMolePerMeterSquaredPerSecond</attributeName>
+          <attributeDefinition>Photosynthetically active radiation (PAR) reading in full sun, averaged over 15 sec (simultaneous with PAR under canopy reading using LI-250A Light Meter and LI-190 Quantum Sensor). This is the control part of the ratio. Measurement taken at same time as canopy value, but away from grid in full openness/full sunlight. PAR_Canopy divided by PAR_FullSun will give you the percent of full sun at the grid cell.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>micromolePerMeterSquaredPerSecond</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">185.5</minimum>
+                  <maximum exclusive="false">2292</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>1535</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata id="CUI">
+    <metadata>
+      <CUI>FED ONLY</CUI>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata>
+    <metadata>
+      <emlEditor>
+        <app>EMLassemblyline</app>
+        <release>3.5.5</release>
+      </emlEditor>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata id="agencyOriginated">
+    <metadata>
+      <agencyOriginated>
+        <agency>NPS</agency>
+        <byOrForNPS>TRUE</byOrForNPS>
+      </agencyOriginated>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata id="emlEditor">
+    <metadata>
+      <emlEditor>
+        <app>EMLeditor</app>
+        <release>0.1.4</release>
+      </emlEditor>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

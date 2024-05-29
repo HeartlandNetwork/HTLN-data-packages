@@ -1,0 +1,13 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+verbatimMeasurementTime	"the date and time when the observation was made, as originally recorded"	Date		mm/dd/yyyy hh:ss		
+five_cmDepthMoisture	Port 1 EC-TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 5cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed		NA	"Sensor probe stopped working (usually due to battery, weather or animal issues)"
+five_cmDepthTempC	Port 1 EC-TM Moisture/Temp C: water content/temp probe at a depth of 5cm that is documenting temperature in degrees Celsius.	numeric	celsius		NA	"Sensor probe stopped working (usually due to battery, weather or animal issues)"
+ten_cmDepthMoisture	Port 2 EC-5 Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 10cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed		NA	"Sensor probe stopped working (usually due to battery, weather or animal issues)"
+twenty_cmDepthMoisture	Port 3 EC-TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 20cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed		NA	"Sensor probe stopped working (usually due to battery, weather or animal issues)"
+twenty_cmDepthTempC	Port 3 EC-TM Moisture/Temp C: water content/temp probe at a depth of 20cm that is documenting temperature in degrees Celsius.	numeric	celsius		NA	"Sensor probe stopped working (usually due to battery, weather or animal issues)"
+forty_cmDepthMoisture	Port 4 EC-5 Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 40cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed		NA	"Sensor probe stopped working (usually due to battery, weather or animal issues)"
+RainGage_mm	Rain gage with 1mm tip resolution (fills to 1mm then counts measurement then empties water to fill again.  Does not document frozen water (ice/snow).	numeric	milliliter		NA	"Weather gauge stopped working, potentially due to sub-zero temperatures and inability to measure non-liquid precipitation"
+eventDate	Date of sampling event	Date		YYYY-MM-DD		
+eventTime	Time of sampling event including offset for central time zone daylights savings time	Date		hh:mm		
+dwcType	Type of record	categorical				
+dwcBasisOfRecord	How were observations generated	categorical				

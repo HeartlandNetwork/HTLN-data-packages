@@ -1,0 +1,20 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel Type Codes	categorical				
+SiteNumber	Site number	numeric	dimensionless			
+Muck	Daubenmire cover class-muck	categorical			-999	No observation
+Detritus	Daubenmire cover class-detritus	categorical			-999	No observation
+Silt	Daubenmire cover class-silt	categorical			-999	No observation
+Sand	Daubenmire cover class-sand	categorical			-999	No observation
+Pea_gravel	Daubenmire cover class-pea gravel	categorical			-999	No observation
+Coarse_gravel	Daubenmire cover class-course gravel	categorical			-999	No observation
+Cobble	Daubenmire cover class-cobble	categorical			-999	No observation
+Boulder	Daubenmire cover class-boulder	categorical			-999	No observation
+Bedrock	Daubenmire cover class-bedrock	categorical			-999	No observation
+Hardpan_shale	Daubenmire cover class-hardpan_shale	categorical			-999	No observation
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

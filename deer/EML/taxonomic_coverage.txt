@@ -1,0 +1,2 @@
+name	name_type	name_resolved	authority_system	authority_id
+Odocoileus virginianus	scientific	Odocoileus virginianus	ITIS	180699

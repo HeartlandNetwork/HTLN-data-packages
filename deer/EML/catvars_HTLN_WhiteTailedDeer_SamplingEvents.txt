@@ -1,0 +1,41 @@
+attributeName	code	definition
+BasisofRecord	HumanObservation	An output of a human observation process.
+BeginningCloudCoverInPercent	 1 - 5	The beginning cloud cover was between 1 to 5%.
+BeginningCloudCoverInPercent	25 - 50	The beginning cloud cover was between 25 to 50%.
+BeginningCloudCoverInPercent	 5 - 25	The beginning cloud cover was between 5 to 25%.
+BeginningCloudCoverInPercent	50 - 75	The beginning cloud cover was between 50 to 75%.
+BeginningCloudCoverInPercent	75 - 95	The beginning cloud cover was between 75 to 95%.
+BeginningCloudCoverInPercent	95 - 100	The beginning cloud cover was between 95 to 100%.
+BeginningCloudCoverInPercent	None present	There was no beginning cloud cover.
+BeginningCloudCoverInPercent	Trace - 1	The beginning cloud cover was between a trace amount to 1%.
+BeginningPrecipitation	Light drizzle	The beginning precipitation was a light drizzle.
+BeginningPrecipitation	Light rain	The beginning precipitation was a light rain.
+BeginningPrecipitation	Mist or fog	The beginning precipitation was mist or fog.
+BeginningPrecipitation	No rain	There was no beginning precipitation.
+BeginningPrecipitation	Snow	The beginning precipitation was snow.
+EndingCloudCoverInPercent	 1 - 5	The ending cloud cover was between 1 to 5%.
+EndingCloudCoverInPercent	25 - 50	The ending cloud cover was between 25 to 50%.
+EndingCloudCoverInPercent	 5 - 25	The ending cloud cover was between 5 to 25%.
+EndingCloudCoverInPercent	50 - 75	The ending cloud cover was between 50 to 75%.
+EndingCloudCoverInPercent	75 - 95	The ending cloud cover was between 75 to 95%.
+EndingCloudCoverInPercent	95 - 100	The ending cloud cover was between 95 to 100%.
+EndingCloudCoverInPercent	None present	The ending cloud cover was 0%.
+EndingCloudCoverInPercent	Trace - 1	The ending cloud cover was between a trace amount to 1%.
+EndingPrecipitation	Heavy rain difficult to hear	The ending precipitation was a heavy rain that made it difficult to hear.
+EndingPrecipitation	Light drizzle	The ending precipitation was a light drizzle.
+EndingPrecipitation	Light rain	The ending precipitation was a light rain.
+EndingPrecipitation	Mist or fog	The ending precipitation was mist or fog.
+EndingPrecipitation	No rain	There was no ending precipitation.
+EndingPrecipitation	Snow	The ending precipitation was snow.
+ParkCode	ARPO	The abbreviation for Arkansas Post National Memorial.
+ParkCode	PERI	The abbreviation for Pea Ridge National Military Park.
+ParkCode	WICR	The abbreviation for Wilson's Creek National Battlefield.
+Round	A	The sample was collected during round A.
+Round	B	The sample was collected during round B.
+Round	C	The sample was collected during round C.
+Round	DayA	The sample was collected during round DayA.
+Round	DayB	The sample was collected during round DayB.
+Round	DayC	The sample was collected during round DayC.
+Route	Tour Road	The sample was collected from the tour road.
+TaxonRank	Species	The taxon rank is species.
+dwcType	Event	An action that occurs at some location during some time.

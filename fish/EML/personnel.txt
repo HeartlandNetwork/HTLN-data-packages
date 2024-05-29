@@ -1,0 +1,14 @@
+givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+Hope	R	Dodd	National Park Service	hope_dodd@nps.gov		Creator			
+Issac	A	Quevedo	National Park Service	issac_quevedo@nps.gov	0000-0003-0129-981X	Creator			
+Gareth	A	Rowell	National Park Service	gareth_rowell@nps.gov		Contact			
+David	G	Peitz	National Park Service	david_peitz@nps.gov		Contributor			
+Janice	A	Hinsey				Contributor			
+David	E	Bowles				Contributor			
+Lloyd	W	Morrison	National Park Service	lloyd_morrison@nps.gov		Contributor			
+Michael	D	DeBacker	National Park Service	mike_debacker@nps.gov		Contributor			
+Jennifer	L	Haack-Gaynor	National Park Service	jennifer_haack@nps.gov		Contributor			
+Jeffrey	M	Williams				Contributor			
+James	C	Petersen				Contributor			
+Billy	G	Justus				Contributor			
+Tyler		Cribbs				Contributor			

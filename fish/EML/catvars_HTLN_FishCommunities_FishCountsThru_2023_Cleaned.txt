@@ -1,0 +1,60 @@
+attributeName	code	definition
+ChannelType	Main	The channel that contains the majority of flow
+ChannelType	backwater_main	Backwater habitat off of the main channel
+ChannelType	backwater_side	Backwater habitat off of the side channel
+ChannelType	main	The channel that contains the majority of flow
+ChannelType	side channel	The channel that contains the lesser amount of flow
+FishAnomaly	Black spot	Black spot
+FishAnomaly	Deformaties	Deformaties
+FishAnomaly	Eroded Fins	Eroded Fins
+FishAnomaly	Lesions	Lesions
+FishAnomaly	Multiple anomalies	Multiple anomalies
+FishAnomaly	No Anomalies	No Anomalies
+FishAnomaly	Tumors	Tumors
+ParkCode	BUFF	Buffalo National River
+ParkCode	EFMO	Effigy Mounds National Monument
+ParkCode	GWCA	George Washington Carver National Monument
+ParkCode	HEHO	Herbert Hoover National Historic Site
+ParkCode	HOME	Homestead National Monument of America
+ParkCode	HOSP	Hot Springs National Park
+ParkCode	OZAR	Ozark National Scenic Riverways
+ParkCode	PERI	Pea Ridge National Military Park
+ParkCode	PIPE	Pipestone National Monument
+ParkCode	TAPR	Tallgrass Prairie National Preserve
+ParkCode	WICR	Wilson's Creek National Battlefield
+ReproductiveClassification	Lithophilic spawner - spawns in clean gravel or cobble substrate. Can be simple. site prep. or parental care spawners	Lithophilic spawner - spawns in clean gravel or cobble substrate. Can be simple. site prep. or parental care spawners
+ReproductiveClassification	Non-lithophilic spawner  - spawns in vegetation. debris. open water. or variable substrate. Can be simple. site prep. or parental care spawners	Non-lithophilic spawner  - spawns in vegetation. debris. open water. or variable substrate. Can be simple. site prep. or parental care spawners
+ReproductiveClassification	Unknown	Unknown reproductive classification
+SamplingGear	Backpack	Backpack
+SamplingGear	Barge	Barge
+SamplingGear	Boat	Boat
+SamplingGear	backpack	backpack
+SamplingGear	backpack & boat	backpack & boat
+SamplingGear	barge	barge
+SamplingGear	boat	boat
+SamplingGear	seine	seine
+ScientificNameDataSource	GBIF Backbone Taxonomy	GBIF Backbone Taxonomy used to resolve scientific names
+ScientificName_flag	A	Accepted
+ScientificName_flag	AE	"Accepted, but estimated"
+TaxonRank	family	family
+TaxonRank	genus	genus
+TaxonRank	species	species
+TaxonRank	subspecies	subspecies
+Tolerance	Intolerant to poor water quality and human disturbance	Intolerant to poor water quality and human disturbance
+Tolerance	Moderately tolerent to poor water quality and human disturbance	Moderately tolerent to poor water quality and human disturbance
+Tolerance	Tolerant to poor water quality and human disturbance	Tolerant to poor water quality and human disturbance
+Tolerance	Unknown tolerance to poor water quality and human disturbance	Unknown tolerance to poor water quality and human disturbance
+TrophicClassification	Algivore-Herbivore/Invertivore	Algivore-Herbivore/Invertivore
+TrophicClassification	Algivore-Herbivore/Invertivore/Piscivore   (i.e. Generalist/Omnivore)	Algivore-Herbivore/Invertivore/Piscivore   (i.e. Generalist/Omnivore)
+TrophicClassification	Detritivore/Algivore-Herbivore	Detritivore/Algivore-Herbivore
+TrophicClassification	Detritivore/Algivore-Herbivore/Invertivore    (i.e. Generalist/Omnivore)	Detritivore/Algivore-Herbivore/Invertivore    (i.e. Generalist/Omnivore)
+TrophicClassification	Detritivore/Algivore-Herbivore/Invertivore/Piscivore   (i.e. Generalist/Omnivore)	Detritivore/Algivore-Herbivore/Invertivore/Piscivore   (i.e. Generalist/Omnivore)
+TrophicClassification	Invertivore (i.e. eats invertebrates and/or insects)	Invertivore (i.e. eats invertebrates and/or insects)
+TrophicClassification	Invertivore/Piscivore	Invertivore/Piscivore
+TrophicClassification	Piscivore	Piscivore
+TrophicClassification	Top Piscivore (i.e. Top Carnivore)	Top Piscivore (i.e. Top Carnivore)
+TrophicClassification	Unknown	Unknown trophic classification
+Vouchered	FALSE	Species not vouchered
+Vouchered	TRUE	Species vouchered
+dwcBasisOfRecord	HumanObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.

@@ -1,0 +1,17 @@
+attributeName	code	definition
+ChannelType	Main	The channel that contains the majority of flow
+ChannelType	Side channel	The channel that contains the lesser amount of flow
+ChannelType	main	The channel that contains the majority of flow
+ChannelType	side channel	The channel that contains the lesser amount of flow
+ParkCode	BUFF	Buffalo National River
+ParkCode	EFMO	Effigy Mounds National Monument
+ParkCode	GWCA	George Washington Carver National Monument
+ParkCode	HEHO	Herbert Hoover National Historic Site
+ParkCode	HOSP	Hot Springs National Park
+ParkCode	OZAR	Ozark National Scenic Riverways
+ParkCode	PERI	Pea Ridge National Military Park
+ParkCode	WICR	Wilson's Creek National Battlefield
+Velocity_MetersPerSecond_flag	A	Accepted
+Velocity_MetersPerSecond_flag	R	Rejected
+dwcBasisOfRecord	HumanObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.

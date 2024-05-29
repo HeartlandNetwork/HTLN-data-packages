@@ -1,0 +1,8 @@
+﻿Data cleaning notes:
+Coded values were retrieved from SOP #4 Conducting the Spotlight Survey.docx: https://irma.nps.gov/DataStore/DownloadFile/619941
+
+HTLN_WhiteTailedDeer_Monitoring_cleaned.csv: Within the raw data of the AngleInDegrees column, a single value was recorded as '-1'. As all 'On Road' samples should have an AngleInDegrees value of '0', this value was corrected with the approval of HTLN's Haack-Gaynor JL.
+
+HTLN_WhiteTailedDeer_SamplingEvents_cleaned.csv: Within the raw data, the ObjectID column was simply an autonumber, and has been removed with the approval of HTLN's Haack-Gaynor JL.
+
+All data were collected in the Central Time Zone (CT).

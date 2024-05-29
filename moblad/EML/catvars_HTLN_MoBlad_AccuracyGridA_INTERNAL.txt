@@ -1,0 +1,23 @@
+attributeName	code	definition
+Correct	FALSE	Value in count is NOT within 20% of upper bound for density class 1
+Correct	TRUE	Value in count falls within 20% of upper bound for density class 1, and within 10% of upper and lower bounds for density classes 2+
+DensityClass_Actual	0	No plants
+DensityClass_Actual	1	1-9 plants
+DensityClass_Actual	2	10-49 plants
+DensityClass_Actual	3	50-99 plants
+DensityClass_Actual	4	100-499 plants
+DensityClass_Actual	5	500-999 plants
+DensityClass_Actual	6	1,000-4,999 plants
+DensityClass_Estimated	0	No plants
+DensityClass_Estimated	1	1-9 plants
+DensityClass_Estimated	2	10-49 plants
+DensityClass_Estimated	3	50-99 plants
+DensityClass_Estimated	4	100-499 plants
+DensityClass_Estimated	5	500-999 plants
+DensityClass_Estimated	6	1,000-4,999 plants
+ParkCode	WICR	Wilson's Creek National Battlefield
+Type	srs	Simple Random Sample
+Type	strat	Stratified Random Sample
+Type	subj	Non-randomly Selected Sample
+dwcBasisOfRecord	HumanObservation	Observation made in-person
+dwcType	Event	An occurence of sampling

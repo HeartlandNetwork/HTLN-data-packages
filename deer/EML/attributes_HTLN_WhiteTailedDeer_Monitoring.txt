@@ -1,0 +1,48 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	The name of the park.	categorical			-9999	No value collected  
+ParkCode	The 4-character park code.	categorical			-9999	No value collected  
+PeriodID	"The unique identifier for the data collection period based on the park code, project code, and start date of the sampling period."	character			-9999	No value collected  
+EventID	The unique identifier for the sampling event.	character			-9999	No value collected  
+SurveyNumber	"The day of the survey that is being sampled. In the early years will be 1-3, in later years will be 1-6. Each survey day is a different number."	numeric	dimensionless		-9999	No value collected  
+Round	"The number of the sampling round. Generally A-C (1=A, 2=B, 3=C), but in the early years may be D1, D2, D3, N1, N2,N3 or DayA, DayB, NightC, etc."	categorical			-9999	No value collected  
+DeerDate	The date on which the sampling event occurred.	Date		yyyy-mm-dd	-9999	No value collected  
+StartTime	The time at which the sampling event started.	Date		hh:mm:ss	-9999	No value collected  
+BeginningTemperatureInCelsius	The temperature in degrees Celsius at the start of the survey round.	numeric	celsius		-9999	No value collected  
+BeginningHumidityInPercent	The percent humidity at the start of the survey round.	numeric	percent		-9999	No value collected  
+BeginningWindInMetersPerSecond	The wind speed in meters per second at the start of the survey round. If no wind then value = 0.	numeric	meterPerSecond		-9999	No value collected  
+BeginningWindDirectionInDegrees	The wind direction at the start of the survey round. 	numeric	degree		-9999	No value collected  
+BeginningPrecipitation	The type of precipitation occuring at the start of the survey round.	categorical			-9999	No value collected  
+EndTime	The time at which the sampling event ended.	Date		hh:mm:ss	-9999	No value collected  
+EndingTemperatureInCelsius	The temperature in degrees Celsius at the end of the survey round.  	numeric	celsius		-9999	No value collected  
+EndingHumidityInPercent	The percent humidity at the end of the survey round.	numeric	percent		-9999	No value collected  
+EndingWindInMetersPerSecond	The wind speed in meters pers second at the end of survey round. If no wind then value = 0.	numeric	meterPerSecond		-9999	No value collected  
+EndingWindDirectionInDegrees	The wind direction at the end of the survey round. 	numeric	degree		-9999	No value collected  
+EndingPrecipitation	The type of precipitation occuring at the end of the survey round. 	categorical			-9999	No value collected  
+MoonIlluminationInPercent	The percent illumination provided by the moon on the night of survey.	numeric	percent		-9999	No value collected  
+DeerTotal	The total number of deer sampled per event.	numeric	number		-9999	No value collected  
+BeginningCloudCoverInPercent	The percent cloud cover occuring at the start of the survey round. 	categorical	percent		-9999	No value collected  
+EndingCloudCoverInPercent	The percent cloud cover occuring at the end of the survey round. 	categorical	percent		-9999	No value collected  
+VisibleAreaInSquareKilometers	The Calculated Visible Area.	numeric	squareKilometers		-9999	No value collected  
+DeerID	An unique identifier given to each deer group observation through all years and all parks.	numeric	dimensionless		-9999	No value collected  
+Year	"The four-digit year in which the event occurred, according to the Common Era Calendar."	Date		yyyy	-9999	No value collected  
+Group	An unique sequential number identifying each deer or group observed during a count. A group can range from 1 to infinity.  For each observation loop of the tour road the group numbers start over again at 1.	numeric	dimensionless		-9999	No value collected  
+SideOfVehicle	The side of the vehicle on which the deer group was located.	categorical			-9999	No value collected  
+DistanceInMeters	The distance from the vehicle to the deer group.	numeric	meter		-9999	No value collected  
+AngleInDegrees	"The angle at which the deer group was located from the vehicle. Can be between 0 to 90, measured using a land measure compass. In 2005, all measurements were taken from a 90 degree angle from the vehicle."	numeric	degree		-9999	No value collected  
+QuadrantCompass	Identifies the quadrant in which the deer angle was located.	categorical			-9999	No value collected  
+DeerNumber	The number of deer in each group.	numeric	number		-9999	No value collected  
+VegetationType	The type of vegetation habitat in which the deer group was located.	categorical			-9999	No value collected  
+Comment	The field notes written during the time of sample collection.	character			-9999	No value collected  
+GPSDate	The date the deer group was collected with a GNSS unit.	Date		yyyy-mm-dd	-9999	No value collected  
+GPSTime	The time the deer group was collected with a GNSS unit.	Date		hh:mm:ss	-9999	No value collected  
+GlobalID	A unique identifier for the feature geometry controlled by the user. This identifier is the primary key of the dataset for data sharing purposes.	character			-9999	No value collected  
+LongitudeInDecimalDegrees	The longitude where the deer group was located at the time of collection.	numeric	degree		-9999	No value collected  
+LatitudeInDecimalDegrees	The latitude where the deer group was located at the time of collection.	numeric	degree		-9999	No value collected  
+GeodeticDatum	The global datum reference used for determining latitude and longitude.	categorical			-9999	No value collected  
+VerbatimCoordinates	The verbatim coordinates where the deer group was located at the time of collection.	character			-9999	No value collected  
+VerbatimCoordinatesSystem	The verbatim coordinate system used at the time of collection.	categorical			-9999	No value collected  
+VerbatimSRS	The global datum reference used for determining Universal Transverse Mercator (UTM).	categorical			-9999	No value collected  
+dwcType	The nature or genre of the resource.	categorical			-9999	No value collected  
+BasisofRecord	The specific nature of the data record.	categorical			-9999	No value collected  
+ScientificName	The scientific name of the species.	character			-9999	No value collected  
+TaxonRank	The taxonomic rank of the most specific name in the scientific name.	categorical			-9999	No value collected  

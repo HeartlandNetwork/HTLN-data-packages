@@ -1,0 +1,18 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+SiteNumber	Site number	numeric	number			
+Beginning_Ending	Water quality measured at beginning or end of event period at the site number	categorical				
+TimeSampled_hhmm_mil	"hh:mm:ss in military time, taken in the local time of the site location"	Date		hh:mm:ss	NA	No observation
+WaterTemp_Celcius	Water temperature	numeric	celsius		-999	No observation
+AirTemp_Celcius	Air temperature	numeric	celsius		-999	No observation
+pH	pH	numeric	number		-999	No observation
+SpecificConductance_MicrosiemensPerCentimeter	Specific conductance	numeric	microsiemensPerCentimeter		-999	No observation
+Conductivity_MicrosiemensPerCentimeter	Conductivity of water	numeric	microsiemensPerCentimeter		-999	No observation
+DissolvedOxygen_MilligramsPerLiter	Dissolved oxygen	numeric	milligramPerLiter		-999	No observation
+SecchiTube_Centimeters	Turbidity	numeric	centimeter		-999	No observation
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

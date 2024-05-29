@@ -1,0 +1,12 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	categorical				
+ParkCode	Park unit code	categorical				
+dwcType	The nature or genre of the resource	categorical				
+dwcBasisOfRecord	The specific nature of the data record	categorical				
+PeriodDescriptor	What season the survey took place in	categorical				
+CalYr	Calendar year the survey took place in	Date		yyyy		
+scientificName	The binomial nomenclature of the observed organism at the time of publishing	character				
+DataReleaseID	Grid cell identifier; the first character is the grid identification, followed by the cell identifier (GRID_cellID)	character				
+Reading_No	The running count of readings taken within the corresponding grid cell throughout the corresponding calendar year	numeric	dimensionless			
+PAR_CanopyInMicroMolePerMeterSquaredPerSecond	Photosynthetically active radiation (PAR) reading under canopy, averaged over 15 sec (simultaneous with PAR in full sun reading using LI-250A Light Meter and LI-190 Quantum Sensor). This is the non-control part of the ratio. Measurement taken at same time as full sun value, but at grid location. PAR_Canopy divided by PAR_FullSun will give you the percent of full sun at the grid cell.	numeric	micromolePerMeterSquaredPerSecond			
+PAR_FullSunInMicroMolePerMeterSquaredPerSecond	Photosynthetically active radiation (PAR) reading in full sun, averaged over 15 sec (simultaneous with PAR under canopy reading using LI-250A Light Meter and LI-190 Quantum Sensor). This is the control part of the ratio. Measurement taken at same time as canopy value, but away from grid in full openness/full sunlight. PAR_Canopy divided by PAR_FullSun will give you the percent of full sun at the grid cell.	numeric	micromolePerMeterSquaredPerSecond			
