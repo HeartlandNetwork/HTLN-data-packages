@@ -1,0 +1,9 @@
+givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+James	R	Brown	Student Conservation Association	James_Brown@partner.nps.gov	0009-0004-5867-1904	creator			
+Judd		Patterson	National Park Service	Judd_Patterson@nps.gov	0000-0002-0951-7917	contact			
+Sherry		Leis	National Park Service	Sherry_Leis@nps.gov	0000-0003-4092-6767	contact			
+Craig		Young	National Park Service	Craig_Young@nps.gov	0000-0002-1687-8825	creator			
+Jennifer		Haack-Gaynor	National Park Service	Jennifer_Haack@nps.gov	0000-0003-4497-5128	creator			
+John		Boetsch	National Park Service	John_Boetsch@nps.gov	0000-0003-0784-2211	contributor			
+Mike		DeBacker	National Park Service	Mike_DeBacker@nps.gov	0009-0007-3221-0933	contributor			
+Lisa		Thomas	National Park Service			contributor			

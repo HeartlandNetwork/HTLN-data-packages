@@ -1,0 +1,11 @@
+attributeName	code	definition
+ParkCode	BUFF	Buffalo National River
+ParkCode	GWCA	George Washington Carver National Monument
+ParkCode	HEHO	Herbert Hoover National Historic Site
+ParkCode	OZAR	Ozark National Scenic Riverways
+ParkCode	PERI	Pea Ridge National Military Park
+ParkCode	PIPE	Pipestone National Monument
+ParkCode	TAPR	Tallgrass Prairie National Preserve
+ParkCode	WICR	Wilson's Creek National Battlefield
+dwcBasisOfRecord	HumanObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.

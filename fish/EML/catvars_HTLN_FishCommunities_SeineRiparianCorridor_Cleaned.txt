@@ -1,0 +1,53 @@
+attributeName	code	definition
+ChannelType	main	The channel that contains the majority of flow
+ParkCode	HOME	Homestead National Monument of America
+ParkCode	PIPE	Pipestone National Monument
+ParkCode	TAPR	Tallgrass Prairie National Preserve
+RiparianCover_0to25_Meters	"Domestic grass, pasture, hay"	"Domestic grass, pasture, hay"
+RiparianCover_0to25_Meters	Mature woodland	Mature woodland
+RiparianCover_0to25_Meters	Other (note in general comments)	Other (note in general comments)
+RiparianCover_0to25_Meters	Road/railroad	Road/railroad
+RiparianCover_0to25_Meters	Wetlan/native grasses & forbes (prairie)	Wetlan/native grasses & forbes (prairie)
+RiparianCover_0to25_Meters	Woody shrubs/saplings	Woody shrubs/saplings
+RiparianCover_0to25_Meters	no data	no data recorded
+RiparianCover_26to50_Meters	"Domestic grass, pasture, hay"	"Domestic grass, pasture, hay"
+RiparianCover_26to50_Meters	Mature woodland	Mature woodland
+RiparianCover_26to50_Meters	Other (note in general comments)	Other (note in general comments)
+RiparianCover_26to50_Meters	Road/railroad	Road/railroad
+RiparianCover_26to50_Meters	Wetlan/native grasses & forbes (prairie)	Wetlan/native grasses & forbes (prairie)
+RiparianCover_26to50_Meters	Woody shrubs/saplings	Woody shrubs/saplings
+RiparianCover_26to50_Meters	no data	no data recorded
+RiparianCover_51to75_Meters	"Domestic grass, pasture, hay"	"Domestic grass, pasture, hay"
+RiparianCover_51to75_Meters	Mature woodland	Mature woodland
+RiparianCover_51to75_Meters	Other (note in general comments)	Other (note in general comments)
+RiparianCover_51to75_Meters	Road/railroad	Road/railroad
+RiparianCover_51to75_Meters	Wetlan/native grasses & forbes (prairie)	Wetlan/native grasses & forbes (prairie)
+RiparianCover_51to75_Meters	Woody shrubs/saplings	Woody shrubs/saplings
+RiparianCover_51to75_Meters	no data	no data recorded
+RiparianCover_76to100_Meters	"Domestic grass, pasture, hay"	"Domestic grass, pasture, hay"
+RiparianCover_76to100_Meters	Mature woodland	Mature woodland
+RiparianCover_76to100_Meters	Other (note in general comments)	Other (note in general comments)
+RiparianCover_76to100_Meters	Road/railroad	Road/railroad
+RiparianCover_76to100_Meters	Wetlan/native grasses & forbes (prairie)	Wetlan/native grasses & forbes (prairie)
+RiparianCover_76to100_Meters	Woody shrubs/saplings	Woody shrubs/saplings
+RiparianCover_76to100_Meters	no data	no data recorded
+RiparianCover_GT100_Meters	"Domestic grass, pasture, hay"	"Domestic grass, pasture, hay"
+RiparianCover_GT100_Meters	Mature woodland	Mature woodland
+RiparianCover_GT100_Meters	Other (note in general comments)	Other (note in general comments)
+RiparianCover_GT100_Meters	Road/railroad	Road/railroad
+RiparianCover_GT100_Meters	Wetlan/native grasses & forbes (prairie)	Wetlan/native grasses & forbes (prairie)
+RiparianCover_GT100_Meters	Woody shrubs/saplings	Woody shrubs/saplings
+RiparianCover_GT100_Meters	no data	no data recorded
+SampleLocation	Left	Left of sample location
+SampleLocation	Right	Right of sample location
+StreamBankErosionCover	-999	no data recorded
+StreamBankErosionCover	0	none; DaubenmireCoverMidpoint: 0
+StreamBankErosionCover	1	trace; DaubenmireCoverMidpoint: 0.5
+StreamBankErosionCover	2	1-5%; DaubenmireCoverMidpoint: 3.5
+StreamBankErosionCover	3	5-25%; DaubenmireCoverMidpoint: 15
+StreamBankErosionCover	4	25-50%; DaubenmireCoverMidpoint: 37.5
+StreamBankErosionCover	5	50-75%; DaubenmireCoverMidpoint: 62.5
+StreamBankErosionCover	6	75-95%; DaubenmireCoverMidpoint: 85
+StreamBankErosionCover	7	95-100%; DaubenmireCoverMidpoint: 97.5
+dwcBasisOfRecord	HumanObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.

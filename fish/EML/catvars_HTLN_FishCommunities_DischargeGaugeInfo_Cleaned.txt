@@ -1,0 +1,19 @@
+attributeName	code	definition
+ChannelType	main	The channel that contains the majority of flow
+GaugeLocation	Big Spring near Van Buren. MO	Big Spring near Van Buren. MO
+GaugeLocation	Buffalo River near St. Joe. AR	Buffalo River near St. Joe. AR
+GaugeLocation	Current River + Big Spring at or near Van Buren. MO	Current River + Big Spring at or near Van Buren. MO
+GaugeLocation	Current River above Akers. MO	Current River above Akers. MO
+GaugeLocation	Current River at Van Buren. MO	Current River at Van Buren. MO
+GaugeLocation	Hoover Nat Hist Site. West Branch. IA	Hoover Nat Hist Site. West Branch. IA
+GaugeStationSource	USGS gauge	USGS gauge
+ParkCode	BUFF	Buffalo National River
+ParkCode	HEHO	Herbert Hoover National Historic Site
+ParkCode	OZAR	Ozark National Scenic Riverways
+StreamName	Big Spring	Big Spring
+StreamName	Buffalo River	Buffalo River
+StreamName	Current River	Current River
+StreamName	Current River + Big Spring	Current River + Big Spring
+StreamName	Hoover Creek	Hoover Creek
+dwcBasisOfRecord	MachineObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.

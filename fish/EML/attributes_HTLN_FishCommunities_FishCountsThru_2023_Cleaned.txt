@@ -1,0 +1,33 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+SamplingGear	Sampling gear codes	categorical				
+ChannelType	Channel type descriptions	categorical				
+SiteNumber	Site number	numeric	number			
+TaxaFishNumber	Field sheet sequence	numeric	number			
+TotalLength_Millimeters	Length of fish	numeric	millimeter		-999	No observation
+Weight_Grams	Weight of fish	numeric	gram		-999	No observation
+FishAnomaly	Anomaly description	categorical				
+Vouchered	Specimen preserved as a voucher	categorical				
+NumObs	count of specimens observed during sampling	numeric	number		-999	No observation
+BatchID	Identification number of batch	numeric	number			
+BatchWT_Grams	total weight of fish weighed as a batch 	numeric	gram		-999	No observation
+Comments	Comments	character			NA	No comment
+TaxonCode	Taxon code	character				
+CommonName	Common name 	character				
+FamilyName	Family	character				
+VerbatimIdentification	A string representing the taxonomic identification as it appeared in the original record.	character				
+TSN	ITIS TSN identifier	numeric	number		-999	No species found
+ScientificName	The full scientific name currently valid under the specified data source	character			NA	No species found
+ScientificName_flag	Data quality flag for the ScientificName column	categorical				
+ScientificNameDataSource	"The data source used to resolve sceintific names to the most up to date, currently valid taxon"	categorical			NA	No species found
+GBIFTaxonID	An identifier for the taxon under GBIF Taxonomic Backbone	numeric	number		NA	No species found
+TaxonRank	The taxonomic rank of the most specific name in the ScientificName.	categorical			NA	No species found
+Tolerance	Tolerance of fish to disturbance	categorical				
+ReproductiveClassification	Reproductive classification description	categorical				
+TrophicClassification	Classification of food types consumed by subadults and adults	categorical				
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

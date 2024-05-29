@@ -1,0 +1,7 @@
+attributeName	code	definition
+UnitCode	A	Site location A
+UnitCode	B	Site location B
+UnitCode	C	Site location C
+UnitCode	D	Site location D
+dwcBasisOfRecord	HumanObservation	Observations made by a human
+dwcType	event	Observations occurred at a discrete time

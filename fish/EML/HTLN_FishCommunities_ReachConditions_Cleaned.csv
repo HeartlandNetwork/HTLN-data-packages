@@ -1,0 +1,597 @@
+ParkName,ParkCode,LocationID,PeriodID,EventID,CloudCover_Percent,WindIntensity,PrecipitationType,PrecipitationIntensity,SH_Springs_Present,SH_StreamFlow_Description,WeatherComments,AdditionalComments,dwcType,dwcBasisOfRecord
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY23,50,Calm,None,NA,FALSE,NA,NA,Rocky and open. difficult without boat; efficiency low above split due to deep water.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2007May21,BUFFRMFish2007May22,100,Calm,Rain,Light,FALSE,NA,Rain showers early this morning,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2008May19,BUFFRMFish2008May20,0,Light,None,NA,FALSE,NA,NA,sampling was not effective due to low conductivity. Fish were not  stunned long enough to capture. Settings were high barge @550volts and boat @ 400-450volts. Also PH was only calibrated at one point.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2009May19,BUFFRMFish2009May27,60,Calm,None,NA,FALSE,NA,Rained earlier in the morning,Water a little turbid due to rain,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2010May17,BUFFRMFish2010May27,0,Calm,None,NA,FALSE,NA,NA,Water up about half a foot and moderately turbid. Visibiity about 3 ft. Was able to see bottom along banks.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2013May20,BUFFRMFish2013May29,10,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFrmfish2015May22,BUFFrmfish2015Jun05,15,Calm,None,NA,FALSE,NA,NA,water slightly turbid; difficult to see bottom in larger pool; backpack shocker quit working on side channel,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2017May24,BUFFRMFISH2017May31,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2019May22,BUFFRMFISH2019May23,80,Light,None,NA,FALSE,NA,NA,Water cloudy; could see~3 ft into water. Due to high rain/flood events diversity & abundance low,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM01,BUFFRMFISH2023May23,BUFFRMFISH2023May24,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY30,80,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2007May21,BUFFRMFish2007May23,50,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2008May19,BUFFRMFish2008May22,10,Calm,None,NA,FALSE,NA,NA,0nly one point calibration for PH meter. Fish were hard to capture- felt the edge of the electric field and ran,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2009May19,BUFFRMFish2009May28,100,Light,None,NA,FALSE,NA,cooler,Water higher than average.  Water clarity not clear--some milky coloration.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2010May17,BUFFRMFish2010May26,40,Calm,None,NA,FALSE,NA,Rained day before in upper part of watershed,"Water up about a foot from ""Average"" Turbidity moderate - about 2 foot visibility.",Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2013May20,BUFFRMFish2013May28,100,Light,None,NA,FALSE,NA,NA,Slight haze to water. but water levels normal.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFrmfish2015May22,BUFFrmfish2015Jun09,0,Calm,None,NA,FALSE,NA,NA,50+ canoes floated by during sampling. Difficult to sample - had to shut down electrofhising equipment due to canoes,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2017May24,BUFFRMFISH2017Jun01,30,Calm,None,NA,FALSE,NA,NA,lots of deposited gravel and sand; Upper portion of reach filled in with gravel,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM02,BUFFRMFISH2019May22,BUFFRMFISH2019Jun12,0,Light,None,NA,FALSE,NA,Water murky/cloudy. Visability about 3 ft.,Due to high rain/flood events diversity & abundance low,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN01,100,Light,None,NA,FALSE,NA,Rained previous 2-3 hours. but no rain currently.,Boat and backpack fish were combined for mainstem habitat.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2007May21,BUFFRMFish2007May30,90,Light,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2008May19,BUFFRMFish2008Jun03,5,Light,None,NA,FALSE,NA,NA,water was up and turbid. Hard  to see fish in deep water. Backpack shocking was limited. Site changed from previous  2 years. Riffle at lower end was against river right bank. Big gravel bar in middle,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2009May19,BUFFRMFish2009Jun03,100,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2010May17,BUFFRMFish2010Jun01,10,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2013May20,BUFFRMFish2013Jun19,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFrmfish2015May22,BUFFrmfish2015Jun30,0,Calm,None,NA,FALSE,NA,morning fog burning off at time of measurments,turbidity a little higher than normal; water clarity about 3 ft; difficult to see fish in bluff pool,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2017May24,BUFFRMFISH2017Jun02,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2019May22,BUFFRMFISH2019Jun14,95,Light,None,NA,FALSE,NA,NA,Watr clarity in bluff pool a little cloudy but could see the bottom.  Due to high rain/flood events diversity & abundance low,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM03,BUFFRMFISH2023May23,BUFFRMFISH2023May25,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN02,95,Calm,None,NA,FALSE,NA,Rained the night before.,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2007May21,BUFFRMFish2007May31,50,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2008May19,BUFFRMFish2008Jun04,80,Calm,None,NA,FALSE,NA,NA,water was up about 1 ft from previous years. Barge shocking was limited to the left and right edges of riffle/run section.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2009May19,BUFFRMFish2009Jun08,75,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2010May17,BUFFRMFish2010Jun03,80,Calm,None,NA,FALSE,NA,NA,Only sampled approximately half of reach because GPS waypoint was off at upper boundary.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2013May20,BUFFRMFish2013Jun17,100,Calm,None,NA,FALSE,NA,NA,Water low; not many sculpins and darters in riffle.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFrmfish2015May22,BUFFrmfish2015Jul01,100,Calm,None,NA,FALSE,NA,NA,river up about 0.5ft from normal; riffle was difficult to sample with tow barge; sampled riffle partially with boat,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2017May24,BUFFRMFISH2017Jun15,95,Calm,None,NA,FALSE,NA,light rain prior to sampling,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2019May22,BUFFRMFISH2019Jun19,90,Light,None,NA,FALSE,NA,Rained around 7:30 am this morning,Low abundance and diversity due to rain events.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM04,BUFFRMFISH2023May23,BUFFRMFISH2023Jun01,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN12,100,Calm,None,NA,FALSE,NA,NA,no air temp taken.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2007May21,BUFFRMFish2007Jun20,100,Moderate,None,NA,FALSE,NA,heavy rain during last 15 mins of shocking,stopped shocking for ~ 20 min during last 15 min of shocking due to heavy rain. Water cleared and we continued shocking,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2008May19,BUFFRMFish2008Jun05,90,Moderate,None,NA,FALSE,NA,NA,water was up about 2 ft from previous yr. current was swift and lots of sediment shifted. Backwaters gone and 1/3 of site was shallow(<3ft deep) with small sediment,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2009May19,BUFFRMFish2009Jun09,70,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2010May17,BUFFRMFish2010Jun02,10,Light,None,NA,FALSE,NA,NA,Saw serveral hogsuckers that did not shock.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2013May20,BUFFRMFish2013Jun18,80,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2017May24,BUFFRMFISH2017Jun14,80,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2019May22,BUFFRMFISH2019Jun18,75,Calm,None,NA,FALSE,NA,Due to high rain/flood events diversity & abundance low.,Water slightly cloudy. Could see bottom.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM05,BUFFRMFISH2023May23,BUFFRMFISH2023Jun07,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN05,2,Calm,None,NA,FALSE,NA,NA,no ending air temp,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2007May21,BUFFRMFish2007Jun04,20,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2008May19,BUFFRMFish2008Jun18,25,Calm,None,NA,FALSE,NA,NA,water higher than previous yrs. Mostly fast run habitat in 1st half of reach. Difficult to sample faster run habitat.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2009May19,BUFFRMFish2009Jun10,100,Calm,None,NA,FALSE,NA,NA,Lots of deposited gravel and sand.  Center of reach very shallow riffle.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2010May17,BUFFRMFish2010Jun09,30,Light,None,NA,FALSE,NA,NA,Two buckets of fish were thrown out before they were counted or measured - a bucket of Ozark Minnow and a bucket of Duskystripe Shiner.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2013May20,BUFFRMFish2013Jun11,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2017May24,BUFFRMFISH2017Jun21,40,Calm,None,NA,FALSE,NA,NA,a lot of deposited sand/gravel on river left and at downstream half of site.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2019May22,BUFFRMFISH2019Jun20,50,Moderate,None,NA,FALSE,NA,Due to high rain/flood events diversity & abundance low.,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBM06,BUFFRMFISH2023May23,BUFFRMFISH2023Jun14,0,Light,None,NA,FALSE,NA,Rained ~1 hr before sampling for about 30 minutes,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT01,BUFFRMFISH2009May19,BUFFRMFish2009May19,0,Calm,None,NA,FALSE,NA,NA,Water flow above normal due to high amounts of rainfall in prior weeks. Water clear but fast in some areas.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT03,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY22,0,Calm,None,NA,FALSE,NA,NA,Actual reach measured at 63m average.  Stream is spring influenced.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT04,BUFFRMFISH2008May19,BUFFRMFish2008May21,0,Calm,None,NA,FALSE,NA,NA,only one point calibration done on PH meter,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFRMFISH2007May21,BUFFRMFish2007May21,30,Light,None,NA,FALSE,NA,NA,Habitat reach was 180m. fish reach was 232m,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFrmfish2015May22,BUFFrmfish2015Jun03,10,Calm,None,NA,FALSE,NA,NA,creek high 2 weeks prior to sampling; water slightly turbid; lots of periphyton covering rocks,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFRMFISH2019May22,BUFFRMFISH2019Jun05,5,Calm,None,NA,FALSE,NA,Due to high rain/flood events diversity and abundance low.,Old backpack ran out of battery with 15 m left in reach. used only new backpack to finish site. Creek flooded previous week before sample.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT05,BUFFRMFISH2023May23,BUFFRMFISH2023Jun02,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT06,BUFFRMFISH2009May19,BUFFRMFish2009May19,0,Light,None,NA,FALSE,NA,NA,Lots of sediment deposited--clay/silt,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2007May21,BUFFRMFish2007May25,90,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2013May20,BUFFRMFish2013May21,100,NA,Rain,Moderate,FALSE,NA,Rained off and on during sampling.,Water clear.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFrmfish2015May22,BUFFrmfish2015May22,10,Calm,None,NA,FALSE,NA,rained on 5/20/15 ~ 1 inch,water levels were up 1/2 foot on Wed (5/20/15) and turbid. Water levels more normal; some slight turbidity. Could not collect DO - probe error,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2017May24,BUFFRMFISH2017May24,90,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2019May22,BUFFRMFISH2019May22,70,Light,None,NA,FALSE,NA,Due to high rain/flood events diversity & abundance low,Water slightly cloudy but could see bottom.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2021May17,BUFFRMFISH2021May18,85,Calm,None,NA,FALSE,NA,NA,Rained 1/2 inch in last 24 hrs,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT07,BUFFRMFISH2023May23,BUFFRMFISH2023May23,0,Calm,None,NA,FALSE,NA,NA,Stream wide and shallow. lots of deposition at mouth of creek,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT08,BUFFRMFISH2010May17,BUFFRMFish2010May17,50,Calm,None,NA,FALSE,NA,Foggy and high humidity,Rained previous two days - turbidity moderate.  Reduced visibility for netters.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT09,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY30,40,Calm,None,NA,FALSE,NA,NA,pH & DO meters were turned off on 2nd day before measurements were taken. 2nd day measurements were taken. but not entered into data base.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT09,BUFFrmfish2015May22,BUFFrmfish2015Jun10,2,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT09,BUFFRMFISH2019May22,BUFFRMFISH2019Jun12,0,Light,None,NA,FALSE,NA,Due to high rain/flood events diversity and abundance low.,water slightly murky/cloudy. Visability about 3 feet.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT10,BUFFRMFISH2009May19,BUFFRMFish2009May20,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT11,BUFFRMFISH2009May19,BUFFRMFish2009May20,0,Light,None,NA,FALSE,NA,sunny and warm,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT12,BUFFRMFISH2007May21,BUFFRMFish2007May29,100,Calm,None,NA,FALSE,NA,NA,stream was dry at mouth - had to move reach upstream of road crossing,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT13,BUFFRMFISH2008May19,BUFFRMFish2008May23,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT14,BUFFRMFISH2010May17,BUFFRMFish2010May18,10,Calm,None,NA,FALSE,NA,NA,Lots of bedrock and undercuts.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2008May19,BUFFRMFish2008May28,100,Calm,None,NA,FALSE,NA,some drizzle early in the  morning,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2012May21,BUFFRMFish2012May22,0,Calm,None,NA,FALSE,NA,sunny,water levels lower than levels sampled in 2008.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2013May20,BUFFRMFish2013May20,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFrmfish2015May22,BUFFrmfish2015May28,100,Calm,None,NA,FALSE,NA,NA,the dissolved oxygen was not calibrating properly,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2017May24,BUFFRMFISH2017May24,80,Calm,None,NA,FALSE,NA,Rained heavy Friday before sampling. (5/19/17),water clear and normal flow.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2019May22,BUFFRMFISH2019Jun06,100,Calm,Rain,Moderate,FALSE,NA,Due to high rain/flood events diversity and abundance low.,Creek was flooded week before sampling.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2021May17,BUFFRMFISH2021May17,100,Calm,Rain,Light,FALSE,NA,Rained early morning,Water clear and at normal levels,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT15,BUFFRMFISH2023May23,BUFFRMFISH2023May26,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT16,BUFFRMFISH2008May19,BUFFRMFish2008May27,100,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT17,BUFFRMFISH2010May17,BUFFRMFish2010Jun23,0,Calm,None,NA,FALSE,NA,N 90 degrees F,Creek had a slight milky blue cast to it. could see about 3 feet.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2008May19,BUFFRMFish2008May19,20,Calm,None,NA,FALSE,NA,NA,only one point calibration done on PH meter,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2013May20,BUFFRMFish2013Jun06,20,Calm,None,NA,FALSE,NA,NA,Water up about 6 inches from previous week but clear; lost some fish due to plug dislodged from live well.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFrmfish2015May22,BUFFrmfish2015May29,60,Calm,None,NA,FALSE,NA,NA,creek was slightly turbid the day previous to sampling; creek up ~ 4 inches but clear during sampling,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2017May24,BUFFRMFISH2017May25,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2019May22,BUFFRMFISH2019May24,10,Calm,None,Light,FALSE,NA,NA,Due to high rain/flood events diversity and abundance low.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2021May17,BUFFRMFISH2021Jun09,5,Calm,None,NA,FALSE,NA,NA,Water a little cloudy but normal levels; during sampling low water crossing was regraded causing additional turbidity,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT19,BUFFRMFISH2023May23,BUFFRMFISH2023May30,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2009May19,BUFFRMFish2009May21,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2012May21,BUFFRMFish2012May22,90,Calm,None,NA,FALSE,NA,rain possible; rained ~0.02 inches early this morning,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2013May20,BUFFRMFish2013Jun10,0,Light,None,NA,FALSE,NA,NA,Water clear; Riffles moderately deep and fast.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFrmfish2015May22,BUFFrmfish2015Jun15,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2017May24,BUFFRMFISH2017May30,10,Calm,None,NA,FALSE,NA,rained during last 20 minutes of sampling,creek at 65 cfs. Deep pool at upper end along bluff-difficult to sample.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2019May22,BUFFRMFISH2019May28,50,Calm,None,NA,FALSE,NA,Due to high rain/flood events diversity and abundance low.,Sampled 1/2 of site previous day 5/28. but barge pulse bos quit working. Resampled entire site on 5/29.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2021May17,BUFFRMFISH2021Jun16,10,Calm,None,NA,FALSE,NA,NA,Water high previous 2 week but clear and normal levels on day of sampling,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT20,BUFFRMFISH2023May23,BUFFRMFISH2023May31,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT21,BUFFRMFISH2007May21,BUFFRMFish2007Jun01,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT22,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY25,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFRMFISH2009May19,BUFFRMFish2009May26,10,Light,None,NA,FALSE,NA,sunny and warm,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFrmfish2015May22,BUFFrmfish2015Jun04,5,Calm,None,NA,FALSE,NA,NA,electrofishing unit sugging off along bluff. but worked after moved upstream of bluff; more effort in first 3/4 of site than last 1/4 of site,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFRMFISH2019May22,BUFFRMFISH2019Jun17,90,Calm,None,NA,FALSE,NA,NA,Due to high rain/flood events diversity and abundance low.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT23,BUFFRMFISH2023May23,BUFFRMFISH2023Jun06,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT24,BUFFRMFISH2006MAY22,BUFFRMFISH2006MAY24,0,Calm,None,NA,FALSE,NA,NA,no air temp taken,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT25,BUFFRMFISH2007May21,BUFFRMFish2007Jun06,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2010May17,BUFFRMFish2010Jun08,95,Calm,None,NA,FALSE,NA,NA,Some Stonerollers not shocking - maybe due to higher conductivity.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2012May21,BUFFRMFish2012May21,80,Light,None,NA,FALSE,NA,rained on sunday may 20 ~1in,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2013May20,BUFFRMFish2013May20,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2017May24,BUFFRMFISH2017Jun13,40,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT27,BUFFRMFISH2021May17,BUFFRMFISH2021May24,95,Calm,None,NA,FALSE,NA,NA,Water up - 6 inches from normal but water clear.  River flooded and backed into creek previous week,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT28,BUFFRMFISH2008May19,BUFFRMFish2008Jun18,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT29,BUFFRMFISH2010May17,BUFFRMFish2010Jun10,95,Moderate,None,NA,FALSE,NA,Low pressure front moving over,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN06,100,Light,Rain,Light,FALSE,NA,NA,no water or air temp taken. Used 1 backpack shocker on site.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2013May20,BUFFRMFish2013Jun12,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2017May24,BUFFRMFISH2017Jun22,100,Calm,None,NA,FALSE,NA,misting,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT30,BUFFRMFISH2021May17,BUFFRMFISH2021Jun10,30,Calm,None,NA,FALSE,NA,NA,Not many fish seen,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2006MAY22,BUFFRMFISH2006JUN06,100,Calm,None,NA,FALSE,NA,rained earlier today,air temp not taken.  Should be ~100m based on wetted width.  Used 1 backpack on site.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2013May20,BUFFRMFish2013Jun12,0,Moderate,None,NA,FALSE,NA,NA,Stream low - difficult to collect fish in shallow rocky areas; backpack kept shutting off.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2017May24,BUFFRMFISH2017Jun22,90,Calm,None,NA,FALSE,NA,misting on and off,NA,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT31,BUFFRMFISH2021May17,BUFFRMFISH2021Jun11,0,Calm,None,NA,FALSE,NA,NA,Trib was flooded two weeks previously,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT32,BUFFRMFISH2010May17,BUFFRMFish2010Jun11,100,Light,Rain,Moderate,FALSE,NA,NA,Backpack shocker was not fully shocking fish for the last few meters.,Event,HumanObservation
+Buffalo National River,BUFF,BUFFRMFISHBT33,BUFFRMFISH2007May21,BUFFRMFish2007Jun05,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2008Jul09,EFMOStfish2008Jul09,40,Light,None,NA,FALSE,NA,Rained 2 days previous to sampling- could see debris on banks where the water was up.,NA,Event,HumanObservation
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2014Aug13,EFMOStfish2014Aug13,5,Calm,None,NA,FALSE,NA,Very deep deposits of sand up to 2ft in some areas,NA,Event,HumanObservation
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2017July18,EFMOStfish2017Jul18,60,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Effigy Mounds National Monument,EFMO,EFMOStfish01,EFMOStfish2023Jul19,EFMOStfish2023Jul19,50,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2006Jun28,GWCAStfish2006Jun28,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2007May02,GWCAStfish2007May02,100,Light,Rain,Light,FALSE,NA,spotty showers,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2010May05,GWCAStfish2010May05,0,Calm,None,NA,FALSE,NA,NA,Water clear but layers of silt along margins,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2013May01,GWCAStfish2013May01,100,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2016May02,GWCAStfish2016May02,20,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2019May06,GWCAStfish2019May06,0,Calm,None,NA,FALSE,NA,NA,Water levels up 3-4 inches; water fairly clear. slightly turbid in deeper pools. Lower abundance of some species due to high rain/flow events prior to sampling.,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish01,GWCAStfish2022May02,GWCAStfish2022May03,100,Light,None,NA,FALSE,NA,Rain previous day (3/4 inch),NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2006Jun28,GWCAStfish2006Jun28,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2007May02,GWCAStfish2007May02,100,Calm,None,NA,FALSE,NA,rained earlier today and also yesterday,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2010May05,GWCAStfish2010May05,0,Light,None,NA,FALSE,NA,NA,Stream bottom mucky; difficult to see once walked over substrate; lots of woody debris and overhanging veg; above bridge - lots of instream vegetation,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2013May01,GWCAStfish2013May01,100,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2016May02,GWCAStfish2016May02,20,Calm,None,NA,FALSE,NA,NA,Beaver Damn ~ 15 m downstream of start of site. Had to shorten site to 105 m,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2019May06,GWCAStfish2019May06,10,Calm,None,NA,FALSE,NA,NA,Beaver dam gone; significant amount of deposited silt in downstream half of reach. Lower abunance of some species due to high rain/flow events prior to sampling,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish02,GWCAStfish2022May02,GWCAStfish2022May09,0,Light,None,NA,FALSE,NA,Rained heavily on previous Wed & Thursday ~ 1.25 inches,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2006Jun28,GWCAStfish2006Jun28,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2007May02,GWCAStfish2007May02,40,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2010May05,GWCAStfish2010May05,0,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2013May01,GWCAStfish2013May01,30,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2016May02,GWCAStfish2016May02,100,Light,None,NA,FALSE,NA,NA,water slightly cloudy,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2019May06,GWCAStfish2019May06,10,Calm,None,NA,FALSE,NA,NA,water levels up 3-4 inches from normal. debris along banks indicate water was up about 5 feet last week. Lower abundance of some species due to high rain/flow event prior to sampling,Event,HumanObservation
+George Washington Carver National Monument,GWCA,GWCAStfish03,GWCAStfish2022May02,GWCAStfish2022May03,100,Calm,None,NA,FALSE,NA,Rained 0.75 inches previous day,Water a little cloudy in deeper pool. could not see bottom,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2008Jul08,HEHOStfish2008Jul08,100,Calm,None,NA,FALSE,NA,Rained 1.75 in. the previous night,NA,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2011Jul11,HEHOStfish2011Jul11,15,Calm,None,NA,FALSE,NA,Rained ~ 0.25 inches the previous day to sampling,Water shallow but turbid; shocker settings Freq.=40Hz Duty=25% Volts=200,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2014Aug12,HEHOStfish2014Aug12,0,Calm,None,NA,FALSE,NA,NA,Battery on backpack shocker quit about 10m from end of site,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2017July18,HEHOStfish2017Jul18,30,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2021Jul26,HEHOStfish2021Jul26,0,Moderate,None,NA,FALSE,NA,Hot,Section of stream with rock riffle structures & bank stabilization. Backpack EF kept overloading may have missed fish. Sample conducted by Hae Kim and Grant Schmitz. MSU staff,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2022Jul05,HEHOStfish2022Jul05,100,Light,None,NA,FALSE,NA,NA,Long-term monitoring site post 2 year stream remediation (Rock riffles). Reach 17.4 m too long.,Event,HumanObservation
+Herbert Hoover National Historic Site,HEHO,HEHOStfish01,HEHOStfish2023Jul17,HEHOStfish2023Jul17,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2004Sep13,HOMEShiner2004Sep13,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2006Aug31,HOMEShiner2006Aug31,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,very turbid conditions - could not electrofhish; some stream bank erosion evident but not severe; channel incised,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2008Aug27,HOMEShiner2008Aug27,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2011Sep20,HOMEShiner2011Sep20,-999,NA,NA,NA,FALSE,flow between pools,partly cloudy,Water levels low; water moderately turbid.  For sites 3 and 4 riparian cover right bank was bare bank.,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2015Sep03,HOMEShiner2015Sep03,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2017Sep07,HOMEShiner2017Sep07,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Site 1 left bank - parking lot; Site 3 preserved fish could not be Ided due to decomposition of specimens,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2023Sep07,HOMEShiner2023Sep07,-999,NA,NA,NA,FALSE,flow between pools,partly cloudy,NA,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01upper,HOMEShiner2004Sep13,HOMEShiner2004Sep13,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2009Jun16,HOSPStfish2009Jun16,0,Calm,None,NA,FALSE,NA,Extremely hot weather - 98 degrees F for air temp,NA,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2012Jul10,HOSPStfish2012Jul10,100,Calm,None,NA,FALSE,NA,overcast,NA,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2015Jul07,HOSPStfish2015Jul07,100,Light,None,NA,FALSE,NA,NA,water levels normal,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish01,HOSPStfish2018Jul09,HOSPStfish2018Jul09,70,Light,None,NA,FALSE,NA,NA,Very few fish; fish habitat is 1 transect short; GPS had+\-15 m accuracy.,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2009Jun16,HOSPStfish2009Jun16,0,Calm,None,NA,FALSE,NA,NA,Lots of bedrock substrate with some fine silt deposited. Some fish lost in crevices of bedrock.,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2012Jul10,HOSPStfish2012Jul10,100,Calm,None,NA,FALSE,NA,Overcast,NA,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2015Jul07,HOSPStfish2015Jul07,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Hot Springs National Park,HOSP,HOSPStfish02,HOSPStfish2018Jul09,HOSPStfish2018Jul10,70,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2005OCT20,OZARRMFISH2005OCT20,50,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2006OCT02,OZARRMFISH2006OCT04,40,Calm,None,NA,FALSE,NA,NA,longnose gar observed. but not collected,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2007Oct01,OZARRMFish2007Oct18,20,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2008Oct06,OZARRMFish2008Oct09,0,Calm,None,NA,FALSE,NA,NA,Large amounts of deposited sand and gravel from flooding in spring and again in Sept.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2009Oct05,OZARRMFish2009Oct06,100,Calm,Rain,Light,FALSE,NA,Rained early morning until 9:00AM,Some problems with tow barge unit. Seemed to shock fish but had to be within close range. Took some time to draw fish out of cover.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2012Sep24,OZARRMFish2012Sep24,20,Calm,None,NA,FALSE,NA,NA,Water levels low; more lamprey ammoceate collected than in past years; lots of fine sediment on river left.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2014Sep22,OZARRMFish2014Sep23,15,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFish2016Sep19,OZARRMFish2016Sep19,10,Calm,None,NA,FALSE,NA,NA,Deposited sand on gravel  - only 1 small riffle in reach - deeper runs filled with sand/gravel,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2018Sep18,OZARRMFISH2018Sep19,0,Calm,None,NA,FALSE,NA,NA,Water levels low; lots of deposited sand and sediment; site wide and shallow,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM01,OZARRMFISH2022Aug29,OZARRMFISH2022Aug29,40,Light,None,NA,FALSE,NA,Thunderstorms south of the sampling site.,Water levels lower than normal. Only sampled 10 transects. Transect 10 was ~ 16 m short of upper boundary.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2005OCT20,OZARRMFISH2005OCT25,60,Light,None,NA,FALSE,NA,NA,Deep run within site that could not sample due to depth and flow; may return with boat EF unit,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2006OCT02,OZARRMFISH2006OCT20,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2007Oct01,OZARRMFish2007Oct10,0,Light,None,NA,FALSE,NA,beautiful and cooler (but not cold enough) - SWH,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2008Oct06,OZARRMFish2008Oct16,0,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2009Oct05,OZARRMFish2009Oct07,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2012Sep24,OZARRMFish2012Sep27,80,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2014Sep22,OZARRMFish2014Sep24,10,Calm,None,NA,FALSE,NA,NA,Pool at upper end of reach filled in with gravel on river left. Not many fish collected in that pool.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFish2016Sep19,OZARRMFish2016Sep28,0,Light,None,NA,FALSE,NA,NA,Water cloudy - could only see ~3-4 feet deep. Did not see or catch many sunfish or bass sp.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2018Sep18,OZARRMFISH2018Sep26,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM02,OZARRMFISH2022Aug29,OZARRMFISH2022Aug30,80,Calm,None,NA,FALSE,NA,NA,Water up ~ 1 ft. and Turbid due to rain. Visability ~ 10 in.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2005OCT20,OZARRMFISH2005NOV03,50,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2006OCT02,OZARRMFISH2006OCT19,100,Light,None,NA,FALSE,NA,NA,lamprey ammocoete observed. but not collected,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2007Oct01,OZARRMFish2007Oct10,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2008Oct06,OZARRMFish2008Oct17,45,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2009Oct05,OZARRMFish2009Oct08,100,Calm,Rain,Moderate,FALSE,NA,Periods of moderate to heavy rain,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2012Sep24,OZARRMFish2012Sep26,100,Light,Rain,Moderate,FALSE,NA,Scattered Thunderstorms,Water levels rose ~3inches during rain events but water was clear.  More fantails caught than in previous years.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2014Sep22,OZARRMFish2014Sep25,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFish2016Sep19,OZARRMFish2016Sep29,0,Light,None,NA,FALSE,NA,NA,water cloudy - visability ~ 5 feet. did not catch as many sucker + sunfish sp. As past samples,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2018Sep18,OZARRMFISH2018Sep27,60,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep06,90,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2005OCT20,OZARRMFISH2005NOV08,20,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2006OCT02,OZARRMFISH2006OCT25,100,Light,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2007Oct01,OZARRMFish2007Oct12,10,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2008Oct06,OZARRMFish2008Oct27,0,Calm,None,NA,FALSE,NA,NA,Conversion chart used to switch Dissolved Oxygen from percent saturation to mg/L,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,0,Light,None,NA,FALSE,NA,NA,Current was swift - difficult to catch sculpins and darters from boat.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2012Sep24,OZARRMFish2012Oct09,10,Calm,None,NA,FALSE,NA,NA,Rained 48 hours prior to sampling - river up ~4in but clear,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2014Sep22,OZARRMFish2014Oct09,80,Light,None,Moderate,FALSE,NA,NA,Rained between habitat on 10/9 and fish on 10/15; River up ~0.5 feet from 10/9; Re-collected width. depth. velocity on 10/15,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFish2016Sep19,OZARRMFish2016Oct05,80,Light,None,NA,FALSE,NA,NA,Water low on side channel. couldn't sample with jet boat,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2018Sep18,OZARRMFISH2018Oct09,80,Calm,None,NA,FALSE,NA,Rained on 10/7/2018. Water levels up 2 ft and turbid. Could only see 2 feet into water.,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM04,OZARRMFISH2022Aug29,OZARRMFISH2022Sep09,0,Calm,None,NA,FALSE,NA,NA,Side channel filling in with water willow - very shallow and narrow - sampled with backpack shocker,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2005OCT20,OZARRMFISH2005NOV10,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2006OCT02,OZARRMFISH2006OCT23,5,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2007Oct01,OZARRMFish2007Oct16,80,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2008Oct06,OZARRMFish2008Oct15,0,Calm,None,NA,FALSE,NA,NA,Had to convert Dissolved Oxygen to mg/L,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2009Oct05,OZARRMFish2009Oct20,95,Light,None,NA,FALSE,NA,NA,Water up about 1 ft to 1.5 ft. Riffle at lower end of reach was a run.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2012Sep24,OZARRMFish2012Oct10,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2014Sep22,OZARRMFish2014Oct08,10,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFish2016Sep19,OZARRMFish2016Oct06,30,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2018Sep18,OZARRMFISH2018Oct10,75,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM05,OZARRMFISH2022Aug29,OZARRMFISH2022Sep12,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2005OCT20,OZARRMFISH2005DEC06,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2006OCT02,OZARRMFISH2006OCT24,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2007Oct01,OZARRMFish2007Oct17,100,Light,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2008Oct06,OZARRMFish2008Oct29,0,Calm,None,NA,FALSE,NA,NA,Had to convert Dissolved Oxygen to mg/L,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2009Oct05,OZARRMFish2009Oct21,100,Moderate,None,NA,FALSE,NA,NA,Water levels up about a foot from previous years. Not much riffle habitat to sample.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2012Sep24,OZARRMFish2012Oct11,75,Moderate,None,NA,FALSE,NA,afternoon storms forecasted,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2014Sep22,OZARRMFish2014Oct16,40,Light,None,NA,FALSE,NA,NA,Rained on Friday 10/10/14 to Monday 10/13/14. Water up ~1.5ft from 10/9/14; water slightly cloudy.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFish2016Sep19,OZARRMFish2016Oct12,100,Light,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCM06,OZARRMFISH2018Sep18,OZARRMFISH2018Oct11,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT01,OZARRMFISH2009Oct05,OZARRMFish2009Oct05,0,Light,None,NA,FALSE,NA,NA,Log jam in reach - some fish escaped due to large amounts of woody debris.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT02,OZARRMFISH2007Oct01,OZARRMFish2007Oct09,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT03,OZARRMFISH2009Oct05,OZARRMFish2009Oct16,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT04,OZARRMFISH2010Oct05,OZARRMFish2010Oct06,0,Calm,None,NA,FALSE,NA,NA,Much of reach was pooled or with small trickle between pools.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,OZARRMFISH2010Oct05,OZARRMFish2010Oct06,0,Calm,None,NA,FALSE,NA,NA,There is a dried side channel that runs about 45m along on river right.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,OZARRMFISH2012Sep24,OZARRMFish2012Oct18,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT06,OZARRMFish2016Sep19,OZARRMFish2016Oct04,0,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT07,OZARRMFISH2008Oct06,OZARRMFish2008Oct06,50,Calm,None,NA,FALSE,NA,NA,Powder Mill- Lower boundry located at 2nd riffle upstream of low water crossing next to research center.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2006OCT02,OZARRMFISH2006OCT03,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2014Sep22,OZARRMFish2014Sep22,20,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2018Sep18,OZARRMFISH2018Sep18,30,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT08,OZARRMFISH2022Aug29,OZARRMFISH2022Sep02,100,Calm,Rain,Light,FALSE,NA,NA,Not a lot of fish in the open flat areas of the stream.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT09,OZARRMFISH2008Oct06,OZARRMFish2008Oct15,35,Calm,None,NA,FALSE,NA,NA,Carr Creek- Confluence of Tributary located in backwater area of site CURRM05.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT11,OZARRMFISH2007Oct01,OZARRMFish2007Oct05,10,Calm,None,NA,FALSE,NA,NA,stream splits into 2 channels ~75 m upstream of lower reach boundary. Only sampled the river left channel because it contained most of the water. River right channel had small trickle between pools.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT12,OZARRMFISH2010Oct05,OZARRMFish2010Oct05,0,Calm,None,NA,FALSE,NA,NA,No ending measurements taken for Core 5.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT13,OZARRMFISH2006OCT02,OZARRMFISH2006OCT02,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2012Sep24,OZARRMFish2012Sep25,0,Calm,None,NA,FALSE,NA,NA,Tow barge generator kept shutting off due to low oil levels.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2014Sep22,OZARRMFish2014Sep25,5,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFish2016Sep19,OZARRMFish2016Sep20,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2018Sep18,OZARRMFISH2018Sep21,90,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT14,OZARRMFISH2022Aug29,OZARRMFISH2022Sep08,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT15,OZARRMFISH2012Sep24,OZARRMFish2012Sep24,75,Calm,None,NA,FALSE,NA,NA,Water levels very low - side channel was not connected,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT15,OZARRMFish2016Sep19,OZARRMFish2016Sep19,0,Calm,None,NA,FALSE,NA,Rained on Sunday afternoon,Not many fish collected-suspect that repeated flooding has pushed fish out; a large amount of sand has been deposited on island seperating main and backwater,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,OZARRMFISH2014Sep22,OZARRMFish2014Oct07,0,Calm,None,NA,FALSE,NA,NA,site was shallow. Uniform width and depth,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,OZARRMFISH2018Sep18,OZARRMFISH2018Oct03,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHCT16,OZARRMFISH2022Aug29,OZARRMFISH2022Sep22,100,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2005OCT20,OZARRMFISH2005OCT26,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2006OCT02,OZARRMFISH2006OCT18,100,Calm,Rain,Light,FALSE,NA,mist in air during sampling,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2007Oct01,OZARRMFish2007Oct04,10,Light,None,NA,FALSE,NA,a little warm for October. lots of snakes out,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2008Oct06,OZARRMFish2008Oct08,0,Calm,None,NA,FALSE,NA,NA,Lots of deposited gravel/sand in reach due to floods in Sept.  Portions of bluff pool filled in with gravel.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2009Oct05,OZARRMFish2009Oct14,100,Calm,None,NA,FALSE,NA,NA,Water up about 1/2 foot from previous years. Rained previous Friday (10/9/09) - Jacks Fork came up ~ 4 feet at Hwy 17 Bridge.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2012Sep24,OZARRMFish2012Oct02,0,Calm,None,NA,FALSE,NA,NA,Rained previous week - backdown ~6inches water clear,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2014Sep22,OZARRMFish2014Oct02,80,Calm,None,NA,FALSE,NA,NA,Boat settings: 225v. 11 amps. Duty cycle: 30%. Rate: 40pps. Reach is actually 290m.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFish2016Sep19,OZARRMFish2016Sep27,0,Light,None,NA,FALSE,NA,NA,Not many sculpins seen in riffle or suckers seen in pool,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2018Sep18,OZARRMFISH2018Sep25,40,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM01,OZARRMFISH2022Aug29,OZARRMFISH2022Aug31,0,Calm,None,NA,FALSE,NA,Rained 0.5 inches two days prior.,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2005OCT20,OZARRMFISH2005OCT28,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2006OCT02,OZARRMFISH2006OCT19,100,Light,Rain,Light,FALSE,NA,misting rain,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2007Oct01,OZARRMFish2007Oct02,100,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2008Oct06,OZARRMFish2008Oct10,5,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2009Oct05,OZARRMFish2009Oct14,100,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2012Sep24,OZARRMFish2012Oct01,0,Calm,None,NA,FALSE,NA,Rained on Sept 26 and 27; water levels rose more 200cfs at USGS gage Mt. View,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2014Sep22,OZARRMFish2014Oct03,10,Light,None,NA,FALSE,NA,NA,Backwater on river left is now a side channel.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFish2016Sep19,OZARRMFish2016Sep27,30,Light,None,NA,FALSE,NA,NA,Side channel on river left now ~1/2 of flow at this site,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2018Sep18,OZARRMFISH2018Sep28,5,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM02,OZARRMFISH2022Aug29,OZARRMFISH2022Sep01,70,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2005OCT20,OZARRMFISH2005OCT27,90,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2006OCT02,OZARRMFISH2006OCT05,100,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2007Oct01,OZARRMFish2007Oct03,0,Calm,None,NA,FALSE,NA,NA,original site is 385m. but generator broke - only sampled 342,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2008Oct06,OZARRMFish2008Oct07,100,Calm,Rain,Light,FALSE,NA,NA,Rained previous night- water clear.  Deposited gravel and sand along reach due to flooding in Sept.  Gavel/sand soft in places.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2009Oct05,OZARRMFish2009Oct19,100,Light,Rain,Moderate,FALSE,NA,Rained off and on during sampling,Water up about ~ 1 ft - deeper areas at upper end of reach could not be sampled,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2012Sep24,OZARRMFish2012Oct03,90,Calm,None,NA,FALSE,NA,NA,water levels good. water clear. rained previous week,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2014Sep22,OZARRMFish2014Oct01,0,Calm,None,NA,FALSE,NA,NA,Actual reach length is 320 (not 385),Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFish2016Sep19,OZARRMFish2016Sep22,10,Calm,None,NA,FALSE,NA,NA,Water up about 3-4 inches from previous week,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2018Sep18,OZARRMFISH2018Sep20,0,Calm,None,NA,FALSE,NA,NA,Site wider than previous years; left band washed out,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJM03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep07,40,Light,None,NA,FALSE,NA,NA,Only took 10 habitat transects. Transect 10 was at the new upper boundary flag.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT01,OZARRMFISH2006OCT02,OZARRMFISH2006OCT06,0,Light,None,NA,FALSE,NA,NA,Boundary of reach located at second riffle upstream of confluence with Jacks Fork.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT02,OZARRMFISH2007Oct01,OZARRMFish2007Oct01,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2009Oct05,OZARRMFish2009Oct13,100,Light,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2012Sep24,OZARRMFish2012Oct02,10,Calm,None,NA,FALSE,NA,NA,high conductivity made electrofishing difficult;  backpack kept shutting down; horses stirred up sediment during sample,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2014Sep22,OZARRMFish2014Oct02,90,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFish2016Sep19,OZARRMFish2016Sep21,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2018Sep18,OZARRMFISH2018Oct02,30,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZARRMFISHJT03,OZARRMFISH2022Aug29,OZARRMFISH2022Sep13,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE01,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul25,0,Calm,None,NA,FALSE,NA,NA,sampling difficult due to deep fast water and veg,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE01,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul26,70,Calm,None,NA,FALSE,NA,Rained for approximately 1 hour yesterday afternoon around 5 pm.,Fast flows and deep pools difficult to sample; vegetation made it difficult to see stunned fish; water clear - visability good.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE01,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Jul29,50,Calm,None,NA,FALSE,NA,NA,Water had slight cloudiness during fish sample; some deep and fast areas difficult to fish sample; not many fish in center of channel - mostly margins; some fish escaped due to dislodged plug,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE01,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul25,40,Calm,None,NA,FALSE,NA,Rained day before,Cord on barge broke at Transect 5. Only sampled 114 m of reach,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE01,OZRSSprngs2019Jul29,OZRSSprngs2019Jul29,0,Calm,None,NA,FALSE,NA,Rained previous day,Water levels normal,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE01,OZRSSprngs2022Jul27,OZRSSprngs2022Jul27,40,Calm,None,NA,FALSE,NA,No rain in several weeks.,Water levels about average.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE02,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul27,40,Light,None,NA,FALSE,NA,NA,Water lower than past years; difficult to shock and collect fish due to amount of vegetation. Didn't see a lot of fish getting away from boat,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE02,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul26,85,Calm,None,NA,FALSE,NA,NA,Spring run lowest levels on 6years,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE02,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Jul28,30,Calm,None,NA,FALSE,NA,NA,mist rising from water during electrofishing,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE02,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul23,50,Light,None,NA,FALSE,NA,NA,Backpack shocker kept overloading in backwater. Dialed settings to 200 volts. frequency to 40 pps. and duty cycle to 30% and ran fine. Boat motor died 3 times while electrofishing.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE02,OZRSSprngs2021Aug03,OZRSSprngs2021Aug05,5,Calm,None,NA,FALSE,NA,NA,Water slightly cloudy. water levels normal. Transects off from typical location due to faulty range finder and incorrect GPS location of lower boundary.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE03,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul22,75,Calm,None,NA,FALSE,NA,NA,Velocity was extremely fast in mid-channel making it difficult to stun/collect fish.  Stayed mostly to margins.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE03,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul25,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE03,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul28,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE03,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul25,30,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE03,OZRSSprngs2023Aug01,OZRSSprngs2023Aug02,30,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE04,OZRSSPRNGS2009Jul27,OZRSSPRNGS2009Jul28,100,Calm,None,NA,FALSE,NA,NA,Water on river left (main channel) was swift and difficult to net. However. didn't see lots of fish in swift current. Used 2 backpack shockers simultaneously (1 on side channel & 1 on main channel),Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE04,OZRSSPRNGS2012Jul23,OZRSSPRNGS2012Jul25,10,Calm,None,NA,FALSE,NA,NA,water levels low,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE04,OZRSSPRNGS2015Jul27,OZRSSPRNGS2015Aug06,20,Calm,None,NA,FALSE,NA,NA,water levels up ~ 0.5ft from normal; difficult to sample fast riffle/run on river left near bottom of reach; could not sample middle section of that riffle/run,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE04,OZRSSPRNGS2018Jul23,OZRSSPRNGS2018Jul24,0,Calm,None,NA,FALSE,NA,NA,Only 1 backpack shocker used to sample rather than 2 in tantum as used in past sampling of reach.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE04,OZRSSprngs2021Aug03,OZRSSprngs2021Aug03,20,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE05,OZRSSPRNGS2008Jul21,OZRSSPRNGS2008Jul21,100,Calm,None,NA,FALSE,NA,Scattered showers forecasted,Vegetation made it difficult to see some fish- fish got caught in veg.  Deep pool/run difficult to sample. soft sediment on river left made it difficult to get all the way to the bank.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE05,OZRSSPRNGS2011Jul25,OZRSSPRNGS2011Jul26,0,Light,None,NA,FALSE,NA,NA,Difficult sampling on River Left due to mucky substrate and deep pools; Dual backpacks used.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE05,OZRSSPRNGS2014Jul28,OZRSSPRNGS2014Jul29,100,Calm,None,NA,FALSE,NA,NA,Both backpack shockers quit working; only half of reach sampled,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE05,OZRSSPRNGS2017Jul24,OZRSSPRNGS2017Jul26,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE05,OZRSSprngs2023Aug01,OZRSSprngs2023Aug01,100,Calm,Rain,Moderate,FALSE,NA,Rained first half of the day.,Transects were spaced every 30m instead of 24m due to incorrect reach length in database. Ean extra 60m were sampled due to this error.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE06,OZRSSPRNGS2007Jul23,OZRSSPRNGS2007Jul25,30,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE06,OZRSSPRNGS2010Jul26,OZRSSPRNGS2010Jul28,25,Calm,None,NA,FALSE,NA,NA,Deep and fast water in center of spring run - difficult to sample.  Callitriche and Elodea present in reach.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE06,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Sep04,0,Calm,None,NA,FALSE,NA,NA,Could not measure discharge due to flow being too high.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE06,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul27,20,Calm,None,NA,FALSE,NA,Rained previous 2 days,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE06,OZRSSprngs2019Jul29,OZRSSprngs2019Sep05,0,Calm,None,NA,FALSE,NA,NA,Water was slightly cloudy. could see 3 ft into water. DO probe did not calibrate properly-no readings taken.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE06,OZRSSprngs2022Jul27,OZRSSprngs2022Aug03,0,Light,None,NA,FALSE,NA,NA,Water normal level. Some cloudiness to the water but could see the bottom.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE07,OZRSSPRNGS2013Jul29,OZRSSPRNGS2013Aug16,95,Calm,None,NA,FALSE,NA,NA,Phillips was high previous week due to rain; fish near margins and cover.  Found Cardamine bulbosa in stream channel at transect 11.,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE07,OZRSSPRNGS2016Jul25,OZRSSPRNGS2016Jul25,40,Calm,None,NA,FALSE,NA,Rained day before,NA,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE07,OZRSSprngs2019Jul29,OZRSSprngs2019Jul29,20,Calm,None,NA,FALSE,NA,NA,Water levels slightly higher (3 inches) than in the past,Event,HumanObservation
+Ozark National Scenic Riverways,OZAR,OZRSSPRNGSSITE07,OZRSSprngs2022Jul27,OZRSSprngs2022Jul28,100,Calm,Rain,Light,FALSE,NA,NA,NA,Event,HumanObservation
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2009May01,PERIStfish2009May01,100,Calm,Rain,Moderate,FALSE,NA,Some thunder,water was clear; good visability,Event,HumanObservation
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2012May02,PERIStfish2012May02,10,Moderate,None,NA,FALSE,NA,NA,Pratt Creek low; rained ~1.5 inches on Monday 4/30/12,Event,HumanObservation
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2015May12,PERIStfish2015May12,25,Calm,None,NA,FALSE,NA,NA,water slightly turbid due to weekend rains,Event,HumanObservation
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2018May10,PERIStfish2018May10,100,Calm,None,NA,FALSE,NA,Rained earlier in the day,NA,Event,HumanObservation
+Pea Ridge National Military Park,PERI,PERIStfish01,PERIStfish2021May06,PERIStfish2021May06,0,Light,None,NA,FALSE,NA,NA,High flow event week prior to sampling. Debris ~ 4ft up on bank. Fish community data seems comparable to previous years.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2001Sep11,PIPEShiner2001Sep12,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Sand shiners had red and black paracites ( most every fish),Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2002Sep17,PIPEShiner2002Sep17,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,Most of the grasses are non-native. right bank maybe recorded as a category 4 habitat.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2003Sep02,PIPEShiner2003Sep04,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2004Sep16,PIPEShiner2004Sep16,-999,NA,NA,NA,FALSE,high flow,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2005Sep20,PIPEShiner2005Sep20,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,In pool 1 all fish were dead when the seine was pulled up.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2006Aug29,PIPEShiner2006Aug30,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2007Aug28,PIPEShiner2007Aug28,-999,NA,NA,NA,FALSE,moderate flow between pools,raining,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2008Aug26,PIPEShiner2008Aug26,-999,NA,NA,NA,TRUE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2009Aug24,PIPEShiner2009Aug25,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2010Aug31,PIPEShiner2010Aug31,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,Rained ~ 1.34 inches previous evening; water level up about 1/2 foot and turbid - about 5-6 inch visibility. NO FISH COLLECTED AT SITE 2,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2013Sep13,PIPEShiner2013Sep13,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,Water levels low; sampling effective.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2016Sep10,PIPEShiner2016Sep10,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2021Aug26,PIPEShiner2021Aug26,-999,NA,NA,NA,FALSE,flow between pools,cloudy,Rained in the morning. About ~1 1/2 inches; stream up ~6 inches and turbid.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2022Aug18,PIPEShiner2022Aug18,-999,NA,NA,NA,FALSE,flow between pools,cloudy,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2023Aug29,PIPEShiner2023Aug29,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,A lot of filamentous algae present. Difficult to get fish out tof seine and into the bucket,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2001Sep11,PIPEShiner2001Sep11,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Streambank is dominated by Reed Canary Grass.  Large boulders and cobble prevented from effective sampling.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2002Sep17,PIPEShiner2002Sep17,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Northern pike was pools 2 and 3.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2003Sep02,PIPEShiner2003Sep04,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Picture 5-8 of Topeka Shiner 35 mm camera; Kate.  Picture 9 Black Bullhead; 10 White Sucker; 11 Green Sunfish; 12 sampling; 13.14 Male Topeka Shiner; 15 Sand Shiner; 16.17 Johnny Darter.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2004Sep16,PIPEShiner2004Sep16,-999,NA,NA,NA,FALSE,high flow,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2005Sep20,PIPEShiner2005Sep20,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2006Aug29,PIPEShiner2006Aug29,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2007Aug28,PIPEShiner2007Aug28,-999,NA,NA,NA,FALSE,moderate flow between pools,raining,sampling very effective at site 1 due to soft sediment; difficult to seine run habitat due to large cobble,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2008Aug26,PIPEShiner2008Aug26,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2009Aug24,PIPEShiner2009Aug25,-999,NA,NA,NA,FALSE,flow between pools,cloudy,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2010Aug31,PIPEShiner2010Aug31,-999,NA,NA,NA,FALSE,flow between pools,cloudy,Rained ~ 1.34 inches previous evening; water up about 1/2 foot and turbid ~ 5-6 inch visibility,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2011Aug31,PIPEShiner2011Aug31,-999,NA,NA,NA,FALSE,flow between pools,cloudy,High water levels this spring and early summer. Some side channels still had flowing water. No Topeka shiners caught during seining. Used electrofishing on site #3 (pool) and site #5 (run) to collect,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2012Aug22,PIPEShiner2012Aug22,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2013Sep13,PIPEShiner2013Sep14,-999,NA,NA,NA,FALSE,flow between pools,cloudy,The weather was also raining.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2015Sep12,PIPEShiner2015Sep12,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,pictures taken by SDSU students and faculty,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2016Sep10,PIPEShiner2016Sep10,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2021Aug26,PIPEShiner2021Aug26,-999,NA,NA,NA,FALSE,flow between pools,raining,Rained 2 hours before sampling. Water levels rose ~ 6 inches from previous day. Water turbid - could not see stream bottom. Also cloudy.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2022Aug18,PIPEShiner2022Aug18,-999,NA,NA,NA,FALSE,flow between pools,cloudy,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2023Aug29,PIPEShiner2023Aug29,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,Pool had aquatic vegetation in center of channel making it difficult to get fish out of seine,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2001Sep11,PIPEShiner2001Sep11,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Northern Pike 0.6 M in length.  Large boulders and cobble prevented from effective sampling,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2002Sep17,PIPEShiner2002Sep17,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Lake appears lower than last year.  Northern pike escaped during siening in pool 5.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2003Sep02,PIPEShiner2003Sep04,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Middle site 2;  GPS data was collected 12 feet sw of stream; Middle site 3; 5 feet N of creek;  Middle 2B IGNORE!  Two runs with sein in pool 3,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2004Sep16,PIPEShiner2004Sep16,-999,NA,NA,NA,FALSE,high flow,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2005Sep20,PIPEShiner2005Sep20,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2006Aug29,PIPEShiner2006Aug29,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2001Sep11,PIPEShiner2001Sep11,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2002Sep17,PIPEShiner2002Sep17,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,Couldn't get a GPS reading for pool 2.  Caught 38 cm northern pike in pool 2.,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2003Sep02,PIPEShiner2003Sep04,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Pictures: 19.20 Green Sunfish;  21.22 Black Bullhead;  23 Common Shiner;  24.25 Johnny Darter;  1.2 Bluntnose Minnow;  3.4 Blacknose Dace;  Down Stream GPS recorded points upstream to downstream (8.8,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2004Sep16,PIPEShiner2004Sep16,-999,NA,NA,NA,FALSE,high flow,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2005Sep20,PIPEShiner2005Sep20,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2006Aug29,PIPEShiner2006Aug29,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2001Aug28,TAPRShiner2001Aug31,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Pool 4 too large to seine efficiently,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2002Sep30,TAPRShiner2002Oct03,-999,NA,NA,NA,FALSE,isolated pools,cloudy,Pool 4 is the plunge pool for the road culvert,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,-999,NA,NA,NA,FALSE,moderate flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,TRUE,moderate flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,-999,NA,NA,NA,FALSE,flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2010Sep07,TAPRShiner2010Sep07,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Site #2 had no fish,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2013Sep18,TAPRShiner2013Sep18,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Mostly crayfish in samples;  Could tell water was up in previous weeks due to ~14 inches rain but likely dry prior to the heavy rain.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2014Sept09,TAPRShiner2014Sep09,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,very windy; difficult to get velocity; site 3 difficult due to debris and boulders,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2015Aug30,TAPRShiner2015Aug30,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2016Aug31,TAPRShiner2016Sep01,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,DLM - Darin. APB = Alex Bybel. NTS = Nick Simpson (IOWA STATE),Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2017Sep05,TAPRShiner2017Sep06,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2018Sep04,TAPRShiner2018Sep04,-999,NA,NA,NA,FALSE,isolated pools,cloudy,Very low water levels,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2019Sep10,TAPRShiner2019Sep10,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,Rained ~ 5 inches 5 days prior to sampling reach. Could not get 5 sites sampled.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2022Aug16,TAPRShiner2022Aug17,-999,NA,NA,NA,FALSE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2001Aug28,TAPRShiner2001Aug28,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,-999,NA,NA,NA,FALSE,isolated pools,raining,Nothing found in pools 2 and 4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,-999,NA,NA,NA,FALSE,moderate flow between pools,raining,Quit raining half way through sampling,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2007Sep09,TAPRShiner2007Sep11,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,-999,NA,NA,NA,TRUE,flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2010Sep07,TAPRShiner2010Sep07,-999,NA,NA,NA,TRUE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2013Sep18,TAPRShiner2013Sep18,-999,NA,NA,NA,TRUE,flow between pools,clear-sunny,Mostly crayfish in samples;  Rained ~14 inches in previous 3 weeks but likely dry previous to that.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2014Sept09,TAPRShiner2014Sep10,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2015Aug30,TAPRShiner2015Aug30,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,site 4 difficult to sample due to overhanging vegetation,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2016Aug31,TAPRShiner2016Sep01,-999,NA,NA,NA,TRUE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2017Sep05,TAPRShiner2017Sep06,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,pool 1 - a lot of vegetation in the stream,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2018Sep04,TAPRShiner2018Sep04,-999,NA,NA,NA,TRUE,isolated pools,raining,No fish at site 1 & 2. Stream was dry a few weeks before sampling.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2019Sep10,TAPRShiner2019Sep10,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2021Sep07,TAPRShiner2021Sep07,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,Stream low. rained ~ 5 inches 3 days prior to sampling; suspect water levels were much lower. Only sampled 4 sites in reach - not enough water for 5 sites,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,-999,NA,NA,NA,TRUE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2001Aug28,TAPRShiner2001Oct12,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,Pool 1: 2 seine hauls. first with no fish. second only ran 5-7 M.  Polls 2 and 3 had 2 seine runs.  Pool 5 had to go around veg(nut rushes. grass) in pool.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2002Sep30,TAPRShiner2002Oct05,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,Pool 2 contained aquatic microphyte,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2003Oct06,TAPRShiner2003Oct09,-999,NA,NA,NA,TRUE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2004Oct04,TAPRShiner2004Oct05,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,TRUE,moderate flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2001Aug28,TAPRShiner2001Aug28,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Pool 1 net was not deep enough.  Pool was seined 3 times.  Scour pool adjacent to road.  Pool 2 seined before gabitat measures could be taken.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2002Sep30,TAPRShiner2002Oct02,-999,NA,NA,NA,FALSE,isolated pools,raining,Plunge pool for the road culvert,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2003Oct06,TAPRShiner2003Oct06,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2004Oct04,TAPRShiner2004Oct04,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2005Oct03,TAPRShiner2005Oct03,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2008Sep07,TAPRShiner2008Sep07,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2009Sep08,TAPRShiner2009Sep08,-999,NA,NA,NA,FALSE,isolated pools,raining,Rained last week and again this morning/afternoon.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2015Aug30,TAPRShiner2015Sep02,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,only sampled three sites,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,-999,NA,NA,NA,FALSE,trickle between pools,raining,Pool 2 snaged bottom. ran twice.  Pool 3 nothing found,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2003Oct06,TAPRShiner2003Oct06,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,Digital Images--picture of what looks like M Topeka Shiner; #1 &#2-big one may be Sand Shiner; #3 &#4 have orange fins and are female,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,-999,NA,NA,NA,TRUE,isolated pools,partly cloudy,There is not a pool 5.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,-999,NA,NA,NA,FALSE,isolated pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,Started raining half way through sampling.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2007Sep09,TAPRShiner2007Sep09,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2008Sep07,TAPRShiner2008Sep07,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2009Sep08,TAPRShiner2009Sep08,-999,NA,NA,NA,FALSE,trickle between pools,raining,Rained late previous week and this morning/afternoon.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,-999,NA,NA,NA,TRUE,isolated pools,partly cloudy,only four sites sampled,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner05middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,-999,NA,NA,NA,FALSE,trickle between pools,raining,pool 1 nothing,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2001Aug28,TAPRShiner2001Oct12,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,Pool 4:  saw a lot more fish. rocks made seining difficult.  Pool 5:  2 seine runs--First run caught fish but they escaped,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,FALSE,moderate flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2007Sep09,TAPRShiner2007Sep13,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,-999,NA,NA,NA,FALSE,flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,-999,NA,NA,NA,FALSE,flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,TAPRShiner2002Sep30,TAPRShiner2002Oct04,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,-999,NA,NA,NA,FALSE,high flow,partly cloudy,Picture 7 Green Sunfish; 8 Redfin Shiner,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,TRUE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,Ludwigia repeis; eleocharis. veronica; Zarrichela palustris present,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,-999,NA,NA,NA,FALSE,flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,-999,NA,NA,NA,FALSE,flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,Only sampled 3 sites. Water low. Only fish counts collected,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,-999,NA,NA,NA,FALSE,NA,clear-sunny,no stream flow data collected,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,There were no measurements for pool 5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2007Sep09,TAPRShiner2007Sep10,-999,NA,NA,NA,FALSE,isolated pools,raining,no fish collected at all 3 sites,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2008Sep07,TAPRShiner2008Sep08,-999,NA,NA,NA,TRUE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2009Sep08,TAPRShiner2009Sep10,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2015Aug30,TAPRShiner2015Sep01,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,no fish collected at site one,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,-999,NA,NA,NA,FALSE,isolated pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2001Aug28,TAPRShiner2001Oct13,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,Pool 2:  seined twice b/c first time resulted in few fish.  Pool 4:  had a lot of macrophytes in water (tubular) only seined 20 or 30 M of pool.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2002Sep30,TAPRShiner2002Oct05,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2003Oct06,TAPRShiner2003Oct09,-999,NA,NA,NA,FALSE,high flow,cloudy,Pictures:  Bluntnose Minnow 24;  ROLL 2 -- Picture 1 Meadow; 2 central stoneroller,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,-999,NA,NA,NA,FALSE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,-999,NA,NA,NA,FALSE,flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Aquatic veg at site 2 - had to seine around veg,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,-999,NA,NA,NA,FALSE,flow between pools,cloudy,Rained previous afternoon. water came up and was flowing heavy; water was out of banks but receded by day of sampling,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,Rained ~ 5 inches 4 days before sampling this reach. Water levels low prior to rain. Could not get 5 sites for sampling.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Pool 4:  covered with algae.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,left,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,-999,NA,NA,NA,FALSE,high flow,partly cloudy,4. 5 scenic pictures 22. 5 upper left.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Picture #5 Topeka Shiner,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,Pool 2:  cardinal shiners have parasites.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,right,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,-999,NA,NA,NA,FALSE,high flow,partly cloudy,Picture #3 Creek Chub,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,-999,NA,NA,NA,TRUE,isolated pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2001Aug28,TAPRShiner2001Oct09,-999,NA,NA,NA,FALSE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,-999,NA,NA,NA,FALSE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,Pictures:  14 Topeka; 15 Golden Shiner,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2004Oct04,TAPRShiner2004Oct05,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,Riparian corridor #9 = pond,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,mussel valves; ludwigia spp. and filamentous algae  in pool #3. large snapping turtle in pool #3. and Zannichelia or Potomogeton foliousus in pool #3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2007Sep09,TAPRShiner2007Sep12,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2009Sep08,TAPRShiner2009Sep11,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2010Sep07,TAPRShiner2010Sep08,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,Bluff on river left at sites 1 and 2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2013Sep18,TAPRShiner2013Sep19,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,Lots of large crayfish.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2014Sept09,TAPRShiner2014Sep09,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,All water in stream suspected to be drainage from pond,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2015Aug30,TAPRShiner2015Aug31,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2016Aug31,TAPRShiner2016Sep02,-999,NA,NA,NA,FALSE,trickle between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2017Sep05,TAPRShiner2017Sep05,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,only 4 pools,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,-999,NA,NA,NA,FALSE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2019Sep10,TAPRShiner2019Sep11,-999,NA,NA,NA,FALSE,isolated pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2021Sep07,TAPRShiner2021Sep08,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,Rained ~ 5 inches 4 days before sampling this reach. Water levels low prior to rain. Could not get 5 sites for sampling.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,-999,NA,NA,NA,FALSE,isolated pools,cloudy,water levels very low,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2001Aug28,TAPRShiner2001Aug29,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Pool 1.2.3:  streambank with lots of Astr. Canadensis. some trees Spart pec. Pool 4:  same as 1.2.3 but no trees.  Pool 5 same as 1.2.3 but only had one tree.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2002Sep30,TAPRShiner2002Oct04,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,Pictures:  16 Brook Silverside; 17 Blackstripe topminnow; 18 Bluegill; 19 Spotted Sucker; 20 Golden Redhorse; 21 Golden Redhorse; 22 Mosquitofish; 23 Largemouth Bass.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2007Sep09,TAPRShiner2007Sep12,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2008Sep07,TAPRShiner2008Sep10,-999,NA,NA,NA,TRUE,isolated pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2009Sep08,TAPRShiner2009Sep11,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2018Sep04,TAPRShiner2018Sep05,-999,NA,NA,NA,FALSE,trickle between pools,raining,Site 1 within channelized section,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2001Aug28,TAPRShiner2001Aug29,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,Picture 24 Fathead minnow,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,-999,NA,NA,NA,TRUE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,-999,NA,NA,NA,TRUE,moderate flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,-999,NA,NA,NA,TRUE,trickle between pools,partly cloudy,Watercress. Zannichelia?. Ludwigia. veronica,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2001Aug28,TAPRShiner2001Oct10,-999,NA,NA,NA,FALSE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,Pool 5 unknown algae collected,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2003Oct06,TAPRShiner2003Oct07,-999,NA,NA,NA,TRUE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,-999,NA,NA,NA,TRUE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,TRUE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2006Sep18,TAPRShiner2006Sep19,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,watercrss; eleocharis. samolus parviflorus present,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2007Sep09,TAPRShiner2007Sep10,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,-999,NA,NA,NA,TRUE,flow between pools,cloudy,Watercress,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,-999,NA,NA,NA,TRUE,flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,-999,NA,NA,NA,FALSE,isolated pools,cloudy,Water levels very low. lots of filamentous algae. No fish collecected at sites,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,-999,NA,NA,NA,TRUE,flow between pools,clear-sunny,Rained ~ 5 inches 4 days before sampling. Water was very low prior to sampling. Only took count data for fish.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2006Sep18,TAPRShiner2006Sep18,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,water levels low,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,-999,NA,NA,NA,TRUE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,-999,NA,NA,NA,FALSE,flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,-999,NA,NA,NA,FALSE,flow between pools,raining,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,-999,NA,NA,NA,FALSE,flow between pools,cloudy,Rained day before; Fox creek up about 1 foot from previous 2 days when data sonde was deployed Water very turbid. Could only sample ~2/3 of pools and run,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,-999,NA,NA,NA,FALSE,flow between pools,clear-sunny,Rained ~ 5 inches 5 days before sampling reach. Only took count data for fish.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2001Aug28,TAPRShiner2001Oct10,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,Pool 1:  sampling effort was minimal because of large cobble getting caught up in net.  Pool 2:  only seined 10 m of 30m of pool area.  Pool 4:  only seined 10 m of 20 m of pool area.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2002Sep30,TAPRShiner2002Oct01,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,Pools 1 and to a lesser degree 2--quite a bit of macrophytes (coon-tail) Pool 4 tree down obstructing pool. hung up on rocks.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Pictures:  7. 8 Golden Redhorse; 9. 10 Longear Sunfish;  11 Orangespotted Sunfish,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,-999,NA,NA,NA,FALSE,moderate flow between pools,partly cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,TRUE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2006Sep18,TAPRShiner2006Sep19,-999,NA,NA,NA,TRUE,isolated pools,clear-sunny,watercress. myriophyllum spicatum - large beds. Sagattaria filamentous grenn algae- lots.  Callitriche heterophylla. eleocharis spp (marginal habitat),Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2007Sep09,TAPRShiner2007Sep10,-999,NA,NA,NA,TRUE,trickle between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2008Sep07,TAPRShiner2008Sep08,-999,NA,NA,NA,TRUE,flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2009Sep08,TAPRShiner2009Sep10,-999,NA,NA,NA,TRUE,flow between pools,cloudy,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2015Aug30,TAPRShiner2015Sep01,-999,NA,NA,NA,TRUE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,-999,NA,NA,NA,FALSE,isolated pools,cloudy,Water levels very low; a lot of aquatic vegetation and algae; for site 3-only seined half of pool due to large log jam.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2021Sep07,TAPRShiner2021Sep09,-999,NA,NA,NA,TRUE,trickle between pools,clear-sunny,Rained ~ 5 inches 5 days before sampling. Water levels low prior to rain. Only took count data for fish,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2001Aug28,TAPRShiner2001Oct10,-999,NA,NA,NA,FALSE,trickle between pools,partly cloudy,Pool 4:  pool as deep as waders +; went slow for this reason. fish could have went beside us.  DO meter got accidently turned off after pool 4 (calibration could be off),Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,-999,NA,NA,NA,FALSE,isolated pools,clear-sunny,Pool 4 -- 2 seine runs due to poor yield,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,Picture 12 orangethroat Darter; 13 Cardinal Shiner.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,-999,NA,NA,NA,FALSE,moderate flow between pools,cloudy,Pool 1 was to deep to seine effectively.,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,-999,NA,NA,NA,FALSE,moderate flow between pools,clear-sunny,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2006Jun15,WICRStfish2006Jun15,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2007May09,WICRStfish2007May09,80,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2010May03,WICRStfish2010May03,0,Calm,None,NA,FALSE,NA,NA,Water levels were good for sampling - water clear. Some spots too deep to sample at upper end.,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2013May06,WICRStfish2013May06,100,Moderate,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2016May04,WICRStfish2016May04,0,Calm,None,NA,FALSE,NA,NA,Deep pool at upstream end of reach was too deep to sample; only sampled margin on river left,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2019Jun03,WICRStfish2019Jun11,40,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish01,WICRStfish2022Jun02,WICRStfish2022Jun14,20,Calm,None,NA,FALSE,NA,NA,Could not sample last ~ 20 meters due to deep pool,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2006Jun15,WICRStfish2006Jun15,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2007May09,WICRStfish2007May09,75,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2010May03,WICRStfish2010May03,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2013May06,WICRStfish2013May06,30,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2016May04,WICRStfish2016May04,0,Calm,None,NA,FALSE,NA,NA,Difficult to net some areas due to heavy amounts of algae,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2019Jun03,WICRStfish2019Jun03,10,Calm,None,NA,FALSE,NA,NA,Water up 3 inches from normal; Low abundance of some species due to high rain/flow event,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish02,WICRStfish2022Jun02,WICRStfish2022Jun09,0,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2006Jun15,WICRStfish2006Jun15,0,Light,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2007May09,WICRStfish2007May09,100,Calm,None,NA,FALSE,NA,Scattered thunder storms for past two days,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2010May03,WICRStfish2010May03,0,Light,None,NA,FALSE,NA,NA,Large rocks on river right made it difficult to catch sculpins.,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2013May06,WICRStfish2013May06,10,Calm,None,NA,FALSE,NA,NA,NA,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2016May04,WICRStfish2016May04,0,Calm,None,NA,FALSE,NA,NA,Approx. 1/4 of site sampled with 2 backpack shockers. Remaining 3/4 of site sampled with 1 shocker,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2019Jun03,WICRStfish2019Jun03,40,Light,None,NA,FALSE,NA,Rained lightly night before and early morning,New backpack shocker kept shutting off near band-due to clay substrate. Lower abundance of some species due to high rain/flow events sos,Event,HumanObservation
+Wilson's Creek National Battlefield,WICR,WICRStfish03,WICRStfish2022Jun02,WICRStfish2022Jun02,100,Calm,None,NA,FALSE,NA,Cool,Rained previous day and a half. water up ~ 5-6 inches previous day. water levels have dropped ~ 3 inches last night and 2 inches today,Event,HumanObservation

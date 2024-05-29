@@ -1,0 +1,12 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkCode	Park unit code	categorical				
+dwcType	The nature or genre of the resource	categorical				
+dwcBasisOfRecord	The specific nature of the data record	categorical				
+scientificName	The binomial nomenclature of the observed organism at the time of publishing	character				
+DataReleaseID	Grid cell identifier. The first character is the grid identification, followed by the cell identifier (GRID_cellID)	character				
+CalYr	Calendar year the survey took place	Date		yyyy		
+Type	Type of sample SRS is simple random sample; subj is non-randomly selected. Non-random would have been selected if not enough random cells occurred in higher density classes	categorical				
+Count	Number of individuals found in a given grid cell	numeric	dimensionless			
+DensityClass_Estimated	Missouri bladderpod density class, estimated in 5x5 m plot at grid A	categorical				
+DensityClass_Actual	Based on the count what the true density class is/should be for the grid plot	categorical				
+Correct	Count is within 20% of upper bound for density class 1, and within 10% of upper and lower bounds for density classes 2+	categorical				

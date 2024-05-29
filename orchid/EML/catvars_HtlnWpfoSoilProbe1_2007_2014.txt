@@ -1,0 +1,3 @@
+attributeName	code	definition
+dwcBasisOfRecord	MachineObservation	all data collected via automated sensor
+dwcType	event	All data collected a discrete time

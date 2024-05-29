@@ -1,0 +1,35 @@
+attributeName	code	definition
+HeightInterval_m	0 - 0.5	0-5m
+HeightInterval_m	0.25 - 0.75	0.25-0.75m
+HeightInterval_m	0.5 - 1.0	0.5-1.0m
+HeightInterval_m	0.75 - 1.25	0.75-1.25m
+HeightInterval_m	1.0 - 1.5	1.0-1.5m
+HeightInterval_m	1.25 - 1.75	1.25-1.75m
+HeightInterval_m	1.5 - 2.0	1.5-2.0m
+PercentRangeOfCover	0	zero percent
+PercentRangeOfCover	0.1 - 0.99	0.1-0.99 percent
+PercentRangeOfCover	1 - 5	1-5 percent
+PercentRangeOfCover	25 - 50	25-50 percent
+PercentRangeOfCover	5 - 25	5-25 percent
+PercentRangeOfCover	50 - 75	50-75 percent
+PercentRangeOfCover	75 - 95	75-95 percent
+PercentRangeOfCover	95 - 100	95-100 percent
+dwcBasisOfRecord	HumanObservation	Observatiosn made by a human
+dwcType	event	Observations occurred at a discrete time
+Cover	0	Zero percent Cover
+Cover	1	0.1-0.99 percent cover
+Cover	2	1-5 percent cover
+Cover	3	5-25 precent cover
+Cover	4	25-50 percent cover
+Cover	5	50-75 precent cover
+Cover	6	75-95 precent cover
+Cover	7	95-100 percent cover
+Site	1	Site 1 in Unit A
+Site	2	Site 2 in Unit A
+Site	3	Site 3 in Unit A
+Site	4	Site 4 in Unit A
+Site	5	Site 5 in Unit A
+Site	6	Site 6 in Unit A
+Site	7	Site 7 in Unit C
+Site	8	Site 8 in Unit C
+Site	9	Site 9 in Unit C

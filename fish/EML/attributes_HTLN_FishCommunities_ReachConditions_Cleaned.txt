@@ -1,0 +1,16 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+CloudCover_Percent	Percent cloud cover	numeric	percent		-999	No record
+WindIntensity	Wind intensity description	categorical			NA	No record
+PrecipitationType	Precipitation type	categorical			NA	No record
+PrecipitationIntensity	Precipitation intensity	categorical			NA	No record
+SH_Springs_Present	Spring present	categorical				
+SH_StreamFlow_Description	Stream flow description	character			NA	No record
+WeatherComments	Weather comments	character			NA	No record
+AdditionalComments	Additional comments	character				
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

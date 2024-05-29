@@ -1,0 +1,13 @@
+keyword	keywordThesaurus
+River	
+Spring	
+Fish	
+Communities	
+Small Stream	
+Habitat	
+Water Quality	
+Stream	
+Stream Discharge	
+Buffalo National River	
+Ozark National Scenic Riverways	
+Prairie Streams	

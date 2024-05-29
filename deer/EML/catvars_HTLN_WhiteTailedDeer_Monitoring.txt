@@ -1,0 +1,67 @@
+attributeName	code	definition
+BasisofRecord	HumanObservation	An output of a human observation process.
+BeginningCloudCoverInPercent	 1 - 5	The beginning cloud cover was between 1 to 5%.
+BeginningCloudCoverInPercent	25 - 50	The beginning cloud cover was between 25 to 50%.
+BeginningCloudCoverInPercent	 5 - 25	The beginning cloud cover was between 5 to 25%.
+BeginningCloudCoverInPercent	50 - 75	The beginning cloud cover was between 50 to 75%.
+BeginningCloudCoverInPercent	75 - 95	The beginning cloud cover was between 75 to 95%.
+BeginningCloudCoverInPercent	95 - 100	The beginning cloud cover was between 95 to 100%.
+BeginningCloudCoverInPercent	None present	There was no beginning cloud cover.
+BeginningCloudCoverInPercent	Trace - 1	The beginning cloud cover was between a trace amount to 1%.
+BeginningPrecipitation	Light drizzle	The beginning precipitation was a light drizzle.
+BeginningPrecipitation	Light rain	The beginning precipitation was a light rain.
+BeginningPrecipitation	Mist or fog	The beginning precipitation was mist or fog.
+BeginningPrecipitation	No rain	There was no beginning precipitation.
+BeginningPrecipitation	Snow	The beginning precipitation was snow.
+EndingCloudCoverInPercent	 1 - 5	The ending cloud cover was between 1 to 5%.
+EndingCloudCoverInPercent	25 - 50	The ending cloud cover was between 25 to 50%.
+EndingCloudCoverInPercent	 5 - 25	The ending cloud cover was between 5 to 25%.
+EndingCloudCoverInPercent	50 - 75	The ending cloud cover was between 50 to 75%.
+EndingCloudCoverInPercent	75 - 95	The ending cloud cover was between 75 to 95%.
+EndingCloudCoverInPercent	95 - 100	The ending cloud cover was between 95 to 100%.
+EndingCloudCoverInPercent	None present	The ending cloud cover was 0%.
+EndingCloudCoverInPercent	Trace - 1	The ending cloud cover was between a trace amount to 1%.
+EndingPrecipitation	Heavy rain difficult to hear	The ending precipitation was a heavy rain that made it difficult to hear.
+EndingPrecipitation	Light drizzle	The ending precipitation was a light drizzle.
+EndingPrecipitation	Light rain	The ending precipitation was a light rain.
+EndingPrecipitation	Mist or fog	The ending precipitation was mist or fog.
+EndingPrecipitation	No rain	There was no ending precipitation.
+EndingPrecipitation	Snow	The ending precipitation was snow.
+GeodeticDatum	EPSG:4326	"EPSG:4326 is a coordinate reference system based on the WGS84 datum and defines an Earth-centered, Earth-fixed coordinate system."
+ParkCode	ARPO	The abbreviation for Arkansas Post National Memorial.
+ParkCode	PERI	The abbreviation for Pea Ridge National Military Park.
+ParkCode	WICR	The abbreviation for Wilson's Creek National Battlefield.
+ParkName	Arkansas Post National Memorial	The  park name is Arkansas Post National Memorial.
+ParkName	Pea Ridge National Military Park	The  park name is Pea Ridge National Military Park.
+ParkName	Wilson's Creek National Battlefield	The  park name is Wilson's Creek National Battlefield.
+QuadrantCompass	-9999	Deer were located in an unknown quadrant relative to the vehicle.
+QuadrantCompass	Left Back	Deer were located in the left back quadrant relative to the vehicle.
+QuadrantCompass	Left Front	Deer were located in the left front quadrant relative to the vehicle.
+QuadrantCompass	On Road	Deer were located on the road.
+QuadrantCompass	Right Back	Deer were located in the right back quadrant relative to the vehicle.
+QuadrantCompass	Right Front	Deer were located in the right front quadrant relative to the vehicle.
+Round	A	The sample was collected during round A.
+Round	B	The sample was collected during round B.
+Round	C	The sample was collected during round C.
+Round	DayA	The sample was collected during round DayA.
+Round	DayB	The sample was collected during round DayB.
+Round	DayC	The sample was collected during round DayC.
+SideOfVehicle	Front	Deer were located in front of the vehicle.
+SideOfVehicle	Left	Deer were located to the left of the vehicle.
+SideOfVehicle	On Road	Deer were located on the road.
+SideOfVehicle	Right	Deer were located to the right of the vehicle.
+TaxonRank	Species	The taxon rank is species.
+VegetationType	Crop	Deer were located in crop habitat type.
+VegetationType	Grassland/Prairie	Deer were located in grassland/prairie habitat type.
+VegetationType	Mowed Lawn	Deer were located in mowed lawn habitat type.
+VegetationType	Other	Deer were located in other habitat type.
+VegetationType	Outside Park	Deer were located outside of the park.
+VegetationType	Riparian Forest	Deer were located in riparian forest habitat type.
+VegetationType	Riparian Grassland	Deer were located in riparian grassland habitat type.
+VegetationType	Riparian Scrub	Deer were located in riparian scrub habitat type.
+VegetationType	Savanna	Deer were located in savanna habitat type.
+VegetationType	Upland Forest	Deer were located in upland forest habitat type.
+VegetationType	Upland Scrub	Deer were located in upland scrub habitat type.
+VerbatimCoordinatesSystem	UTM	The verbatim coordinate system used at the time of collection was Universal Transverse Mercator.
+VerbatimSRS	EPSG:26915	The global datum reference used for determining UTMs at the time of collection was EPSG:26915.
+dwcType	Event	An action that occurs at some location during some time.

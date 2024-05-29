@@ -1,0 +1,14 @@
+keyword	keywordThesaurus
+Monitoring	
+Heartland Network	
+National Park Service	
+NPS	
+long-term monitoring	
+orchid	
+Western Prairie Fringed Orchid	
+HTLN	
+Platanthera praeclara	
+plant	
+Federally threatened	
+T&E	
+Sensitive	

@@ -1,0 +1,22 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel type descriptions	categorical				
+TransectNumber	Transect number	numeric	dimensionless			
+SampleLocation	Description of sample location	categorical				
+Season	Year at start of sampling season	Date		YYYY		
+BankAngle_Degrees	Bank angle descriptions	categorical			-999	No observation
+BankVegCover_Percent	Bank vegetation cover descriptions	categorical			-999	No observation
+BankHeight_Meters	Bank height descriptions	categorical			-999	No observation
+BankSubstrate	Bank substrate descriptions	categorical			-999	No observation
+LargeTrees_TR	Large trees (greater than 3 in. Dbh) present	categorical				
+SmTreesShrubs_SH	Small trees and shrubs present	categorical				
+GrassForbes_GR	Grasses and forbs present	categorical				
+BareRockSediment_BA	Bare rock / sediment present	categorical				
+Artificial_AR	Artificial cover present	categorical				
+Comment	Comments	character			NA	No comment
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

@@ -1,0 +1,15 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Foreign key for location	character				
+PeriodID	Foreign key for sampling season	character				
+EventID	Foreign key for sampling visit	character				
+ChannelType	Channel type codes	categorical				
+DischargeNo	Discharge number	numeric	dimensionless			
+DistanceFromBank_Meters	Distance from bank	numeric	meter		-999	No observation
+Depth_Centimeters	Depth	numeric	centimeter		-999	No observation
+Velocity_MetersPerSecond	Velocity	numeric	meterPerSecond		-999	No observation
+Velocity_MetersPerSecond_flag	Data quality flag for Velocity_MetersPerSecond	categorical				
+Comments	Comments	character			NA	No comment
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

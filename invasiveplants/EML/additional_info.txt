@@ -1,0 +1,10 @@
+﻿References for species names can be found within associated publication: Kull KA and Others. 2022. Problematic plant monitoring protocol for the Heartland Inventory and Monitoring Network: Narrative, version 2.0. Natural Resource Report. NPS/HTLN/NRR—2022/2376. National Park Service. Fort Collins, Colorado. https://doi.org/10.36967/nrr-2293355
+
+All data were collected in the Central Time Zone (CT).
+
+Data processing notes:
+	1. Code values for CoverClassInMetersSquared (available on page 10 of the aforementioned 'Problematic Plant Monitoring Protocol for the Heartland Inventory and Monitoring. 2022' and duplicated in the tlu_CoverClass.csv look-up table) were directly integrated into the column variables to clarify the meaning of each value.
+
+	2. Within the CoverClassInMetersSquared column of the raw data file, the code used to represent '1,000–4,999.9' was incorrectly listed as '7', '8', and '9', when it should have only been '7'. Corrected with the approval of HTLN's Haack-Gaynor JL.
+
+	3. A missing decimal was added to the LongitudeInDecimalDegrees for Hopewell Culture National Historical Park.

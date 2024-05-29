@@ -1,0 +1,14 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Status	Status (Active / Retired)	categorical				
+ReachID	Reach identifier code	character				
+ActiveDates	Years active	character				
+startUTMZone	Starting (upstream) UTM zone	categorical				
+XstartUTM	Starting (upstream) X UTM coordinate	numeric	meter			
+YstartUTM	Starting (upstream) Y UTM coordinate	numeric	meter			
+startUTMDatum	The geodetic datum upon which the geographic coordinates given in XstartUTM and YstartUTM is based.	categorical				
+XstartDD	Starting (upstream) longitude coordinate	numeric	degree			
+YstartDD	Starting (upstream) latitude coordinate	numeric	degree			
+startDDDatum	The geodetic datum upon which the geographic coordinates given in XstartDD and YstartDD is based.	categorical				
+LocationID	LocationID code	character			NA	Missing location ID
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

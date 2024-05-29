@@ -1,0 +1,10 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Year	Year the data were sampled	Date		YYYY		
+Site	Vegetation Profile Side ID (1-9)	categorical				
+ObserverDistance_m	Distance the observer is from the profile board in meteres	numeric	meter			
+HeightInterval_m	The height interval on the profile board that the cover is being observed for	categorical				
+Cover	The vegetation profile cover class value (0-7). Modified-Daubenmire cover value scale used to estimate horizontal vegetation	categorical				
+PercentRangeOfCover	Range of cover percent	categorical				
+PercentClassMidpt	Cover class midpoint as a percent	numeric	dimensionless			
+dwcType	The type of observation	categorical				
+dwcBasisOfRecord	Method of making the observation	categorical				

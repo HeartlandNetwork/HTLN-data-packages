@@ -1,0 +1,28 @@
+attributeName	code	definition
+BasisofRecord	HumanObservation	An output of a human observation process.
+CoverClassInMetersSquared	" 1,000 - 4,999.9"	"The vegetation cover class is  1,000 - 4,999.9 meters squared."
+CoverClassInMetersSquared	0.1 - 0.9	The vegetation cover class is 0.1 - 0.9 meters squared.
+CoverClassInMetersSquared	1 - 9.9	The vegetation cover class is 1 - 9.9 meters squared.
+CoverClassInMetersSquared	10 - 49.9	The vegetation cover class is 10 - 49.9 meters squared.
+CoverClassInMetersSquared	100 - 499.9	The vegetation cover class is 100 - 499.9 meters squared.
+CoverClassInMetersSquared	499.9 - 999.9	The vegetation cover class is 499.9 - 999.9 meters squared.
+CoverClassInMetersSquared	50 - 99.9	The vegetation cover class is 50 - 99.9 meters squared.
+GeodeticDatum	EPSG:4326	"EPSG:4326 is a coordinate reference system based on the WGS84 datum and defines an Earth-centered, Earth-fixed coordinate system."
+ParkCode	ARPO	The park abbreviation for Arkansas Post National Memorial.
+ParkCode	CUVA	The park abbreviation for Cuyahoga Valley National Park.
+ParkCode	EFMO	The park abbreviation for Effigy Mounds National Monument.
+ParkCode	GWCA	The park abbreviation for George Washington Carver National Monument.
+ParkCode	HEHO	The park abbreviation for Herbert Hoover National Historic Site.
+ParkCode	HOCU	The park abbreviation for Hopewell Culture National Historical Park.
+ParkCode	HOME	The park abbreviation for Homestead National Historical Park.
+ParkCode	LIBO	The park abbreviation for Lincoln Boyhood National Memorial.
+ParkCode	PERI	The park abbreviation for Pea Ridge National Military Park.
+ParkCode	PIPE	The park abbreviation for Pipestone National Monument.
+ParkCode	TAPR	The park abbreviation for Tallgrass Prairie National Preserve.
+ParkCode	WICR	The park abbreviation for Wilson's Creek National Battlefield.
+TaxonRank	Genus	The taxon rank is genus.
+TaxonRank	Species	The taxon rank is species.
+TaxonRank	Subspecies	The taxon rank is subspecies.
+Type	Event	An action that occurs at some location during some time.
+VerbatimCoordinatesSystem	UTM	The verbatim coordinate systen is Universal Transverse Mercator.
+VerbatimSRS	EPSG:26915	"EPSG:26915 refers to NAD83 which is the horizontal and geometric control datum for the United States, Canada, Mexico, and Central America."

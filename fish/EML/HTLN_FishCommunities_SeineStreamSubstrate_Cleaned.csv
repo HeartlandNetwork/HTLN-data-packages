@@ -1,0 +1,1092 @@
+ParkName,ParkCode,LocationID,PeriodID,EventID,ChannelType,SiteNumber,Muck,Detritus,Silt,Sand,Pea_gravel,Coarse_gravel,Cobble,Boulder,Bedrock,Hardpan_shale,dwcType,dwcBasisOfRecord
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,1,6,2,3,3,1,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,2,3,2,2,6,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,3,2,2,2,6,2,0,0,2,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,4,2,2,2,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,5,2,2,3,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2006Aug31,HOMEShiner2006Aug31,main,1,0,0,1,7,1,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2006Aug31,HOMEShiner2006Aug31,main,2,0,0,1,7,1,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2006Aug31,HOMEShiner2006Aug31,main,3,0,0,1,7,1,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2006Aug31,HOMEShiner2006Aug31,main,4,0,0,1,7,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2006Aug31,HOMEShiner2006Aug31,main,5,3,0,2,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2008Aug27,HOMEShiner2008Aug27,main,1,3,2,3,5,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2008Aug27,HOMEShiner2008Aug27,main,2,2,2,3,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2008Aug27,HOMEShiner2008Aug27,main,3,3,2,3,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2008Aug27,HOMEShiner2008Aug27,main,4,0,2,2,5,3,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2008Aug27,HOMEShiner2008Aug27,main,5,2,2,3,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2011Sep20,HOMEShiner2011Sep20,main,1,0,3,1,5,2,0,2,0,0,4,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2011Sep20,HOMEShiner2011Sep20,main,2,0,2,1,5,2,0,0,0,0,4,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2011Sep20,HOMEShiner2011Sep20,main,3,0,2,0,5,2,0,0,0,0,4,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2011Sep20,HOMEShiner2011Sep20,main,4,0,2,1,6,2,0,0,0,0,3,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2011Sep20,HOMEShiner2011Sep20,main,5,0,3,1,5,2,0,0,0,0,4,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2015Sep03,HOMEShiner2015Sep03,main,1,5,3,4,3,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2015Sep03,HOMEShiner2015Sep03,main,2,6,2,2,0,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2015Sep03,HOMEShiner2015Sep03,main,3,6,2,2,3,1,0,0,0,0,2,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2015Sep03,HOMEShiner2015Sep03,main,4,6,2,2,3,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2015Sep03,HOMEShiner2015Sep03,main,5,3,2,3,5,0,0,0,0,0,3,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2017Sep07,HOMEShiner2017Sep07,main,1,3,2,6,3,2,1,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2017Sep07,HOMEShiner2017Sep07,main,2,3,2,6,2,3,1,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2017Sep07,HOMEShiner2017Sep07,main,3,3,2,6,2,2,1,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2017Sep07,HOMEShiner2017Sep07,main,4,3,2,6,2,2,2,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2017Sep07,HOMEShiner2017Sep07,main,5,3,2,6,2,3,1,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2023Sep07,HOMEShiner2023Sep07,main,1,5,3,4,0,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2023Sep07,HOMEShiner2023Sep07,main,2,6,3,3,0,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2023Sep07,HOMEShiner2023Sep07,main,3,6,2,3,0,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2023Sep07,HOMEShiner2023Sep07,main,4,4,2,5,3,0,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01lower,HOMEShiner2023Sep07,HOMEShiner2023Sep07,main,5,5,2,3,3,1,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01upper,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,1,3,2,3,5,2,0,2,2,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01upper,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,2,3,2,2,6,2,0,0,0,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01upper,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,3,2,1,2,4,0,2,2,2,0,0,Event,HumanObservation
+Homestead National Monument of America,HOME,HOMEShiner01upper,HOMEShiner2004Sep13,HOMEShiner2004Sep13,main,4,2,2,2,6,2,0,0,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2001Sep11,PIPEShiner2001Sep12,main,1,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2001Sep11,PIPEShiner2001Sep12,main,2,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2001Sep11,PIPEShiner2001Sep12,main,3,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2001Sep11,PIPEShiner2001Sep12,main,4,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2001Sep11,PIPEShiner2001Sep12,main,5,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,1,0,1,5,2,1,1,0,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,2,0,1,3,3,2,0,1,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,3,0,2,4,5,2,0,2,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,4,0,2,4,4,2,0,1,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,5,0,1,5,0,0,1,1,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,1,3,2,2,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,2,0,1,1,1,1,1,1,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,3,0,1,2,2,2,1,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,4,0,1,1,1,2,1,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,5,1,1,1,2,2,0,1,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,1,0,1,1,0,0,0,0,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,2,0,1,1,0,0,0,0,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,3,0,1,1,1,1,0,0,2,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,4,1,2,2,2,1,0,3,3,4,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,5,1,2,1,3,2,2,3,4,4,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,1,0,1,1,2,1,2,3,4,4,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,2,0,1,1,2,3,1,1,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,3,0,1,1,3,2,1,2,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,4,0,1,1,2,2,1,1,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,5,0,1,1,4,4,3,1,3,4,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2006Aug29,PIPEShiner2006Aug30,main,1,0,0,2,0,0,0,2,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2006Aug29,PIPEShiner2006Aug30,main,2,0,0,3,0,0,0,1,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2006Aug29,PIPEShiner2006Aug30,main,3,0,0,3,0,0,0,1,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2006Aug29,PIPEShiner2006Aug30,main,4,0,0,3,0,0,0,2,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2006Aug29,PIPEShiner2006Aug30,main,5,0,0,3,0,0,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,1,0,0,1,0,0,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,2,0,0,0,3,2,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,3,0,0,2,2,0,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,4,0,0,2,3,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,5,0,0,2,3,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,1,0,0,2,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,2,0,0,2,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,3,0,0,2,3,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,4,0,2,2,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,5,0,2,2,0,0,0,0,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,1,0,2,3,3,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,2,0,2,3,2,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,3,0,1,3,3,3,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,4,0,1,0,3,3,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,5,0,1,0,3,3,0,1,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,1,1,2,0,1,2,1,1,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,2,1,1,1,3,2,0,1,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,3,2,1,1,0,2,0,0,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,4,1,0,1,1,2,0,0,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,5,0,0,0,1,2,0,0,3,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2013Sep13,PIPEShiner2013Sep13,main,1,0,0,1,0,0,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2013Sep13,PIPEShiner2013Sep13,main,2,0,0,1,2,1,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2013Sep13,PIPEShiner2013Sep13,main,3,0,0,1,0,0,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2013Sep13,PIPEShiner2013Sep13,main,4,0,0,1,0,0,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2013Sep13,PIPEShiner2013Sep13,main,5,0,0,1,1,2,0,2,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,1,0,1,3,3,1,1,1,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,2,0,1,3,3,1,1,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,3,0,0,3,3,1,1,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,4,0,1,3,3,1,1,1,1,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,5,0,1,3,3,1,1,3,2,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,1,1,1,1,1,1,2,2,2,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,2,1,1,1,1,1,2,3,2,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,3,2,2,2,2,1,2,3,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,4,2,2,2,2,1,2,3,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,5,2,2,3,3,1,2,2,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,1,2,1,1,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,2,2,2,1,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,3,2,1,1,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,4,2,1,1,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,5,2,2,1,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,1,3,0,0,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,2,3,0,0,0,0,0,3,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,3,3,0,0,0,0,0,0,2,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,4,3,0,0,0,0,0,0,0,6,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01above,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,5,2,0,0,0,2,0,0,0,7,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,1,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,2,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,3,0,0,0,5,0,0,0,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,4,0,0,0,5,0,0,0,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,5,0,0,0,5,0,0,0,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,1,0,2,2,2,0,2,6,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,2,0,1,5,1,1,1,4,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,3,0,1,6,1,1,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,4,0,1,3,3,1,2,6,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,5,0,1,2,3,1,1,6,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,1,0,1,3,3,2,1,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,2,3,2,3,2,2,1,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,3,2,1,4,2,1,1,3,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,4,2,2,3,2,3,2,3,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,5,1,2,5,3,2,1,3,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,1,0,2,0,0,1,2,6,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,2,2,1,2,2,2,3,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,3,1,1,1,2,2,2,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,4,0,1,1,2,2,2,5,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,5,1,1,1,4,2,2,3,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,1,0,1,1,1,1,2,3,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,2,0,1,3,2,1,1,3,6,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,3,1,1,1,3,1,1,2,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,4,0,1,3,3,1,1,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,5,0,1,2,3,2,1,3,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,1,0,3,6,1,3,2,2,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,2,0,1,1,3,3,3,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,3,0,2,1,4,3,3,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,4,0,2,1,4,4,3,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,5,0,2,5,3,3,2,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,1,5,3,3,0,0,0,2,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,2,0,2,2,1,3,3,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,3,1,0,1,2,1,0,4,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,4,0,1,0,2,2,1,5,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2007Aug28,PIPEShiner2007Aug28,main,5,1,0,1,3,4,2,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,1,3,3,4,2,0,0,3,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,2,0,1,0,3,3,3,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,3,2,1,3,3,3,3,4,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,4,2,2,3,2,2,3,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2008Aug26,PIPEShiner2008Aug26,main,5,0,2,2,2,0,3,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,1,1,2,3,3,2,3,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,2,0,0,1,2,3,3,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,3,0,1,2,2,2,3,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,4,0,1,0,3,3,4,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2009Aug24,PIPEShiner2009Aug25,main,5,0,2,3,3,3,4,4,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,1,1,3,2,4,3,2,2,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,2,0,1,0,2,2,1,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,3,0,1,0,3,2,3,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,4,0,1,2,3,3,3,4,3,0,1,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2010Aug31,PIPEShiner2010Aug31,main,5,0,1,2,3,1,2,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2011Aug31,PIPEShiner2011Aug31,main,1,3,3,3,5,4,2,2,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2011Aug31,PIPEShiner2011Aug31,main,2,2,3,2,3,3,3,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2011Aug31,PIPEShiner2011Aug31,main,3,2,2,3,5,4,3,3,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2011Aug31,PIPEShiner2011Aug31,main,4,0,1,2,3,3,3,6,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2011Aug31,PIPEShiner2011Aug31,main,5,1,2,3,5,4,3,3,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2013Sep13,PIPEShiner2013Sep14,main,1,0,0,3,2,5,1,4,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2013Sep13,PIPEShiner2013Sep14,main,2,0,0,2,2,3,4,5,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2013Sep13,PIPEShiner2013Sep14,main,3,0,0,3,4,3,3,2,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2013Sep13,PIPEShiner2013Sep14,main,4,0,0,1,3,2,1,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2013Sep13,PIPEShiner2013Sep14,main,5,0,0,1,3,3,3,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,1,0,2,3,4,3,3,3,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,2,0,2,2,3,2,2,6,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,3,3,2,3,4,2,2,3,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,4,0,1,1,3,3,3,6,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2016Sep10,PIPEShiner2016Sep10,main,5,0,1,3,4,2,2,5,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,1,3,2,3,2,1,3,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,2,2,2,3,2,1,3,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,3,3,2,4,3,2,3,3,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,4,2,2,2,2,1,3,4,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2021Aug26,PIPEShiner2021Aug26,main,5,3,2,2,2,2,3,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,1,1,1,3,3,3,3,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,2,0,0,1,0,2,2,5,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,3,1,0,3,4,3,3,4,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,4,0,0,2,3,3,4,3,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2022Aug18,PIPEShiner2022Aug18,main,5,0,0,1,2,3,4,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,1,3,3,3,2,3,3,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,2,3,2,3,4,3,2,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,3,2,1,2,2,3,1,2,4,5,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,4,3,2,2,2,3,2,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01lower,PIPEShiner2023Aug29,PIPEShiner2023Aug29,main,5,2,2,2,3,4,3,5,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,1,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,2,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,3,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,4,0,0,0,0,0,0,0,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,5,0,0,0,0,0,0,0,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,1,0,0,3,4,1,1,6,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,2,0,3,5,1,1,0,6,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,3,0,1,3,2,1,1,6,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,4,0,2,3,3,1,1,6,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,5,0,1,4,3,1,1,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,1,0,1,2,2,4,1,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,2,0,1,2,2,4,3,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,3,0,1,2,3,2,2,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,4,0,1,2,3,3,2,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,5,0,1,2,3,3,2,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,1,0,1,1,1,2,2,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,2,1,1,1,1,1,2,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,3,0,1,1,2,1,3,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,4,0,1,1,2,2,2,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,5,0,1,1,2,2,2,3,6,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,1,0,1,2,3,1,1,3,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,2,0,1,2,2,1,1,2,6,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,3,0,1,2,2,1,1,5,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,4,2,3,2,1,1,1,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,5,0,1,2,3,1,1,1,6,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,1,0,2,1,3,4,3,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,2,0,2,2,4,4,4,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,3,0,2,0,3,4,4,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,4,0,2,4,2,2,2,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01middl,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,5,0,1,4,4,3,2,4,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,1,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,2,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,3,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,4,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2001Sep11,PIPEShiner2001Sep11,main,5,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,1,0,1,2,1,1,1,5,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,2,0,1,2,4,1,1,3,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,3,0,1,2,4,2,0,3,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,4,0,1,2,3,2,0,5,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2002Sep17,PIPEShiner2002Sep17,main,5,0,1,1,5,3,1,5,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,1,2,2,2,3,3,3,4,1,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,2,2,1,2,3,3,2,4,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,3,3,3,2,3,4,1,4,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,4,1,3,2,3,3,2,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2003Sep02,PIPEShiner2003Sep04,main,5,0,1,2,3,4,3,3,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,1,0,3,1,1,1,2,3,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,2,0,2,1,2,2,2,4,6,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,3,1,2,1,2,2,2,4,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,4,0,1,1,2,2,1,4,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2004Sep16,PIPEShiner2004Sep16,main,5,1,1,1,3,3,1,1,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,1,0,1,2,4,1,1,5,2,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,2,0,2,3,3,1,1,1,6,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,3,0,1,3,4,3,1,1,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,4,0,2,2,3,1,1,2,5,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2005Sep20,PIPEShiner2005Sep20,main,5,0,3,2,4,1,1,2,4,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,1,0,2,2,2,2,3,6,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,2,0,3,4,3,1,3,6,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,3,1,2,4,3,0,0,3,3,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,4,5,4,4,1,0,0,1,0,0,0,Event,HumanObservation
+Pipestone National Monument,PIPE,PIPEShiner01upper,PIPEShiner2006Aug29,PIPEShiner2006Aug29,main,5,2,2,4,5,2,2,2,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2001Aug28,TAPRShiner2001Aug31,main,1,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2001Aug28,TAPRShiner2001Aug31,main,2,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2001Aug28,TAPRShiner2001Aug31,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2001Aug28,TAPRShiner2001Aug31,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2001Aug28,TAPRShiner2001Aug31,main,5,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,1,0,1,6,0,0,0,0,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,2,0,1,3,2,2,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,3,0,1,2,3,3,2,4,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,4,0,1,2,3,3,2,2,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,1,1,2,3,2,3,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,2,0,1,3,1,3,3,3,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,3,3,2,3,1,1,1,3,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,4,2,1,3,0,4,4,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,5,3,2,3,0,2,2,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,1,1,2,3,1,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,2,1,2,3,1,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,3,2,2,3,1,1,2,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,4,2,2,2,1,3,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,5,2,2,2,1,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,1,3,1,2,2,3,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,2,1,1,2,2,3,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,2,1,1,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,2,1,2,2,3,4,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,2,1,1,2,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,1,4,0,2,0,3,2,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,2,2,0,1,3,5,2,0,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,3,4,0,2,4,3,2,2,2,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,1,0,3,2,0,3,6,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,2,0,3,0,0,3,5,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,3,0,2,3,3,3,3,3,2,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,4,0,3,0,0,3,4,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,5,0,3,0,0,2,3,3,4,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,1,0,0,0,0,2,2,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,2,2,0,0,2,3,4,3,2,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,3,0,0,0,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,4,0,0,0,3,4,3,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,5,0,1,0,3,4,4,3,3,2,1,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,1,2,3,4,3,2,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,2,3,3,4,3,2,3,2,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,3,2,3,4,3,3,3,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,4,4,3,4,3,3,3,2,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,5,3,3,4,3,3,3,3,2,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,1,0,0,0,3,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,2,0,0,0,0,2,4,2,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,3,0,0,0,2,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,4,0,0,0,2,3,3,0,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,5,0,0,0,2,2,3,3,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,1,4,2,5,2,2,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,2,2,2,4,3,3,4,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,3,3,3,4,2,2,2,3,2,2,1,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,4,2,3,3,2,3,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,5,2,3,4,3,3,2,2,0,1,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,1,0,2,2,3,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,2,0,3,3,4,3,4,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,3,4,3,3,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,4,0,2,2,3,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,5,0,2,3,4,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,1,0,1,2,3,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,2,0,2,2,3,2,5,2,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,3,6,3,2,2,1,2,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,4,0,3,2,3,3,3,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,5,0,3,3,2,1,2,3,2,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,1,2,1,1,0,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,2,1,1,1,0,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,3,5,2,2,0,0,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,4,2,2,1,0,2,2,3,1,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,5,3,2,3,0,2,3,3,2,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,1,4,3,3,3,3,3,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,2,4,2,4,2,2,0,2,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,3,4,3,4,3,3,3,2,2,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,4,5,3,3,3,3,0,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,1,2,3,3,2,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,2,2,2,2,3,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,3,5,3,3,3,3,3,2,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,4,3,3,3,3,3,4,0,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,5,3,3,3,3,3,3,0,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,1,4,2,2,3,2,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,2,4,2,2,1,2,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,3,3,2,1,1,3,3,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,4,0,1,2,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2022Aug16,TAPRShiner2022Aug17,main,1,2,2,3,2,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2022Aug16,TAPRShiner2022Aug17,main,2,2,2,2,2,3,5,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2022Aug16,TAPRShiner2022Aug17,main,3,5,3,2,2,2,3,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2022Aug16,TAPRShiner2022Aug17,main,4,3,2,2,2,2,2,0,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01lower,TAPRShiner2022Aug16,TAPRShiner2022Aug17,main,5,3,2,3,3,3,4,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,1,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,2,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,5,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,1,0,0,6,0,2,3,2,0,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,2,0,0,5,0,3,1,2,1,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,3,0,0,4,0,2,1,2,4,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,4,0,0,4,0,2,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,5,0,0,5,0,1,1,1,4,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,1,2,1,3,0,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,2,1,2,2,0,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,3,1,2,2,0,1,2,3,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,4,3,1,3,0,3,2,2,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,5,1,2,3,0,3,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,1,1,2,3,1,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,2,1,2,2,1,3,3,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,3,1,2,1,1,3,3,4,3,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,4,1,2,1,1,3,3,4,3,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,5,1,2,1,1,3,3,3,3,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,2,2,1,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,2,2,2,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,1,2,1,2,3,1,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,1,1,1,2,2,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,2,4,1,2,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,1,3,0,2,0,3,3,3,3,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,2,0,0,2,2,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,3,6,2,0,1,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,1,0,3,2,0,0,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,2,0,2,0,0,3,3,5,4,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,3,0,0,0,0,3,4,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,4,0,2,0,0,3,5,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,1,0,0,0,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,2,0,0,0,2,3,3,4,4,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,3,0,0,0,2,3,4,4,2,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,4,2,2,3,3,3,3,0,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,5,0,0,0,2,5,4,0,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,1,0,2,2,3,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,2,0,3,2,3,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,3,0,3,2,2,3,3,4,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,4,0,2,1,2,3,3,4,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2010Sep07,TAPRShiner2010Sep07,main,5,0,2,2,3,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,1,1,2,3,2,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,2,0,1,2,2,2,4,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,3,0,1,1,2,2,4,4,3,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,4,0,1,1,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2013Sep18,TAPRShiner2013Sep18,main,5,3,2,2,3,2,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2014Sept09,TAPRShiner2014Sep10,main,1,0,2,3,2,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2014Sept09,TAPRShiner2014Sep10,main,2,0,2,3,3,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2014Sept09,TAPRShiner2014Sep10,main,3,0,2,3,3,4,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2014Sept09,TAPRShiner2014Sep10,main,4,0,3,4,3,3,3,0,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2014Sept09,TAPRShiner2014Sep10,main,5,0,3,4,3,3,3,3,0,0,-999,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,1,0,2,2,2,2,3,5,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,2,0,2,2,2,3,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,3,0,2,2,2,3,4,4,2,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,4,3,3,3,2,2,4,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2015Aug30,TAPRShiner2015Aug30,main,5,2,2,3,3,3,4,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,1,0,1,2,1,2,3,5,0,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,2,0,1,2,1,2,1,6,2,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,3,1,2,3,2,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,4,2,1,5,2,3,3,1,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2016Aug31,TAPRShiner2016Sep01,main,5,0,1,2,1,2,3,4,3,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,1,0,1,2,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,2,2,2,3,2,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,3,1,1,2,2,4,5,3,0,0,1,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,4,3,2,2,1,4,4,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2017Sep05,TAPRShiner2017Sep06,main,5,4,2,4,1,2,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,1,2,2,2,3,4,3,3,0,4,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,2,2,2,2,2,2,0,3,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,3,2,3,4,3,3,0,2,3,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2018Sep04,TAPRShiner2018Sep04,main,4,2,4,3,3,3,3,2,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,1,2,3,3,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,2,2,3,2,2,3,4,4,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,3,2,2,3,2,2,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,4,2,3,3,2,2,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2019Sep10,TAPRShiner2019Sep10,main,5,3,3,4,2,2,2,2,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2021Sep07,TAPRShiner2021Sep07,main,1,0,3,3,3,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2021Sep07,TAPRShiner2021Sep07,main,2,3,2,3,3,4,4,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2021Sep07,TAPRShiner2021Sep07,main,3,4,2,4,3,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2021Sep07,TAPRShiner2021Sep07,main,4,5,2,3,2,2,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,1,2,2,3,3,4,4,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,2,2,2,2,2,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,3,5,4,2,2,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,4,3,3,2,0,2,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,1,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,4,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,5,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,1,0,1,6,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,2,0,0,6,0,2,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,1,1,1,4,0,3,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,2,2,1,6,0,1,1,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,3,1,2,6,0,1,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,4,2,3,5,0,2,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,5,3,3,3,0,3,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,1,2,2,2,0,1,1,3,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,2,3,2,3,0,1,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,3,5,2,3,0,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,4,5,2,3,0,1,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,5,3,2,3,1,2,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,2,1,1,2,2,2,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,1,1,1,3,3,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,2,6,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,2,6,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner01upper,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,2,6,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,1,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,2,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2001Aug28,TAPRShiner2001Aug28,main,3,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,1,0,1,2,2,1,3,4,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,1,4,1,3,1,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,2,3,2,4,0,3,1,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,3,6,1,4,0,1,1,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,4,4,2,3,0,2,1,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,5,2,1,4,0,1,2,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,1,2,1,2,1,2,3,5,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,1,1,1,3,2,3,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,2,1,1,5,1,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,3,1,1,5,1,1,1,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,4,1,1,5,1,3,2,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,5,1,1,3,1,1,2,3,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,1,4,0,5,0,0,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,2,3,0,5,0,0,0,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,3,0,0,3,3,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,4,0,0,3,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,5,0,0,3,0,2,3,3,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,1,0,1,1,2,2,3,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,2,1,1,2,3,3,3,4,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,3,0,0,0,2,2,3,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,1,3,2,3,3,2,0,0,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,2,3,2,3,3,4,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02lower,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,3,3,3,4,3,4,2,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,main,1,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,1,0,0,6,0,1,0,0,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,2,0,0,6,0,2,0,0,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,3,0,0,6,0,3,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,1,7,1,3,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,2,7,1,3,0,2,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,3,6,1,3,0,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,4,6,1,3,0,3,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2003Oct06,TAPRShiner2003Oct06,main,5,7,2,3,0,1,0,1,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,1,6,2,2,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,2,3,2,3,0,2,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,3,4,2,4,0,2,3,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,4,4,1,2,0,3,3,4,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,5,4,1,3,0,3,3,3,2,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,1,1,1,4,3,1,1,1,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,2,1,1,4,3,1,1,1,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,3,1,3,4,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner02middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,4,1,1,5,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,main,1,0,0,0,0,0,0,0,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2001Aug28,TAPRShiner2001Aug30,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,1,0,0,6,0,2,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,2,0,0,6,0,3,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,3,0,0,4,0,1,1,0,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,1,5,2,3,0,1,0,0,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,2,6,2,3,0,2,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,3,3,2,2,0,3,3,2,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,4,3,2,3,0,1,1,1,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,5,3,1,3,0,3,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,1,4,2,3,0,1,1,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,2,2,2,4,0,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,3,3,2,4,0,3,0,0,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,4,4,2,3,0,2,1,0,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2004Oct04,TAPRShiner2004Oct04,main,5,5,2,3,0,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,1,2,1,4,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,2,1,1,5,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,3,1,1,3,1,2,3,1,0,0,1,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,4,1,1,4,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2005Oct03,TAPRShiner2005Oct03,main,5,1,1,1,1,1,1,2,5,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2007Sep09,TAPRShiner2007Sep09,main,1,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2007Sep09,TAPRShiner2007Sep09,main,2,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2007Sep09,TAPRShiner2007Sep09,main,3,7,0,0,0,0,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2007Sep09,TAPRShiner2007Sep09,main,4,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,1,6,0,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,2,6,0,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,3,6,0,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,4,6,0,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2008Sep07,TAPRShiner2008Sep07,main,5,6,0,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,1,3,2,2,2,3,3,3,0,0,1,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,2,2,1,0,2,2,1,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,3,0,0,0,2,2,2,3,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,4,2,0,0,2,2,0,2,0,4,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2009Sep08,TAPRShiner2009Sep08,main,5,0,0,0,2,2,0,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,1,5,1,4,3,0,0,0,0,0,-999,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,2,4,2,5,1,2,0,0,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,3,3,2,3,4,3,0,0,4,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner04middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,4,5,2,4,3,3,0,0,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner05middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,1,0,0,4,0,1,2,1,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,1,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2001Aug28,TAPRShiner2001Oct12,main,5,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,1,0,1,2,2,2,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,2,0,1,2,2,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,3,0,1,2,2,3,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,4,0,1,2,1,3,3,4,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,5,0,1,4,1,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,1,1,1,3,0,2,2,5,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,2,1,2,3,0,1,3,2,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,3,1,1,3,0,5,2,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,4,1,1,3,0,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,5,2,1,3,0,3,2,2,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,1,3,1,1,1,3,3,2,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,2,2,2,3,1,3,3,3,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,3,2,2,1,1,3,3,3,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,4,3,1,3,1,3,3,3,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,5,3,2,1,1,3,3,1,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,1,3,1,1,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,1,4,1,1,2,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,1,2,1,1,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,1,2,1,1,1,2,1,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,1,1,1,2,2,2,1,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2007Sep09,TAPRShiner2007Sep13,main,1,0,0,2,2,5,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2007Sep09,TAPRShiner2007Sep13,main,2,0,0,2,3,5,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2007Sep09,TAPRShiner2007Sep13,main,3,0,0,2,2,3,5,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2007Sep09,TAPRShiner2007Sep13,main,4,0,0,2,2,4,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2007Sep09,TAPRShiner2007Sep13,main,5,0,0,3,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,1,3,0,2,2,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,2,0,0,0,3,3,5,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,3,0,0,2,3,3,6,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,4,0,0,0,2,3,5,3,2,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,5,0,0,2,5,3,3,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,1,0,0,0,3,5,4,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,2,0,0,0,0,3,2,2,2,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,3,0,0,0,2,5,4,0,0,3,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,4,0,0,0,3,5,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,5,0,0,0,2,5,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,1,0,1,2,1,3,3,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,2,0,1,2,1,2,4,5,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,3,1,1,2,2,3,4,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,4,3,2,2,1,3,3,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,5,1,1,2,2,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,1,2,2,3,3,4,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,2,3,2,3,3,4,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,3,5,3,3,3,3,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,4,4,2,3,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,1,3,2,3,2,2,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,2,2,2,2,3,3,5,3,2,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,3,1,2,2,1,3,5,4,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,4,3,2,3,2,4,4,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,5,0,1,2,2,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,1,0,1,5,2,4,1,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,2,0,1,4,1,3,2,2,1,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,3,0,1,3,1,4,2,1,1,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,4,0,1,3,1,3,2,1,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner10upper,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,5,0,1,3,2,4,2,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,1,2,0,6,0,3,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,2,2,0,6,0,3,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,3,0,0,5,0,3,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,4,0,0,7,0,3,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,5,0,0,7,0,2,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,1,6,3,3,0,3,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,2,4,3,3,0,3,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,3,3,2,3,0,4,2,2,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,4,5,2,3,0,2,1,1,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,5,6,3,3,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,1,4,2,3,0,3,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,2,4,2,3,0,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,3,4,2,4,0,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,4,4,2,0,0,3,3,1,0,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2004Oct04,TAPRShiner2004Oct07,main,5,4,2,2,0,3,3,1,0,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,1,2,6,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,1,2,6,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,1,2,6,1,1,1,0,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,1,2,6,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,0,2,4,1,2,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,1,6,2,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,2,6,2,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,3,6,2,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,4,6,2,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,1,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,2,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,3,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,1,7,0,0,2,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,2,6,0,0,0,3,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,3,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,1,6,3,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,2,6,3,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2015Aug30,TAPRShiner2015Sep02,main,3,6,3,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,1,6,3,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,2,6,3,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2018Sep04,TAPRShiner2018Sep07,main,3,6,3,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,1,6,0,0,0,3,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,2,7,0,0,2,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner12middl,TAPRShiner2021Sep07,TAPRShiner2021Sep10,main,3,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,1,0,0,5,0,3,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,1,0,0,7,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,2,0,0,6,0,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,3,0,0,7,0,3,0,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,4,0,0,6,0,3,3,0,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,1,1,3,2,0,0,1,2,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,2,4,1,3,2,2,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,1,4,3,3,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,2,5,3,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,3,2,2,3,1,2,2,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,4,3,1,3,2,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,5,3,3,3,1,3,3,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,1,2,4,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,1,2,6,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,1,2,6,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,2,1,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,1,6,0,2,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,2,5,0,0,0,3,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,3,5,0,0,0,2,0,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,1,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,2,7,0,0,0,0,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,3,3,0,0,0,3,4,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,1,7,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,2,3,0,0,2,2,3,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,3,2,0,0,2,2,3,6,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,1,0,3,4,2,2,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,2,0,3,4,2,3,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner17upper,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,3,0,2,3,1,2,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,1,0,1,3,1,2,4,3,1,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,2,0,1,4,1,2,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,3,0,1,5,1,1,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,4,0,1,3,2,2,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner18middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,5,0,1,2,3,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2001Aug28,TAPRShiner2001Oct13,main,1,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2001Aug28,TAPRShiner2001Oct13,main,2,0,0,0,0,0,0,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2001Aug28,TAPRShiner2001Oct13,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2001Aug28,TAPRShiner2001Oct13,main,4,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2001Aug28,TAPRShiner2001Oct13,main,5,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,1,0,0,2,0,0,0,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,2,0,0,6,0,3,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,3,0,0,3,0,3,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,4,0,0,3,0,3,3,3,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,5,0,0,5,0,3,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,1,2,2,3,0,2,2,2,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,2,2,2,3,0,3,3,4,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,3,3,2,3,0,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,4,3,2,3,0,3,2,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,5,3,2,3,0,2,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,1,1,1,3,1,1,2,3,3,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,2,1,1,3,1,2,3,2,4,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,3,1,1,2,2,3,2,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,4,1,1,2,3,3,3,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,5,1,1,2,1,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,0,1,3,1,4,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,0,1,1,2,2,2,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,0,1,2,1,3,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,1,2,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,0,1,3,1,1,2,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,1,0,0,3,0,2,3,4,4,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,2,3,0,3,0,3,3,2,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,3,0,0,2,3,3,4,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,4,0,0,3,0,2,0,3,0,3,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,5,0,0,3,0,0,0,3,0,5,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,1,0,0,0,3,3,4,4,2,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,2,0,0,2,4,3,3,0,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,3,0,0,0,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,4,0,0,3,4,3,0,0,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,5,2,0,0,3,3,3,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,1,0,2,3,3,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,2,3,2,3,2,2,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,3,0,3,5,3,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,4,0,2,4,2,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,5,3,3,2,2,3,4,4,3,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,1,2,2,4,4,4,4,3,2,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,2,3,2,5,3,4,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,3,5,3,4,3,2,0,2,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,4,5,3,1,4,3,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,5,0,0,3,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,1,0,2,2,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,2,0,2,2,2,3,4,4,3,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,3,0,1,3,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,4,5,2,3,3,2,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,1,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,4,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,1,0,1,6,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,2,0,1,6,0,2,1,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,3,0,0,5,0,2,2,3,0,0,1,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,4,0,0,6,0,1,2,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,5,0,1,6,0,2,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,1,3,2,3,0,2,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,2,2,1,3,0,2,3,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,3,2,2,4,0,2,2,2,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,4,2,2,4,0,2,2,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,5,3,1,3,0,3,3,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,1,3,2,3,0,1,2,2,1,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,2,4,2,3,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,3,1,2,3,0,1,1,3,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,4,3,2,3,0,1,1,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,5,1,1,3,0,1,1,3,3,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,0,2,4,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,0,1,2,1,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,0,2,4,1,1,1,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,3,1,2,2,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22ltupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,0,1,1,1,2,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,1,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,4,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2001Aug28,TAPRShiner2001Oct11,main,5,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,1,0,0,6,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,2,0,0,7,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,3,0,0,6,0,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,4,0,0,6,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2002Sep30,TAPRShiner2002Oct05,main,5,0,0,4,0,1,0,1,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,1,2,2,3,0,2,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,2,2,2,2,0,2,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,3,0,2,6,0,2,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,4,2,1,4,0,4,2,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2003Oct06,TAPRShiner2003Oct09,main,5,2,2,4,0,2,1,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,1,0,2,5,0,1,1,1,1,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,2,0,1,2,2,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,3,0,2,3,0,1,1,1,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,4,3,2,3,0,1,1,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,5,3,2,3,0,1,2,1,1,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,1,2,3,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,1,2,3,1,2,2,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,0,1,1,2,2,2,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,4,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner22rtupp,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,1,1,4,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2001Aug28,TAPRShiner2001Oct09,main,1,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2001Aug28,TAPRShiner2001Oct09,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2001Aug28,TAPRShiner2001Oct09,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2001Aug28,TAPRShiner2001Oct09,main,4,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,1,1,1,6,0,1,1,1,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,2,0,0,7,0,3,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2002Sep30,TAPRShiner2002Oct02,main,3,0,0,7,0,3,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,1,3,2,3,0,1,3,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,2,3,2,2,1,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,3,3,2,3,1,1,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,4,6,1,3,0,2,2,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,5,6,2,2,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,1,2,2,2,1,4,4,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,2,5,2,3,0,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,3,4,2,3,1,1,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2004Oct04,TAPRShiner2004Oct05,main,4,5,1,3,1,3,3,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,1,2,1,3,3,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,2,2,1,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,2,3,1,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,2,4,1,1,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,2,4,1,1,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,1,1,3,3,0,0,0,1,2,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,2,1,2,3,0,0,0,3,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,3,2,3,3,0,0,0,2,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,1,2,0,0,0,5,3,3,2,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,2,3,0,0,2,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,3,3,0,0,3,3,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,1,3,0,2,0,3,4,5,3,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,2,3,0,0,0,3,4,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,3,0,0,3,3,3,5,0,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,4,3,0,0,0,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,1,0,0,4,2,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,2,0,0,4,2,3,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,3,0,0,3,4,4,3,0,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,4,3,0,3,2,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2010Sep07,TAPRShiner2010Sep08,main,1,4,2,4,2,3,3,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2010Sep07,TAPRShiner2010Sep08,main,2,4,2,4,2,2,3,2,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2010Sep07,TAPRShiner2010Sep08,main,3,2,2,3,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2010Sep07,TAPRShiner2010Sep08,main,4,4,2,4,3,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2010Sep07,TAPRShiner2010Sep08,main,5,3,1,5,2,2,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2013Sep18,TAPRShiner2013Sep19,main,1,0,1,1,1,2,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2013Sep18,TAPRShiner2013Sep19,main,2,0,1,2,2,3,3,3,3,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2013Sep18,TAPRShiner2013Sep19,main,3,6,2,2,0,0,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2013Sep18,TAPRShiner2013Sep19,main,4,5,3,3,2,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2013Sep18,TAPRShiner2013Sep19,main,5,7,2,2,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,1,0,1,3,3,4,4,4,3,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,2,2,1,3,3,4,4,3,3,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,3,4,2,4,3,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2014Sept09,TAPRShiner2014Sep09,main,4,0,3,3,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,1,2,2,3,3,4,4,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,2,3,2,2,3,2,3,3,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,3,4,3,4,3,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,4,4,2,4,3,2,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,5,4,2,5,3,3,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2016Aug31,TAPRShiner2016Sep02,main,1,2,1,2,2,2,3,3,3,1,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2016Aug31,TAPRShiner2016Sep02,main,2,5,4,2,2,2,3,3,2,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2016Aug31,TAPRShiner2016Sep02,main,3,3,1,2,2,2,2,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2016Aug31,TAPRShiner2016Sep02,main,4,4,2,2,2,2,4,4,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2016Aug31,TAPRShiner2016Sep02,main,5,5,3,3,3,3,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2017Sep05,TAPRShiner2017Sep05,main,1,1,2,3,2,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2017Sep05,TAPRShiner2017Sep05,main,2,2,2,3,2,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2017Sep05,TAPRShiner2017Sep05,main,3,4,2,3,2,3,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2017Sep05,TAPRShiner2017Sep05,main,4,1,1,3,2,5,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,1,3,3,3,3,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,2,2,3,2,2,3,4,4,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,3,5,3,4,3,4,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,4,4,3,3,3,4,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2019Sep10,TAPRShiner2019Sep11,main,1,2,2,3,2,3,4,4,3,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2019Sep10,TAPRShiner2019Sep11,main,2,2,3,2,3,3,4,4,3,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2019Sep10,TAPRShiner2019Sep11,main,3,4,3,3,2,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2019Sep10,TAPRShiner2019Sep11,main,4,3,3,2,2,4,5,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,1,2,2,0,2,3,3,4,4,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,2,2,2,2,2,3,3,4,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,3,4,2,3,4,3,3,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,4,2,2,2,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,1,2,2,2,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,2,3,2,2,2,2,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner23middl,TAPRShiner2022Aug16,TAPRShiner2022Aug16,main,3,5,3,2,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,1,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,2,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,5,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,1,0,1,5,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,2,0,1,5,1,1,3,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,3,0,1,6,0,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,4,0,1,6,1,1,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2002Sep30,TAPRShiner2002Oct04,main,5,0,1,5,1,2,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,1,5,2,3,0,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,2,6,2,3,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,3,6,2,3,0,1,1,1,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,4,4,2,3,0,1,0,3,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,5,4,2,3,0,1,0,3,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,1,4,3,3,0,2,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,2,2,1,3,0,1,1,1,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,3,2,2,2,2,3,3,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,4,4,2,3,0,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,5,4,2,3,0,2,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,2,4,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,2,6,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,2,6,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,2,6,1,1,1,0,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,2,4,1,2,2,2,0,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,1,6,0,0,0,0,0,0,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,2,6,0,0,2,3,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,3,2,0,0,2,4,4,3,3,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2007Sep09,TAPRShiner2007Sep12,main,4,3,0,0,2,4,3,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,1,4,0,2,3,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,2,3,0,2,0,3,3,5,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,3,0,0,0,2,3,2,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2008Sep07,TAPRShiner2008Sep10,main,4,4,0,0,0,0,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,1,0,2,6,3,0,2,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,2,0,0,4,3,3,3,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,3,0,0,0,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,4,0,0,2,3,3,4,4,3,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2009Sep08,TAPRShiner2009Sep11,main,5,0,0,3,3,3,0,0,0,0,6,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,1,3,2,6,3,3,3,2,0,0,-999,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,2,3,2,6,3,3,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,3,3,2,6,3,2,2,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,4,3,2,6,2,2,-999,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2015Aug30,TAPRShiner2015Aug31,main,5,3,2,4,2,4,2,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,1,5,3,4,3,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,2,5,3,4,3,0,0,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,3,4,3,4,3,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,4,5,3,4,0,2,2,0,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24lower,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,5,5,3,4,3,3,2,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,1,5,0,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,2,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,3,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2001Aug28,TAPRShiner2001Aug29,main,4,0,0,5,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,1,0,1,6,1,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,2,0,1,6,1,1,1,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,3,0,1,6,1,1,1,2,0,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,4,0,1,6,1,1,1,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2002Sep30,TAPRShiner2002Oct03,main,5,1,1,6,0,1,1,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,1,6,2,3,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,2,5,2,3,0,1,1,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,3,6,2,3,0,1,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,4,5,2,3,0,1,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2003Oct06,TAPRShiner2003Oct08,main,5,4,2,3,0,1,0,1,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,1,5,3,3,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,2,5,2,3,0,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,3,5,3,3,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,4,5,2,3,0,1,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,5,3,2,1,1,3,3,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,1,0,2,6,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,2,0,3,6,1,1,1,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,3,0,3,5,1,2,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,4,0,1,4,1,3,2,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2005Oct03,TAPRShiner2005Oct05,main,5,0,2,5,1,1,1,1,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,1,0,4,4,0,0,0,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,2,6,4,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,3,6,4,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,4,6,4,0,0,0,0,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner24middl,TAPRShiner2006Sep18,TAPRShiner2006Sep20,main,5,6,3,0,0,0,0,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,1,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,2,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,3,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,5,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,1,1,2,4,0,2,2,2,1,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,2,1,2,4,1,3,3,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,3,1,1,3,1,2,4,2,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,4,0,1,4,0,3,3,3,0,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,5,1,1,3,0,2,4,3,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,1,1,2,3,1,1,3,3,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,2,1,2,3,1,2,2,3,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,3,1,1,2,1,2,2,3,1,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,4,1,2,2,1,2,2,4,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,5,1,2,3,0,0,1,3,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,1,0,2,2,1,3,3,3,1,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,2,0,2,2,1,4,4,3,1,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,3,0,2,2,1,4,4,3,1,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,4,1,2,2,2,4,4,3,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,5,0,2,1,2,4,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,0,1,1,1,3,2,3,1,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,0,1,1,1,3,4,3,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,0,1,2,1,1,3,3,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,1,1,3,3,2,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,0,1,1,1,3,3,3,1,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,1,0,1,1,2,2,2,2,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,2,2,1,2,0,0,2,3,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,3,0,1,1,1,2,4,3,1,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,4,0,2,3,0,1,3,2,1,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,5,0,1,2,0,3,4,4,2,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,1,0,0,2,2,3,4,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,2,0,0,2,2,3,4,3,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,3,0,0,0,0,0,3,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,4,0,0,1,0,0,0,0,2,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,5,0,0,1,0,0,0,0,2,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,1,0,0,3,0,3,3,4,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,2,0,0,3,0,3,4,4,0,3,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,3,0,3,0,0,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,4,0,2,2,0,0,3,2,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,5,0,2,3,0,0,3,3,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,1,0,0,0,3,3,4,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,2,0,0,0,2,2,3,3,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,3,0,0,0,2,3,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,4,0,0,0,2,3,3,3,6,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,5,0,0,0,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,1,0,1,2,1,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,2,0,2,0,2,3,4,5,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,3,0,1,1,0,0,2,3,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,4,0,0,2,2,3,3,0,0,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,5,0,2,0,0,3,5,3,3,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,1,0,3,3,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,2,0,3,3,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,3,0,3,2,2,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,4,0,3,2,2,3,5,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,1,0,1,2,3,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,2,0,1,1,2,3,5,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,3,0,2,1,1,0,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,4,0,2,1,2,3,5,4,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner34lower,TAPRShiner2021Sep07,TAPRShiner2021Sep08,main,5,3,2,1,1,2,3,4,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2006Sep18,TAPRShiner2006Sep18,main,1,0,3,3,3,4,4,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2006Sep18,TAPRShiner2006Sep18,main,2,0,3,3,3,3,4,3,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2006Sep18,TAPRShiner2006Sep18,main,3,2,2,3,1,2,3,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2006Sep18,TAPRShiner2006Sep18,main,4,2,2,3,1,1,4,4,1,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,1,0,0,2,2,3,4,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,2,0,0,1,2,4,4,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,3,0,0,1,2,4,4,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,4,0,0,0,3,3,4,4,0,0,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2007Sep09,TAPRShiner2007Sep11,main,5,0,0,1,2,2,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,1,0,0,3,0,2,6,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,2,0,0,0,0,2,6,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,3,0,0,2,0,3,4,3,0,0,5,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,4,0,0,0,0,0,4,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2008Sep07,TAPRShiner2008Sep09,main,5,0,0,0,0,0,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,1,0,0,0,3,3,4,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,2,0,0,0,2,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,3,0,0,0,2,2,4,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,4,0,0,1,3,4,4,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2009Sep08,TAPRShiner2009Sep09,main,5,0,0,0,2,2,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,1,0,2,3,3,4,5,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,2,0,2,3,3,4,5,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,3,0,2,1,2,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,4,0,3,3,3,3,5,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,5,0,2,1,3,4,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,1,3,3,3,4,4,3,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,2,0,2,0,3,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,3,4,4,3,3,3,4,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,4,4,3,3,3,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2018Sep04,TAPRShiner2018Sep06,main,5,0,3,0,3,3,6,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,1,0,2,2,2,4,5,2,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,2,0,2,1,2,3,5,3,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,3,0,2,1,2,3,4,4,0,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,4,0,2,0,2,2,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner35lower,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,5,3,2,1,2,3,5,3,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,1,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,2,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,5,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,1,0,1,1,1,2,6,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,2,0,1,2,3,3,6,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,3,0,1,3,2,2,6,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,4,0,1,2,0,3,5,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,5,2,3,4,1,2,2,3,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,1,1,2,3,2,3,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,2,3,1,3,3,3,3,5,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,3,1,2,3,1,1,5,2,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,4,1,2,3,1,2,2,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,5,0,2,2,2,2,3,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,1,0,1,2,2,4,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,2,0,1,2,2,4,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,3,0,1,2,2,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,4,0,1,2,2,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,5,0,1,2,2,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,0,1,1,2,4,4,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,0,1,1,2,3,5,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,0,1,1,1,3,3,3,1,3,2,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,1,1,1,1,1,2,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,0,1,1,3,3,3,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,1,0,2,1,2,4,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,2,0,2,0,3,4,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,3,0,1,1,3,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2006Sep18,TAPRShiner2006Sep19,main,4,0,1,2,1,4,4,3,0,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,1,0,0,2,3,3,5,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,2,0,0,0,2,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,3,0,1,0,1,3,4,5,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,4,0,1,0,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2007Sep09,TAPRShiner2007Sep10,main,5,0,0,2,2,3,3,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,1,0,2,2,0,2,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,2,0,0,2,0,2,6,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,3,0,0,0,2,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,4,0,0,0,0,3,4,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2008Sep07,TAPRShiner2008Sep08,main,5,0,0,3,2,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,1,0,0,0,3,4,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,2,0,0,0,4,3,4,2,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,3,0,0,0,3,3,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,4,0,0,3,3,3,4,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2009Sep08,TAPRShiner2009Sep10,main,5,0,0,0,3,3,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,1,0,3,1,2,3,5,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,2,0,3,0,2,3,5,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,3,0,2,1,2,3,5,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,4,0,2,0,3,3,4,5,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2015Aug30,TAPRShiner2015Sep01,main,5,0,2,2,2,4,3,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,1,0,3,2,2,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,2,0,3,2,3,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,3,2,3,2,3,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2018Sep04,TAPRShiner2018Sep05,main,4,0,2,2,3,4,5,4,0,0,3,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,1,2,1,2,3,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,2,3,1,1,1,2,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,3,1,1,1,2,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,4,3,2,1,3,3,5,3,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36middl,TAPRShiner2021Sep07,TAPRShiner2021Sep09,main,5,3,2,3,2,3,5,4,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,1,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,2,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,3,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,4,0,0,0,0,0,5,0,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2001Aug28,TAPRShiner2001Oct10,main,5,0,0,0,0,0,0,0,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,1,1,2,5,2,2,2,3,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,2,0,1,3,0,2,6,3,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,3,0,1,5,1,2,2,2,0,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,4,0,1,2,1,3,6,2,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2002Sep30,TAPRShiner2002Oct01,main,5,0,1,2,4,3,4,1,0,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,1,1,2,3,1,2,2,2,0,5,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,2,0,1,2,1,2,4,3,1,2,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,3,1,1,3,3,2,5,3,2,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,4,1,2,2,1,2,2,3,1,6,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2003Oct06,TAPRShiner2003Oct07,main,5,1,2,3,1,1,3,2,3,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,1,0,1,2,3,4,4,4,3,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,2,0,1,2,2,3,3,4,4,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,3,0,2,1,2,4,4,4,2,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,4,0,2,1,2,4,4,2,1,0,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2004Oct04,TAPRShiner2004Oct06,main,5,0,2,1,2,3,3,2,1,0,4,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,1,0,1,2,1,3,4,2,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,2,0,1,1,1,3,4,2,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,3,0,1,1,1,3,3,2,1,3,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,4,0,1,1,2,3,4,2,1,4,0,Event,HumanObservation
+Tallgrass Prairie National Preserve,TAPR,TAPRShiner36upper,TAPRShiner2005Oct03,TAPRShiner2005Oct04,main,5,0,1,1,1,3,4,1,1,3,0,Event,HumanObservation

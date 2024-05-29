@@ -1,0 +1,16 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ParkName	Park name	character				
+ParkCode	Park unit code	categorical				
+LocationID	Location code primary key	character				
+LocationNumber	Location number	numeric	number			
+LocationType	Location type	categorical				
+LocationDescription	Description of location	character			NA	No location description provided
+StreamName	"Name of river, small stream, or spring"	character				
+TributaryName	Tributary name	character			NA	No tributary name provided
+County	County	categorical				
+StretchNumber	GRTS analysis stretch id	numeric	number		-999	No stretch number recorded
+ReachID	ReachID unique foreign key	character				
+ReachLength_Meters	Total length of the sample reach in meters (range 150-1000 meters)	numeric	meter		-999	No record
+StreamWatershedArea_SquareKilometers	Watershed area	numeric	kilometerSquared		-999	No record
+dwcType	The nature or genre of the resource.	categorical				
+dwcBasisOfRecord	The specific nature of the data record.	categorical				

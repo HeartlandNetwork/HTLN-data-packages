@@ -1,0 +1,7 @@
+givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+Judd		Patterson	National Park Service	judd_patterson@nps.gov	0000-0002-0951-7917	Contact			
+Abigail		Hobbs	National Park Service	ahobbs@nps.gov	0009-0004-9679-3961	Creator			
+Craig		Young	National Park Service	Craig_Young@nps.gov	0000-0002-1687-8825  	Creator			
+Jennifer	L	Haack-Gaynor	National Park Service	Jennifer_Haack@nps.gov	0000-0003-4497-5128	Creator			
+Sonia		Bingham	National Park Service	Sonia_Bingham@nps.gov		Contact			
+Jennifer	L	Haack-Gaynor	National Park Service	Jennifer_Haack@nps.gov	0000-0003-4497-5128	Contact			

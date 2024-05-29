@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="NPS_metadata_template_Orchid_metadata" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="unknown">
+  <dataset>
+    <alternateIdentifier>doi: https://doi.org/10.57830/2302871</alternateIdentifier>
+    <title>Western Prairie Fringed Orchid Monitoring Data for the National Park Service Heartland Inventory and Monitoring Network: 1993 - 2022</title>
+    <creator>
+      <individualName>
+        <givenName>Jennifer</givenName>
+        <surName>Haack-Gaynor</surName>
+      </individualName>
+      <organizationName>NPS HTLN</organizationName>
+      <electronicMailAddress>jennifer_haack@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-4497-5128</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Craig</givenName>
+        <surName>Young</surName>
+      </individualName>
+      <organizationName>NPS</organizationName>
+      <electronicMailAddress>craig_young@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-1687-8825</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Brian</givenName>
+        <surName>Witcher</surName>
+      </individualName>
+      <organizationName>NPS</organizationName>
+      <electronicMailAddress>brian_witcher@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0009-0002-4646-3601</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Mike</givenName>
+        <surName>DeBacker</surName>
+      </individualName>
+      <organizationName>NPS HTLN</organizationName>
+      <electronicMailAddress>mike_debacker@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0009-0007-3221-0933</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Gary</givenName>
+        <surName>Sullivan</surName>
+      </individualName>
+      <organizationName>NPS</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Rodney</givenName>
+        <surName>Rovang</surName>
+      </individualName>
+      <organizationName>NPS</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Robert</givenName>
+        <surName>Baker</surName>
+      </individualName>
+      <organizationName>NPS</organizationName>
+      <electronicMailAddress>robert_baker@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0001-7591-5035</userId>
+    </creator>
+    <metadataProvider>
+      <organizationName>HTLN</organizationName>
+    </metadataProvider>
+    <pubDate>2024-03-21</pubDate>
+    <language>eng</language>
+    <abstract>
+      <para>The Heartland Inventory and Monitoring Network in cooperation with Pipestone National Monument conducts annual monitoring of the western prairie fringed orchid (Platanthera praeclara) a federally threatened plant at Pipestone National Monument. The orchid indicators measured include number of flowering plants, plant height, and flower number. Plant height of flowering plants serves as an indicator of general population health. Plant height and flower number may serve as indicators of plant physiological condition. These indicators of plant condition are measured in relation to precipitation, soil moisture, prescribed fire, and plant community structure.  Precipitation and soil moisture are measured in Unit A to understand plant-soil relationships.  Plant community structure, which is strongly related to fire in tallgrass prairies, may correspond with establishment site availability, nutrient availability, light availability, and soil moisture retention. Finally, plant phenology is monitored in order to relate precipitation, soil moisture, and prescribed fires to particular orchid life-stages. There are two primary objectives for monitoring the western prairie fringed orchid at Pipestone National Monument: 1) Track temporal and spatial changes in the abundance and vigor (height and flower amount) of the flowering orchids at Pipestone National Monument. 2) Track changes of orchid habitat and structure.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>Monitoring</keyword>
+      <keyword>Heartland Network</keyword>
+      <keyword>National Park Service</keyword>
+      <keyword>NPS</keyword>
+      <keyword>orchid</keyword>
+      <keyword>Western Prairie Fringed Orchid</keyword>
+      <keyword>HTLN</keyword>
+      <keyword>Platanthera praeclara</keyword>
+      <keyword>Federally threatened</keyword>
+      <keyword>T&amp;E</keyword>
+      <keyword>Sensitive</keyword>
+    </keywordSet>
+    <keywordSet>
+      <keyword>long-term monitoring</keyword>
+      <keyword>plant</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <additionalInfo>
+      <para>Contains threatened and engangered species information.</para>
+    </additionalInfo>
+    <intellectualRights>This product has been determined to contain Controlled Unclassified Information (CUI) by the National Park Service, and is intended for internal use only. It is not published under an open license. Unauthorized access, use, and distribution are prohibited.</intellectualRights>
+    <licensed>
+      <licenseName>No License/Controlled Unclassified Information</licenseName>
+    </licensed>
+    <coverage>
+      <geographicCoverage system="content unit link">
+        <geographicDescription>NPS Content Unit Link: PIPE</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-96.3176</westBoundingCoordinate>
+          <eastBoundingCoordinate>-96.3316</eastBoundingCoordinate>
+          <northBoundingCoordinate>44.0197</northBoundingCoordinate>
+          <southBoundingCoordinate>44.0086</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>1993-01-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2022-12-31</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>kingdom</taxonRankName>
+          <taxonRankValue>Plantae</taxonRankValue>
+          <commonName>plants</commonName>
+          <taxonId provider="https://itis.gov">202422</taxonId>
+          <taxonomicClassification>
+            <taxonRankName>subkingdom</taxonRankName>
+            <taxonRankValue>Viridiplantae</taxonRankValue>
+            <commonName>green plants</commonName>
+            <taxonId provider="https://itis.gov">954898</taxonId>
+            <taxonomicClassification>
+              <taxonRankName>infrakingdom</taxonRankName>
+              <taxonRankValue>Streptophyta</taxonRankValue>
+              <commonName>land plants</commonName>
+              <taxonId provider="https://itis.gov">846494</taxonId>
+              <taxonomicClassification>
+                <taxonRankName>superdivision</taxonRankName>
+                <taxonRankValue>Embryophyta</taxonRankValue>
+                <taxonId provider="https://itis.gov">954900</taxonId>
+                <taxonomicClassification>
+                  <taxonRankName>division</taxonRankName>
+                  <taxonRankValue>Tracheophyta</taxonRankValue>
+                  <commonName>vascular plants</commonName>
+                  <commonName>tracheophytes</commonName>
+                  <taxonId provider="https://itis.gov">846496</taxonId>
+                  <taxonomicClassification>
+                    <taxonRankName>subdivision</taxonRankName>
+                    <taxonRankValue>Spermatophytina</taxonRankValue>
+                    <commonName>spermatophytes</commonName>
+                    <commonName>seed plants</commonName>
+                    <taxonId provider="https://itis.gov">846504</taxonId>
+                    <taxonomicClassification>
+                      <taxonRankName>class</taxonRankName>
+                      <taxonRankValue>Magnoliopsida</taxonRankValue>
+                      <taxonId provider="https://itis.gov">18063</taxonId>
+                      <taxonomicClassification>
+                        <taxonRankName>superorder</taxonRankName>
+                        <taxonRankValue>Lilianae</taxonRankValue>
+                        <commonName>monocots</commonName>
+                        <commonName>monocotyledons</commonName>
+                        <taxonId provider="https://itis.gov">846542</taxonId>
+                        <taxonomicClassification>
+                          <taxonRankName>order</taxonRankName>
+                          <taxonRankValue>Asparagales</taxonRankValue>
+                          <taxonId provider="https://itis.gov">897479</taxonId>
+                          <taxonomicClassification>
+                            <taxonRankName>family</taxonRankName>
+                            <taxonRankValue>Orchidaceae</taxonRankValue>
+                            <commonName>orchids</commonName>
+                            <taxonId provider="https://itis.gov">43397</taxonId>
+                            <taxonomicClassification>
+                              <taxonRankName>genus</taxonRankName>
+                              <taxonRankValue>Platanthera</taxonRankValue>
+                              <commonName>bog orchid</commonName>
+                              <commonName>fringed orchid</commonName>
+                              <taxonId provider="https://itis.gov">43410</taxonId>
+                              <taxonomicClassification>
+                                <taxonRankName>species</taxonRankName>
+                                <taxonRankValue>Platanthera praeclara</taxonRankValue>
+                                <commonName>Great Plains white fringed orchid</commonName>
+                                <commonName>western prairie fringed orchid</commonName>
+                                <taxonId provider="https://itis.gov">196423</taxonId>
+                              </taxonomicClassification>
+                            </taxonomicClassification>
+                          </taxonomicClassification>
+                        </taxonomicClassification>
+                      </taxonomicClassification>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Jennifer</givenName>
+        <surName>Haack-Ganor</surName>
+      </individualName>
+      <organizationName>NPS</organizationName>
+      <electronicMailAddress>jennifer_haack@nps.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-4497-5128</userId>
+    </contact>
+    <publisher>
+      <organizationName>National Park Service</organizationName>
+      <address>
+        <deliveryPoint>1201 Oakridge Drive, Suite 150</deliveryPoint>
+        <city>Fort Collins</city>
+        <administrativeArea>CO</administrativeArea>
+        <postalCode>80525</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>irma@nps.gov</electronicMailAddress>
+      <onlineUrl>http://www.nps.gov</onlineUrl>
+      <userId directory="https://ror.org/">https://ror.org/044zqqy65</userId>
+    </publisher>
+    <methods>
+      <methodStep>
+        <description>
+          <para>At the beginning of June, an area where orchids are known to occur is inspected twice weekly by park staff to inquire about the orchid stage status. Orchids have been observed to bloom as early as mid-June, but flowering more typically begins during July. Monitoring trips are scheduled to coincide with peak flowering.</para>
+          <para>The orchid census survey is conducted in all established search units. Each unit is swept for flowering orchids by a crew of 3 - 9 individuals standing side-by-side and roughly 2 meters apart. The search crew begins at one corner of the unit and moves in a straight line (following the search unit boundary) through the area until the search unit is covered. The boundary of the searched area is marked at regular intervals with tall wire flags. On the return sweep, flags are retrieved, and new flags are placed along the opposite boundary of the area searched. The pace of searching should be reasonably slow so that flowering orchids can be seen in the vegetation. Avoiding foot-dragging and limiting crowding around plants minimizes trampling.</para>
+          <para>When an orchid is encountered during the census survey the crew stops, the orchid heights and flower position is recorded, as well as other attribute information, such as orchid condition. &#13;
+Following the census survey, vegetation profile data are collected at specific sites in the orchid units. At least two observers navigate to the vegetation profile sites. At each site, one observer holds the cover board, while the second observer estimates the cover of vegetation using a modified Daubenmire cover class scale at three distances (1m, 5m, and 15m) south of the site in overlapping 0.5m height intervals. This information is documented on a field sheet.</para>
+          <para>Soil moisture is captured every 2 hours by soil probe starting in 2007. From 2007 - 2014 the Decagon Devices Em50 with the following sensors: moisture at 5cm, 10cm, 20cm, and 40cm depths; temperature at 5cm and 20cm depths; and a rain gage was used. Data was inconsistent with this device for multiple reasons. Some of which are short life of batteries, rain events knocking the rain gage out, and animal/insect destruction. In 2015 the Decagon Devices Em50 with 5TM moisture and temperature sensors at 5, 10, 20, 30, and 40cm depths was installed. &#13;
+</para>
+        </description>
+      </methodStep>
+    </methods>
+    <dataTable>
+      <entityName>HTLN WPFO population data</entityName>
+      <entityDescription>Heartland IMD Network Western Prairie Fringed Orchid population data</entityDescription>
+      <physical>
+        <objectName>HtlnWpfoPopData.csv</objectName>
+        <size unit="bytes">834409</size>
+        <authentication method="MD5">6a01c44424bf289d58a04f5e85ad381b</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2302871</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>ID</attributeName>
+          <attributeDefinition>Auto number identifier. It has no meaning except to be unique for each record. For indexing only</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Auto number identifier. It has no meaning except to be unique for each record. For indexing only</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>YEAR</attributeName>
+          <attributeDefinition>Year the plant survey took place</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PLANTID</attributeName>
+          <attributeDefinition>Plant ID the identifier given to each plant for any given year. This is unique within any given year but is not unique when looking at multiple years of data.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">835</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PHENOLOGY</attributeName>
+          <attributeDefinition>Was the plant vegetative only or was it reproductive (produces flowers).</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Reproductive</code>
+                    <definition>Not vegetative</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PopUnit</attributeName>
+          <attributeDefinition>The search unit the plants were surveyed in</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>A</code>
+                    <definition>Location Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>B</code>
+                    <definition>Location Unit B</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>C</code>
+                    <definition>Location Unit C</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>D</code>
+                    <definition>Location Unit D</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>None</code>
+                    <definition>Located outside of units</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>HEIGHTCM</attributeName>
+          <attributeDefinition>Height in cm of the plant from ground base to the very top of the plant.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+                <bounds>
+                  <minimum exclusive="false">-1</minimum>
+                  <maximum exclusive="false">92</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Either data was missing due to a glitch in the device collecting the field information. Or a flower stalk was produced but an accurate height measurement could not be obtained because the plant was damaged by animal or other means.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>FLOWERPOSI</attributeName>
+          <attributeDefinition>Number of flowers the plant produced</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+                <bounds>
+                  <minimum exclusive="false">-1</minimum>
+                  <maximum exclusive="false">30</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Either data was missing due to a glitch in the device collecting the field information. Or a flower stalk was produced but an accurate flower count could not be obtained because the plant was damaged by animal or other means.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>HeightInfl_cm</attributeName>
+          <attributeDefinition>Height in cm of the plant from ground base to the very top of the plant.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+                <bounds>
+                  <minimum exclusive="false">-1</minimum>
+                  <maximum exclusive="false">78</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Either data was missing due to a glitch in the device collecting the field information. Or a flower stalk was produced but an accurate height measurement could not be obtained because the plant was damaged by animal or other means.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>FlwrStage</attributeName>
+          <attributeDefinition>What stage the flower was in at the time of sampling. Only started collecting this observation in 2012</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>All Buds</code>
+                    <definition>No flowers have yet opened</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>All Flowers</code>
+                    <definition>All flowers have opened</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Half Buds and Flower</code>
+                    <definition>50% of flowers have opened</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Mostly Buds</code>
+                    <definition>Less than 50% of flowers have opened</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Mostly Flowers</code>
+                    <definition>More than 50%  of flowers have opened</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>No Buds or Flowers</code>
+                    <definition>No Buds or Flowers observed</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Other</code>
+                    <definition>Something else happened</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not collected before 2012. Data are missing or not recorded. See COMMENTS for potential explanations</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>FlwrCond</attributeName>
+          <attributeDefinition>What condition the flower was in at the time of sampling. Only started collecting this observation in 2012</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Aborted Flwr</code>
+                    <definition>Flowers failed to fully develop</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>All Flowers Grazed Off</code>
+                    <definition>Flowers were grazed</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Damaged</code>
+                    <definition>Physical damage of some kind occurred</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Damaged - Insect</code>
+                    <definition>Physical damage caused by insects occurred</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Damaged - Other</code>
+                    <definition>Physical damage of some kind occurred</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Fair</code>
+                    <definition>Observer noted flowers in fair condition</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Healthy</code>
+                    <definition>Observer noted flowers in healthy condition</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Other</code>
+                    <definition>Unspecified observation that did not fit into the other catagories. See COMMENTS for more information.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Starting to Die Back</code>
+                    <definition>Inflorescence is beginning to senesce</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not collected before 2012. Data are missing or not recorded. See COMMENTS for potential explanations</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>COMMENTS</attributeName>
+          <attributeDefinition>Any notes about the plant</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Any notes about the plant</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>No comments were made</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>TypeFlower</attributeName>
+          <attributeDefinition>Plant flower type (all flowers aborted, vegetative plant, flowers produced, all flowers browsed off) at the time of survey.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>All Aborted</code>
+                    <definition>All flowers have aborted</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>All Browsed</code>
+                    <definition>All flowers have been browsed</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Flowers Produced</code>
+                    <definition>Flowers were produced</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Pre-flower Emergence</code>
+                    <definition>Flowering inflorescence produced but flowering buds have not yet been produced, precluding counting flower number</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>GPS_DATE</attributeName>
+          <attributeDefinition>The date the survey took place.</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>GPS_TIME</attributeName>
+          <attributeDefinition>The time the survey took place. First documented in 2001. 12-hour time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not collected before 2012</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>Type of record</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>event</code>
+                    <definition>All observations occurred at a specific point in time</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>How the observatiosn were made</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>All observations collected by human s</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>6776</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>HTLN WPFO Soil Probe 1</entityName>
+      <entityDescription>Soil moisture is captured every 2 hours by soil probe starting in unit A from 2007 to 2014. The Decagon Devices Em50 with the EC-TM sensors at: moisture at 5cm, 10cm, 20cm, and 40cm depths; temperature at 5cm and 20cm depths; and a rain gage was used.  Soil moisture sensor is only in unit A.</entityDescription>
+      <physical>
+        <objectName>HtlnWpfoSoilProbe1_2007_2014.csv</objectName>
+        <size unit="bytes">2752452</size>
+        <authentication method="MD5">9b86af99fa238a896024e808ea92f2af</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2302871</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>verbatimMeasurementTime</attributeName>
+          <attributeDefinition>the date and time when the observation was made, as originally recorded</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>mm/dd/yyyy hh:ss</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>five_cmDepthMoisture</attributeName>
+          <attributeDefinition>Port 1 EC-TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 5cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.593029976</minimum>
+                  <maximum exclusive="false">0.764020026</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Sensor probe stopped working (usually due to battery, weather or animal issues)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>five_cmDepthTempC</attributeName>
+          <attributeDefinition>Port 1 EC-TM Moisture/Temp C: water content/temp probe at a depth of 5cm that is documenting temperature in degrees Celsius.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-37.40000153</minimum>
+                  <maximum exclusive="false">27.79999924</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Sensor probe stopped working (usually due to battery, weather or animal issues)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>ten_cmDepthMoisture</attributeName>
+          <attributeDefinition>Port 2 EC-5 Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 10cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.232916802</minimum>
+                  <maximum exclusive="false">0.715799987</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Sensor probe stopped working (usually due to battery, weather or animal issues)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>twenty_cmDepthMoisture</attributeName>
+          <attributeDefinition>Port 3 EC-TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 20cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.623549998</minimum>
+                  <maximum exclusive="false">0.641939998</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Sensor probe stopped working (usually due to battery, weather or animal issues)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>twenty_cmDepthTempC</attributeName>
+          <attributeDefinition>Port 3 EC-TM Moisture/Temp C: water content/temp probe at a depth of 20cm that is documenting temperature in degrees Celsius.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-39.70000076</minimum>
+                  <maximum exclusive="false">23.70000076</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Sensor probe stopped working (usually due to battery, weather or animal issues)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>forty_cmDepthMoisture</attributeName>
+          <attributeDefinition>Port 4 EC-5 Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 40cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.234615996</minimum>
+                  <maximum exclusive="false">0.726849973</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Sensor probe stopped working (usually due to battery, weather or animal issues)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>RainGage_mm</attributeName>
+          <attributeDefinition>Rain gage with 1mm tip resolution (fills to 1mm then counts measurement then empties water to fill again.  Does not document frozen water (ice/snow).</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>milliliter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">550</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Weather gauge stopped working, potentially due to sub-zero temperatures and inability to measure non-liquid precipitation</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>eventDate</attributeName>
+          <attributeDefinition>Date of sampling event</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>eventTime</attributeName>
+          <attributeDefinition>Time of sampling event including offset for central time zone daylights savings time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>Type of record</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>event</code>
+                    <definition>All data collected a discrete time</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>How were observations generated</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>MachineObservation</code>
+                    <definition>all data collected via automated sensor</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>21263</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>HTLN WPFO Soil Probe 2</entityName>
+      <entityDescription>Soil moisture is captured every 2 hours by soil probe starting in unit A from 2015 to 2022. The Decagon Devices Em50 with 5TM moisture and temperature sensors at 5, 10, 20, 30, and 40cm depths was used. Soil moisture sensor is only in unit A.</entityDescription>
+      <physical>
+        <objectName>HtlnWpfoSoilProbe2_2015_2022.csv</objectName>
+        <size unit="bytes">3825769</size>
+        <authentication method="MD5">bd00c37e7efd2192a718a449d236dba2</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2302871</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>verbatimTimestamps</attributeName>
+          <attributeDefinition>date and time as originally recorded</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>mm/dd/yyyy hh:ss</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>five_cmDepth_m3WaterContent</attributeName>
+          <attributeDefinition>Port 1 5TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 5cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.089</minimum>
+                  <maximum exclusive="false">0.55</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>five_cmDepth_CSoilTemperature</attributeName>
+          <attributeDefinition>Port 1 5TM Moisture/Temp C: water content/temp probe at a depth of 5cm that is documenting temperature in degrees Celsius</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-7.6</minimum>
+                  <maximum exclusive="false">24.9</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ten_cmDepth_m3WaterContent</attributeName>
+          <attributeDefinition>Port 2 5TM Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 10cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.053</minimum>
+                  <maximum exclusive="false">0.528</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ten_cmDepth_CSoilTemperature</attributeName>
+          <attributeDefinition>Port 2 5TM Moisture/Temp C: water content/temp probe at a depth of 10cm that is documenting temperature in degrees Celsius.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-40</minimum>
+                  <maximum exclusive="false">23.6</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>twenty_cmDepth_m3WaterContent</attributeName>
+          <attributeDefinition>Port 3 5TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 20cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.053</minimum>
+                  <maximum exclusive="false">0.49</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>twentycmDepth_CSoilTemperature</attributeName>
+          <attributeDefinition>Port 3 5TM Moisture/Temp C: water content/temp probe at a depth of 20cm that is documenting temperature in degrees Celsius.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-40</minimum>
+                  <maximum exclusive="false">22.4</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>thirty_cmDepth_m3WaterContent</attributeName>
+          <attributeDefinition>Port 4 5TM Moisture/Temp m3/m3 VWC: Soil moisture probe at a depth of 30cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.053</minimum>
+                  <maximum exclusive="false">0.481</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>thirty_cmDepth_CSoilTemperature</attributeName>
+          <attributeDefinition>Port 4 5TM Moisture/Temp C: water content/temp probe at a depth of 30cm that is documenting temperature in degrees Celsius.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-40</minimum>
+                  <maximum exclusive="false">21.4</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forty_cmDepth_m3WaterContent</attributeName>
+          <attributeDefinition>Port 5 5TM Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 40cm that is using the straight volumetric water content units meter cubed/meter cubed.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterCubedPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-0.053</minimum>
+                  <maximum exclusive="false">0.489</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forty_cmDepth_CSoilTemperature</attributeName>
+          <attributeDefinition>Port 5 5TM Moisture/Temp C: water content/temp probe at a depth of 40cm that is documenting temperature in degrees Celsius.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-40</minimum>
+                  <maximum exclusive="false">20.3</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PrimaryKeyID</attributeName>
+          <attributeDefinition>Primary Key ID field</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">31755</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>eventDate</attributeName>
+          <attributeDefinition>date of sampling event</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>eventTime</attributeName>
+          <attributeDefinition>time of sampling event</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>Type of event</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>event</code>
+                    <definition>All data collected at a discrete time</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>How the observation was made</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>MachineObservation</code>
+                    <definition>All data collected with an automated sensor</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>31755</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>HTLN WPFO Vegetation Profile</entityName>
+      <entityDescription>Heartland IDM Network Western Prairie Fringed Orchid vegetation profile data table. Sites 1 to 6 are for unit A and site 7-9 are for unit C. Vegetation profile has been done in 2007 – 2015 and 2017-2022.</entityDescription>
+      <physical>
+        <objectName>HtlnWpfoVegProfile.csv</objectName>
+        <size unit="bytes">80004</size>
+        <authentication method="MD5">2cad8fe005073a1a452ce5642975cab1</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2302871</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Year</attributeName>
+          <attributeDefinition>Year the data were sampled</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Site</attributeName>
+          <attributeDefinition>Vegetation Profile Side ID (1-9)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Site 1 in Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>Site 2 in Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>Site 3 in Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>Site 4 in Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5</code>
+                    <definition>Site 5 in Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>6</code>
+                    <definition>Site 6 in Unit A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>Site 7 in Unit C</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>8</code>
+                    <definition>Site 8 in Unit C</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>9</code>
+                    <definition>Site 9 in Unit C</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ObserverDistance_m</attributeName>
+          <attributeDefinition>Distance the observer is from the profile board in meteres</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">15</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>HeightInterval_m</attributeName>
+          <attributeDefinition>The height interval on the profile board that the cover is being observed for</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0 - 0.5</code>
+                    <definition>0-5m</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>0.25 - 0.75</code>
+                    <definition>0.25-0.75m</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>0.5 - 1.0</code>
+                    <definition>0.5-1.0m</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>0.75 - 1.25</code>
+                    <definition>0.75-1.25m</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1.0 - 1.5</code>
+                    <definition>1.0-1.5m</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1.25 - 1.75</code>
+                    <definition>1.25-1.75m</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1.5 - 2.0</code>
+                    <definition>1.5-2.0m</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Cover</attributeName>
+          <attributeDefinition>The vegetation profile cover class value (0-7). Modified-Daubenmire cover value scale used to estimate horizontal vegetation</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Zero percent Cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>0.1-0.99 percent cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>1-5 percent cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>5-25 precent cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>25-50 percent cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5</code>
+                    <definition>50-75 precent cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>6</code>
+                    <definition>75-95 precent cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>95-100 percent cover</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PercentRangeOfCover</attributeName>
+          <attributeDefinition>Range of cover percent</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>zero percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>0.1 - 0.99</code>
+                    <definition>0.1-0.99 percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1 - 5</code>
+                    <definition>1-5 percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>25 - 50</code>
+                    <definition>25-50 percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5 - 25</code>
+                    <definition>5-25 percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>50 - 75</code>
+                    <definition>50-75 percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>75 - 95</code>
+                    <definition>75-95 percent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>95 - 100</code>
+                    <definition>95-100 percent</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PercentClassMidpt</attributeName>
+          <attributeDefinition>Cover class midpoint as a percent</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">97.5</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>The type of observation</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>event</code>
+                    <definition>Observations occurred at a discrete time</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>Method of making the observation</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>Observatiosn made by a human</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>1386</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>HTLN WPFO population count per unit</entityName>
+      <entityDescription>Heartland IDM Network Western Prairie Fringed Orchid population count by unit totals for each year</entityDescription>
+      <physical>
+        <objectName>HtlnWpfoYearCountUnit.csv</objectName>
+        <size unit="bytes">1768</size>
+        <authentication method="MD5">1e9528a4da95e5bdc07d8476de6415f5</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://irma.nps.gov/DataStore/Reference/Profile/2302871</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>YEAR</attributeName>
+          <attributeDefinition>Year</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CountOfPopUnit</attributeName>
+          <attributeDefinition>Total number of orchids for that unit for that year</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">790</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>UnitCode</attributeName>
+          <attributeDefinition>Code for the search unit</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>A</code>
+                    <definition>Site location A</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>B</code>
+                    <definition>Site location B</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>C</code>
+                    <definition>Site location C</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>D</code>
+                    <definition>Site location D</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcType</attributeName>
+          <attributeDefinition>Type of observation</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>event</code>
+                    <definition>Observations occurred at a discrete time</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dwcBasisOfRecord</attributeName>
+          <attributeDefinition>How observations were made</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>HumanObservation</code>
+                    <definition>Observations made by a human</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>52</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata id="CUI">
+    <metadata>
+      <CUI>FED ONLY</CUI>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata>
+    <metadata>
+      <emlEditor>
+        <app>EMLassemblyline</app>
+        <release>3.5.5</release>
+      </emlEditor>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata id="agencyOriginated">
+    <metadata>
+      <agencyOriginated>
+        <agency>NPS</agency>
+        <byOrForNPS>TRUE</byOrForNPS>
+      </agencyOriginated>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata id="emlEditor">
+    <metadata>
+      <emlEditor>
+        <app>EMLeditor</app>
+        <release>0.1.4</release>
+      </emlEditor>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

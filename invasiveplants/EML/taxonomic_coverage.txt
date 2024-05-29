@@ -1,0 +1,133 @@
+name	name_type	name_resolved	authority_system	authority_id
+Juniperus virginiana	scientific	Juniperus virginiana	ITIS	18048
+Microstegium vimineum	scientific	Microstegium vimineum	ITIS	503829
+Rosa multiflora	scientific	Rosa multiflora	ITIS	24833
+Robinia pseudoacacia	scientific	Robinia pseudoacacia	ITIS	504804
+Schedonorus arundinaceus	scientific	Schedonorus arundinaceus	ITIS	784875
+Sorghum halepense	scientific	Sorghum halepense	ITIS	42111
+Poa pratensis	scientific	Poa pratensis	ITIS	41088
+Bromus racemosus	scientific	Bromus racemosus	ITIS	40516
+Lonicera japonica	scientific	Lonicera japonica	ITIS	35283
+Lespedeza cuneata	scientific	Lespedeza cuneata	ITIS	25898
+Ligustrum	scientific	Ligustrum	ITIS	32973
+Ailanthus altissima	scientific	Ailanthus altissima	ITIS	28827
+Verbascum thapsus	scientific	Verbascum thapsus	ITIS	33394
+Torilis arvensis	scientific	Torilis arvensis	ITIS	29894
+Celastrus orbiculatus	scientific	Celastrus orbiculatus	ITIS	506068
+Daucus carota	scientific	Daucus carota	ITIS	29477
+Rhus copallinum	scientific	Rhus copallinum	ITIS	504754
+Carduus nutans	scientific	Carduus nutans	ITIS	35787
+Bromus inermis	scientific	Bromus inermis	ITIS	40502
+Pyrus calleryana	scientific	Pyrus calleryana	ITIS	504706
+Cynodon dactylon	scientific	Cynodon dactylon	ITIS	41619
+Euonymus fortunei	scientific	Euonymus fortunei	ITIS	27950
+Morus alba	scientific	Morus alba	ITIS	19066
+Bromus sterilis	scientific	Bromus sterilis	ITIS	40522
+Paulownia tomentosa	scientific	Paulownia tomentosa	ITIS	33460
+Centaurea stoebe micranthos	scientific	Centaurea stoebe micranthos	ITIS	NA
+Vinca major	scientific	Vinca major	ITIS	30237
+Poa compressa	scientific	Poa compressa	ITIS	41082
+Maclura pomifera	scientific	Maclura pomifera	ITIS	19102
+Dactylis glomerata	scientific	Dactylis glomerata	ITIS	193446
+Plantago lanceolata	scientific	Plantago lanceolata	ITIS	32874
+Solanum dulcamara	scientific	Solanum dulcamara	ITIS	30414
+Lolium perenne	scientific	Lolium perenne	ITIS	40893
+Lolium	scientific	Lolium	ITIS	40891
+Echinochloa crus-galli	scientific	Echinochloa crus-galli	ITIS	502210
+Abutilon theophrasti	scientific	Abutilon theophrasti	ITIS	21674
+Solanum rostratum	scientific	Solanum rostratum	ITIS	30454
+Bromus arvensis	scientific	Bromus arvensis	ITIS	40494
+Lonicera	scientific	Lonicera	ITIS	35281
+Elaeagnus	scientific	Elaeagnus	ITIS	27769
+Phleum pratense	scientific	Phleum pratense	ITIS	41062
+Conium maculatum	scientific	Conium maculatum	ITIS	29473
+Datura stramonium	scientific	Datura stramonium	ITIS	30520
+Calystegia sepium	scientific	Calystegia sepium	ITIS	30650
+Forsythia suspensa	scientific	Forsythia suspensa	ITIS	32962
+Euonymus alatus	scientific	Euonymus alatus	ITIS	27946
+Chenopodium album	scientific	Chenopodium album	ITIS	20592
+Rhus glabra	scientific	Rhus glabra	ITIS	28782
+Trifolium pratense	scientific	Trifolium pratense	ITIS	26313
+Alliaria petiolata	scientific	Alliaria petiolata	ITIS	184481
+Lonicera maackii	scientific	Lonicera maackii	ITIS	35298
+Arctium minus	scientific	Arctium minus	ITIS	36546
+Berberis thunbergii	scientific	Berberis thunbergii	ITIS	18835
+Cirsium arvense	scientific	Cirsium arvense	ITIS	36335
+Melilotus officinalis	scientific	Melilotus officinalis	ITIS	26150
+Leonurus cardiaca	scientific	Leonurus cardiaca	ITIS	32548
+Cirsium vulgare	scientific	Cirsium vulgare	ITIS	36428
+Glechoma hederacea	scientific	Glechoma hederacea	ITIS	502801
+Lysimachia nummularia	scientific	Lysimachia nummularia	ITIS	23993
+Rumex crispus	scientific	Rumex crispus	ITIS	20937
+Phalaris arundinacea	scientific	Phalaris arundinacea	ITIS	41335
+Viburnum opulus	scientific	Viburnum opulus	ITIS	35270
+Pastinaca sativa	scientific	Pastinaca sativa	ITIS	29795
+Ulmus pumila	scientific	Ulmus pumila	ITIS	19057
+Lonicera tatarica	scientific	Lonicera tatarica	ITIS	35306
+Rhamnus cathartica	scientific	Rhamnus cathartica	ITIS	28573
+Poa	scientific	Poa	ITIS	41074
+Elymus repens	scientific	Elymus repens	ITIS	512839
+Securigera varia	scientific	Securigera varia	ITIS	521245
+Linaria vulgaris	scientific	Linaria vulgaris	ITIS	33216
+Hesperis matronalis	scientific	Hesperis matronalis	ITIS	23138
+Typha angustifolia	scientific	Typha angustifolia	ITIS	42325
+Lonicera morrowii	scientific	Lonicera morrowii	ITIS	35299
+Potentilla recta	scientific	Potentilla recta	ITIS	24742
+Elaeagnus umbellata	scientific	Elaeagnus umbellata	ITIS	27776
+Bromus tectorum	scientific	Bromus tectorum	ITIS	40524
+Lotus corniculatus	scientific	Lotus corniculatus	ITIS	26362
+Sonchus arvensis	scientific	Sonchus arvensis	ITIS	38421
+Phragmites australis	scientific	Phragmites australis	ITIS	41072
+Vinca minor	scientific	Vinca minor	ITIS	30238
+Typha	scientific	Typha	ITIS	42324
+Albizia julibrissin	scientific	Albizia julibrissin	ITIS	26449
+Iris pseudacorus	scientific	Iris pseudacorus	ITIS	43194
+Paspalum urvillei	scientific	Paspalum urvillei	ITIS	41043
+Alternanthera philoxeroides	scientific	Alternanthera philoxeroides	ITIS	20770
+Arundo donax	scientific	Arundo donax	ITIS	41450
+Baccharis halimifolia	scientific	Baccharis halimifolia	ITIS	35682
+Eichhornia crassipes	scientific	Eichhornia crassipes	ITIS	42623
+Ligustrum sinense	scientific	Ligustrum sinense	ITIS	32979
+Melia azedarach	scientific	Melia azedarach	ITIS	29024
+Murdannia keisak	scientific	Murdannia keisak	ITIS	39145
+Myriophyllum aquaticum	scientific	Myriophyllum aquaticum	ITIS	503904
+Poncirus trifoliata	scientific	Poncirus trifoliata	ITIS	28989
+Torilis japonica	scientific	Torilis japonica	ITIS	29895
+Wisteria sinensis	scientific	Wisteria sinensis	ITIS	27023
+Torilis	scientific	Torilis	ITIS	29893
+Acer platanoides	scientific	Acer platanoides	ITIS	28755
+Alnus glutinosa	scientific	Alnus glutinosa	ITIS	19470
+Dipsacus fullonum	scientific	Dipsacus fullonum	ITIS	35404
+Dipsacus laciniatus	scientific	Dipsacus laciniatus	ITIS	35405
+Elaeagnus angustifolia	scientific	Elaeagnus angustifolia	ITIS	27770
+Frangula alnus	scientific	Frangula alnus	ITIS	504744
+Hemerocallis fulva	scientific	Hemerocallis fulva	ITIS	42943
+Hedera helix	scientific	Hedera helix	ITIS	29393
+Holcus lanatus	scientific	Holcus lanatus	ITIS	41773
+Humulus japonicus	scientific	Humulus japonicus	ITIS	503065
+Hypericum perforatum	scientific	Hypericum perforatum	ITIS	21454
+Ligustrum vulgare	scientific	Ligustrum vulgare	ITIS	32980
+Lonicera bella	scientific	Lonicera bella	GBIF Backbone Taxonomy	5334244
+Lythrum salicaria	scientific	Lythrum salicaria	ITIS	27079
+Myosotis scorpioides	scientific	Myosotis scorpioides	ITIS	31697
+Populus alba	scientific	Populus alba	ITIS	22451
+Polygonum cuspidatum	scientific	Polygonum cuspidatum	ITIS	20889
+Typha glauca	scientific	Typha glauca	GBIF Backbone Taxonomy	8960288
+Cirsium	scientific	Cirsium	ITIS	36334
+Cornus foemina	scientific	Cornus foemina	ITIS	27802
+Nasturtium officinale	scientific	Nasturtium officinale	ITIS	23255
+Potamogeton crispus	scientific	Potamogeton crispus	ITIS	39007
+Rumex acetosella	scientific	Rumex acetosella	ITIS	20934
+Vicia villosa	scientific	Vicia villosa	ITIS	26360
+Euonymus atropurpureus	scientific	Euonymus atropurpureus	ITIS	27948
+Prunus mahaleb	scientific	Prunus mahaleb	ITIS	24789
+Saponaria officinalis	scientific	Saponaria officinalis	ITIS	20039
+Clematis terniflora	scientific	Clematis terniflora	ITIS	18712
+Dioscorea oppositifolia	scientific	Dioscorea oppositifolia	ITIS	502075
+Ligustrum obtusifolium	scientific	Ligustrum obtusifolium	ITIS	32976
+Spiraea	scientific	Spiraea	ITIS	25328
+Euphorbia esula	scientific	Euphorbia esula	ITIS	28064
+Bothriochloa bladhii	scientific	Bothriochloa bladhii	ITIS	41484
+Bothriochloa ischaemum	scientific	Bothriochloa ischaemum	ITIS	41488
+Cynanchum louiseae	scientific	Cynanchum louiseae	ITIS	506929
+Miscanthus sinensis	scientific	Miscanthus sinensis	ITIS	41874

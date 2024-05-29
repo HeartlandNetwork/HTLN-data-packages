@@ -1,0 +1,44 @@
+attributeName	code	definition
+Artificial_AR	FALSE	Artificial cover absent
+Artificial_AR	TRUE	Artificial cover present
+BankAngle_Degrees	0-30	0-30 degrees
+BankAngle_Degrees	31-60	31-60 degrees
+BankAngle_Degrees	>60	>60 degrees
+BankHeight_Meters	0-1	0-1 meters
+BankHeight_Meters	1.1-2	1.1-2 meters
+BankHeight_Meters	2.1-3	2.1-3 meters
+BankHeight_Meters	3.1-4	3.1-4 meters
+BankHeight_Meters	>4	>4 meters
+BankSubstrate	Bedrock/artificial	Bedrock/artificial cover
+BankSubstrate	Boulder/cobble	Boulder/cobble present
+BankSubstrate	Gravel/sand	Gravel/sand present
+BankSubstrate	Sand	Sand present
+BankSubstrate	Silt	Silt present
+BankVegCover_Percent	20-49	20-49 percent cover
+BankVegCover_Percent	50-80	50-80 percent cover
+BankVegCover_Percent	<20	<20 percent cover
+BankVegCover_Percent	>80	>80 percent cover
+BareRockSediment_BA	FALSE	Bare rock / sediment absent
+BareRockSediment_BA	TRUE	Bare rock / sediment present
+ChannelType	Main	The channel that contains the majority of flow
+ChannelType	Side channel	The channel that contains the lesser amount of flow
+ChannelType	main	The channel that contains the majority of flow
+ChannelType	side channel	The channel that contains the lesser amount of flow
+GrassForbes_GR	FALSE	Grasses and forbs absent
+GrassForbes_GR	TRUE	Grasses and forbs present
+LargeTrees_TR	FALSE	Large trees (greater than 3 in. Dbh) absent
+LargeTrees_TR	TRUE	Large trees (greater than 3 in. Dbh) present
+ParkCode	BUFF	Buffalo National River
+ParkCode	EFMO	Effigy Mounds National Monument
+ParkCode	GWCA	George Washington Carver National Monument
+ParkCode	HEHO	Herbert Hoover National Historic Site
+ParkCode	HOSP	Hot Springs National Park
+ParkCode	OZAR	Ozark National Scenic Riverways
+ParkCode	PERI	Pea Ridge National Military Park
+ParkCode	WICR	Wilson's Creek National Battlefield
+SampleLocation	Left	Left of sample location
+SampleLocation	Right	Right of sample location
+SmTreesShrubs_SH	FALSE	Small trees and shrubs absent
+SmTreesShrubs_SH	TRUE	Small trees and shrubs present
+dwcBasisOfRecord	HumanObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.

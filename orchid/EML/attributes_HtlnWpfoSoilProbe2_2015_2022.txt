@@ -1,0 +1,17 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+verbatimTimestamps	date and time as originally recorded	Date		mm/dd/yyyy hh:ss		
+five_cmDepth_m3WaterContent	Port 1 5TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 5cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed			
+five_cmDepth_CSoilTemperature	Port 1 5TM Moisture/Temp C: water content/temp probe at a depth of 5cm that is documenting temperature in degrees Celsius	numeric	celsius			
+ten_cmDepth_m3WaterContent	Port 2 5TM Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 10cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed			
+ten_cmDepth_CSoilTemperature	Port 2 5TM Moisture/Temp C: water content/temp probe at a depth of 10cm that is documenting temperature in degrees Celsius.	numeric	celsius			
+twenty_cmDepth_m3WaterContent	Port 3 5TM Moisture/Temp m3/m3 VWC: water content/temp probe at a depth of 20cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed			
+twentycmDepth_CSoilTemperature	Port 3 5TM Moisture/Temp C: water content/temp probe at a depth of 20cm that is documenting temperature in degrees Celsius.	numeric	celsius			
+thirty_cmDepth_m3WaterContent	Port 4 5TM Moisture/Temp m3/m3 VWC: Soil moisture probe at a depth of 30cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed			
+thirty_cmDepth_CSoilTemperature	Port 4 5TM Moisture/Temp C: water content/temp probe at a depth of 30cm that is documenting temperature in degrees Celsius.	numeric	celsius			
+forty_cmDepth_m3WaterContent	Port 5 5TM Moisture/Temp m3/m3 VWC: Soil moisture probe with 5 cm sensor length at a depth of 40cm that is using the straight volumetric water content units meter cubed/meter cubed.	numeric	meterCubedPerMeterCubed			
+forty_cmDepth_CSoilTemperature	Port 5 5TM Moisture/Temp C: water content/temp probe at a depth of 40cm that is documenting temperature in degrees Celsius.	numeric	celsius			
+PrimaryKeyID	Primary Key ID field	numeric	dimensionless			
+eventDate	date of sampling event	Date		YYYY-MM-DD		
+eventTime	time of sampling event	Date		hh:mm		
+dwcType	Type of event	categorical				
+dwcBasisOfRecord	How the observation was made	categorical				

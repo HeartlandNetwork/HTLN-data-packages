@@ -1,0 +1,40 @@
+attributeName	code	definition
+Artificial_AR	FALSE	Artificial cover absent
+Artificial_AR	TRUE	Artificial cover present
+Bluff_BL	FALSE	Bluff within 5 meters of water absent
+Bluff_BL	TRUE	Bluff within 5 meters of water present
+Boulders_BO	FALSE	Boulders absent
+Boulders_BO	TRUE	Boulders present
+ChannelType	Backwater_main	Backwater habitat off of the main channel
+ChannelType	Backwater_side	Backwater habitat off of the side channel
+ChannelType	Main	The channel that contains the majority of flow
+ChannelType	Side channel	The channel that contains the lesser amount of flow
+ChannelType	backwater_main	Backwater habitat off of the main channel
+ChannelType	backwater_side	Backwater habitat off of the side channel
+ChannelType	main	The channel that contains the majority of flow
+ChannelType	side channel	The channel that contains the lesser amount of flow
+HydroMoss_HY	FALSE	Hydrophytes and mosses absent
+HydroMoss_HY	TRUE	Hydrophytes and mosses present
+LargeWoodDeb_LWD	FALSE	Large woody debris absent
+LargeWoodDeb_LWD	TRUE	Large woody debris present
+OverhangVeg_OV	FALSE	Overhanging vegetation absent
+OverhangVeg_OV	TRUE	Overhanging vegetation present
+ParkCode	BUFF	Buffalo National River
+ParkCode	EFMO	Effigy Mounds National Monument
+ParkCode	GWCA	George Washington Carver National Monument
+ParkCode	HEHO	Herbert Hoover National Historic Site
+ParkCode	HOSP	Hot Springs National Park
+ParkCode	OZAR	Ozark National Scenic Riverways
+ParkCode	PERI	Pea Ridge National Military Park
+ParkCode	WICR	Wilson's Creek National Battlefield
+SampleLocation	Left	Left of sample location
+SampleLocation	Middle	Middle of sample location
+SampleLocation	Right	Right of sample location
+SmallWoodDeb_SWD	FALSE	Small woody debris absent
+SmallWoodDeb_SWD	TRUE	Small woody debris present
+TreesRoots_TR	FALSE	Trees and roots absent
+TreesRoots_TR	TRUE	Trees and roots present
+UndercutBank_UC	FALSE	Undercut bank absent
+UndercutBank_UC	TRUE	Undercut bank present
+dwcBasisOfRecord	HumanObservation	An output of a human observation process.
+dwcType	Event	An action that occurs at some location during some time.
