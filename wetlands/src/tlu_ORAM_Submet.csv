@@ -1,0 +1,113 @@
+SubmetricID,MetricNo,SubmetricNo,Submet_Value,Submet_Order,Submet_Desc,Submet_Score
+1,1,1,>50 acres (>20.2ha),7,Wetland Area (size),6.00
+2,1,1,25 to <50 acres (10.1 to <20.2ha),6,Wetland Area (size),5.00
+3,1,1,10 to <25 acres (4 to <10.1ha),5,Wetland Area (size),4.00
+4,1,1,3 to <10 acres (1.2 to <4ha),4,Wetland Area (size),3.00
+5,1,1,0.3 to <3 acres (0.12 to <1.2ha),3,Wetland Area (size),2.00
+6,1,1,0.1 to <0.3 acres (0.04 to <0.12ha),2,Wetland Area (size),1.00
+7,1,1,<0.1 acres (0.04ha) (0 pts),1,Wetland Area (size),0.00
+8,2,2a,WIDE.   Buffers average 50m (164ft) or more around wetland perimeter ,4,Average Buffer,7.00
+9,2,2a,MEDIUM.   Buffers average 25m to <50m (82 to <164ft) around wetland perimeter ,3,Average Buffer,4.00
+10,2,2a,NARROW.   Buffers average 10m   to <25m (32ft to <82ft) around wetland perimeter,2,Average Buffer,1.00
+11,2,2a,VERY NARROW.   Buffers average <10m (<32ft) around wetland perimeter ,1,Average Buffer,0.00
+12,2,2b,VERY LOW.   2nd growth or older forest, prairie, savannah, wildlife area, etc. ,1,Intensity of Surrounding Land Use,7.00
+13,2,2b,LOW.   Old field (>10 years), shrubland, young second growth forest.,2,Intensity of Surrounding Land Use,5.00
+14,2,2b,MODERATELY HIGH.   Residential, fenced pasture, park, conservation tillage, new fallow field,3,Intensity of Surrounding Land Use,3.00
+15,2,2b,HIGH.   Urban, industrial, open pasture, row cropping, mining, construction,4,Intensity of Surrounding Land Use,1.00
+16,3,3a,High pH groundwater,1,Source of Water,5.00
+17,3,3a,Other groundwater,2,Source of Water,3.00
+18,3,3a,Precipitation ,3,Source of Water,1.00
+19,3,3a,Seasonal/Intermittent surface water,4,Source of Water,3.00
+20,3,3a,Perennial surface water (lake or stream) ,5,Source of Water,5.00
+21,3,3b,100 year floodplain ,1,Connectivity,1.00
+22,3,3b,Between stream/lake and other human use ,2,Connectivity,1.00
+23,3,3b,Part of wetland/upland (e.g. forest), complex,3,Connectivity,1.00
+24,3,3b,Part of riparian or upland corridor,4,Connectivity,1.00
+25,3,3c,>0.7 (27.6in),1,Water Depth,3.00
+26,3,3c,0.4 to 0.7m (15.7 to 27.6in),2,Water Depth,2.00
+27,3,3c,<0.4m (<15.7in) ,3,Water Depth,1.00
+28,3,3d,Semi- to permanently inundated/saturated ,1,Duration Inundation / Saturation,4.00
+29,3,3d,Regularly inundated/saturated,2,Duration Inundation / Saturation,3.00
+30,3,3d,Seasonally inundated,3,Duration Inundation / Saturation,2.00
+31,3,3d,Seasonally saturated in upper 30cm (12in),4,Duration Inundation / Saturation,1.00
+32,3,3e,None or none apparent,1,Hydrological Modifications,12.00
+33,3,3e,Recovered,2,Hydrological Modifications,7.00
+34,3,3e,Recovering,3,Hydrological Modifications,3.00
+35,3,3e,Recent or no recovery ,4,Hydrological Modifications,1.00
+36,4,4a,None or none apparent,1,Substrate Disturbance,4.00
+37,4,4a,Recovered ,2,Substrate Disturbance,3.00
+38,4,4a,Recovering,3,Substrate Disturbance,2.00
+39,4,4a,Recent or no recovery ,4,Substrate Disturbance,1.00
+40,4,4b,Excellent,7,Habitat Development,7.00
+41,4,4b,Very good ,6,Habitat Development,6.00
+42,4,4b,Good ,5,Habitat Development,5.00
+43,4,4b,Moderately good,4,Habitat Development,4.00
+44,4,4b,Fair ,3,Habitat Development,3.00
+45,4,4b,Poor to fair ,2,Habitat Development,2.00
+46,4,4b,Poor ,1,Habitat Development,1.00
+47,4,4c,None or none apparent,1,Habitat Alteration,9.00
+48,4,4c,Recovered,2,Habitat Alteration,6.00
+49,4,4c,Recovering,3,Habitat Alteration,3.00
+50,4,4c,Recent or no recovery,4,Habitat Alteration,1.00
+51,5,5,Bog,1,Special Wetlands,10.00
+52,5,5,Fen,2,Special Wetlands,10.00
+53,5,5,Old growth forest ,3,Special Wetlands,10.00
+54,5,5,Mature forested wetland,4,Special Wetlands,5.00
+55,5,5,Lake Erie coastal/tributary wetland-unrestricted hydrology,5,Special Wetlands,10.00
+56,5,5,Lake Plain Sand Prairies (Oak Openings),7,Special Wetlands,10.00
+57,5,5,Relict Wet Praires ,8,Special Wetlands,10.00
+58,5,5,Known occurrence state/federal T/E species,9,Special Wetlands,10.00
+59,5,5,Sig. migratory songbird/water fowl habitat/ use ,10,Special Wetlands,10.00
+60,5,5,Category 1 Wetland.   See Question 1 Qualitative Rating,11,Special Wetlands,-10.00
+61,6,6a1,Aquatic bed - Absent or < 0.1ha (0.2471 acres) contiguous area,11,Wetland Vegetation Communities,0.00
+62,6,6a2,Aquatic bed - Small part of wetland's vegetation and moderate quality or significant part of low quality,12,Wetland Vegetation Communities,1.00
+63,6,6a3,Aquatic bed - Significant part of wetland's vegetation and moderate quality or small part of high quality,13,Wetland Vegetation Communities,2.00
+64,6,6a4,Aquatic bed - Significant part of wetland's vegetation or more and high quality,14,Wetland Vegetation Communities,3.00
+65,6,6a5,Emergent - Absent or < 0.1ha (0.2471 acres) contiguous area,15,Wetland Vegetation Communities,0.00
+66,6,6a6,Emergent - Small part of wetland's vegetation and moderate quality or significant part of low quality,16,Wetland Vegetation Communities,1.00
+67,6,6a7,Emergent - Significant part of wetland's vegetation and moderate quality or small part of high quality,17,Wetland Vegetation Communities,2.00
+68,6,6a8,Emergent - Significant part of wetland's vegetation or more and high quality,18,Wetland Vegetation Communities,3.00
+69,6,6a9,Shrub - Absent or < 0.1ha (0.2471 acres) contiguous area,19,Wetland Vegetation Communities,0.00
+70,6,6a10,Shrub - Small part of wetland's vegetation and moderate quality or significant part of low quality,20,Wetland Vegetation Communities,1.00
+71,6,6a11,Shrub - Significant part of wetland's vegetation and moderate quality or small part of high quality,21,Wetland Vegetation Communities,2.00
+72,6,6a12,Shrub - Significant part of wetland's vegetation or more and high quality,22,Wetland Vegetation Communities,3.00
+73,6,6a13,Forest - Absent or < 0.1ha (0.2471 acres) contiguous area,23,Wetland Vegetation Communities,0.00
+74,6,6a14,Forest - Small part of wetland's vegetation and moderate quality or significant part of low quality,24,Wetland Vegetation Communities,1.00
+75,6,6a15,Forest - Significant part of wetland's vegetation and moderate quality or small part of high quality,25,Wetland Vegetation Communities,2.00
+76,6,6a16,Forest - Significant part of wetland's vegetation or more and high quality,26,Wetland Vegetation Communities,3.00
+77,6,6a17,Mudflats - Absent or < 0.1ha (0.2471 acres) ,27,Wetland Vegetation Communities,0.00
+78,6,6a18,Mudflats - Low 0.1 to <1ha (0.247 to 2.47 acres),28,Wetland Vegetation Communities,1.00
+79,6,6a19,Mudflats - Moderate 1 to <4ha (2.47 to 9.88 acres),29,Wetland Vegetation Communities,2.00
+80,6,6a20,Mudflats - High 4ha (9.88 acres) or more,30,Wetland Vegetation Communities,3.00
+81,6,6a21,Open Water - Absent or < 0.1ha (0.2471 acres) ,31,Wetland Vegetation Communities,0.00
+82,6,6a22,Open Water - Low 0.1 to <1ha (0.247 to 2.47 acres),32,Wetland Vegetation Communities,1.00
+83,6,6a23,Open Water - Moderate 1 to <4ha (2.47 to 9.88 acres),33,Wetland Vegetation Communities,2.00
+84,6,6a24,Open Water - High 4ha (9.88 acres) or more,34,Wetland Vegetation Communities,3.00
+85,6,6b,High,46,Horizontal Interspersion,5.00
+86,6,6b,Moderately high,45,Horizontal Interspersion,4.00
+87,6,6b,Moderate,44,Horizontal Interspersion,3.00
+88,6,6b,Moderately low,43,Horizontal Interspersion,2.00
+89,6,6b,Low,42,Horizontal Interspersion,1.00
+90,6,6b,None,41,Horizontal Interspersion,0.00
+91,6,6c,Extensive >75% cover,55,Coverage of Invasive Plants from ORAM Table,-5.00
+92,6,6c,Moderate 25-75% cover,54,Coverage of Invasive Plants from ORAM Table,-3.00
+93,6,6c,Sparse 5-25% cover ,53,Coverage of Invasive Plants from ORAM Table,-1.00
+94,6,6c,Nearly absent <5% cover ,52,Coverage of Invasive Plants from ORAM Table,0.00
+95,6,6c,Absent ,51,Coverage of Invasive Plants from ORAM Table,1.00
+96,6,6d1,Vegetated hummucks/tussucks - Absent,61,Microtopography,0.00
+97,6,6d2,Vegetated hummucks/tussucks - Present in small amounts of if more common, of marginal quality,62,Microtopography,1.00
+98,6,6d3,Vegetated hummucks/tussucks - Present in moderate amounts but not of highest quality or small amounts of highest quality,63,Microtopography,2.00
+99,6,6d4,Vegetated hummucks/tussucks - Present in moderate or greater amounts and of highest quality,64,Microtopography,3.00
+100,6,6d5,Coarse Woody Debris >15cm (6in) - Absent,65,Microtopography,0.00
+101,6,6d6,Coarse Woody Debris >15cm (6in) - Present in small amounts of if more common, of marginal quality,66,Microtopography,1.00
+102,6,6d7,Coarse Woody Debris >15cm (6in) - Present in moderate amounts but not of highest quality or small amounts of highest quality,67,Microtopography,2.00
+103,6,6d8,Coarse Woody Debris >15cm (6in) - Present in moderate or greater amounts and of highest quality,68,Microtopography,3.00
+104,6,6d9,Standing dead >25cm (10in) dbh - Absent,69,Microtopography,0.00
+105,6,6d10,Standing dead >25cm (10in) dbh - Present in small amounts of if more common, of marginal quality,70,Microtopography,1.00
+106,6,6d11,Standing dead >25cm (10in) dbh - Present in moderate amounts but not of highest quality or small amounts of highest quality,71,Microtopography,2.00
+107,6,6d12,Standing dead >25cm (10in) dbh - Present in moderate or greater amounts and of highest quality,72,Microtopography,3.00
+108,6,6d13,Amphibian breeding pools - Absent,73,Microtopography,0.00
+109,6,6d14,Amphibian breeding pools - Present in small amounts of if more common, of marginal quality,74,Microtopography,1.00
+110,6,6d15,Amphibian breeding pools - Present in moderate amounts but not of highest quality or small amounts of highest quality,75,Microtopography,2.00
+111,6,6d16,Amphibian breeding pools - Present in moderate or greater amounts and of highest quality,76,Microtopography,3.00
+112,5,5,Lake Erie coastal/tributary wetland-restricted hydrology,6,Special Wetlands,5.00
