@@ -1,2 +1,0 @@
-
-src is the dev folder
