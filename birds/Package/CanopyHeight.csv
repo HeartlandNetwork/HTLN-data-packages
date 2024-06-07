@@ -1,0 +1,2054 @@
+ParkUnit,Plot,SubPlot,EventDate,CanopyType,CanopyHeight
+Arkansas Post,ARPO1,1,2007-06-05,Hardwood,23
+Arkansas Post,ARPO1,1,2011-06-08,Hardwood,22.4
+Arkansas Post,ARPO1,1,2015-05-18,Hardwood,37
+Arkansas Post,ARPO1,1,2019-05-21,Hardwood,30.5
+Arkansas Post,ARPO1,1,2019-05-21,Conifer,0.5
+Arkansas Post,ARPO10,1,2007-06-07,Hardwood,5
+Arkansas Post,ARPO10,1,2011-06-07,Hardwood,13.1
+Arkansas Post,ARPO10,1,2015-05-19,Hardwood,13.5
+Arkansas Post,ARPO10,1,2019-05-20,Hardwood,13
+Arkansas Post,ARPO10,1,2019-05-20,Conifer,0.4
+Arkansas Post,ARPO11,1,2015-05-19,Hardwood,6
+Arkansas Post,ARPO12,1,2007-06-05,Hardwood,8
+Arkansas Post,ARPO12,1,2011-06-08,Hardwood,27.5
+Arkansas Post,ARPO12,1,2015-05-18,Hardwood,40
+Arkansas Post,ARPO12,1,2019-05-21,Hardwood,0
+Arkansas Post,ARPO13,1,2007-06-05,Hardwood,32.5
+Arkansas Post,ARPO13,1,2011-06-08,Hardwood,7.2
+Arkansas Post,ARPO13,1,2015-05-18,Hardwood,39
+Arkansas Post,ARPO13,1,2019-05-21,Hardwood,11.5
+Arkansas Post,ARPO14,1,2007-06-06,Hardwood,28
+Arkansas Post,ARPO14,1,2011-06-08,Hardwood,29
+Arkansas Post,ARPO14,1,2015-05-18,Hardwood,30
+Arkansas Post,ARPO14,1,2019-05-21,Hardwood,25.5
+Arkansas Post,ARPO15,1,2007-06-06,Hardwood,4
+Arkansas Post,ARPO15,1,2011-06-08,Hardwood,31.7
+Arkansas Post,ARPO15,1,2015-05-18,Hardwood,44
+Arkansas Post,ARPO15,1,2019-05-21,Hardwood,8
+Arkansas Post,ARPO16,1,2007-06-05,Hardwood,32
+Arkansas Post,ARPO16,1,2011-06-08,Hardwood,30.9
+Arkansas Post,ARPO16,1,2015-05-18,Hardwood,33
+Arkansas Post,ARPO16,1,2019-05-21,Hardwood,32
+Arkansas Post,ARPO17,1,2007-06-05,Hardwood,30
+Arkansas Post,ARPO17,1,2011-06-08,Hardwood,28.5
+Arkansas Post,ARPO17,1,2015-05-18,Hardwood,40
+Arkansas Post,ARPO17,1,2019-05-21,Hardwood,32.5
+Arkansas Post,ARPO18,1,2007-06-06,Hardwood,14
+Arkansas Post,ARPO18,1,2011-06-08,Hardwood,14
+Arkansas Post,ARPO18,1,2015-05-18,Hardwood,22
+Arkansas Post,ARPO18,1,2019-05-20,Hardwood,19.5
+Arkansas Post,ARPO19,1,2007-06-06,Conifer,9
+Arkansas Post,ARPO19,1,2007-06-06,Hardwood,17
+Arkansas Post,ARPO19,1,2011-06-08,Hardwood,28.7
+Arkansas Post,ARPO19,1,2015-05-18,Hardwood,35
+Arkansas Post,ARPO19,1,2019-05-21,Hardwood,16.5
+Arkansas Post,ARPO2,1,2007-06-05,Conifer,15
+Arkansas Post,ARPO2,1,2007-06-05,Hardwood,21
+Arkansas Post,ARPO2,1,2011-06-08,Conifer,11.8
+Arkansas Post,ARPO2,1,2011-06-08,Hardwood,16.3
+Arkansas Post,ARPO2,1,2015-05-18,Hardwood,30
+Arkansas Post,ARPO2,1,2019-05-21,Hardwood,28.5
+Arkansas Post,ARPO2,1,2019-05-21,Conifer,11
+Arkansas Post,ARPO20,1,2007-06-06,Hardwood,5
+Arkansas Post,ARPO20,1,2011-06-08,Hardwood,17.3
+Arkansas Post,ARPO20,1,2015-05-18,Hardwood,22.5
+Arkansas Post,ARPO20,1,2019-05-21,Hardwood,13.5
+Arkansas Post,ARPO21,1,2007-06-05,Hardwood,3
+Arkansas Post,ARPO21,1,2011-06-08,Hardwood,9.7
+Arkansas Post,ARPO21,1,2015-05-18,Hardwood,14
+Arkansas Post,ARPO21,1,2019-05-20,Hardwood,8
+Arkansas Post,ARPO22,1,2007-06-05,Hardwood,30
+Arkansas Post,ARPO22,1,2011-06-08,Hardwood,21.7
+Arkansas Post,ARPO22,1,2015-05-18,Hardwood,24
+Arkansas Post,ARPO22,1,2019-05-21,Hardwood,22
+Arkansas Post,ARPO22,1,2019-05-21,Conifer,0.5
+Arkansas Post,ARPO23,1,2007-06-06,Conifer,10.5
+Arkansas Post,ARPO23,1,2007-06-06,Hardwood,12.5
+Arkansas Post,ARPO23,1,2011-06-08,Conifer,12.9
+Arkansas Post,ARPO23,1,2011-06-08,Hardwood,13.6
+Arkansas Post,ARPO23,1,2015-05-18,Conifer,30
+Arkansas Post,ARPO23,1,2019-05-20,Hardwood,14
+Arkansas Post,ARPO23,1,2019-05-20,Conifer,24.5
+Arkansas Post,ARPO24,1,2007-06-05,Hardwood,14
+Arkansas Post,ARPO24,1,2011-06-08,Hardwood,28.4
+Arkansas Post,ARPO24,1,2015-05-18,Hardwood,29
+Arkansas Post,ARPO24,1,2019-05-21,Hardwood,23.5
+Arkansas Post,ARPO25,1,2007-06-06,Hardwood,22
+Arkansas Post,ARPO25,1,2011-06-08,Conifer,9.5
+Arkansas Post,ARPO25,1,2011-06-08,Hardwood,21.9
+Arkansas Post,ARPO25,1,2015-05-18,Hardwood,23
+Arkansas Post,ARPO26,1,2007-06-05,Hardwood,32
+Arkansas Post,ARPO26,1,2011-06-07,Conifer,5.9
+Arkansas Post,ARPO26,1,2011-06-07,Hardwood,26.8
+Arkansas Post,ARPO26,1,2015-05-18,Hardwood,29
+Arkansas Post,ARPO27,1,2007-06-05,Hardwood,28
+Arkansas Post,ARPO27,1,2011-06-07,Hardwood,16.9
+Arkansas Post,ARPO27,1,2015-05-18,Hardwood,30
+Arkansas Post,ARPO27,1,2019-05-20,Hardwood,28.5
+Arkansas Post,ARPO28,1,2007-06-07,Hardwood,7
+Arkansas Post,ARPO28,1,2015-05-19,Hardwood,25
+Arkansas Post,ARPO29,1,2015-05-19,Hardwood,4
+Arkansas Post,ARPO3,1,2007-06-05,Hardwood,19
+Arkansas Post,ARPO3,1,2011-06-08,Hardwood,34
+Arkansas Post,ARPO3,1,2015-05-18,Hardwood,40
+Arkansas Post,ARPO3,1,2019-05-21,Hardwood,38.5
+Arkansas Post,ARPO30,1,2007-06-07,Hardwood,12
+Arkansas Post,ARPO30,1,2011-06-07,Hardwood,26
+Arkansas Post,ARPO30,1,2015-05-19,Hardwood,32.5
+Arkansas Post,ARPO30,1,2019-05-20,Hardwood,31
+Arkansas Post,ARPO31,1,2015-05-19,Hardwood,3.75
+Arkansas Post,ARPO32,1,2011-06-07,Hardwood,22.9
+Arkansas Post,ARPO32,1,2015-05-19,Hardwood,35
+Arkansas Post,ARPO33,1,2015-05-19,Hardwood,4.75
+Arkansas Post,ARPO34,1,2015-05-19,Hardwood,8
+Arkansas Post,ARPO35,1,2019-05-20,Hardwood,2.5
+Arkansas Post,ARPO36,1,2007-06-06,Conifer,20
+Arkansas Post,ARPO36,1,2007-06-06,Hardwood,18
+Arkansas Post,ARPO36,1,2015-05-19,Hardwood,46
+Arkansas Post,ARPO4,1,2007-06-05,Hardwood,4
+Arkansas Post,ARPO4,1,2011-06-08,Hardwood,21.7
+Arkansas Post,ARPO4,1,2015-05-18,Hardwood,34
+Arkansas Post,ARPO4,1,2019-05-21,Hardwood,12
+Arkansas Post,ARPO5,1,2007-06-05,Hardwood,14.5
+Arkansas Post,ARPO5,1,2011-06-07,Hardwood,11.7
+Arkansas Post,ARPO5,1,2015-05-18,Hardwood,27
+Arkansas Post,ARPO5,1,2019-05-21,Hardwood,21.5
+Arkansas Post,ARPO6,1,2007-06-07,Hardwood,4
+Arkansas Post,ARPO6,1,2015-05-19,Hardwood,8
+Arkansas Post,ARPO7,1,2007-06-07,Hardwood,18
+Arkansas Post,ARPO7,1,2011-06-07,Hardwood,24.8
+Arkansas Post,ARPO7,1,2015-05-19,Hardwood,35
+Arkansas Post,ARPO7,1,2019-05-20,Hardwood,31
+Arkansas Post,ARPO8,1,2015-05-19,Hardwood,6
+Arkansas Post,ARPO9,1,2007-06-07,Hardwood,13
+Arkansas Post,ARPO9,1,2011-06-07,Hardwood,11.5
+Arkansas Post,ARPO9,1,2015-05-19,Hardwood,32
+Arkansas Post,ARPO9,1,2019-05-20,Hardwood,25.5
+Effigy Mounds,EFMO1,1,2013-05-29,Hardwood,31.5
+Effigy Mounds,EFMO1,1,2017-05-24,Hardwood,32
+Effigy Mounds,EFMO1,1,2017-05-24,Total,32
+Effigy Mounds,EFMO1,1,2022-05-25,Hardwood,28.5
+Effigy Mounds,EFMO12,1,2009-06-01,Hardwood,15.3
+Effigy Mounds,EFMO12,1,2013-05-31,Hardwood,18
+Effigy Mounds,EFMO12,1,2017-05-25,Hardwood,31
+Effigy Mounds,EFMO12,1,2017-05-25,Total,31
+Effigy Mounds,EFMO12,1,2022-05-26,Hardwood,27.3
+Effigy Mounds,EFMO13,1,2009-06-01,Hardwood,8.9
+Effigy Mounds,EFMO14,1,2009-05-31,Hardwood,14.5
+Effigy Mounds,EFMO15,1,2009-05-29,Hardwood,32.2
+Effigy Mounds,EFMO15,1,2017-05-24,Hardwood,3.25
+Effigy Mounds,EFMO15,1,2017-05-24,Total,3.25
+Effigy Mounds,EFMO15,1,2022-05-24,Hardwood,39.8
+Effigy Mounds,EFMO16,1,2009-05-29,Hardwood,28.2
+Effigy Mounds,EFMO16,1,2013-05-30,Hardwood,30
+Effigy Mounds,EFMO16,1,2017-05-24,Hardwood,31
+Effigy Mounds,EFMO16,1,2017-05-24,Total,31
+Effigy Mounds,EFMO16,1,2022-05-23,Hardwood,29.8
+Effigy Mounds,EFMO17,1,2009-05-29,Hardwood,32.4
+Effigy Mounds,EFMO17,1,2013-05-30,Hardwood,28
+Effigy Mounds,EFMO17,1,2017-05-24,Hardwood,22
+Effigy Mounds,EFMO17,1,2017-05-24,Total,22
+Effigy Mounds,EFMO17,1,2022-05-25,Hardwood,28
+Effigy Mounds,EFMO18,1,2009-05-31,Hardwood,21.8
+Effigy Mounds,EFMO18,1,2013-05-31,Hardwood,26
+Effigy Mounds,EFMO18,1,2017-05-24,Hardwood,30
+Effigy Mounds,EFMO18,1,2017-05-24,Total,30
+Effigy Mounds,EFMO18,1,2022-05-26,Hardwood,31.2
+Effigy Mounds,EFMO19,1,2009-05-31,Hardwood,19.9
+Effigy Mounds,EFMO19,1,2017-05-24,Hardwood,24
+Effigy Mounds,EFMO19,1,2017-05-24,Total,24
+Effigy Mounds,EFMO19,1,2022-05-26,Hardwood,24.9
+Effigy Mounds,EFMO2,1,2009-05-29,Hardwood,34.6
+Effigy Mounds,EFMO2,1,2013-05-29,Hardwood,18
+Effigy Mounds,EFMO2,1,2017-05-24,Hardwood,26.5
+Effigy Mounds,EFMO2,1,2017-05-24,Total,26.5
+Effigy Mounds,EFMO2,1,2022-05-25,Hardwood,29.5
+Effigy Mounds,EFMO22,1,2009-05-31,Hardwood,30.5
+Effigy Mounds,EFMO22,1,2017-05-24,Hardwood,20
+Effigy Mounds,EFMO22,1,2017-05-24,Total,20
+Effigy Mounds,EFMO24,1,2009-05-29,Hardwood,21.4
+Effigy Mounds,EFMO24,1,2013-05-30,Hardwood,18.5
+Effigy Mounds,EFMO24,1,2017-05-24,Hardwood,30.5
+Effigy Mounds,EFMO24,1,2017-05-24,Total,30.5
+Effigy Mounds,EFMO24,1,2022-05-25,Hardwood,17.3
+Effigy Mounds,EFMO25,1,2009-05-29,Hardwood,27.4
+Effigy Mounds,EFMO25,1,2013-05-30,Hardwood,23
+Effigy Mounds,EFMO25,1,2017-05-24,Hardwood,39.5
+Effigy Mounds,EFMO25,1,2017-05-24,Total,39.5
+Effigy Mounds,EFMO25,1,2022-05-25,Hardwood,24.5
+Effigy Mounds,EFMO26,1,2009-05-31,Hardwood,23.2
+Effigy Mounds,EFMO26,1,2013-05-31,Hardwood,22
+Effigy Mounds,EFMO26,1,2017-05-24,Hardwood,18
+Effigy Mounds,EFMO26,1,2017-05-24,Total,18
+Effigy Mounds,EFMO26,1,2022-05-26,Hardwood,30.3
+Effigy Mounds,EFMO27,1,2009-05-31,Hardwood,10.1
+Effigy Mounds,EFMO27,1,2017-05-24,Hardwood,21
+Effigy Mounds,EFMO27,1,2017-05-24,Total,21
+Effigy Mounds,EFMO27,1,2022-05-26,Hardwood,22.3
+Effigy Mounds,EFMO3,1,2017-05-24,Total,0
+Effigy Mounds,EFMO3,1,2022-05-25,Hardwood,18.4
+Effigy Mounds,EFMO33,1,2009-05-31,Hardwood,21.4
+Effigy Mounds,EFMO33,1,2013-05-31,Hardwood,19.75
+Effigy Mounds,EFMO33,1,2017-05-24,Hardwood,9
+Effigy Mounds,EFMO33,1,2017-05-24,Total,9
+Effigy Mounds,EFMO33,1,2022-05-26,Hardwood,8.1
+Effigy Mounds,EFMO34,1,2009-05-31,Hardwood,29.1
+Effigy Mounds,EFMO34,1,2017-05-24,Hardwood,33
+Effigy Mounds,EFMO34,1,2017-05-24,Total,33
+Effigy Mounds,EFMO37,1,2009-05-30,Hardwood,31
+Effigy Mounds,EFMO37,1,2017-05-24,Hardwood,36
+Effigy Mounds,EFMO37,1,2017-05-24,Total,36
+Effigy Mounds,EFMO37,1,2022-05-26,Hardwood,31.4
+Effigy Mounds,EFMO38,1,2009-05-30,Hardwood,20.7
+Effigy Mounds,EFMO38,1,2017-05-25,Hardwood,22.5
+Effigy Mounds,EFMO38,1,2017-05-25,Total,22.5
+Effigy Mounds,EFMO38,1,2022-05-24,Hardwood,15.9
+Effigy Mounds,EFMO39,1,2009-05-31,Hardwood,29.2
+Effigy Mounds,EFMO39,1,2017-05-23,Hardwood,22.5
+Effigy Mounds,EFMO39,1,2017-05-23,Total,22.5
+Effigy Mounds,EFMO39,1,2022-05-26,Hardwood,30.5
+Effigy Mounds,EFMO4,1,2009-06-01,Hardwood,21.8
+Effigy Mounds,EFMO4,1,2013-05-31,Hardwood,27
+Effigy Mounds,EFMO4,1,2017-05-24,Hardwood,25
+Effigy Mounds,EFMO4,1,2017-05-24,Total,25
+Effigy Mounds,EFMO4,1,2022-05-26,Hardwood,22.4
+Effigy Mounds,EFMO40,1,2009-05-31,Hardwood,30.6
+Effigy Mounds,EFMO40,1,2017-05-23,Hardwood,29
+Effigy Mounds,EFMO40,1,2017-05-23,Total,29
+Effigy Mounds,EFMO40,1,2022-05-26,Hardwood,29.3
+Effigy Mounds,EFMO41,1,2009-05-30,Hardwood,21.1
+Effigy Mounds,EFMO41,1,2017-05-25,Hardwood,35.5
+Effigy Mounds,EFMO41,1,2017-05-25,Total,35.5
+Effigy Mounds,EFMO41,1,2022-05-26,Hardwood,26.8
+Effigy Mounds,EFMO42,1,2009-05-29,Hardwood,29.9
+Effigy Mounds,EFMO42,1,2009-05-30,Hardwood,30.7
+Effigy Mounds,EFMO42,1,2013-06-01,Hardwood,26.5
+Effigy Mounds,EFMO42,1,2017-05-25,Hardwood,20
+Effigy Mounds,EFMO42,1,2017-05-25,Total,20
+Effigy Mounds,EFMO42,1,2022-05-24,Hardwood,25
+Effigy Mounds,EFMO43,1,2009-05-30,Hardwood,25.8
+Effigy Mounds,EFMO43,1,2013-06-02,Hardwood,26
+Effigy Mounds,EFMO43,1,2017-05-25,Hardwood,35
+Effigy Mounds,EFMO43,1,2017-05-25,Total,35
+Effigy Mounds,EFMO43,1,2022-05-24,Hardwood,35.6
+Effigy Mounds,EFMO44,1,2009-05-30,Hardwood,24.5
+Effigy Mounds,EFMO44,1,2013-06-02,Hardwood,11
+Effigy Mounds,EFMO44,1,2017-05-25,Hardwood,15.5
+Effigy Mounds,EFMO44,1,2017-05-25,Total,15.5
+Effigy Mounds,EFMO44,1,2022-05-24,Hardwood,13
+Effigy Mounds,EFMO45,1,2009-05-30,Hardwood,17.2
+Effigy Mounds,EFMO45,1,2013-06-02,Hardwood,2
+Effigy Mounds,EFMO45,1,2017-05-25,Hardwood,6
+Effigy Mounds,EFMO45,1,2017-05-25,Total,6
+Effigy Mounds,EFMO45,1,2022-05-23,Hardwood,7.7
+Effigy Mounds,EFMO46,1,2009-05-30,Hardwood,18.3
+Effigy Mounds,EFMO46,1,2013-06-02,Hardwood,33
+Effigy Mounds,EFMO46,1,2017-05-25,Hardwood,26.5
+Effigy Mounds,EFMO46,1,2017-05-25,Total,26.5
+Effigy Mounds,EFMO46,1,2022-05-23,Hardwood,40.8
+Effigy Mounds,EFMO47,1,2009-05-30,Hardwood,21.2
+Effigy Mounds,EFMO47,1,2013-06-02,Hardwood,32
+Effigy Mounds,EFMO47,1,2017-05-25,Hardwood,20
+Effigy Mounds,EFMO47,1,2017-05-25,Total,20
+Effigy Mounds,EFMO47,1,2022-05-23,Hardwood,30
+Effigy Mounds,EFMO5,1,2009-06-01,Hardwood,18.6
+Effigy Mounds,EFMO5,1,2013-05-31,Hardwood,22
+Effigy Mounds,EFMO5,1,2017-05-24,Hardwood,23.5
+Effigy Mounds,EFMO5,1,2022-05-26,Hardwood,27.2
+Effigy Mounds,EFMO52,1,2009-05-30,Hardwood,39.6
+Effigy Mounds,EFMO6,1,2017-05-24,Hardwood,28
+Effigy Mounds,EFMO6,1,2017-05-24,Total,28
+Effigy Mounds,EFMO8,1,2009-05-29,Hardwood,16.6
+Effigy Mounds,EFMO8,1,2013-05-29,Hardwood,26
+Effigy Mounds,EFMO8,1,2017-05-24,Hardwood,6.5
+Effigy Mounds,EFMO8,1,2017-05-24,Total,6.5
+Effigy Mounds,EFMO8,1,2022-05-25,Hardwood,36.5
+Effigy Mounds,EFMO9,1,2009-05-29,Hardwood,31.6
+Effigy Mounds,EFMO9,1,2013-05-29,Hardwood,21
+Effigy Mounds,EFMO9,1,2017-05-24,Hardwood,27.5
+Effigy Mounds,EFMO9,1,2017-05-24,Total,27.5
+Effigy Mounds,EFMO9,1,2022-05-25,Hardwood,29.3
+George Washington Carver,GWCA1,1,2008-05-28,Hardwood,11.9
+George Washington Carver,GWCA1,1,2012-06-06,Hardwood,12.1
+George Washington Carver,GWCA1,1,2016-05-18,Hardwood,17
+George Washington Carver,GWCA1,1,2016-05-18,Conifer,0
+George Washington Carver,GWCA1,1,2016-05-18,Total,17
+George Washington Carver,GWCA1,1,2020-06-12,Hardwood,16
+George Washington Carver,GWCA1,1,2020-06-12,Conifer,0
+George Washington Carver,GWCA10,1,2016-05-18,Total,0
+George Washington Carver,GWCA10,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA10,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA11,1,2008-05-28,Hardwood,10.5
+George Washington Carver,GWCA11,1,2012-06-06,Hardwood,12.7
+George Washington Carver,GWCA11,1,2016-05-18,Hardwood,24
+George Washington Carver,GWCA11,1,2016-05-18,Total,24
+George Washington Carver,GWCA11,1,2020-06-12,Hardwood,9.5
+George Washington Carver,GWCA11,1,2020-06-12,Conifer,2
+George Washington Carver,GWCA12,1,2016-05-18,Total,0
+George Washington Carver,GWCA12,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA12,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA13,1,2016-05-18,Total,0
+George Washington Carver,GWCA13,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA13,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA14,1,2016-05-18,Total,0
+George Washington Carver,GWCA14,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA14,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA15,1,2016-05-18,Total,0
+George Washington Carver,GWCA15,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA15,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA16,1,2016-05-18,Total,0
+George Washington Carver,GWCA16,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA16,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA17,1,2016-05-18,Total,0
+George Washington Carver,GWCA17,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA17,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA18,1,2008-05-28,Hardwood,17.2
+George Washington Carver,GWCA18,1,2012-06-05,Hardwood,17.4
+George Washington Carver,GWCA18,1,2016-05-20,Hardwood,13.5
+George Washington Carver,GWCA18,1,2016-05-20,Total,13.5
+George Washington Carver,GWCA18,1,2020-06-12,Hardwood,17.5
+George Washington Carver,GWCA18,1,2020-06-12,Conifer,3
+George Washington Carver,GWCA19,1,2016-05-18,Total,0
+George Washington Carver,GWCA19,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA19,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA2,1,2008-05-28,Hardwood,7.1
+George Washington Carver,GWCA2,1,2012-06-06,Hardwood,16.9
+George Washington Carver,GWCA2,1,2016-05-18,Hardwood,10.5
+George Washington Carver,GWCA2,1,2016-05-18,Total,10.5
+George Washington Carver,GWCA2,1,2020-06-12,Hardwood,12
+George Washington Carver,GWCA2,1,2020-06-12,Conifer,0
+George Washington Carver,GWCA20,1,2016-05-18,Total,0
+George Washington Carver,GWCA20,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA20,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA21,1,2008-05-28,Hardwood,13
+George Washington Carver,GWCA21,1,2012-06-06,Hardwood,13.4
+George Washington Carver,GWCA21,1,2016-05-18,Hardwood,20
+George Washington Carver,GWCA21,1,2016-05-18,Total,20
+George Washington Carver,GWCA21,1,2020-06-10,Hardwood,3
+George Washington Carver,GWCA21,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA22,1,2008-05-28,Hardwood,14.8
+George Washington Carver,GWCA22,1,2012-06-05,Hardwood,22.1
+George Washington Carver,GWCA22,1,2016-05-18,Hardwood,19
+George Washington Carver,GWCA22,1,2016-05-18,Total,19
+George Washington Carver,GWCA22,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA22,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA23,1,2008-05-28,Hardwood,24.4
+George Washington Carver,GWCA23,1,2012-06-04,Hardwood,21.9
+George Washington Carver,GWCA23,1,2016-05-20,Hardwood,31.5
+George Washington Carver,GWCA23,1,2016-05-20,Total,31.5
+George Washington Carver,GWCA23,1,2020-06-12,Hardwood,15
+George Washington Carver,GWCA23,1,2020-06-12,Conifer,0
+George Washington Carver,GWCA24,1,2016-05-18,Total,0
+George Washington Carver,GWCA24,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA24,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA25,1,2016-05-18,Total,0
+George Washington Carver,GWCA25,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA25,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA26,1,2008-05-29,Hardwood,18.3
+George Washington Carver,GWCA26,1,2012-06-06,Hardwood,19.6
+George Washington Carver,GWCA26,1,2016-05-18,Hardwood,26
+George Washington Carver,GWCA26,1,2016-05-18,Total,26
+George Washington Carver,GWCA26,1,2020-06-11,Hardwood,20
+George Washington Carver,GWCA26,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA27,1,2008-05-29,Hardwood,22.2
+George Washington Carver,GWCA27,1,2012-06-06,Hardwood,19.5
+George Washington Carver,GWCA27,1,2016-06-09,Hardwood,31
+George Washington Carver,GWCA27,1,2016-06-09,Total,31
+George Washington Carver,GWCA27,1,2020-06-11,Hardwood,13
+George Washington Carver,GWCA27,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA28,1,2008-05-28,Hardwood,25.9
+George Washington Carver,GWCA28,1,2012-06-04,Hardwood,21.9
+George Washington Carver,GWCA28,1,2016-05-20,Hardwood,14.5
+George Washington Carver,GWCA28,1,2016-05-20,Total,14.5
+George Washington Carver,GWCA28,1,2020-06-12,Hardwood,24
+George Washington Carver,GWCA28,1,2020-06-12,Conifer,0
+George Washington Carver,GWCA29,1,2008-05-28,Hardwood,12.2
+George Washington Carver,GWCA29,1,2012-06-05,Conifer,4.7
+George Washington Carver,GWCA29,1,2012-06-05,Hardwood,19.7
+George Washington Carver,GWCA29,1,2016-05-20,Hardwood,16.2
+George Washington Carver,GWCA29,1,2016-05-20,Conifer,4.25
+George Washington Carver,GWCA29,1,2016-05-20,Total,16.2
+George Washington Carver,GWCA29,1,2020-06-10,Hardwood,18
+George Washington Carver,GWCA29,1,2020-06-10,Conifer,4
+George Washington Carver,GWCA3,1,2016-05-18,Total,0
+George Washington Carver,GWCA3,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA3,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA30,1,2008-05-28,Hardwood,18.8
+George Washington Carver,GWCA30,1,2012-06-05,Hardwood,18
+George Washington Carver,GWCA30,1,2016-05-20,Hardwood,22
+George Washington Carver,GWCA30,1,2016-05-20,Total,22
+George Washington Carver,GWCA30,1,2020-06-10,Hardwood,15
+George Washington Carver,GWCA30,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA31,1,2016-05-18,Total,0
+George Washington Carver,GWCA31,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA31,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA32,1,2008-05-29,Hardwood,8.7
+George Washington Carver,GWCA32,1,2012-06-06,Hardwood,9.2
+George Washington Carver,GWCA32,1,2016-05-18,Hardwood,9.5
+George Washington Carver,GWCA32,1,2016-05-18,Total,9.5
+George Washington Carver,GWCA32,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA32,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA33,1,2008-05-29,Hardwood,19.8
+George Washington Carver,GWCA33,1,2012-06-06,Hardwood,18.7
+George Washington Carver,GWCA33,1,2016-05-20,Hardwood,16.5
+George Washington Carver,GWCA33,1,2016-05-20,Total,16.5
+George Washington Carver,GWCA33,1,2020-06-11,Hardwood,19
+George Washington Carver,GWCA33,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA34,1,2008-05-27,Hardwood,25.2
+George Washington Carver,GWCA34,1,2012-06-04,Hardwood,24.9
+George Washington Carver,GWCA34,1,2016-05-20,Hardwood,18.5
+George Washington Carver,GWCA34,1,2016-05-20,Total,18.5
+George Washington Carver,GWCA34,1,2020-06-11,Hardwood,8
+George Washington Carver,GWCA34,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA35,1,2008-05-27,Hardwood,23.9
+George Washington Carver,GWCA35,1,2012-06-04,Hardwood,21.8
+George Washington Carver,GWCA35,1,2016-05-20,Hardwood,18.5
+George Washington Carver,GWCA35,1,2016-05-20,Total,18.5
+George Washington Carver,GWCA35,1,2020-06-11,Hardwood,24
+George Washington Carver,GWCA35,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA36,1,2016-05-18,Total,0
+George Washington Carver,GWCA36,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA36,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA37,1,2008-05-29,Hardwood,25.5
+George Washington Carver,GWCA37,1,2012-06-06,Hardwood,21.4
+George Washington Carver,GWCA37,1,2016-05-20,Hardwood,21
+George Washington Carver,GWCA37,1,2016-05-20,Total,21
+George Washington Carver,GWCA37,1,2020-06-11,Hardwood,11
+George Washington Carver,GWCA37,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA38,1,2012-06-04,Hardwood,6
+George Washington Carver,GWCA38,1,2016-05-20,Hardwood,10
+George Washington Carver,GWCA38,1,2016-05-20,Total,10
+George Washington Carver,GWCA38,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA38,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA39,1,2008-05-27,Hardwood,25.8
+George Washington Carver,GWCA39,1,2012-06-04,Hardwood,22.3
+George Washington Carver,GWCA39,1,2016-05-20,Hardwood,16.5
+George Washington Carver,GWCA39,1,2016-05-20,Total,16.5
+George Washington Carver,GWCA39,1,2020-06-11,Hardwood,0
+George Washington Carver,GWCA39,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA4,1,2016-05-18,Total,0
+George Washington Carver,GWCA4,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA4,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA40,1,2008-05-27,Hardwood,14.5
+George Washington Carver,GWCA40,1,2012-06-04,Hardwood,17.6
+George Washington Carver,GWCA40,1,2016-05-20,Hardwood,20
+George Washington Carver,GWCA40,1,2016-05-20,Total,20
+George Washington Carver,GWCA40,1,2020-06-11,Hardwood,17
+George Washington Carver,GWCA40,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA41,1,2016-05-20,Total,0
+George Washington Carver,GWCA41,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA41,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA42,1,2008-05-29,Hardwood,14.8
+George Washington Carver,GWCA42,1,2012-06-05,Hardwood,15.8
+George Washington Carver,GWCA42,1,2016-05-18,Total,0
+George Washington Carver,GWCA42,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA42,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA43,1,2016-05-18,Total,0
+George Washington Carver,GWCA43,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA43,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA44,1,2016-05-20,Total,0
+George Washington Carver,GWCA44,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA44,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA45,1,2012-06-04,Hardwood,13.2
+George Washington Carver,GWCA45,1,2016-05-18,Total,0
+George Washington Carver,GWCA45,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA45,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA46,1,2016-05-18,Total,0
+George Washington Carver,GWCA46,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA46,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA47,1,2016-05-18,Total,0
+George Washington Carver,GWCA47,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA47,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA48,1,2016-05-18,Total,0
+George Washington Carver,GWCA48,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA48,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA49,1,2016-05-18,Total,0
+George Washington Carver,GWCA49,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA49,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA5,1,2016-05-18,Total,0
+George Washington Carver,GWCA5,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA5,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA50,1,2016-05-18,Total,0
+George Washington Carver,GWCA50,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA50,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA51,1,2016-05-18,Total,0
+George Washington Carver,GWCA51,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA51,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA52,1,2016-05-18,Total,0
+George Washington Carver,GWCA52,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA52,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA53,1,2008-05-29,Hardwood,10.6
+George Washington Carver,GWCA53,1,2012-06-06,Hardwood,14.1
+George Washington Carver,GWCA53,1,2016-05-18,Hardwood,17.5
+George Washington Carver,GWCA53,1,2016-05-18,Total,17.5
+George Washington Carver,GWCA53,1,2020-06-11,Hardwood,16
+George Washington Carver,GWCA53,1,2020-06-11,Conifer,2
+George Washington Carver,GWCA54,1,2016-05-18,Total,0
+George Washington Carver,GWCA54,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA54,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA55,1,2008-05-27,Hardwood,9.2
+George Washington Carver,GWCA55,1,2016-05-18,Total,0
+George Washington Carver,GWCA55,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA55,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA56,1,2016-05-18,Total,0
+George Washington Carver,GWCA56,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA56,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA57,1,2016-05-18,Total,0
+George Washington Carver,GWCA57,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA57,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA58,1,2008-05-29,Hardwood,21.6
+George Washington Carver,GWCA58,1,2012-06-06,Hardwood,19.6
+George Washington Carver,GWCA58,1,2016-05-18,Hardwood,24
+George Washington Carver,GWCA58,1,2016-05-18,Total,24
+George Washington Carver,GWCA58,1,2020-06-11,Hardwood,21
+George Washington Carver,GWCA58,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA59,1,2016-05-18,Total,0
+George Washington Carver,GWCA59,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA59,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA6,1,2016-05-18,Total,0
+George Washington Carver,GWCA6,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA6,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA60,1,2016-05-18,Total,0
+George Washington Carver,GWCA60,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA60,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA61,1,2016-05-18,Hardwood,2.5
+George Washington Carver,GWCA61,1,2016-05-18,Total,2.5
+George Washington Carver,GWCA61,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA61,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA62,1,2008-05-29,Hardwood,18.9
+George Washington Carver,GWCA62,1,2012-06-06,Hardwood,15.5
+George Washington Carver,GWCA62,1,2016-05-18,Total,0
+George Washington Carver,GWCA62,1,2020-06-11,Hardwood,0
+George Washington Carver,GWCA62,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA63,1,2016-05-18,Total,0
+George Washington Carver,GWCA63,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA63,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA64,1,2016-05-18,Total,0
+George Washington Carver,GWCA64,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA64,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA65,1,2016-05-18,Total,0
+George Washington Carver,GWCA65,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA65,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA66,1,2016-05-18,Total,0
+George Washington Carver,GWCA66,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA66,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA67,1,2008-05-27,Hardwood,10.5
+George Washington Carver,GWCA67,1,2012-06-04,Hardwood,13.9
+George Washington Carver,GWCA67,1,2016-05-18,Hardwood,6
+George Washington Carver,GWCA67,1,2016-05-18,Total,6
+George Washington Carver,GWCA67,1,2020-06-11,Hardwood,8
+George Washington Carver,GWCA67,1,2020-06-11,Conifer,0
+George Washington Carver,GWCA68,1,2016-05-18,Total,0
+George Washington Carver,GWCA68,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA68,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA69,1,2016-05-18,Hardwood,3
+George Washington Carver,GWCA69,1,2016-05-18,Total,3
+George Washington Carver,GWCA69,1,2020-06-09,Hardwood,0
+George Washington Carver,GWCA69,1,2020-06-09,Conifer,0
+George Washington Carver,GWCA7,1,2016-05-18,Total,0
+George Washington Carver,GWCA7,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA7,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA70,1,2016-05-18,Total,0
+George Washington Carver,GWCA70,1,2020-06-08,Hardwood,0
+George Washington Carver,GWCA70,1,2020-06-08,Conifer,0
+George Washington Carver,GWCA8,1,2016-05-18,Total,0
+George Washington Carver,GWCA8,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA8,1,2020-06-10,Conifer,0
+George Washington Carver,GWCA9,1,2016-05-18,Total,0
+George Washington Carver,GWCA9,1,2020-06-10,Hardwood,0
+George Washington Carver,GWCA9,1,2020-06-10,Conifer,0
+Herbert Hoover,HEHO1,1,2017-05-22,Total,0
+Herbert Hoover,HEHO10,1,2017-05-22,Total,0
+Herbert Hoover,HEHO11,1,2017-05-22,Total,0
+Herbert Hoover,HEHO12,1,2017-05-22,Total,0
+Herbert Hoover,HEHO13,1,2017-05-22,Total,0
+Herbert Hoover,HEHO13,1,2022-05-27,Hardwood,8.1
+Herbert Hoover,HEHO14,1,2017-05-22,Total,0
+Herbert Hoover,HEHO15,1,2009-05-27,Hardwood,1.5
+Herbert Hoover,HEHO15,1,2017-05-22,Total,0
+Herbert Hoover,HEHO16,1,2017-05-22,Total,0
+Herbert Hoover,HEHO17,1,2017-05-22,Total,0
+Herbert Hoover,HEHO18,1,2017-05-22,Total,0
+Herbert Hoover,HEHO19,1,2017-05-22,Total,0
+Herbert Hoover,HEHO2,1,2017-05-22,Total,0
+Herbert Hoover,HEHO20,1,2017-05-22,Total,0
+Herbert Hoover,HEHO21,1,2017-05-22,Total,0
+Herbert Hoover,HEHO22,1,2017-05-22,Total,0
+Herbert Hoover,HEHO23,1,2017-05-22,Total,0
+Herbert Hoover,HEHO24,1,2017-05-22,Total,0
+Herbert Hoover,HEHO25,1,2017-05-22,Total,0
+Herbert Hoover,HEHO26,1,2017-05-22,Total,0
+Herbert Hoover,HEHO27,1,2017-05-22,Total,0
+Herbert Hoover,HEHO27,1,2022-05-27,Hardwood,6.1
+Herbert Hoover,HEHO28,1,2017-05-22,Total,0
+Herbert Hoover,HEHO28,1,2022-05-27,Hardwood,3.2
+Herbert Hoover,HEHO29,1,2009-05-27,Hardwood,17
+Herbert Hoover,HEHO29,1,2017-05-23,Total,17
+Herbert Hoover,HEHO29,1,2017-05-23,Hardwood,17
+Herbert Hoover,HEHO29,1,2017-05-23,Conifer,16
+Herbert Hoover,HEHO29,1,2022-05-27,Hardwood,20.4
+Herbert Hoover,HEHO29,1,2022-05-27,Conifer,20.7
+Herbert Hoover,HEHO3,1,2017-05-22,Total,0
+Herbert Hoover,HEHO30,1,2009-05-27,Hardwood,29.4
+Herbert Hoover,HEHO30,1,2017-05-23,Hardwood,33
+Herbert Hoover,HEHO30,1,2017-05-23,Total,33
+Herbert Hoover,HEHO30,1,2022-05-27,Hardwood,30
+Herbert Hoover,HEHO30,1,2022-05-27,Conifer,28.5
+Herbert Hoover,HEHO31,1,2009-05-27,Conifer,21.1
+Herbert Hoover,HEHO31,1,2009-05-27,Hardwood,14.9
+Herbert Hoover,HEHO31,1,2013-05-28,Conifer,24.5
+Herbert Hoover,HEHO31,1,2013-05-28,Hardwood,21
+Herbert Hoover,HEHO31,1,2017-05-23,Total,25
+Herbert Hoover,HEHO31,1,2017-05-23,Hardwood,18
+Herbert Hoover,HEHO31,1,2017-05-23,Conifer,25
+Herbert Hoover,HEHO31,1,2022-05-27,Hardwood,25.2
+Herbert Hoover,HEHO31,1,2022-05-27,Conifer,26.9
+Herbert Hoover,HEHO32,1,2009-05-27,Hardwood,18.2
+Herbert Hoover,HEHO32,1,2017-05-23,Hardwood,21.5
+Herbert Hoover,HEHO32,1,2017-05-23,Total,21.5
+Herbert Hoover,HEHO32,1,2022-05-27,Hardwood,19.3
+Herbert Hoover,HEHO33,1,2017-05-23,Total,0
+Herbert Hoover,HEHO34,1,2009-05-27,Hardwood,17.1
+Herbert Hoover,HEHO34,1,2017-05-23,Hardwood,3
+Herbert Hoover,HEHO34,1,2017-05-23,Total,3
+Herbert Hoover,HEHO34,1,2022-05-27,Hardwood,1.8
+Herbert Hoover,HEHO35,1,2009-05-27,Hardwood,3.25
+Herbert Hoover,HEHO35,1,2013-05-28,Hardwood,19.5
+Herbert Hoover,HEHO35,1,2017-05-23,Hardwood,11
+Herbert Hoover,HEHO35,1,2017-05-23,Total,11
+Herbert Hoover,HEHO35,1,2022-05-27,Hardwood,24.3
+Herbert Hoover,HEHO35,1,2022-05-27,Conifer,10.7
+Herbert Hoover,HEHO36,1,2009-05-27,Hardwood,17.3
+Herbert Hoover,HEHO36,1,2017-05-23,Hardwood,22.5
+Herbert Hoover,HEHO36,1,2017-05-23,Total,22.5
+Herbert Hoover,HEHO36,1,2022-05-27,Hardwood,18.9
+Herbert Hoover,HEHO37,1,2009-05-27,Conifer,2.75
+Herbert Hoover,HEHO37,1,2009-05-27,Hardwood,19.8
+Herbert Hoover,HEHO37,1,2017-05-23,Hardwood,22
+Herbert Hoover,HEHO37,1,2017-05-23,Conifer,7
+Herbert Hoover,HEHO37,1,2017-05-23,Total,22
+Herbert Hoover,HEHO37,1,2022-05-27,Hardwood,22.5
+Herbert Hoover,HEHO37,1,2022-05-27,Conifer,1.3
+Herbert Hoover,HEHO38,1,2009-05-27,Hardwood,21.9
+Herbert Hoover,HEHO38,1,2017-05-22,Hardwood,28
+Herbert Hoover,HEHO38,1,2017-05-22,Total,28
+Herbert Hoover,HEHO38,1,2022-05-27,Hardwood,22.3
+Herbert Hoover,HEHO38,1,2022-05-27,Conifer,5
+Herbert Hoover,HEHO4,1,2017-05-22,Total,0
+Herbert Hoover,HEHO4,2,2005-06-04,Hardwood,15.9
+Herbert Hoover,HEHO4,2,2006-06-04,Hardwood,17
+Herbert Hoover,HEHO5,1,2017-05-22,Total,0
+Herbert Hoover,HEHO6,1,2017-05-22,Total,0
+Herbert Hoover,HEHO7,1,2017-05-22,Total,0
+Herbert Hoover,HEHO7,2,2005-06-04,Hardwood,15.6
+Herbert Hoover,HEHO8,1,2017-05-22,Total,0
+Herbert Hoover,HEHO9,1,2017-05-22,Total,0
+Hopewell Culture,HOCU1,1,2005-06-02,Hardwood,15.8
+Hopewell Culture,HOCU1,1,2006-05-31,Hardwood,16.5
+Hopewell Culture,HOCU1,1,2007-06-12,Hardwood,6.5
+Hopewell Culture,HOCU1,1,2011-05-22,Hardwood,9.6
+Hopewell Culture,HOCU1,1,2015-05-12,Hardwood,17
+Hopewell Culture,HOCU1,1,2019-05-14,Hardwood,11
+Hopewell Culture,HOCU1,2,2005-06-02,Hardwood,7.5
+Hopewell Culture,HOCU1,2,2006-05-31,Hardwood,19.5
+Hopewell Culture,HOCU1,4,2005-06-02,Hardwood,11
+Hopewell Culture,HOCU1,4,2006-05-31,Hardwood,10.5
+Hopewell Culture,HOCU11,1,2005-06-03,Hardwood,5
+Hopewell Culture,HOCU11,1,2006-05-31,Hardwood,15
+Hopewell Culture,HOCU11,1,2007-06-12,Hardwood,7
+Hopewell Culture,HOCU11,1,2011-05-22,Hardwood,35.8
+Hopewell Culture,HOCU11,1,2015-05-12,Hardwood,20
+Hopewell Culture,HOCU11,1,2019-05-15,Hardwood,18
+Hopewell Culture,HOCU11,2,2005-06-03,Hardwood,9
+Hopewell Culture,HOCU11,2,2006-05-31,Hardwood,9
+Hopewell Culture,HOCU11,3,2005-06-03,Hardwood,11.05
+Hopewell Culture,HOCU11,3,2006-05-31,Hardwood,12
+Hopewell Culture,HOCU11,4,2005-06-03,Hardwood,19.2
+Hopewell Culture,HOCU11,4,2006-05-31,Hardwood,16
+Hopewell Culture,HOCU12,1,2011-05-23,Hardwood,15.4
+Hopewell Culture,HOCU13,1,2005-06-01,Hardwood,3
+Hopewell Culture,HOCU13,1,2006-06-01,Hardwood,3.5
+Hopewell Culture,HOCU13,1,2007-06-13,Hardwood,3.5
+Hopewell Culture,HOCU13,1,2011-05-23,Hardwood,9.5
+Hopewell Culture,HOCU13,1,2015-05-13,Hardwood,10
+Hopewell Culture,HOCU13,1,2019-05-14,Hardwood,14
+Hopewell Culture,HOCU13,2,2006-06-01,Hardwood,3.3
+Hopewell Culture,HOCU13,3,2005-06-01,Hardwood,7.5
+Hopewell Culture,HOCU13,3,2006-06-01,Hardwood,6
+Hopewell Culture,HOCU13,4,2005-06-01,Hardwood,6
+Hopewell Culture,HOCU13,4,2006-06-01,Hardwood,4
+Hopewell Culture,HOCU15,2,2005-06-01,Hardwood,11
+Hopewell Culture,HOCU17,1,2006-06-01,Hardwood,4.3
+Hopewell Culture,HOCU17,1,2011-05-23,Hardwood,5.6
+Hopewell Culture,HOCU17,1,2015-05-13,Hardwood,6
+Hopewell Culture,HOCU17,4,2006-06-01,Hardwood,2.8
+Hopewell Culture,HOCU18,1,2005-06-01,Hardwood,11.4
+Hopewell Culture,HOCU18,1,2006-06-01,Hardwood,13
+Hopewell Culture,HOCU18,1,2011-05-23,Hardwood,13.9
+Hopewell Culture,HOCU18,1,2015-05-13,Hardwood,7.5
+Hopewell Culture,HOCU18,2,2005-06-01,Hardwood,11.8
+Hopewell Culture,HOCU18,3,2005-06-01,Hardwood,7.5
+Hopewell Culture,HOCU18,3,2006-06-01,Hardwood,19
+Hopewell Culture,HOCU2,1,2005-06-01,Hardwood,8
+Hopewell Culture,HOCU2,1,2006-05-31,Hardwood,9
+Hopewell Culture,HOCU2,1,2007-06-12,Hardwood,10
+Hopewell Culture,HOCU2,1,2011-05-22,Hardwood,18.4
+Hopewell Culture,HOCU2,1,2015-05-12,Hardwood,11.5
+Hopewell Culture,HOCU2,1,2019-05-14,Hardwood,12
+Hopewell Culture,HOCU2,2,2005-06-01,Hardwood,7.5
+Hopewell Culture,HOCU2,2,2006-05-31,Hardwood,8.5
+Hopewell Culture,HOCU2,3,2005-06-01,Hardwood,13
+Hopewell Culture,HOCU2,3,2006-05-31,Hardwood,12
+Hopewell Culture,HOCU2,4,2005-06-01,Hardwood,14
+Hopewell Culture,HOCU2,4,2006-05-31,Hardwood,15
+Hopewell Culture,HOCU21,1,2005-06-02,Hardwood,29.7
+Hopewell Culture,HOCU21,1,2006-06-02,Hardwood,13.5
+Hopewell Culture,HOCU21,1,2007-06-12,Hardwood,14
+Hopewell Culture,HOCU21,1,2015-05-14,Hardwood,51
+Hopewell Culture,HOCU21,1,2019-05-15,Hardwood,45
+Hopewell Culture,HOCU21,2,2005-06-02,Hardwood,30
+Hopewell Culture,HOCU21,2,2006-06-02,Hardwood,11
+Hopewell Culture,HOCU21,3,2005-06-02,Hardwood,14
+Hopewell Culture,HOCU21,3,2006-06-02,Hardwood,18
+Hopewell Culture,HOCU21,4,2005-06-02,Hardwood,45
+Hopewell Culture,HOCU21,4,2006-06-02,Hardwood,17.5
+Hopewell Culture,HOCU26,1,2011-05-23,Hardwood,17
+Hopewell Culture,HOCU26,2,2005-06-03,Hardwood,13
+Hopewell Culture,HOCU3,4,2005-06-02,Hardwood,14
+Hopewell Culture,HOCU3,4,2006-05-31,Hardwood,18
+Hopewell Culture,HOCU4,1,2005-06-02,Hardwood,20
+Hopewell Culture,HOCU4,1,2006-05-31,Hardwood,26
+Hopewell Culture,HOCU4,1,2007-06-12,Hardwood,20
+Hopewell Culture,HOCU4,1,2011-05-22,Hardwood,16
+Hopewell Culture,HOCU4,1,2015-05-12,Hardwood,17
+Hopewell Culture,HOCU4,1,2019-05-14,Hardwood,24
+Hopewell Culture,HOCU4,3,2005-06-02,Hardwood,16.8
+Hopewell Culture,HOCU4,3,2006-05-31,Hardwood,17.2
+Hopewell Culture,HOCU4,4,2005-06-02,Hardwood,28.4
+Hopewell Culture,HOCU4,4,2006-05-31,Hardwood,26
+Hopewell Culture,HOCU8,4,2005-06-02,Hardwood,13.4
+Hopewell Culture,HOCU8,4,2006-06-02,Hardwood,15.5
+Homestead,HOME1,1,2017-05-27,Total,0
+Homestead,HOME10,1,2017-05-27,Total,0
+Homestead,HOME11,1,2017-05-27,Total,0
+Homestead,HOME12,1,2017-05-27,Total,0
+Homestead,HOME13,1,2017-05-27,Total,0
+Homestead,HOME14,1,2017-05-27,Total,0
+Homestead,HOME15,1,2017-05-27,Total,0
+Homestead,HOME16,1,2017-05-27,Total,0
+Homestead,HOME17,1,2017-05-27,Total,0
+Homestead,HOME18,1,2017-05-27,Total,0
+Homestead,HOME19,1,2017-05-27,Total,0
+Homestead,HOME2,1,2017-05-27,Total,0
+Homestead,HOME20,1,2017-05-28,Total,0
+Homestead,HOME21,1,2017-05-27,Total,0
+Homestead,HOME22,1,2009-05-12,Hardwood,3.5
+Homestead,HOME22,1,2017-05-27,Total,0
+Homestead,HOME23,1,2017-05-28,Total,0
+Homestead,HOME24,1,2017-05-27,Total,0
+Homestead,HOME25,1,2017-05-27,Total,0
+Homestead,HOME26,1,2017-05-27,Total,0
+Homestead,HOME27,1,2009-05-12,Hardwood,26.6
+Homestead,HOME27,1,2017-05-28,Hardwood,8.5
+Homestead,HOME27,1,2017-05-28,Total,8.5
+Homestead,HOME27,1,2022-05-22,Hardwood,22.7
+Homestead,HOME28,1,2017-05-27,Total,0
+Homestead,HOME29,1,2017-05-27,Total,0
+Homestead,HOME3,1,2017-05-27,Total,0
+Homestead,HOME30,1,2017-05-27,Total,0
+Homestead,HOME31,1,2009-05-12,Hardwood,9.4
+Homestead,HOME31,1,2017-05-27,Hardwood,15
+Homestead,HOME31,1,2017-05-27,Total,15
+Homestead,HOME31,1,2022-05-22,Hardwood,26.7
+Homestead,HOME32,1,2009-05-13,Hardwood,23.3
+Homestead,HOME32,1,2017-05-28,Hardwood,17
+Homestead,HOME32,1,2017-05-28,Total,17
+Homestead,HOME32,1,2022-05-21,Hardwood,30
+Homestead,HOME33,1,2009-05-13,Hardwood,26
+Homestead,HOME33,1,2017-05-27,Total,18
+Homestead,HOME33,1,2017-05-27,Hardwood,18
+Homestead,HOME33,1,2022-05-21,Hardwood,30.9
+Homestead,HOME35,1,2009-05-13,Hardwood,19.5
+Homestead,HOME35,1,2017-05-27,Hardwood,19
+Homestead,HOME35,1,2017-05-27,Total,19
+Homestead,HOME35,1,2022-05-22,Hardwood,22
+Homestead,HOME36,1,2009-05-12,Hardwood,29
+Homestead,HOME36,1,2017-05-27,Hardwood,41
+Homestead,HOME36,1,2017-05-27,Total,41
+Homestead,HOME36,1,2022-05-22,Hardwood,24.5
+Homestead,HOME37,1,2009-05-12,Hardwood,23.7
+Homestead,HOME37,1,2013-05-14,Hardwood,30
+Homestead,HOME37,1,2017-05-27,Total,25
+Homestead,HOME37,1,2017-05-27,Hardwood,25
+Homestead,HOME37,1,2022-05-22,Hardwood,17.5
+Homestead,HOME38,1,2009-05-13,Hardwood,13.9
+Homestead,HOME38,1,2017-05-27,Hardwood,15
+Homestead,HOME38,1,2017-05-27,Total,15
+Homestead,HOME38,1,2022-05-21,Hardwood,20.6
+Homestead,HOME39,1,2009-05-12,Hardwood,23.4
+Homestead,HOME39,1,2013-05-14,Hardwood,20.5
+Homestead,HOME39,1,2017-05-27,Hardwood,25
+Homestead,HOME39,1,2017-05-27,Total,25
+Homestead,HOME39,1,2022-05-22,Hardwood,27.4
+Homestead,HOME4,1,2009-05-13,Hardwood,18.6
+Homestead,HOME4,1,2017-05-27,Hardwood,8
+Homestead,HOME4,1,2017-05-27,Total,0
+Homestead,HOME4,1,2022-05-21,Hardwood,17.1
+Homestead,HOME4,1,2022-05-21,Conifer,12
+Homestead,HOME40,1,2009-05-13,Hardwood,21.7
+Homestead,HOME40,1,2017-05-27,Hardwood,7
+Homestead,HOME40,1,2017-05-27,Total,7
+Homestead,HOME40,1,2022-05-22,Hardwood,28.2
+Homestead,HOME43,1,2009-05-13,Hardwood,24.9
+Homestead,HOME43,1,2017-05-27,Hardwood,27
+Homestead,HOME43,1,2017-05-27,Total,27
+Homestead,HOME43,1,2022-05-22,Hardwood,30.1
+Homestead,HOME44,1,2009-05-13,Hardwood,12.4
+Homestead,HOME44,1,2017-05-27,Hardwood,15
+Homestead,HOME44,1,2017-05-27,Total,15
+Homestead,HOME44,1,2022-05-22,Hardwood,22.5
+Homestead,HOME45,1,2009-05-13,Hardwood,8.8
+Homestead,HOME45,1,2017-05-27,Hardwood,10.5
+Homestead,HOME45,1,2017-05-27,Total,10.5
+Homestead,HOME45,1,2022-05-22,Hardwood,18.4
+Homestead,HOME46,1,2009-05-12,Hardwood,32.9
+Homestead,HOME46,1,2017-05-27,Hardwood,31
+Homestead,HOME46,1,2017-05-27,Total,31
+Homestead,HOME46,1,2022-05-22,Hardwood,32.7
+Homestead,HOME47,1,2009-05-13,Hardwood,23.8
+Homestead,HOME47,1,2013-05-14,Hardwood,25.5
+Homestead,HOME47,1,2017-05-27,Hardwood,21
+Homestead,HOME47,1,2017-05-27,Total,21
+Homestead,HOME47,1,2022-05-22,Hardwood,28.5
+Homestead,HOME48,1,2009-05-12,Hardwood,23.2
+Homestead,HOME5,1,2009-05-13,Hardwood,32.1
+Homestead,HOME5,1,2017-05-27,Total,0
+Homestead,HOME6,1,2017-05-27,Total,0
+Homestead,HOME7,1,2017-05-27,Total,0
+Homestead,HOME8,1,2017-05-27,Total,0
+Homestead,HOME9,1,2017-05-27,Hardwood,22.5
+Homestead,HOME9,1,2017-05-27,Total,22.5
+Homestead,HOME9,1,2022-05-21,Hardwood,19
+Lincoln Boyhood,LIBO1,1,2007-06-10,Hardwood,22
+Lincoln Boyhood,LIBO1,1,2011-05-20,Hardwood,16.2
+Lincoln Boyhood,LIBO1,1,2015-05-15,Hardwood,28.5
+Lincoln Boyhood,LIBO1,1,2019-05-18,Hardwood,25.5
+Lincoln Boyhood,LIBO10,1,2007-06-09,Hardwood,27
+Lincoln Boyhood,LIBO10,1,2011-05-20,Hardwood,19.1
+Lincoln Boyhood,LIBO10,1,2015-05-15,Hardwood,22.5
+Lincoln Boyhood,LIBO10,1,2019-05-18,Hardwood,17.5
+Lincoln Boyhood,LIBO13,1,2007-06-09,Hardwood,31
+Lincoln Boyhood,LIBO13,1,2011-05-20,Hardwood,35.4
+Lincoln Boyhood,LIBO13,1,2015-05-15,Hardwood,33
+Lincoln Boyhood,LIBO13,1,2019-05-18,Hardwood,28
+Lincoln Boyhood,LIBO14,1,2007-06-09,Hardwood,18.5
+Lincoln Boyhood,LIBO14,1,2011-05-20,Hardwood,29.9
+Lincoln Boyhood,LIBO14,1,2015-05-15,Hardwood,33
+Lincoln Boyhood,LIBO14,1,2019-05-18,Hardwood,1.5
+Lincoln Boyhood,LIBO14,1,2019-05-18,Conifer,0.15
+Lincoln Boyhood,LIBO16,1,2007-06-10,Hardwood,28
+Lincoln Boyhood,LIBO16,1,2011-05-20,Hardwood,25.9
+Lincoln Boyhood,LIBO16,1,2015-05-15,Hardwood,29
+Lincoln Boyhood,LIBO16,1,2019-05-18,Hardwood,29.5
+Lincoln Boyhood,LIBO17,1,2007-06-09,Hardwood,36
+Lincoln Boyhood,LIBO17,1,2011-05-20,Hardwood,40.4
+Lincoln Boyhood,LIBO17,1,2015-05-16,Hardwood,31
+Lincoln Boyhood,LIBO17,1,2019-05-17,Hardwood,21.5
+Lincoln Boyhood,LIBO19,1,2007-06-10,Hardwood,36
+Lincoln Boyhood,LIBO19,1,2011-05-20,Hardwood,25.5
+Lincoln Boyhood,LIBO19,1,2015-05-15,Hardwood,41.5
+Lincoln Boyhood,LIBO19,1,2019-05-17,Hardwood,8
+Lincoln Boyhood,LIBO2,1,2007-06-09,Hardwood,24
+Lincoln Boyhood,LIBO2,1,2011-05-20,Hardwood,27.2
+Lincoln Boyhood,LIBO2,1,2015-05-15,Hardwood,32
+Lincoln Boyhood,LIBO2,1,2019-05-18,Hardwood,25
+Lincoln Boyhood,LIBO20,1,2007-06-10,Hardwood,28
+Lincoln Boyhood,LIBO20,1,2011-05-20,Hardwood,38.8
+Lincoln Boyhood,LIBO20,1,2015-05-16,Hardwood,41
+Lincoln Boyhood,LIBO20,1,2019-05-17,Hardwood,21.5
+Lincoln Boyhood,LIBO22,1,2007-06-10,Hardwood,24
+Lincoln Boyhood,LIBO22,1,2011-05-20,Hardwood,24.3
+Lincoln Boyhood,LIBO22,1,2015-05-15,Hardwood,40
+Lincoln Boyhood,LIBO22,1,2019-05-17,Hardwood,32
+Lincoln Boyhood,LIBO23,1,2007-06-10,Hardwood,30
+Lincoln Boyhood,LIBO23,1,2011-05-20,Hardwood,39.2
+Lincoln Boyhood,LIBO23,1,2015-05-16,Hardwood,41
+Lincoln Boyhood,LIBO23,1,2019-05-17,Hardwood,2
+Lincoln Boyhood,LIBO24,1,2007-06-09,Hardwood,26
+Lincoln Boyhood,LIBO24,1,2011-05-20,Hardwood,37.7
+Lincoln Boyhood,LIBO24,1,2015-05-16,Hardwood,25
+Lincoln Boyhood,LIBO24,1,2019-05-17,Hardwood,23
+Lincoln Boyhood,LIBO26,1,2007-06-10,Hardwood,24
+Lincoln Boyhood,LIBO26,1,2011-05-21,Hardwood,31.5
+Lincoln Boyhood,LIBO26,1,2015-05-15,Hardwood,17
+Lincoln Boyhood,LIBO26,1,2019-05-17,Hardwood,18
+Lincoln Boyhood,LIBO27,1,2007-06-10,Hardwood,20
+Lincoln Boyhood,LIBO27,1,2011-05-21,Hardwood,30
+Lincoln Boyhood,LIBO27,1,2015-05-15,Hardwood,32.5
+Lincoln Boyhood,LIBO27,1,2019-05-17,Hardwood,25.5
+Lincoln Boyhood,LIBO28,1,2007-06-10,Hardwood,13
+Lincoln Boyhood,LIBO28,1,2011-05-20,Hardwood,17.6
+Lincoln Boyhood,LIBO28,1,2015-05-16,Hardwood,35
+Lincoln Boyhood,LIBO28,1,2019-05-17,Hardwood,37
+Lincoln Boyhood,LIBO29,1,2007-06-10,Conifer,12
+Lincoln Boyhood,LIBO29,1,2007-06-10,Hardwood,11
+Lincoln Boyhood,LIBO29,1,2011-05-21,Conifer,21.8
+Lincoln Boyhood,LIBO29,1,2011-05-21,Hardwood,23.5
+Lincoln Boyhood,LIBO29,1,2015-05-15,Hardwood,30
+Lincoln Boyhood,LIBO29,1,2019-05-17,Hardwood,29
+Lincoln Boyhood,LIBO29,1,2019-05-17,Conifer,13
+Lincoln Boyhood,LIBO3,1,2007-06-09,Hardwood,21
+Lincoln Boyhood,LIBO3,1,2011-05-20,Hardwood,21.1
+Lincoln Boyhood,LIBO3,1,2015-05-15,Hardwood,29
+Lincoln Boyhood,LIBO3,1,2019-05-18,Hardwood,24.5
+Lincoln Boyhood,LIBO30,1,2007-06-10,Conifer,5.5
+Lincoln Boyhood,LIBO30,1,2007-06-10,Hardwood,9.5
+Lincoln Boyhood,LIBO30,1,2011-05-21,Hardwood,22.8
+Lincoln Boyhood,LIBO30,1,2015-05-15,Hardwood,25
+Lincoln Boyhood,LIBO30,1,2019-05-17,Hardwood,1
+Lincoln Boyhood,LIBO31,1,2007-06-10,Conifer,15
+Lincoln Boyhood,LIBO31,1,2007-06-10,Hardwood,30
+Lincoln Boyhood,LIBO31,1,2011-05-20,Hardwood,30.3
+Lincoln Boyhood,LIBO31,1,2015-05-16,Hardwood,38
+Lincoln Boyhood,LIBO31,1,2019-05-17,Hardwood,30.5
+Lincoln Boyhood,LIBO31,1,2019-05-17,Conifer,14.5
+Lincoln Boyhood,LIBO32,1,2007-06-09,Hardwood,20
+Lincoln Boyhood,LIBO32,1,2011-05-21,Conifer,8.2
+Lincoln Boyhood,LIBO32,1,2011-05-21,Hardwood,31
+Lincoln Boyhood,LIBO32,1,2015-05-15,Hardwood,26
+Lincoln Boyhood,LIBO32,1,2019-05-17,Hardwood,33
+Lincoln Boyhood,LIBO33,1,2007-06-10,Hardwood,26
+Lincoln Boyhood,LIBO33,1,2011-05-21,Hardwood,31.2
+Lincoln Boyhood,LIBO33,1,2015-05-15,Hardwood,34
+Lincoln Boyhood,LIBO33,1,2019-05-17,Hardwood,22.5
+Lincoln Boyhood,LIBO34,1,2007-06-10,Hardwood,26
+Lincoln Boyhood,LIBO34,1,2011-05-21,Hardwood,26.7
+Lincoln Boyhood,LIBO34,1,2015-05-16,Hardwood,34
+Lincoln Boyhood,LIBO34,1,2019-05-18,Hardwood,27.5
+Lincoln Boyhood,LIBO35,1,2007-06-10,Hardwood,18
+Lincoln Boyhood,LIBO35,1,2011-05-20,Hardwood,24.3
+Lincoln Boyhood,LIBO35,1,2015-05-16,Hardwood,30
+Lincoln Boyhood,LIBO35,1,2019-05-17,Hardwood,12.5
+Lincoln Boyhood,LIBO36,1,2007-06-10,Hardwood,30
+Lincoln Boyhood,LIBO36,1,2011-05-21,Hardwood,31
+Lincoln Boyhood,LIBO36,1,2015-05-15,Hardwood,28
+Lincoln Boyhood,LIBO36,1,2019-05-17,Hardwood,36
+Lincoln Boyhood,LIBO36,1,2019-05-17,Conifer,10
+Lincoln Boyhood,LIBO37,1,2007-06-10,Hardwood,12
+Lincoln Boyhood,LIBO37,1,2011-05-21,Hardwood,18.1
+Lincoln Boyhood,LIBO37,1,2015-05-15,Hardwood,12
+Lincoln Boyhood,LIBO37,1,2019-05-17,Hardwood,14.5
+Lincoln Boyhood,LIBO38,1,2007-06-09,Hardwood,25
+Lincoln Boyhood,LIBO38,1,2011-05-21,Hardwood,23.6
+Lincoln Boyhood,LIBO38,1,2015-05-16,Hardwood,44
+Lincoln Boyhood,LIBO38,1,2019-05-18,Hardwood,23
+Lincoln Boyhood,LIBO39,1,2007-06-10,Hardwood,28
+Lincoln Boyhood,LIBO39,1,2011-05-20,Hardwood,18.7
+Lincoln Boyhood,LIBO39,1,2015-05-16,Hardwood,40
+Lincoln Boyhood,LIBO39,1,2019-05-17,Hardwood,36.5
+Lincoln Boyhood,LIBO4,1,2007-06-09,Hardwood,15
+Lincoln Boyhood,LIBO4,1,2011-05-20,Hardwood,18.2
+Lincoln Boyhood,LIBO4,1,2015-05-15,Hardwood,20.5
+Lincoln Boyhood,LIBO4,1,2019-05-18,Hardwood,22
+Lincoln Boyhood,LIBO40,1,2007-06-09,Hardwood,24
+Lincoln Boyhood,LIBO40,1,2011-05-21,Hardwood,31
+Lincoln Boyhood,LIBO40,1,2015-05-16,Hardwood,29
+Lincoln Boyhood,LIBO40,1,2019-05-17,Hardwood,25.25
+Lincoln Boyhood,LIBO40,1,2019-05-17,Conifer,1
+Lincoln Boyhood,LIBO41,1,2007-06-10,Hardwood,13
+Lincoln Boyhood,LIBO41,1,2011-05-20,Hardwood,29.5
+Lincoln Boyhood,LIBO41,1,2015-05-16,Hardwood,21.5
+Lincoln Boyhood,LIBO41,1,2019-05-17,Hardwood,21.5
+Lincoln Boyhood,LIBO5,1,2007-06-09,Hardwood,14
+Lincoln Boyhood,LIBO5,1,2011-05-20,Hardwood,20.1
+Lincoln Boyhood,LIBO5,1,2015-05-15,Hardwood,22
+Lincoln Boyhood,LIBO5,1,2019-05-18,Hardwood,17.5
+Lincoln Boyhood,LIBO6,1,2007-06-09,Hardwood,24
+Lincoln Boyhood,LIBO6,1,2011-05-20,Hardwood,24.6
+Lincoln Boyhood,LIBO6,1,2015-05-15,Hardwood,34
+Lincoln Boyhood,LIBO6,1,2019-05-18,Hardwood,34
+Lincoln Boyhood,LIBO7,1,2007-06-09,Hardwood,24
+Lincoln Boyhood,LIBO7,1,2011-05-20,Hardwood,25.8
+Lincoln Boyhood,LIBO7,1,2015-05-15,Hardwood,31
+Lincoln Boyhood,LIBO7,1,2019-05-18,Hardwood,14
+Lincoln Boyhood,LIBO8,1,2007-06-09,Hardwood,13
+Lincoln Boyhood,LIBO8,1,2011-05-20,Conifer,11.4
+Lincoln Boyhood,LIBO8,1,2011-05-20,Hardwood,29.6
+Lincoln Boyhood,LIBO8,1,2015-05-15,Hardwood,23
+Lincoln Boyhood,LIBO8,1,2019-05-18,Hardwood,26
+Lincoln Boyhood,LIBO9,1,2007-06-09,Hardwood,10
+Lincoln Boyhood,LIBO9,1,2011-05-20,Hardwood,33
+Lincoln Boyhood,LIBO9,1,2015-05-15,Hardwood,44
+Lincoln Boyhood,LIBO9,1,2019-05-18,Hardwood,18
+Pea Ridge,PERI1,1,2008-05-14,Hardwood,9.3
+Pea Ridge,PERI1,1,2012-05-21,Conifer,4.5
+Pea Ridge,PERI1,1,2012-05-21,Hardwood,10.1
+Pea Ridge,PERI1,1,2016-05-21,Hardwood,12
+Pea Ridge,PERI1,1,2016-05-21,Total,12
+Pea Ridge,PERI1,1,2021-05-19,Hardwood,20
+Pea Ridge,PERI10,1,2008-05-18,Hardwood,28.1
+Pea Ridge,PERI10,1,2012-05-23,Hardwood,34.6
+Pea Ridge,PERI10,1,2016-05-17,Hardwood,20.75
+Pea Ridge,PERI10,1,2016-05-17,Total,20.75
+Pea Ridge,PERI10,1,2021-05-17,Hardwood,26
+Pea Ridge,PERI11,1,2008-05-18,Hardwood,27.4
+Pea Ridge,PERI11,1,2012-05-23,Hardwood,12.8
+Pea Ridge,PERI11,1,2016-05-25,Hardwood,22
+Pea Ridge,PERI11,1,2016-05-25,Total,22
+Pea Ridge,PERI11,1,2021-05-22,Hardwood,20.5
+Pea Ridge,PERI12,1,2008-05-17,Hardwood,16.8
+Pea Ridge,PERI12,1,2012-05-22,Hardwood,17.5
+Pea Ridge,PERI12,1,2016-05-24,Hardwood,18
+Pea Ridge,PERI12,1,2016-05-24,Total,18
+Pea Ridge,PERI12,1,2021-05-20,Hardwood,32
+Pea Ridge,PERI13,1,2008-05-17,Hardwood,17.5
+Pea Ridge,PERI13,1,2012-05-22,Hardwood,24.7
+Pea Ridge,PERI13,1,2016-05-24,Hardwood,22
+Pea Ridge,PERI13,1,2016-05-24,Total,22
+Pea Ridge,PERI13,1,2021-05-20,Hardwood,27.5
+Pea Ridge,PERI14,1,2012-05-21,Conifer,5.9
+Pea Ridge,PERI14,1,2016-05-23,Hardwood,2
+Pea Ridge,PERI14,1,2016-05-23,Total,2
+Pea Ridge,PERI15,1,2008-05-14,Hardwood,15.7
+Pea Ridge,PERI15,1,2012-05-18,Hardwood,15.7
+Pea Ridge,PERI15,1,2016-05-21,Hardwood,19
+Pea Ridge,PERI15,1,2016-05-21,Total,19
+Pea Ridge,PERI15,1,2021-05-17,Hardwood,17.25
+Pea Ridge,PERI16,1,2008-05-14,Hardwood,16.3
+Pea Ridge,PERI16,1,2012-05-18,Hardwood,12.9
+Pea Ridge,PERI16,1,2016-05-17,Hardwood,20
+Pea Ridge,PERI16,1,2016-05-17,Total,20
+Pea Ridge,PERI16,1,2021-05-19,Hardwood,24.25
+Pea Ridge,PERI17,1,2008-05-14,Conifer,4.5
+Pea Ridge,PERI17,1,2008-05-14,Hardwood,6
+Pea Ridge,PERI17,1,2012-05-23,Conifer,7.8
+Pea Ridge,PERI17,1,2012-05-23,Hardwood,8.5
+Pea Ridge,PERI17,1,2016-05-17,Hardwood,12.25
+Pea Ridge,PERI17,1,2016-05-17,Conifer,9.25
+Pea Ridge,PERI17,1,2016-05-17,Total,12.25
+Pea Ridge,PERI17,1,2021-05-17,Hardwood,15.5
+Pea Ridge,PERI18,1,2008-05-18,Hardwood,16.3
+Pea Ridge,PERI18,1,2012-05-23,Hardwood,11.1
+Pea Ridge,PERI18,1,2016-05-17,Hardwood,17.5
+Pea Ridge,PERI18,1,2016-05-17,Total,17.5
+Pea Ridge,PERI18,1,2021-05-17,Hardwood,15.5
+Pea Ridge,PERI19,1,2008-05-18,Hardwood,21.2
+Pea Ridge,PERI19,1,2012-05-23,Hardwood,17.2
+Pea Ridge,PERI19,1,2016-05-17,Hardwood,12
+Pea Ridge,PERI19,1,2016-05-17,Total,12
+Pea Ridge,PERI19,1,2021-05-22,Hardwood,19.5
+Pea Ridge,PERI2,1,2008-05-14,Hardwood,22.3
+Pea Ridge,PERI2,1,2012-05-18,Hardwood,20.5
+Pea Ridge,PERI2,1,2016-05-17,Hardwood,20
+Pea Ridge,PERI2,1,2016-05-17,Total,20
+Pea Ridge,PERI2,1,2021-05-17,Hardwood,20.25
+Pea Ridge,PERI20,1,2008-05-17,Hardwood,29
+Pea Ridge,PERI20,1,2012-05-22,Hardwood,26.4
+Pea Ridge,PERI20,1,2016-05-24,Hardwood,28.5
+Pea Ridge,PERI20,1,2016-05-24,Total,28.5
+Pea Ridge,PERI20,1,2021-05-20,Hardwood,33
+Pea Ridge,PERI22,1,2008-05-14,Hardwood,12.3
+Pea Ridge,PERI22,1,2012-05-18,Hardwood,13
+Pea Ridge,PERI22,1,2016-05-21,Hardwood,16
+Pea Ridge,PERI22,1,2016-05-21,Total,16
+Pea Ridge,PERI22,1,2021-05-17,Hardwood,19
+Pea Ridge,PERI23,1,2008-05-14,Conifer,9.5
+Pea Ridge,PERI23,1,2008-05-14,Hardwood,8.5
+Pea Ridge,PERI23,1,2012-05-18,Hardwood,15.5
+Pea Ridge,PERI23,1,2016-05-17,Hardwood,18.5
+Pea Ridge,PERI23,1,2016-05-17,Conifer,13.5
+Pea Ridge,PERI23,1,2016-05-17,Total,18.5
+Pea Ridge,PERI23,1,2021-05-19,Hardwood,17.5
+Pea Ridge,PERI24,1,2008-05-18,Hardwood,14.3
+Pea Ridge,PERI24,1,2012-05-23,Hardwood,15.8
+Pea Ridge,PERI24,1,2016-05-17,Hardwood,16.5
+Pea Ridge,PERI24,1,2016-05-17,Total,16.5
+Pea Ridge,PERI24,1,2021-05-19,Hardwood,18.75
+Pea Ridge,PERI25,1,2008-05-18,Hardwood,18.2
+Pea Ridge,PERI25,1,2012-05-23,Hardwood,9.1
+Pea Ridge,PERI25,1,2016-05-17,Hardwood,15
+Pea Ridge,PERI25,1,2016-05-17,Total,15
+Pea Ridge,PERI25,1,2021-05-19,Hardwood,21.25
+Pea Ridge,PERI26,1,2008-05-17,Hardwood,18.3
+Pea Ridge,PERI26,1,2012-05-22,Conifer,9.3
+Pea Ridge,PERI26,1,2012-05-22,Hardwood,22.7
+Pea Ridge,PERI26,1,2016-05-25,Hardwood,19.5
+Pea Ridge,PERI26,1,2016-05-25,Total,19.5
+Pea Ridge,PERI26,1,2021-05-22,Hardwood,19
+Pea Ridge,PERI27,1,2008-05-17,Hardwood,25.9
+Pea Ridge,PERI27,1,2012-05-22,Conifer,17.8
+Pea Ridge,PERI27,1,2012-05-22,Hardwood,23
+Pea Ridge,PERI27,1,2016-05-24,Hardwood,13
+Pea Ridge,PERI27,1,2016-05-24,Conifer,15
+Pea Ridge,PERI27,1,2016-05-24,Total,15
+Pea Ridge,PERI27,1,2021-05-18,Hardwood,32
+Pea Ridge,PERI27,1,2021-05-18,Conifer,18.25
+Pea Ridge,PERI28,1,2008-05-17,Hardwood,26.4
+Pea Ridge,PERI28,1,2012-05-22,Hardwood,8.1
+Pea Ridge,PERI28,1,2016-05-24,Hardwood,26
+Pea Ridge,PERI28,1,2016-05-24,Total,26
+Pea Ridge,PERI28,1,2021-05-24,Hardwood,24
+Pea Ridge,PERI29,1,2008-05-17,Hardwood,26.2
+Pea Ridge,PERI29,1,2012-05-14,Hardwood,21.7
+Pea Ridge,PERI29,1,2016-05-24,Hardwood,24
+Pea Ridge,PERI29,1,2016-05-24,Total,24
+Pea Ridge,PERI29,1,2021-05-20,Hardwood,24.5
+Pea Ridge,PERI3,1,2008-05-14,Hardwood,34.8
+Pea Ridge,PERI3,1,2012-05-23,Hardwood,27.7
+Pea Ridge,PERI3,1,2016-05-17,Hardwood,34
+Pea Ridge,PERI3,1,2016-05-17,Total,34
+Pea Ridge,PERI3,1,2021-05-17,Hardwood,27
+Pea Ridge,PERI30,1,2016-05-21,Total,0
+Pea Ridge,PERI30,1,2021-05-19,Hardwood,5.5
+Pea Ridge,PERI31,1,2008-05-14,Hardwood,11
+Pea Ridge,PERI31,1,2012-05-18,Hardwood,10.2
+Pea Ridge,PERI31,1,2021-05-20,Hardwood,18.5
+Pea Ridge,PERI32,1,2008-05-14,Hardwood,19.1
+Pea Ridge,PERI32,1,2012-05-18,Hardwood,16.5
+Pea Ridge,PERI32,1,2016-05-21,Hardwood,16
+Pea Ridge,PERI32,1,2016-05-21,Total,16
+Pea Ridge,PERI32,1,2021-05-17,Hardwood,18.75
+Pea Ridge,PERI33,1,2008-05-15,Hardwood,19.7
+Pea Ridge,PERI33,1,2012-05-18,Hardwood,16.8
+Pea Ridge,PERI33,1,2016-05-17,Hardwood,20
+Pea Ridge,PERI33,1,2016-05-17,Total,20
+Pea Ridge,PERI33,1,2021-05-19,Hardwood,21
+Pea Ridge,PERI34,1,2008-05-18,Conifer,8.6
+Pea Ridge,PERI34,1,2008-05-18,Hardwood,12.5
+Pea Ridge,PERI34,1,2012-05-23,Conifer,9.5
+Pea Ridge,PERI34,1,2012-05-23,Hardwood,18.7
+Pea Ridge,PERI34,1,2016-05-17,Hardwood,16.5
+Pea Ridge,PERI34,1,2016-05-17,Conifer,9.5
+Pea Ridge,PERI34,1,2016-05-17,Total,16.5
+Pea Ridge,PERI34,1,2021-05-24,Hardwood,17.25
+Pea Ridge,PERI35,1,2008-05-16,Hardwood,10.8
+Pea Ridge,PERI35,1,2012-05-22,Hardwood,13.5
+Pea Ridge,PERI35,1,2016-05-17,Hardwood,10.5
+Pea Ridge,PERI35,1,2016-05-17,Total,10.5
+Pea Ridge,PERI35,1,2021-05-20,Hardwood,16.25
+Pea Ridge,PERI35,1,2021-05-20,Conifer,3.25
+Pea Ridge,PERI36,1,2008-05-17,Hardwood,12.2
+Pea Ridge,PERI36,1,2012-05-22,Hardwood,14.5
+Pea Ridge,PERI36,1,2016-05-24,Hardwood,15.5
+Pea Ridge,PERI36,1,2016-05-24,Total,15.5
+Pea Ridge,PERI36,1,2021-05-18,Hardwood,16
+Pea Ridge,PERI37,1,2008-05-17,Hardwood,17.9
+Pea Ridge,PERI37,1,2012-05-22,Hardwood,11.1
+Pea Ridge,PERI37,1,2016-05-24,Hardwood,27
+Pea Ridge,PERI37,1,2016-05-24,Total,27
+Pea Ridge,PERI37,1,2021-05-18,Hardwood,19.75
+Pea Ridge,PERI38,1,2008-05-17,Hardwood,23
+Pea Ridge,PERI38,1,2012-05-17,Hardwood,24.2
+Pea Ridge,PERI38,1,2016-05-24,Hardwood,27.5
+Pea Ridge,PERI38,1,2016-05-24,Total,27.5
+Pea Ridge,PERI38,1,2021-05-24,Hardwood,23
+Pea Ridge,PERI39,1,2008-05-17,Hardwood,22
+Pea Ridge,PERI39,1,2012-05-17,Hardwood,13.2
+Pea Ridge,PERI39,1,2016-05-24,Hardwood,21
+Pea Ridge,PERI39,1,2016-05-24,Total,21
+Pea Ridge,PERI39,1,2021-05-20,Hardwood,21
+Pea Ridge,PERI4,1,2008-05-18,Hardwood,18.8
+Pea Ridge,PERI4,1,2012-05-23,Hardwood,19.4
+Pea Ridge,PERI4,1,2016-05-17,Hardwood,22.25
+Pea Ridge,PERI4,1,2016-05-17,Total,22.25
+Pea Ridge,PERI4,1,2021-05-17,Hardwood,13.75
+Pea Ridge,PERI4,1,2021-05-17,Conifer,2.5
+Pea Ridge,PERI40,1,2016-05-23,Total,0
+Pea Ridge,PERI41,1,2008-05-14,Hardwood,8.9
+Pea Ridge,PERI41,1,2012-05-18,Conifer,10.5
+Pea Ridge,PERI41,1,2016-05-21,Hardwood,15.5
+Pea Ridge,PERI41,1,2016-05-21,Conifer,10.5
+Pea Ridge,PERI41,1,2016-05-21,Total,15.5
+Pea Ridge,PERI41,1,2021-05-20,Hardwood,14.5
+Pea Ridge,PERI42,1,2008-05-15,Hardwood,14.1
+Pea Ridge,PERI42,1,2012-05-18,Hardwood,1
+Pea Ridge,PERI42,1,2016-05-21,Hardwood,19.5
+Pea Ridge,PERI42,1,2016-05-21,Conifer,13
+Pea Ridge,PERI42,1,2016-05-21,Total,19.5
+Pea Ridge,PERI42,1,2021-05-17,Hardwood,14.75
+Pea Ridge,PERI42,1,2021-05-17,Conifer,20
+Pea Ridge,PERI43,1,2008-05-15,Conifer,9.2
+Pea Ridge,PERI43,1,2008-05-15,Hardwood,5.7
+Pea Ridge,PERI43,1,2012-05-15,Conifer,9.6
+Pea Ridge,PERI43,1,2016-05-17,Hardwood,11
+Pea Ridge,PERI43,1,2016-05-17,Conifer,16
+Pea Ridge,PERI43,1,2016-05-17,Total,16
+Pea Ridge,PERI44,1,2008-05-16,Conifer,11.9
+Pea Ridge,PERI44,1,2008-05-16,Hardwood,13
+Pea Ridge,PERI44,1,2012-05-22,Conifer,12.2
+Pea Ridge,PERI44,1,2012-05-22,Hardwood,14.5
+Pea Ridge,PERI44,1,2016-05-17,Hardwood,8.5
+Pea Ridge,PERI44,1,2016-05-17,Total,8.5
+Pea Ridge,PERI44,1,2021-05-22,Hardwood,21.5
+Pea Ridge,PERI45,1,2008-05-16,Conifer,6.8
+Pea Ridge,PERI45,1,2008-05-16,Hardwood,18.6
+Pea Ridge,PERI45,1,2012-05-22,Conifer,7.5
+Pea Ridge,PERI45,1,2012-05-22,Hardwood,26
+Pea Ridge,PERI45,1,2016-05-24,Hardwood,17.5
+Pea Ridge,PERI45,1,2016-05-24,Conifer,8.5
+Pea Ridge,PERI45,1,2016-05-24,Total,17.5
+Pea Ridge,PERI45,1,2021-05-18,Hardwood,15.25
+Pea Ridge,PERI45,1,2021-05-18,Conifer,8.25
+Pea Ridge,PERI46,1,2008-05-17,Hardwood,15.1
+Pea Ridge,PERI46,1,2012-05-22,Hardwood,20.7
+Pea Ridge,PERI46,1,2016-05-24,Hardwood,13.75
+Pea Ridge,PERI46,1,2016-05-24,Total,13.75
+Pea Ridge,PERI46,1,2021-05-18,Hardwood,21.5
+Pea Ridge,PERI47,1,2008-05-17,Hardwood,29.7
+Pea Ridge,PERI47,1,2012-05-17,Hardwood,28.2
+Pea Ridge,PERI47,1,2016-05-24,Hardwood,25
+Pea Ridge,PERI47,1,2016-05-24,Total,25
+Pea Ridge,PERI47,1,2021-05-24,Hardwood,27.5
+Pea Ridge,PERI48,1,2008-05-17,Hardwood,24.5
+Pea Ridge,PERI48,1,2012-05-17,Hardwood,11
+Pea Ridge,PERI48,1,2016-05-24,Hardwood,21.5
+Pea Ridge,PERI48,1,2016-05-24,Total,21.5
+Pea Ridge,PERI48,1,2021-05-24,Hardwood,33.5
+Pea Ridge,PERI49,1,2016-05-23,Total,0
+Pea Ridge,PERI5,1,2008-05-14,Conifer,9
+Pea Ridge,PERI5,1,2012-05-21,Conifer,10.5
+Pea Ridge,PERI5,1,2016-05-21,Hardwood,19.5
+Pea Ridge,PERI5,1,2016-05-21,Total,19.5
+Pea Ridge,PERI5,1,2021-05-18,Hardwood,21
+Pea Ridge,PERI50,1,2016-05-23,Total,0
+Pea Ridge,PERI51,1,2008-05-15,Conifer,11.6
+Pea Ridge,PERI51,1,2008-05-15,Hardwood,17
+Pea Ridge,PERI51,1,2012-05-18,Hardwood,19.4
+Pea Ridge,PERI51,1,2016-05-16,Hardwood,13
+Pea Ridge,PERI51,1,2016-05-16,Conifer,11.5
+Pea Ridge,PERI51,1,2016-05-16,Total,13
+Pea Ridge,PERI51,1,2016-05-21,Hardwood,17
+Pea Ridge,PERI51,1,2016-05-21,Conifer,10
+Pea Ridge,PERI51,1,2016-05-21,Total,17
+Pea Ridge,PERI51,1,2021-05-22,Hardwood,16.25
+Pea Ridge,PERI52,1,2008-05-15,Hardwood,14.5
+Pea Ridge,PERI52,1,2012-05-15,Hardwood,16.3
+Pea Ridge,PERI52,1,2016-05-16,Hardwood,18
+Pea Ridge,PERI52,1,2016-05-16,Total,18
+Pea Ridge,PERI52,1,2021-05-22,Hardwood,23.5
+Pea Ridge,PERI53,1,2008-05-16,Conifer,14.7
+Pea Ridge,PERI53,1,2008-05-16,Hardwood,5.3
+Pea Ridge,PERI53,1,2012-05-15,Conifer,17
+Pea Ridge,PERI53,1,2016-05-17,Hardwood,4.5
+Pea Ridge,PERI53,1,2016-05-17,Conifer,13
+Pea Ridge,PERI53,1,2016-05-17,Total,13
+Pea Ridge,PERI53,1,2021-05-22,Hardwood,21.25
+Pea Ridge,PERI54,1,2016-05-23,Total,0
+Pea Ridge,PERI55,1,2008-05-16,Conifer,8.5
+Pea Ridge,PERI55,1,2008-05-16,Hardwood,12.2
+Pea Ridge,PERI55,1,2012-05-23,Conifer,7.2
+Pea Ridge,PERI55,1,2012-05-23,Hardwood,13.7
+Pea Ridge,PERI55,1,2016-05-24,Hardwood,15.5
+Pea Ridge,PERI55,1,2016-05-24,Conifer,7.5
+Pea Ridge,PERI55,1,2016-05-24,Total,15.5
+Pea Ridge,PERI55,1,2021-05-18,Hardwood,17.25
+Pea Ridge,PERI55,1,2021-05-18,Conifer,8.75
+Pea Ridge,PERI56,1,2008-05-12,Hardwood,24.5
+Pea Ridge,PERI56,1,2012-05-17,Hardwood,10.9
+Pea Ridge,PERI56,1,2016-05-24,Hardwood,16.5
+Pea Ridge,PERI56,1,2016-05-24,Total,16.5
+Pea Ridge,PERI56,1,2021-05-19,Hardwood,21
+Pea Ridge,PERI57,1,2008-05-18,Hardwood,22.2
+Pea Ridge,PERI57,1,2012-05-17,Hardwood,25.2
+Pea Ridge,PERI57,1,2016-05-24,Hardwood,20
+Pea Ridge,PERI57,1,2016-05-24,Total,20
+Pea Ridge,PERI57,1,2021-05-24,Hardwood,23.5
+Pea Ridge,PERI58,1,2008-05-17,Hardwood,28.2
+Pea Ridge,PERI58,1,2012-05-17,Hardwood,18.6
+Pea Ridge,PERI58,1,2016-05-24,Hardwood,28
+Pea Ridge,PERI58,1,2016-05-24,Total,28
+Pea Ridge,PERI58,1,2021-05-20,Hardwood,30
+Pea Ridge,PERI59,1,2016-05-23,Total,0
+Pea Ridge,PERI59,1,2021-05-19,Hardwood,22.5
+Pea Ridge,PERI6,1,2008-05-14,Hardwood,14.5
+Pea Ridge,PERI6,1,2012-05-18,Hardwood,16
+Pea Ridge,PERI6,1,2016-05-21,Hardwood,14
+Pea Ridge,PERI6,1,2016-05-21,Total,14
+Pea Ridge,PERI6,1,2021-05-17,Hardwood,14.5
+Pea Ridge,PERI60,1,2008-05-15,Conifer,6.6
+Pea Ridge,PERI60,1,2008-05-15,Hardwood,15.8
+Pea Ridge,PERI60,1,2012-05-16,Hardwood,17.4
+Pea Ridge,PERI60,1,2016-05-16,Hardwood,24
+Pea Ridge,PERI60,1,2016-05-16,Total,24
+Pea Ridge,PERI60,1,2021-05-20,Hardwood,22
+Pea Ridge,PERI61,1,2008-05-15,Hardwood,17.3
+Pea Ridge,PERI61,1,2012-05-15,Hardwood,8
+Pea Ridge,PERI61,1,2016-05-16,Hardwood,26.5
+Pea Ridge,PERI61,1,2016-05-16,Conifer,12.5
+Pea Ridge,PERI61,1,2016-05-16,Total,26.5
+Pea Ridge,PERI61,1,2021-05-22,Hardwood,25
+Pea Ridge,PERI62,1,2008-05-16,Hardwood,20
+Pea Ridge,PERI62,1,2012-05-15,Hardwood,27.3
+Pea Ridge,PERI62,1,2016-05-25,Hardwood,28
+Pea Ridge,PERI62,1,2016-05-25,Conifer,11
+Pea Ridge,PERI62,1,2016-05-25,Total,28
+Pea Ridge,PERI62,1,2021-05-22,Hardwood,24.5
+Pea Ridge,PERI63,1,2016-05-23,Total,0
+Pea Ridge,PERI64,1,2016-05-23,Total,0
+Pea Ridge,PERI65,1,2008-05-12,Hardwood,12.1
+Pea Ridge,PERI65,1,2012-05-17,Conifer,11.5
+Pea Ridge,PERI65,1,2016-05-24,Hardwood,12
+Pea Ridge,PERI65,1,2016-05-24,Conifer,13.5
+Pea Ridge,PERI65,1,2016-05-24,Total,13.5
+Pea Ridge,PERI65,1,2021-05-19,Hardwood,22.5
+Pea Ridge,PERI65,1,2021-05-19,Conifer,13.25
+Pea Ridge,PERI66,1,2016-05-24,Hardwood,19
+Pea Ridge,PERI66,1,2016-05-24,Total,19
+Pea Ridge,PERI66,1,2021-05-19,Hardwood,24.75
+Pea Ridge,PERI67,1,2008-05-18,Hardwood,27.5
+Pea Ridge,PERI67,1,2012-05-17,Hardwood,21.1
+Pea Ridge,PERI67,1,2016-05-24,Hardwood,21.5
+Pea Ridge,PERI67,1,2016-05-24,Total,21.5
+Pea Ridge,PERI67,1,2021-05-24,Hardwood,23
+Pea Ridge,PERI68,1,2008-05-13,Conifer,11.5
+Pea Ridge,PERI68,1,2008-05-13,Hardwood,7.3
+Pea Ridge,PERI68,1,2012-05-16,Conifer,12.8
+Pea Ridge,PERI68,1,2016-05-24,Hardwood,16.75
+Pea Ridge,PERI68,1,2016-05-24,Total,16.75
+Pea Ridge,PERI69,1,2016-05-23,Hardwood,2.25
+Pea Ridge,PERI69,1,2016-05-23,Total,2.25
+Pea Ridge,PERI7,1,2008-05-14,Hardwood,20.9
+Pea Ridge,PERI7,1,2012-05-18,Hardwood,27.2
+Pea Ridge,PERI7,1,2016-05-17,Hardwood,23.5
+Pea Ridge,PERI7,1,2016-05-17,Total,23.5
+Pea Ridge,PERI7,1,2021-05-17,Hardwood,18
+Pea Ridge,PERI70,1,2008-05-15,Hardwood,19.2
+Pea Ridge,PERI70,1,2012-05-15,Hardwood,29.9
+Pea Ridge,PERI70,1,2016-05-16,Hardwood,24.5
+Pea Ridge,PERI70,1,2016-05-16,Total,24.5
+Pea Ridge,PERI70,1,2021-05-22,Hardwood,26.25
+Pea Ridge,PERI71,1,2008-05-16,Conifer,12.9
+Pea Ridge,PERI71,1,2008-05-16,Hardwood,8.8
+Pea Ridge,PERI71,1,2012-05-15,Conifer,10.6
+Pea Ridge,PERI71,1,2016-05-25,Hardwood,18
+Pea Ridge,PERI71,1,2016-05-25,Conifer,11
+Pea Ridge,PERI71,1,2016-05-25,Total,18
+Pea Ridge,PERI71,1,2021-05-22,Hardwood,25
+Pea Ridge,PERI72,1,2008-05-16,Conifer,12.3
+Pea Ridge,PERI72,1,2008-05-16,Hardwood,20.1
+Pea Ridge,PERI72,1,2012-05-15,Hardwood,17
+Pea Ridge,PERI72,1,2016-05-23,Hardwood,21
+Pea Ridge,PERI72,1,2016-05-23,Conifer,13.5
+Pea Ridge,PERI72,1,2016-05-23,Total,21
+Pea Ridge,PERI72,1,2021-05-18,Hardwood,22.5
+Pea Ridge,PERI73,1,2016-05-23,Total,0
+Pea Ridge,PERI74,1,2012-05-14,Hardwood,20.6
+Pea Ridge,PERI74,1,2016-05-23,Total,0
+Pea Ridge,PERI74,1,2021-05-19,Hardwood,23.5
+Pea Ridge,PERI75,1,2008-05-12,Hardwood,14.5
+Pea Ridge,PERI75,1,2012-05-14,Hardwood,11.4
+Pea Ridge,PERI75,1,2016-05-24,Hardwood,14
+Pea Ridge,PERI75,1,2016-05-24,Total,14
+Pea Ridge,PERI75,1,2021-05-24,Hardwood,20.5
+Pea Ridge,PERI76,1,2008-05-12,Hardwood,12.3
+Pea Ridge,PERI76,1,2012-05-17,Hardwood,13.4
+Pea Ridge,PERI76,1,2016-05-24,Hardwood,19.5
+Pea Ridge,PERI76,1,2016-05-24,Total,19.5
+Pea Ridge,PERI76,1,2021-05-24,Hardwood,17.25
+Pea Ridge,PERI77,1,2008-05-18,Conifer,5.5
+Pea Ridge,PERI77,1,2008-05-18,Hardwood,20.7
+Pea Ridge,PERI77,1,2012-05-17,Hardwood,6.8
+Pea Ridge,PERI77,1,2016-05-24,Hardwood,26
+Pea Ridge,PERI77,1,2016-05-24,Conifer,5.5
+Pea Ridge,PERI77,1,2016-05-24,Total,26
+Pea Ridge,PERI77,1,2021-05-20,Hardwood,20.5
+Pea Ridge,PERI78,1,2016-05-24,Total,0
+Pea Ridge,PERI78,1,2021-05-19,Hardwood,19
+Pea Ridge,PERI8,1,2008-05-14,Hardwood,14.2
+Pea Ridge,PERI8,1,2012-05-23,Hardwood,13.6
+Pea Ridge,PERI8,1,2016-05-17,Hardwood,18.75
+Pea Ridge,PERI8,1,2016-05-17,Total,18.75
+Pea Ridge,PERI8,1,2021-05-17,Hardwood,27.5
+Pea Ridge,PERI80,1,2008-05-13,Hardwood,10.1
+Pea Ridge,PERI80,1,2012-05-15,Hardwood,13
+Pea Ridge,PERI80,1,2016-05-23,Hardwood,8.5
+Pea Ridge,PERI80,1,2016-05-23,Total,8.5
+Pea Ridge,PERI80,1,2021-05-20,Hardwood,22.25
+Pea Ridge,PERI81,1,2008-05-16,Hardwood,21.4
+Pea Ridge,PERI81,1,2012-05-15,Hardwood,23.9
+Pea Ridge,PERI81,1,2016-05-25,Hardwood,23
+Pea Ridge,PERI81,1,2016-05-25,Total,23
+Pea Ridge,PERI81,1,2021-05-22,Hardwood,22
+Pea Ridge,PERI82,1,2016-05-23,Total,0
+Pea Ridge,PERI83,1,2016-05-23,Total,0
+Pea Ridge,PERI84,1,2008-05-12,Hardwood,11.9
+Pea Ridge,PERI84,1,2012-05-14,Hardwood,17.3
+Pea Ridge,PERI84,1,2016-05-23,Hardwood,13
+Pea Ridge,PERI84,1,2016-05-23,Total,13
+Pea Ridge,PERI84,1,2021-05-22,Hardwood,16
+Pea Ridge,PERI84,1,2021-05-22,Conifer,7.5
+Pea Ridge,PERI85,1,2016-05-23,Total,0
+Pea Ridge,PERI86,1,2008-05-13,Hardwood,11.7
+Pea Ridge,PERI86,1,2012-05-16,Hardwood,10.6
+Pea Ridge,PERI86,1,2016-05-23,Hardwood,15
+Pea Ridge,PERI86,1,2016-05-23,Total,15
+Pea Ridge,PERI86,1,2021-05-19,Hardwood,7.75
+Pea Ridge,PERI86,1,2021-05-19,Conifer,1.5
+Pea Ridge,PERI87,1,2008-05-13,Hardwood,21.9
+Pea Ridge,PERI87,1,2012-05-16,Hardwood,27
+Pea Ridge,PERI87,1,2016-05-23,Hardwood,29.5
+Pea Ridge,PERI87,1,2016-05-23,Total,29.5
+Pea Ridge,PERI87,1,2021-05-20,Hardwood,25.5
+Pea Ridge,PERI88,1,2008-05-13,Hardwood,22.8
+Pea Ridge,PERI88,1,2012-05-15,Hardwood,15.8
+Pea Ridge,PERI88,1,2016-05-25,Hardwood,19.5
+Pea Ridge,PERI88,1,2016-05-25,Conifer,17
+Pea Ridge,PERI88,1,2016-05-25,Total,19.5
+Pea Ridge,PERI88,1,2021-05-22,Hardwood,22.75
+Pea Ridge,PERI89,1,2008-05-16,Hardwood,15.6
+Pea Ridge,PERI89,1,2012-05-15,Hardwood,15.2
+Pea Ridge,PERI89,1,2016-05-23,Hardwood,16
+Pea Ridge,PERI89,1,2016-05-23,Total,16
+Pea Ridge,PERI89,1,2021-05-18,Hardwood,17
+Pea Ridge,PERI9,1,2008-05-18,Hardwood,27.7
+Pea Ridge,PERI9,1,2012-05-23,Hardwood,19.9
+Pea Ridge,PERI9,1,2016-05-17,Hardwood,32
+Pea Ridge,PERI9,1,2016-05-17,Total,32
+Pea Ridge,PERI9,1,2021-05-17,Hardwood,28
+Pea Ridge,PERI90,1,2016-05-23,Total,0
+Pea Ridge,PERI91,1,2012-05-14,Hardwood,22
+Pea Ridge,PERI91,1,2016-05-23,Total,0
+Pea Ridge,PERI92,1,2008-05-13,Hardwood,5.7
+Pea Ridge,PERI92,1,2012-05-16,Hardwood,14.1
+Pea Ridge,PERI92,1,2016-05-23,Hardwood,19
+Pea Ridge,PERI92,1,2016-05-23,Total,19
+Pea Ridge,PERI92,1,2021-05-19,Hardwood,23.5
+Pea Ridge,PERI93,1,2008-05-13,Hardwood,18.3
+Pea Ridge,PERI93,1,2012-05-16,Hardwood,14
+Pea Ridge,PERI93,1,2016-05-23,Hardwood,15.25
+Pea Ridge,PERI93,1,2016-05-23,Total,15.25
+Pea Ridge,PERI93,1,2021-05-20,Hardwood,25.5
+Pea Ridge,PERI94,1,2008-05-13,Hardwood,31.1
+Pea Ridge,PERI94,1,2012-05-15,Hardwood,30.6
+Pea Ridge,PERI94,1,2016-05-23,Hardwood,39.75
+Pea Ridge,PERI94,1,2016-05-23,Total,39.75
+Pea Ridge,PERI94,1,2021-05-18,Hardwood,32.5
+Pea Ridge,PERI95,1,2008-05-13,Hardwood,13.8
+Pea Ridge,PERI95,1,2012-05-14,Hardwood,18
+Pea Ridge,PERI95,1,2016-05-16,Hardwood,24
+Pea Ridge,PERI95,1,2016-05-16,Total,24
+Pea Ridge,PERI95,1,2021-05-18,Hardwood,26.5
+Pea Ridge,PERI96,1,2008-05-13,Conifer,14.4
+Pea Ridge,PERI96,1,2012-05-16,Hardwood,11.2
+Pea Ridge,PERI96,1,2016-05-23,Hardwood,12
+Pea Ridge,PERI96,1,2016-05-23,Total,12
+Pea Ridge,PERI96,1,2021-05-18,Hardwood,22.7
+Pea Ridge,PERI96,1,2021-05-18,Conifer,11.25
+Pea Ridge,PERI97,1,2008-05-13,Hardwood,30.7
+Pea Ridge,PERI97,1,2012-05-16,Hardwood,28.4
+Pea Ridge,PERI97,1,2016-05-23,Hardwood,33
+Pea Ridge,PERI97,1,2016-05-23,Total,33
+Pea Ridge,PERI97,1,2021-05-18,Hardwood,27.5
+Pea Ridge,PERI98,1,2008-05-16,Hardwood,23.9
+Pea Ridge,PERI98,1,2012-05-21,Hardwood,16.7
+Pea Ridge,PERI98,1,2016-05-25,Hardwood,22
+Pea Ridge,PERI98,1,2016-05-25,Total,22
+Pea Ridge,PERI98,1,2021-05-22,Hardwood,26
+Pea Ridge,PERI99,1,2008-05-16,Hardwood,25.7
+Pea Ridge,PERI99,1,2012-05-21,Hardwood,23.2
+Pea Ridge,PERI99,1,2016-05-25,Hardwood,23
+Pea Ridge,PERI99,1,2016-05-25,Total,23
+Pea Ridge,PERI99,1,2021-05-22,Hardwood,24.5
+Pipestone,PIPE1,1,2017-05-26,Total,0
+Pipestone,PIPE10,1,2017-05-26,Total,0
+Pipestone,PIPE11,1,2017-05-26,Total,0
+Pipestone,PIPE12,1,2017-05-26,Total,0
+Pipestone,PIPE13,1,2017-05-26,Total,0
+Pipestone,PIPE14,1,2017-05-26,Total,0
+Pipestone,PIPE15,1,2017-05-26,Total,0
+Pipestone,PIPE16,1,2017-05-26,Total,0
+Pipestone,PIPE17,1,2017-05-26,Total,0
+Pipestone,PIPE18,1,2017-05-26,Hardwood,2
+Pipestone,PIPE18,1,2017-05-26,Total,2
+Pipestone,PIPE18,1,2022-05-23,Hardwood,3.3
+Pipestone,PIPE19,1,2017-05-26,Hardwood,2
+Pipestone,PIPE19,1,2017-05-26,Total,2
+Pipestone,PIPE19,1,2022-05-23,Hardwood,10.6
+Pipestone,PIPE2,1,2017-05-26,Total,0
+Pipestone,PIPE20,1,2017-05-26,Total,0
+Pipestone,PIPE21,1,2009-05-15,Hardwood,8.8
+Pipestone,PIPE21,1,2017-05-26,Hardwood,11
+Pipestone,PIPE21,1,2017-05-26,Total,11
+Pipestone,PIPE21,1,2022-05-24,Hardwood,10.9
+Pipestone,PIPE22,1,2017-05-26,Hardwood,4
+Pipestone,PIPE22,1,2017-05-26,Total,4
+Pipestone,PIPE23,1,2017-05-26,Total,0
+Pipestone,PIPE24,1,2017-05-26,Total,0
+Pipestone,PIPE25,1,2009-05-14,Hardwood,5.7
+Pipestone,PIPE25,1,2017-05-26,Total,0
+Pipestone,PIPE25,1,2022-05-23,Hardwood,5.3
+Pipestone,PIPE26,1,2017-05-26,Total,0
+Pipestone,PIPE27,1,2009-05-15,Hardwood,7.6
+Pipestone,PIPE27,1,2013-05-15,Hardwood,10.5
+Pipestone,PIPE27,1,2017-05-26,Hardwood,18
+Pipestone,PIPE27,1,2017-05-26,Total,18
+Pipestone,PIPE27,1,2022-05-24,Hardwood,13.7
+Pipestone,PIPE28,1,2009-05-16,Hardwood,14.1
+Pipestone,PIPE28,1,2017-05-26,Hardwood,12
+Pipestone,PIPE28,1,2017-05-26,Total,12
+Pipestone,PIPE28,1,2022-05-24,Hardwood,17.3
+Pipestone,PIPE29,1,2017-05-26,Hardwood,11
+Pipestone,PIPE29,1,2017-05-26,Total,11
+Pipestone,PIPE29,1,2022-05-23,Hardwood,8.6
+Pipestone,PIPE3,1,2017-05-26,Total,0
+Pipestone,PIPE3,1,2022-05-23,Hardwood,8.4
+Pipestone,PIPE30,1,2017-05-26,Total,0
+Pipestone,PIPE31,1,2017-05-26,Total,0
+Pipestone,PIPE32,1,2017-05-26,Total,0
+Pipestone,PIPE33,1,2017-05-26,Total,0
+Pipestone,PIPE33,1,2022-05-23,Hardwood,16.9
+Pipestone,PIPE34,1,2009-05-14,Hardwood,11.4
+Pipestone,PIPE34,1,2017-05-26,Total,0
+Pipestone,PIPE34,1,2022-05-23,Hardwood,14.3
+Pipestone,PIPE35,1,2017-05-26,Total,0
+Pipestone,PIPE36,1,2017-05-26,Total,0
+Pipestone,PIPE37,1,2017-05-26,Total,0
+Pipestone,PIPE38,1,2017-05-26,Total,0
+Pipestone,PIPE39,1,2009-05-14,Hardwood,11.1
+Pipestone,PIPE39,1,2017-05-26,Hardwood,13
+Pipestone,PIPE39,1,2017-05-26,Total,13
+Pipestone,PIPE39,1,2022-05-24,Hardwood,10.4
+Pipestone,PIPE4,1,2009-05-15,Hardwood,7.7
+Pipestone,PIPE4,1,2017-05-26,Hardwood,9
+Pipestone,PIPE4,1,2017-05-26,Total,9
+Pipestone,PIPE4,1,2022-05-23,Hardwood,12.3
+Pipestone,PIPE40,1,2009-05-14,Hardwood,6.1
+Pipestone,PIPE40,1,2013-05-15,Hardwood,10.5
+Pipestone,PIPE40,1,2017-05-26,Hardwood,7
+Pipestone,PIPE40,1,2017-05-26,Total,7
+Pipestone,PIPE40,1,2022-05-24,Hardwood,12.7
+Pipestone,PIPE41,1,2017-05-26,Total,0
+Pipestone,PIPE42,1,2017-05-26,Total,0
+Pipestone,PIPE43,1,2017-05-26,Total,0
+Pipestone,PIPE44,1,2017-05-26,Total,0
+Pipestone,PIPE45,1,2017-05-26,Total,1
+Pipestone,PIPE46,1,2017-05-26,Total,0
+Pipestone,PIPE47,1,2017-05-26,Total,0
+Pipestone,PIPE48,1,2017-05-26,Total,0
+Pipestone,PIPE49,1,2017-05-26,Total,0
+Pipestone,PIPE49,1,2022-05-23,Hardwood,6.1
+Pipestone,PIPE5,1,2017-05-26,Total,0
+Pipestone,PIPE50,1,2017-05-26,Total,0
+Pipestone,PIPE51,1,2017-05-26,Total,0
+Pipestone,PIPE52,1,2017-05-26,Total,0
+Pipestone,PIPE53,1,2017-05-26,Total,0
+Pipestone,PIPE54,1,2017-05-26,Total,0
+Pipestone,PIPE55,1,2017-05-26,Total,0
+Pipestone,PIPE56,1,2017-05-26,Total,0
+Pipestone,PIPE57,1,2017-05-26,Total,0
+Pipestone,PIPE58,1,2009-05-14,Hardwood,7.8
+Pipestone,PIPE58,1,2013-05-15,Hardwood,8
+Pipestone,PIPE58,1,2017-05-26,Hardwood,8
+Pipestone,PIPE58,1,2017-05-26,Total,8
+Pipestone,PIPE58,1,2022-05-23,Hardwood,7.3
+Pipestone,PIPE59,1,2017-05-26,Total,0
+Pipestone,PIPE6,1,2017-05-26,Total,0
+Pipestone,PIPE60,1,2017-05-26,Total,0
+Pipestone,PIPE61,1,2017-05-26,Total,0
+Pipestone,PIPE62,1,2017-05-26,Total,0
+Pipestone,PIPE63,1,2017-05-26,Total,0
+Pipestone,PIPE64,1,2017-05-26,Total,0
+Pipestone,PIPE65,1,2017-05-26,Total,0
+Pipestone,PIPE66,1,2017-05-26,Total,0
+Pipestone,PIPE67,1,2017-05-26,Total,0
+Pipestone,PIPE68,1,2017-05-26,Total,0
+Pipestone,PIPE7,1,2017-05-26,Total,0
+Pipestone,PIPE7,1,2022-05-23,Hardwood,7.3
+Pipestone,PIPE8,1,2017-05-26,Total,0
+Pipestone,PIPE9,1,2009-05-15,Hardwood,13
+Pipestone,PIPE9,1,2017-05-26,Hardwood,12
+Pipestone,PIPE9,1,2017-05-26,Total,12
+Pipestone,PIPE9,1,2022-05-23,Hardwood,12
+Tallgrass Prairie,TAPR139,2,2001-06-08,Hardwood,6
+Tallgrass Prairie,TAPR139,2,2002-06-13,Hardwood,7.5
+Tallgrass Prairie,TAPR155,1,2004-05-14,Hardwood,8
+Tallgrass Prairie,TAPR159,1,2001-05-25,Hardwood,27
+Tallgrass Prairie,TAPR159,1,2002-05-30,Hardwood,26
+Tallgrass Prairie,TAPR159,1,2004-05-25,Hardwood,34
+Tallgrass Prairie,TAPR159,1,2005-05-19,Hardwood,23
+Tallgrass Prairie,TAPR159,1,2006-05-20,Hardwood,21
+Tallgrass Prairie,TAPR159,1,2007-05-21,Hardwood,25
+Tallgrass Prairie,TAPR159,1,2008-06-04,Hardwood,29.1
+Tallgrass Prairie,TAPR159,1,2010-05-22,Hardwood,24
+Tallgrass Prairie,TAPR159,1,2014-05-20,Hardwood,22
+Tallgrass Prairie,TAPR159,1,2018-05-25,Hardwood,16
+Tallgrass Prairie,TAPR159,3,2001-05-25,Hardwood,15
+Tallgrass Prairie,TAPR159,3,2002-05-30,Hardwood,16
+Tallgrass Prairie,TAPR159,3,2004-05-25,Hardwood,30
+Tallgrass Prairie,TAPR159,3,2005-05-19,Hardwood,13.4
+Tallgrass Prairie,TAPR159,3,2006-05-20,Hardwood,15
+Tallgrass Prairie,TAPR159,4,2001-05-25,Hardwood,16.5
+Tallgrass Prairie,TAPR159,4,2002-05-30,Hardwood,16.75
+Tallgrass Prairie,TAPR159,4,2004-05-25,Hardwood,8
+Tallgrass Prairie,TAPR159,4,2005-05-19,Hardwood,7.5
+Tallgrass Prairie,TAPR159,4,2006-05-20,Hardwood,13.5
+Tallgrass Prairie,TAPR160,1,2002-05-30,Hardwood,4.25
+Tallgrass Prairie,TAPR160,1,2004-05-25,Hardwood,24
+Tallgrass Prairie,TAPR160,1,2005-05-19,Hardwood,6
+Tallgrass Prairie,TAPR160,1,2006-05-20,Hardwood,10.75
+Tallgrass Prairie,TAPR160,1,2007-05-21,Hardwood,10
+Tallgrass Prairie,TAPR160,1,2008-06-04,Hardwood,12.2
+Tallgrass Prairie,TAPR160,1,2010-05-22,Hardwood,11.5
+Tallgrass Prairie,TAPR160,1,2014-05-19,Hardwood,14.5
+Tallgrass Prairie,TAPR160,1,2018-05-25,Hardwood,13
+Tallgrass Prairie,TAPR160,2,2001-05-24,Hardwood,6.75
+Tallgrass Prairie,TAPR160,2,2002-05-30,Hardwood,14
+Tallgrass Prairie,TAPR160,2,2005-05-19,Hardwood,7.2
+Tallgrass Prairie,TAPR160,2,2006-05-20,Hardwood,16
+Tallgrass Prairie,TAPR160,3,2001-05-24,Hardwood,19
+Tallgrass Prairie,TAPR160,3,2002-05-30,Hardwood,26
+Tallgrass Prairie,TAPR160,3,2004-05-25,Hardwood,13.5
+Tallgrass Prairie,TAPR160,3,2005-05-19,Hardwood,14.25
+Tallgrass Prairie,TAPR160,3,2006-05-20,Hardwood,13
+Tallgrass Prairie,TAPR160,4,2001-05-24,Hardwood,12
+Tallgrass Prairie,TAPR160,4,2004-05-25,Hardwood,16
+Tallgrass Prairie,TAPR160,4,2006-05-20,Hardwood,10
+Tallgrass Prairie,TAPR161,1,2001-05-24,Hardwood,5
+Tallgrass Prairie,TAPR161,1,2002-05-29,Hardwood,8.75
+Tallgrass Prairie,TAPR161,1,2005-05-19,Hardwood,5.4
+Tallgrass Prairie,TAPR161,1,2006-05-20,Hardwood,7
+Tallgrass Prairie,TAPR161,1,2007-05-21,Hardwood,5
+Tallgrass Prairie,TAPR161,1,2008-06-04,Hardwood,6.9
+Tallgrass Prairie,TAPR161,1,2010-05-22,Hardwood,7.5
+Tallgrass Prairie,TAPR161,1,2014-05-20,Hardwood,6
+Tallgrass Prairie,TAPR161,4,2001-05-24,Hardwood,11.5
+Tallgrass Prairie,TAPR161,4,2002-05-29,Hardwood,18.5
+Tallgrass Prairie,TAPR161,4,2004-05-25,Hardwood,14.5
+Tallgrass Prairie,TAPR161,4,2005-05-19,Hardwood,8.75
+Tallgrass Prairie,TAPR161,4,2006-05-20,Hardwood,13
+Tallgrass Prairie,TAPR162,1,2001-05-24,Hardwood,15
+Tallgrass Prairie,TAPR162,1,2002-05-30,Hardwood,12.5
+Tallgrass Prairie,TAPR162,1,2004-05-25,Hardwood,21
+Tallgrass Prairie,TAPR162,1,2005-05-19,Hardwood,13.2
+Tallgrass Prairie,TAPR162,1,2006-05-22,Hardwood,15
+Tallgrass Prairie,TAPR162,1,2007-05-21,Hardwood,16
+Tallgrass Prairie,TAPR162,1,2008-06-04,Hardwood,19.9
+Tallgrass Prairie,TAPR162,1,2010-05-22,Hardwood,15
+Tallgrass Prairie,TAPR162,1,2014-05-20,Hardwood,12.75
+Tallgrass Prairie,TAPR162,2,2001-05-24,Hardwood,7
+Tallgrass Prairie,TAPR162,2,2002-05-30,Hardwood,10.25
+Tallgrass Prairie,TAPR162,2,2005-05-19,Hardwood,7
+Tallgrass Prairie,TAPR162,3,2005-05-19,Hardwood,13.75
+Tallgrass Prairie,TAPR162,3,2006-05-22,Hardwood,22
+Tallgrass Prairie,TAPR162,4,2001-05-24,Hardwood,15.5
+Tallgrass Prairie,TAPR162,4,2002-05-30,Hardwood,20
+Tallgrass Prairie,TAPR162,4,2004-05-25,Hardwood,24
+Tallgrass Prairie,TAPR162,4,2005-05-19,Hardwood,18.9
+Tallgrass Prairie,TAPR162,4,2006-05-22,Hardwood,22
+Tallgrass Prairie,TAPR163,1,2001-05-24,Hardwood,14.75
+Tallgrass Prairie,TAPR163,1,2002-06-03,Hardwood,14.25
+Tallgrass Prairie,TAPR163,1,2004-05-25,Hardwood,14.5
+Tallgrass Prairie,TAPR163,1,2005-05-19,Hardwood,15
+Tallgrass Prairie,TAPR163,1,2006-05-22,Hardwood,17
+Tallgrass Prairie,TAPR163,1,2007-05-21,Hardwood,18
+Tallgrass Prairie,TAPR163,1,2008-06-04,Hardwood,16.6
+Tallgrass Prairie,TAPR163,1,2010-05-22,Hardwood,17
+Tallgrass Prairie,TAPR163,1,2014-05-20,Hardwood,13.5
+Tallgrass Prairie,TAPR163,2,2001-05-24,Hardwood,26
+Tallgrass Prairie,TAPR163,2,2002-06-03,Hardwood,26
+Tallgrass Prairie,TAPR163,2,2004-05-25,Hardwood,14
+Tallgrass Prairie,TAPR163,2,2005-05-19,Hardwood,14.5
+Tallgrass Prairie,TAPR163,2,2006-05-22,Hardwood,20
+Tallgrass Prairie,TAPR163,4,2001-05-24,Hardwood,8
+Tallgrass Prairie,TAPR163,4,2002-06-03,Hardwood,12.75
+Tallgrass Prairie,TAPR163,4,2004-05-25,Hardwood,9
+Tallgrass Prairie,TAPR163,4,2005-05-19,Hardwood,8.25
+Tallgrass Prairie,TAPR163,4,2006-05-22,Hardwood,10
+Tallgrass Prairie,TAPR164,1,2001-06-07,Hardwood,11.5
+Tallgrass Prairie,TAPR164,1,2002-06-01,Hardwood,20.5
+Tallgrass Prairie,TAPR164,1,2005-05-17,Hardwood,13.3
+Tallgrass Prairie,TAPR164,1,2006-05-18,Hardwood,16
+Tallgrass Prairie,TAPR164,1,2007-05-17,Hardwood,12.5
+Tallgrass Prairie,TAPR164,1,2008-06-05,Hardwood,12.6
+Tallgrass Prairie,TAPR164,1,2010-05-23,Hardwood,15
+Tallgrass Prairie,TAPR164,1,2014-05-17,Hardwood,18
+Tallgrass Prairie,TAPR164,1,2018-05-22,Hardwood,16
+Tallgrass Prairie,TAPR164,2,2001-06-07,Hardwood,25.5
+Tallgrass Prairie,TAPR164,2,2002-06-01,Hardwood,34
+Tallgrass Prairie,TAPR165,1,2002-06-01,Hardwood,29.5
+Tallgrass Prairie,TAPR165,1,2005-05-20,Hardwood,12.8
+Tallgrass Prairie,TAPR165,1,2006-05-18,Hardwood,15.5
+Tallgrass Prairie,TAPR165,1,2007-05-17,Hardwood,14
+Tallgrass Prairie,TAPR165,1,2008-06-05,Hardwood,20.8
+Tallgrass Prairie,TAPR165,1,2010-05-23,Hardwood,28
+Tallgrass Prairie,TAPR165,1,2014-05-17,Hardwood,18.75
+Tallgrass Prairie,TAPR165,1,2018-05-22,Hardwood,15
+Tallgrass Prairie,TAPR166,1,2001-06-07,Hardwood,8.75
+Tallgrass Prairie,TAPR166,1,2002-06-01,Hardwood,29
+Tallgrass Prairie,TAPR166,1,2004-05-24,Hardwood,23
+Tallgrass Prairie,TAPR166,1,2005-05-20,Hardwood,10.05
+Tallgrass Prairie,TAPR166,1,2006-05-18,Hardwood,32
+Tallgrass Prairie,TAPR166,1,2007-05-17,Hardwood,23
+Tallgrass Prairie,TAPR166,1,2008-06-05,Hardwood,20.1
+Tallgrass Prairie,TAPR166,1,2010-05-23,Hardwood,30
+Tallgrass Prairie,TAPR166,1,2014-05-17,Hardwood,27.5
+Tallgrass Prairie,TAPR166,1,2018-05-22,Hardwood,25
+Tallgrass Prairie,TAPR166,2,2001-06-07,Hardwood,7.75
+Tallgrass Prairie,TAPR166,2,2002-06-01,Hardwood,18.5
+Tallgrass Prairie,TAPR166,2,2004-05-24,Hardwood,29
+Tallgrass Prairie,TAPR166,2,2005-05-20,Hardwood,27
+Tallgrass Prairie,TAPR166,2,2006-05-18,Hardwood,30
+Tallgrass Prairie,TAPR167,1,2001-06-07,Hardwood,32
+Tallgrass Prairie,TAPR167,1,2002-06-01,Hardwood,24.25
+Tallgrass Prairie,TAPR167,1,2004-05-24,Hardwood,32.25
+Tallgrass Prairie,TAPR167,1,2005-05-20,Hardwood,23.75
+Tallgrass Prairie,TAPR167,1,2006-05-18,Hardwood,26
+Tallgrass Prairie,TAPR167,1,2007-05-17,Hardwood,14.5
+Tallgrass Prairie,TAPR167,1,2008-06-05,Hardwood,28
+Tallgrass Prairie,TAPR167,1,2010-05-24,Hardwood,35
+Tallgrass Prairie,TAPR167,1,2014-05-17,Hardwood,20.5
+Tallgrass Prairie,TAPR167,1,2018-05-22,Hardwood,18
+Tallgrass Prairie,TAPR168,1,2001-06-07,Hardwood,29
+Tallgrass Prairie,TAPR168,1,2002-06-01,Hardwood,26
+Tallgrass Prairie,TAPR168,1,2004-05-24,Hardwood,23.5
+Tallgrass Prairie,TAPR168,1,2005-05-20,Hardwood,23.75
+Tallgrass Prairie,TAPR168,1,2006-05-18,Hardwood,23
+Tallgrass Prairie,TAPR168,1,2007-05-22,Hardwood,22
+Tallgrass Prairie,TAPR168,1,2008-06-05,Hardwood,26.5
+Tallgrass Prairie,TAPR168,1,2010-05-24,Hardwood,38
+Tallgrass Prairie,TAPR168,1,2014-05-17,Hardwood,27.5
+Tallgrass Prairie,TAPR168,1,2018-05-22,Hardwood,15
+Tallgrass Prairie,TAPR168,4,2001-06-07,Hardwood,34
+Tallgrass Prairie,TAPR168,4,2002-06-01,Hardwood,29
+Tallgrass Prairie,TAPR168,4,2004-05-24,Hardwood,15
+Tallgrass Prairie,TAPR168,4,2005-05-20,Hardwood,15.75
+Tallgrass Prairie,TAPR168,4,2006-05-18,Hardwood,24
+Tallgrass Prairie,TAPR169,1,2001-06-07,Hardwood,23
+Tallgrass Prairie,TAPR169,1,2002-06-01,Hardwood,16.25
+Tallgrass Prairie,TAPR169,1,2004-05-26,Hardwood,28
+Tallgrass Prairie,TAPR169,1,2005-05-20,Hardwood,18
+Tallgrass Prairie,TAPR169,1,2006-05-18,Hardwood,34
+Tallgrass Prairie,TAPR169,1,2007-05-22,Hardwood,11
+Tallgrass Prairie,TAPR169,1,2008-06-05,Hardwood,32.3
+Tallgrass Prairie,TAPR169,1,2010-05-24,Hardwood,32.5
+Tallgrass Prairie,TAPR169,1,2014-05-17,Hardwood,25
+Tallgrass Prairie,TAPR169,1,2018-05-22,Hardwood,29
+Tallgrass Prairie,TAPR169,4,2001-06-07,Hardwood,29
+Tallgrass Prairie,TAPR169,4,2002-06-01,Hardwood,29
+Tallgrass Prairie,TAPR169,4,2004-05-26,Hardwood,22
+Tallgrass Prairie,TAPR169,4,2005-05-20,Hardwood,23.4
+Tallgrass Prairie,TAPR169,4,2006-05-18,Hardwood,22
+Tallgrass Prairie,TAPR170,1,2001-06-07,Hardwood,29.5
+Tallgrass Prairie,TAPR170,1,2002-06-01,Hardwood,26
+Tallgrass Prairie,TAPR170,1,2004-05-26,Hardwood,38
+Tallgrass Prairie,TAPR170,1,2005-05-20,Hardwood,25.5
+Tallgrass Prairie,TAPR170,1,2006-05-18,Hardwood,32
+Tallgrass Prairie,TAPR170,1,2007-05-22,Hardwood,18
+Tallgrass Prairie,TAPR170,1,2008-06-05,Hardwood,36.2
+Tallgrass Prairie,TAPR170,1,2010-05-24,Hardwood,20
+Tallgrass Prairie,TAPR170,1,2014-05-17,Hardwood,22
+Tallgrass Prairie,TAPR170,1,2018-05-22,Hardwood,21
+Tallgrass Prairie,TAPR170,3,2005-05-20,Hardwood,8.64
+Tallgrass Prairie,TAPR170,4,2001-06-07,Hardwood,26
+Tallgrass Prairie,TAPR170,4,2002-06-01,Hardwood,16.75
+Tallgrass Prairie,TAPR170,4,2005-05-20,Hardwood,13
+Tallgrass Prairie,TAPR170,4,2006-05-18,Hardwood,26
+Tallgrass Prairie,TAPR171,1,2001-06-07,Hardwood,28.5
+Tallgrass Prairie,TAPR171,1,2002-06-01,Hardwood,20
+Tallgrass Prairie,TAPR171,1,2004-05-27,Hardwood,16.25
+Tallgrass Prairie,TAPR171,1,2005-05-20,Hardwood,7
+Tallgrass Prairie,TAPR171,1,2006-05-18,Hardwood,21
+Tallgrass Prairie,TAPR171,1,2008-06-05,Hardwood,16.1
+Tallgrass Prairie,TAPR171,1,2010-05-24,Hardwood,9.75
+Tallgrass Prairie,TAPR171,1,2014-05-17,Hardwood,19.5
+Tallgrass Prairie,TAPR171,1,2018-05-21,Hardwood,10
+Tallgrass Prairie,TAPR172,1,2001-06-07,Hardwood,21.5
+Tallgrass Prairie,TAPR172,1,2002-05-31,Hardwood,24.75
+Tallgrass Prairie,TAPR172,1,2004-05-27,Hardwood,27.75
+Tallgrass Prairie,TAPR172,1,2005-05-20,Hardwood,22
+Tallgrass Prairie,TAPR172,1,2006-05-18,Hardwood,23
+Tallgrass Prairie,TAPR172,1,2007-05-18,Hardwood,24
+Tallgrass Prairie,TAPR172,1,2008-06-05,Hardwood,17.3
+Tallgrass Prairie,TAPR172,1,2010-05-24,Hardwood,2
+Tallgrass Prairie,TAPR172,1,2014-05-17,Hardwood,26.5
+Tallgrass Prairie,TAPR172,1,2018-05-21,Hardwood,35
+Tallgrass Prairie,TAPR172,3,2001-06-07,Hardwood,23
+Tallgrass Prairie,TAPR172,3,2002-05-31,Hardwood,20
+Tallgrass Prairie,TAPR172,3,2004-05-27,Hardwood,26
+Tallgrass Prairie,TAPR172,3,2005-05-20,Hardwood,20.5
+Tallgrass Prairie,TAPR172,3,2006-05-18,Hardwood,31
+Tallgrass Prairie,TAPR172,4,2001-06-07,Hardwood,17.5
+Tallgrass Prairie,TAPR172,4,2002-05-31,Hardwood,22.5
+Tallgrass Prairie,TAPR172,4,2005-05-20,Hardwood,22.5
+Tallgrass Prairie,TAPR172,4,2006-05-18,Hardwood,21
+Tallgrass Prairie,TAPR173,1,2001-06-09,Hardwood,26
+Tallgrass Prairie,TAPR173,1,2002-05-31,Hardwood,26
+Tallgrass Prairie,TAPR173,1,2004-05-27,Hardwood,34
+Tallgrass Prairie,TAPR173,1,2005-05-20,Hardwood,26.75
+Tallgrass Prairie,TAPR173,1,2006-05-18,Hardwood,25
+Tallgrass Prairie,TAPR173,1,2007-05-18,Hardwood,29
+Tallgrass Prairie,TAPR173,1,2008-06-05,Hardwood,25.7
+Tallgrass Prairie,TAPR173,1,2010-05-24,Hardwood,40
+Tallgrass Prairie,TAPR173,1,2014-05-17,Hardwood,34
+Tallgrass Prairie,TAPR173,1,2018-05-21,Hardwood,32
+Tallgrass Prairie,TAPR173,2,2001-06-09,Hardwood,10.5
+Tallgrass Prairie,TAPR173,2,2002-05-31,Hardwood,20.5
+Tallgrass Prairie,TAPR173,2,2004-05-27,Hardwood,27
+Tallgrass Prairie,TAPR173,2,2005-05-20,Hardwood,11.25
+Tallgrass Prairie,TAPR173,2,2006-05-18,Hardwood,22
+Tallgrass Prairie,TAPR173,4,2001-06-09,Hardwood,19.5
+Tallgrass Prairie,TAPR174,1,2001-06-09,Hardwood,17
+Tallgrass Prairie,TAPR174,1,2002-05-31,Hardwood,19.75
+Tallgrass Prairie,TAPR174,1,2004-05-13,Hardwood,20
+Tallgrass Prairie,TAPR174,1,2005-05-20,Hardwood,20.25
+Tallgrass Prairie,TAPR174,1,2006-05-22,Hardwood,20
+Tallgrass Prairie,TAPR174,1,2007-05-18,Hardwood,21
+Tallgrass Prairie,TAPR174,1,2008-06-05,Hardwood,22.4
+Tallgrass Prairie,TAPR174,1,2010-05-15,Hardwood,19
+Tallgrass Prairie,TAPR174,1,2014-05-17,Hardwood,25
+Tallgrass Prairie,TAPR174,1,2018-05-21,Hardwood,9.5
+Tallgrass Prairie,TAPR174,2,2001-06-09,Hardwood,15.75
+Tallgrass Prairie,TAPR174,2,2002-05-31,Hardwood,22.5
+Tallgrass Prairie,TAPR174,2,2004-05-13,Hardwood,26
+Tallgrass Prairie,TAPR174,2,2005-05-20,Hardwood,23.8
+Tallgrass Prairie,TAPR174,2,2006-05-22,Hardwood,30
+Tallgrass Prairie,TAPR175,1,2001-06-08,Hardwood,12.5
+Tallgrass Prairie,TAPR175,1,2002-05-31,Hardwood,23
+Tallgrass Prairie,TAPR175,1,2004-05-13,Hardwood,20
+Tallgrass Prairie,TAPR175,1,2005-05-18,Hardwood,12.8
+Tallgrass Prairie,TAPR175,1,2006-05-22,Hardwood,12
+Tallgrass Prairie,TAPR175,1,2007-05-18,Hardwood,13
+Tallgrass Prairie,TAPR175,1,2008-06-05,Hardwood,15.8
+Tallgrass Prairie,TAPR175,1,2010-05-15,Hardwood,12
+Tallgrass Prairie,TAPR175,1,2014-05-17,Hardwood,35
+Tallgrass Prairie,TAPR175,1,2018-05-22,Hardwood,3
+Tallgrass Prairie,TAPR175,2,2001-06-08,Hardwood,14
+Tallgrass Prairie,TAPR175,2,2002-05-31,Hardwood,30
+Tallgrass Prairie,TAPR175,2,2004-05-13,Hardwood,22
+Tallgrass Prairie,TAPR175,2,2005-05-18,Hardwood,22.5
+Tallgrass Prairie,TAPR175,2,2006-05-22,Hardwood,24
+Tallgrass Prairie,TAPR175,4,2001-06-08,Hardwood,15.75
+Tallgrass Prairie,TAPR175,4,2002-05-31,Hardwood,29
+Tallgrass Prairie,TAPR175,4,2004-05-13,Hardwood,30.5
+Tallgrass Prairie,TAPR175,4,2005-05-18,Hardwood,16
+Tallgrass Prairie,TAPR175,4,2006-05-22,Hardwood,36
+Tallgrass Prairie,TAPR176,1,2001-05-25,Hardwood,17.5
+Tallgrass Prairie,TAPR176,1,2002-05-30,Hardwood,24.5
+Tallgrass Prairie,TAPR176,1,2004-05-25,Hardwood,32
+Tallgrass Prairie,TAPR176,1,2005-05-19,Hardwood,24
+Tallgrass Prairie,TAPR176,1,2006-05-20,Hardwood,27
+Tallgrass Prairie,TAPR176,1,2007-05-21,Hardwood,23
+Tallgrass Prairie,TAPR176,1,2008-06-04,Hardwood,30.4
+Tallgrass Prairie,TAPR176,1,2010-05-22,Hardwood,23.5
+Tallgrass Prairie,TAPR176,1,2014-05-20,Hardwood,23
+Tallgrass Prairie,TAPR176,1,2018-05-25,Hardwood,20
+Tallgrass Prairie,TAPR176,2,2001-05-25,Hardwood,12
+Tallgrass Prairie,TAPR176,2,2002-05-30,Hardwood,14
+Tallgrass Prairie,TAPR176,2,2004-05-25,Hardwood,12
+Tallgrass Prairie,TAPR176,2,2005-05-19,Hardwood,14
+Tallgrass Prairie,TAPR176,2,2006-05-20,Hardwood,16
+Tallgrass Prairie,TAPR179,3,2002-05-30,Hardwood,12.5
+Tallgrass Prairie,TAPR181,4,2002-05-30,Hardwood,2
+Tallgrass Prairie,TAPR2,1,2001-05-25,Hardwood,15.5
+Tallgrass Prairie,TAPR2,1,2002-05-30,Hardwood,11.75
+Tallgrass Prairie,TAPR2,1,2008-06-04,Hardwood,12.4
+Tallgrass Prairie,TAPR2,1,2010-05-21,Hardwood,12.5
+Tallgrass Prairie,TAPR2,1,2014-05-19,Hardwood,13.5
+Tallgrass Prairie,TAPR2,2,2001-05-25,Hardwood,13.25
+Tallgrass Prairie,TAPR2,2,2002-05-30,Hardwood,10
+Tallgrass Prairie,TAPR217,3,2002-05-31,Hardwood,3
+Tallgrass Prairie,TAPR217,3,2005-05-18,Hardwood,4.7
+Tallgrass Prairie,TAPR226,4,2002-05-28,Hardwood,10.25
+Tallgrass Prairie,TAPR233,1,2002-06-14,Hardwood,7.5
+Tallgrass Prairie,TAPR233,1,2005-05-23,Hardwood,8
+Tallgrass Prairie,TAPR233,1,2010-05-23,Hardwood,8.5
+Tallgrass Prairie,TAPR233,1,2014-05-17,Hardwood,7
+Tallgrass Prairie,TAPR237,3,2002-06-14,Hardwood,22
+Tallgrass Prairie,TAPR254,2,2002-06-14,Hardwood,19.5
+Tallgrass Prairie,TAPR260,1,2002-06-12,Hardwood,11.5
+Tallgrass Prairie,TAPR260,1,2006-05-17,Hardwood,13
+Tallgrass Prairie,TAPR260,2,2002-06-12,Hardwood,10.5
+Tallgrass Prairie,TAPR260,2,2006-05-17,Hardwood,10.6
+Wilson's Creek,WICR1,1,2016-05-18,Total,0
+Wilson's Creek,WICR1,1,2020-06-08,Hardwood,0
+Wilson's Creek,WICR1,1,2020-06-08,Conifer,0
+Wilson's Creek,WICR10,1,2008-05-22,Conifer,7.3
+Wilson's Creek,WICR10,1,2008-05-22,Hardwood,11.4
+Wilson's Creek,WICR10,1,2012-06-01,Conifer,6.1
+Wilson's Creek,WICR10,1,2012-06-01,Hardwood,18.7
+Wilson's Creek,WICR10,1,2016-05-19,Hardwood,12.5
+Wilson's Creek,WICR10,1,2016-05-19,Conifer,8.5
+Wilson's Creek,WICR10,1,2016-05-19,Total,12.5
+Wilson's Creek,WICR10,1,2020-06-09,Hardwood,19.75
+Wilson's Creek,WICR10,1,2020-06-09,Conifer,9.5
+Wilson's Creek,WICR11,1,2008-05-20,Hardwood,20.2
+Wilson's Creek,WICR11,1,2012-05-29,Hardwood,22.4
+Wilson's Creek,WICR11,1,2016-05-20,Hardwood,21.75
+Wilson's Creek,WICR11,1,2016-05-20,Total,21.75
+Wilson's Creek,WICR11,1,2020-06-10,Hardwood,6.5
+Wilson's Creek,WICR11,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR12,1,2008-05-22,Conifer,10.6
+Wilson's Creek,WICR12,1,2008-05-22,Hardwood,13.5
+Wilson's Creek,WICR12,1,2012-06-01,Conifer,7
+Wilson's Creek,WICR12,1,2012-06-01,Hardwood,10.7
+Wilson's Creek,WICR12,1,2016-05-19,Hardwood,13
+Wilson's Creek,WICR12,1,2016-05-19,Conifer,9.5
+Wilson's Creek,WICR12,1,2016-05-19,Total,13
+Wilson's Creek,WICR12,1,2020-06-09,Hardwood,19.25
+Wilson's Creek,WICR12,1,2020-06-09,Conifer,13
+Wilson's Creek,WICR14,1,2012-05-30,Hardwood,15.5
+Wilson's Creek,WICR14,1,2016-05-19,Hardwood,5.25
+Wilson's Creek,WICR14,1,2016-05-19,Total,5.25
+Wilson's Creek,WICR14,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR14,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR15,1,2008-05-22,Hardwood,15.1
+Wilson's Creek,WICR15,1,2012-06-01,Hardwood,10.3
+Wilson's Creek,WICR15,1,2016-05-19,Hardwood,13.5
+Wilson's Creek,WICR15,1,2016-05-19,Total,13.5
+Wilson's Creek,WICR15,1,2020-06-09,Hardwood,24.75
+Wilson's Creek,WICR15,1,2020-06-09,Conifer,5.5
+Wilson's Creek,WICR16,1,2008-05-20,Hardwood,4.4
+Wilson's Creek,WICR16,1,2012-05-30,Hardwood,10.5
+Wilson's Creek,WICR16,1,2016-05-20,Hardwood,8.25
+Wilson's Creek,WICR16,1,2016-05-20,Total,8.25
+Wilson's Creek,WICR16,1,2020-06-10,Hardwood,13
+Wilson's Creek,WICR16,1,2020-06-10,Conifer,4.5
+Wilson's Creek,WICR17,1,2016-05-19,Total,0
+Wilson's Creek,WICR17,1,2020-06-09,Hardwood,0
+Wilson's Creek,WICR17,1,2020-06-09,Conifer,0
+Wilson's Creek,WICR18,1,2016-05-20,Total,0
+Wilson's Creek,WICR18,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR18,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR19,1,2008-05-21,Hardwood,7.7
+Wilson's Creek,WICR19,1,2012-05-31,Hardwood,12.7
+Wilson's Creek,WICR19,1,2016-05-19,Hardwood,10.5
+Wilson's Creek,WICR19,1,2016-05-19,Total,10.5
+Wilson's Creek,WICR19,1,2020-06-10,Hardwood,13.5
+Wilson's Creek,WICR19,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR2,1,2008-05-20,Hardwood,17.1
+Wilson's Creek,WICR2,1,2012-05-31,Hardwood,17.4
+Wilson's Creek,WICR2,1,2016-05-19,Hardwood,25
+Wilson's Creek,WICR2,1,2016-05-19,Total,25
+Wilson's Creek,WICR2,1,2020-06-08,Hardwood,29.5
+Wilson's Creek,WICR2,1,2020-06-08,Conifer,0
+Wilson's Creek,WICR20,1,2016-05-19,Total,0
+Wilson's Creek,WICR20,1,2020-06-09,Hardwood,0
+Wilson's Creek,WICR20,1,2020-06-09,Conifer,0
+Wilson's Creek,WICR21,1,2008-05-21,Hardwood,5.6
+Wilson's Creek,WICR21,1,2012-05-29,Hardwood,12.9
+Wilson's Creek,WICR21,1,2016-05-19,Hardwood,14
+Wilson's Creek,WICR21,1,2016-05-19,Total,14
+Wilson's Creek,WICR21,1,2020-06-10,Hardwood,15.5
+Wilson's Creek,WICR21,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR22,1,2016-05-19,Total,0
+Wilson's Creek,WICR22,1,2020-06-09,Hardwood,0
+Wilson's Creek,WICR22,1,2020-06-09,Conifer,0
+Wilson's Creek,WICR23,1,2016-05-19,Total,0
+Wilson's Creek,WICR23,1,2020-06-08,Hardwood,0
+Wilson's Creek,WICR23,1,2020-06-08,Conifer,0
+Wilson's Creek,WICR24,1,2008-05-21,Hardwood,17.6
+Wilson's Creek,WICR24,1,2012-05-30,Hardwood,45.5
+Wilson's Creek,WICR24,1,2016-05-19,Hardwood,32
+Wilson's Creek,WICR24,1,2016-05-19,Conifer,8
+Wilson's Creek,WICR24,1,2016-05-19,Total,32
+Wilson's Creek,WICR24,1,2020-06-11,Hardwood,24.75
+Wilson's Creek,WICR24,1,2020-06-11,Conifer,4.25
+Wilson's Creek,WICR25,1,2008-05-22,Hardwood,13.1
+Wilson's Creek,WICR25,1,2012-05-31,Hardwood,18.7
+Wilson's Creek,WICR25,1,2016-05-19,Hardwood,15
+Wilson's Creek,WICR25,1,2016-05-19,Total,15
+Wilson's Creek,WICR25,1,2020-06-09,Hardwood,17.5
+Wilson's Creek,WICR25,1,2020-06-09,Conifer,0
+Wilson's Creek,WICR26,1,2008-05-21,Hardwood,18.2
+Wilson's Creek,WICR26,1,2012-05-29,Hardwood,27.8
+Wilson's Creek,WICR26,1,2016-05-19,Hardwood,27
+Wilson's Creek,WICR26,1,2016-05-19,Total,27
+Wilson's Creek,WICR26,1,2020-06-10,Hardwood,11.5
+Wilson's Creek,WICR26,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR27,1,2008-05-22,Hardwood,16.7
+Wilson's Creek,WICR27,1,2012-05-30,Hardwood,18.6
+Wilson's Creek,WICR27,1,2016-05-19,Hardwood,17
+Wilson's Creek,WICR27,1,2016-05-19,Total,17
+Wilson's Creek,WICR27,1,2020-06-10,Hardwood,28.5
+Wilson's Creek,WICR27,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR28,1,2008-05-21,Hardwood,10.6
+Wilson's Creek,WICR28,1,2012-05-29,Hardwood,14.1
+Wilson's Creek,WICR28,1,2016-05-19,Hardwood,14.5
+Wilson's Creek,WICR28,1,2016-05-19,Total,14.5
+Wilson's Creek,WICR29,1,2008-05-21,Hardwood,9.7
+Wilson's Creek,WICR29,1,2016-05-19,Hardwood,13.5
+Wilson's Creek,WICR29,1,2016-05-19,Total,13.5
+Wilson's Creek,WICR29,1,2020-06-11,Hardwood,13
+Wilson's Creek,WICR29,1,2020-06-11,Conifer,0
+Wilson's Creek,WICR3,1,2008-05-20,Conifer,7
+Wilson's Creek,WICR3,1,2008-05-20,Hardwood,5.3
+Wilson's Creek,WICR3,1,2012-05-29,Conifer,8
+Wilson's Creek,WICR3,1,2012-05-29,Hardwood,7.5
+Wilson's Creek,WICR3,1,2016-05-19,Hardwood,8.25
+Wilson's Creek,WICR3,1,2016-05-19,Conifer,8.5
+Wilson's Creek,WICR3,1,2016-05-19,Total,8.5
+Wilson's Creek,WICR3,1,2020-06-08,Hardwood,13
+Wilson's Creek,WICR3,1,2020-06-08,Conifer,0
+Wilson's Creek,WICR30,1,2016-05-19,Total,0
+Wilson's Creek,WICR30,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR30,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR31,1,2016-05-19,Hardwood,18.5
+Wilson's Creek,WICR31,1,2016-05-19,Total,18.5
+Wilson's Creek,WICR31,1,2020-06-10,Hardwood,21
+Wilson's Creek,WICR31,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR32,1,2016-05-19,Total,0
+Wilson's Creek,WICR32,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR32,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR33,1,2008-05-21,Conifer,15.5
+Wilson's Creek,WICR33,1,2008-05-21,Hardwood,18.9
+Wilson's Creek,WICR33,1,2012-05-30,Conifer,19
+Wilson's Creek,WICR33,1,2012-05-30,Hardwood,26.7
+Wilson's Creek,WICR33,1,2016-05-19,Hardwood,26
+Wilson's Creek,WICR33,1,2016-05-19,Conifer,16
+Wilson's Creek,WICR33,1,2016-05-19,Total,26
+Wilson's Creek,WICR33,1,2020-06-11,Hardwood,25.5
+Wilson's Creek,WICR33,1,2020-06-11,Conifer,16.75
+Wilson's Creek,WICR34,1,2012-05-31,Hardwood,12.4
+Wilson's Creek,WICR34,1,2016-05-19,Total,0
+Wilson's Creek,WICR34,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR34,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR35,1,2016-05-19,Total,0
+Wilson's Creek,WICR35,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR35,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR36,1,2016-05-19,Total,0
+Wilson's Creek,WICR36,1,2020-06-11,Hardwood,0
+Wilson's Creek,WICR36,1,2020-06-11,Conifer,0
+Wilson's Creek,WICR37,1,2008-05-21,Hardwood,14.9
+Wilson's Creek,WICR37,1,2012-05-31,Hardwood,23.5
+Wilson's Creek,WICR37,1,2016-05-19,Hardwood,20.5
+Wilson's Creek,WICR37,1,2016-05-19,Total,20.5
+Wilson's Creek,WICR37,1,2020-06-11,Hardwood,18.5
+Wilson's Creek,WICR37,1,2020-06-11,Conifer,0
+Wilson's Creek,WICR38,1,2016-05-20,Total,0
+Wilson's Creek,WICR4,1,2008-05-20,Hardwood,21.6
+Wilson's Creek,WICR4,1,2012-05-29,Hardwood,15.2
+Wilson's Creek,WICR4,1,2016-05-19,Hardwood,11.25
+Wilson's Creek,WICR4,1,2016-05-19,Total,11.25
+Wilson's Creek,WICR4,1,2020-06-09,Hardwood,0
+Wilson's Creek,WICR4,1,2020-06-09,Conifer,0
+Wilson's Creek,WICR5,1,2008-05-20,Conifer,8.9
+Wilson's Creek,WICR5,1,2008-05-20,Hardwood,22.2
+Wilson's Creek,WICR5,1,2012-05-31,Conifer,9.7
+Wilson's Creek,WICR5,1,2012-05-31,Hardwood,18.4
+Wilson's Creek,WICR5,1,2016-05-20,Hardwood,26
+Wilson's Creek,WICR5,1,2016-05-20,Conifer,7.5
+Wilson's Creek,WICR5,1,2016-05-20,Total,26
+Wilson's Creek,WICR5,1,2020-06-08,Hardwood,23
+Wilson's Creek,WICR5,1,2020-06-08,Conifer,9
+Wilson's Creek,WICR6,1,2008-05-20,Hardwood,11.5
+Wilson's Creek,WICR6,1,2012-06-01,Hardwood,13.4
+Wilson's Creek,WICR6,1,2016-05-20,Hardwood,10.25
+Wilson's Creek,WICR6,1,2016-05-20,Total,10.25
+Wilson's Creek,WICR6,1,2020-06-08,Hardwood,18
+Wilson's Creek,WICR6,1,2020-06-08,Conifer,0
+Wilson's Creek,WICR7,1,2008-05-20,Hardwood,21.1
+Wilson's Creek,WICR7,1,2012-05-29,Hardwood,17.9
+Wilson's Creek,WICR7,1,2016-05-20,Hardwood,18.5
+Wilson's Creek,WICR7,1,2016-05-20,Total,18.5
+Wilson's Creek,WICR7,1,2020-06-10,Hardwood,23.5
+Wilson's Creek,WICR7,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR8,1,2016-05-19,Total,0
+Wilson's Creek,WICR8,1,2020-06-10,Hardwood,0
+Wilson's Creek,WICR8,1,2020-06-10,Conifer,0
+Wilson's Creek,WICR9,1,2008-05-20,Hardwood,6.8
+Wilson's Creek,WICR9,1,2012-06-01,Hardwood,10.1
+Wilson's Creek,WICR9,1,2016-05-19,Hardwood,13.5
+Wilson's Creek,WICR9,1,2016-05-19,Total,13.5
+Wilson's Creek,WICR9,1,2020-06-08,Hardwood,21.5
+Wilson's Creek,WICR9,1,2020-06-08,Conifer,0

@@ -1,4 +1,0 @@
-attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
-PlotID	plot id	character				
-decimalLongitude	longitude dd	numeric	degree			
-decimalLatitude	latitude dd	numeric	degree			

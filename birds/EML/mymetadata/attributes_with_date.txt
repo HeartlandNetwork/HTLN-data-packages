@@ -1,0 +1,10 @@
+./attributes_BasalArea.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_BirdObservationsThru2022_3.txt:EventDateTime	event data and time	Date		YYYY-MM-DDThh:mm:ss		
+./attributes_CanopyCover.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_CanopyHeight.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_FoliarCover.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_GroundCover.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_HorizDistanceProfile.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_PlotVegCover.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_TreeTally.txt:EventDate	event date	Date		YYYY-MM-DD		
+./attributes_VerticalProfile.txt:EventDate	event date	Date		YYYY-MM-DD		

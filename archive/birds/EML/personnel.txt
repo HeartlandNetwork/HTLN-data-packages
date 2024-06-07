@@ -1,3 +1,0 @@
-givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
-David		Peitz	National-Park-Service	david_peitz@nps.gov		creator	Heartland-Network-Breeding-Bird-Monitoring-Program	National-Park-Service	
-Gareth		Rowell	National-Park-Service	gareth_rowell@nps.gov		contact	Heartland-Network-Breeding-Bird-Monitoring-Program	National-Park-Service	

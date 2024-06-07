@@ -1,0 +1,94 @@
+> 
+> EML::write_eml(my_metadata, "my_metadata.xml")
+> 
+> ## Check for EML validity 
+> #This is a good point to pause and test whether your EML is valid. 
+> 
+> eml_validate(my_metadata) # <<<<<<<<<<<<<<<<<<< See error messages
+[1] FALSE
+attr(,"errors")
+[1] "Element 'pubDate': This element is not expected. Expected is one of ( title, creator )."
+> issues()
+
+Categorical variables (BasalArea.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (BirdObservationsThru2022_3.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (CanopyCover.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (CanopyHeight.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (FoliarCover.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (GroundCover.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (HorizDistanceProfile.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (PlotPhysicalFeatures.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (PlotVegCover.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (TreeTally.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Categorical variables (VerticalProfile.csv, Required) - Variables defined as categorical will be reclassified as 'character' until these issues are fixed:
+1.  Missing code definitions. Codes are meaningless without definition.
+
+Geographic coverage (Required) - Geographic coverage will be dropped from the EML until these issues are fixed:
+1.  Missing geographic coverage metadata. Geographic coverage describes the locations and areas where these data were collected.
+
+Personnel (Required) - Personnel (creators, contacts, etc.) will be dropped from the EML until these issues are fixed:
+1.  Missing personnel metadata. Personnel metadata assigns attribution to the creators, principal investigators and other personnel associated with these data, and provides a point of contact for any user questions.
+
+Data table attributes (BasalArea.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot, CanopyCount
+
+Data table attributes (BirdObservationsThru2022_3.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: ObservationNumber, FlockSize, IsPreviousPlot, IsFlyover
+2.  Undefined units. Units must be from the EML standard unit dictionary or defined as custom units. The units of these attributes are undefined: Temperature_C, Distance
+
+Data table attributes (CanopyCover.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot, DotScore
+
+Data table attributes (CanopyHeight.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot
+2.  Undefined units. Units must be from the EML standard unit dictionary or defined as custom units. The units of these attributes are undefined: CanopyHeight
+
+Data table attributes (FoliarCover.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot
+
+Data table attributes (GroundCover.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot
+
+Data table attributes (HorizDistanceProfile.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot
+
+Data table attributes (PlotCoordinatesDD.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Undefined units. Units must be from the EML standard unit dictionary or defined as custom units. The units of these attributes are undefined: decimalLongitude, decimalLatitude
+
+Data table attributes (PlotPhysicalFeatures.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: InRiparianCorridor
+2.  Undefined units. Units must be from the EML standard unit dictionary or defined as custom units. The units of these attributes are undefined: Slope, Aspect
+
+Data table attributes (PlotPhysicalFeatures.csv, Optional):
+1.  Inaccurate classes. These attributes are classified as 'numeric' but in the data contain character strings other than those listed as missing value codes in the data and will therefore be reclassified as 'character': Slope, Aspect
+
+Data table attributes (PlotVegCover.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Undefined units. Units must be from the EML standard unit dictionary or defined as custom units. The units of these attributes are undefined: MidpointValue
+
+Data table attributes (TreeTally.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot, TreeCount
+
+Data table attributes (VerticalProfile.csv, Required) - Data table attributes will be dropped from the EML until these issues are fixed:
+1.  Missing units. Attributes with a numeric class require units. These attributes have missing units: SubPlot, Count
+
+> 
