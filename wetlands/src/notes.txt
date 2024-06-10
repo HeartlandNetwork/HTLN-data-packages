@@ -6,3 +6,22 @@
 
 why is that?
 
+20240610
+
+Go back to MS Access front end, the corresponding Access file is here:
+
+C:\Users\GRowell\work\Databases\Wetlands\20240528-ORAM-pub
+
+The export format of tbl_ORAMSMetrics1Denorm and tbl_ORAMSMetrics2Denorm were
+different. Are the table datatypes actually different between the two.
+
+If so, do I want to make them match in R or in the database. Leaning towards
+cleaning them up in R for the publishable dataframe and not try re-design anything
+in the Access database. 
+
+On next session, go into HTLNWetlands2.4.0.accdb and look at the datatypes for the
+two denorm tables. If they are different, don't sweat it. We are going to create
+a workflow in R and validate it against a dozen or so ORAMS. Then we will test it
+metric by metric to ensure it behaves as it should.
+
+Bye for now... 
