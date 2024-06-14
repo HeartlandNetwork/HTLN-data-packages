@@ -1,10 +1,17 @@
 
-20240531
 
-0's in ORAMmetrics1 denorm whereas
-,, no values in ORAMmetrics2 denorm
+20240611
 
-why is that?
+
+The format differences between tbl_ORAMSMetrics1Denorm and tbl_ORAMSMetrics2Denorm 
+are correct and they reflect differences in data formats between page 1 and 
+page 2 in the way the information is captured. Page 2 includes numerical values
+that are blank if there are no values entered, whereas Page 1 is all true, false
+recorded as -1 and 0.
+
+Let's begin by importing each csv file: bl_ORAMSMetrics1Denorm
+
+
 
 20240610
 
@@ -24,4 +31,10 @@ two denorm tables. If they are different, don't sweat it. We are going to create
 a workflow in R and validate it against a dozen or so ORAMS. Then we will test it
 metric by metric to ensure it behaves as it should.
 
-Bye for now... 
+
+20240531
+
+0's in ORAMmetrics1 denorm whereas
+,, no values in ORAMmetrics2 denorm
+
+why is that?
