@@ -1,0 +1,12 @@
+Protocol,Collection,Processing,QAQC,Data Pkg,Auto Summaries,Visualizer
+Birds,Complete,Complete,Complete,Complete,Complete,Development
+Deer,Complete,Complete,Complete,Development,NA,NA
+Vegetation,VBA,VBA,VBA,NA,VBA,NA
+MoBlad,VBA,VBA,Development,Development,NA,NA
+Orchid,VBA,VBA,Development,Development,NA
+Fish,VBA,VBA,Complete,Complete,Development,Development
+Aquatic Inverts,VBA,VBA,Development,Development,VBA,Development
+Aquatic Vegetation,VBA,VBA,Development,Development,VBA,Development
+Wetlands: ORAM Assessments,VBA,VBA,Development,Development,VBA,NA
+Wetlands: Vegetation VIBI,VBA,VBA,Development,Development,VBA,NA
+Invasive Plants,VBA,VBA,Complete,Development,Development,Development
