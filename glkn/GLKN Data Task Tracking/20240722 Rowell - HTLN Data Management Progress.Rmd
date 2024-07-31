@@ -1,0 +1,56 @@
+---
+title: "HTLN Data Science Asset Development"
+author: ''
+date: ''
+output:
+  html_document: default
+  word_document: null
+  classoption: landscape
+header-includes:
+  - \usepackage{fontawesome5}
+editor_options:
+  chunk_output_type: console
+---
+
+```{css, echo=FALSE}
+h1 {
+  text-align: center;
+  font-weight: bold;
+ }
+```
+
+
+```{r setup, include = FALSE}
+library(knitr)
+library(dplyr)
+library(fontawesome)
+library(kableExtra)
+
+options(knitr.kable.NA = '')
+
+#setwd("C:/Users/cmhester/OneDrive - DOI/Documents/7 Outreach/Data Management")
+DataTasks <- read.csv("20240722 Rowell - Data Management Task Tracking.csv")
+
+DataTasks <- apply(X = DataTasks, MARGIN = 2, FUN = gsub, pattern = "Complete", replacement = fontawesome::fa("fas fa-circle-check", fill = "aquamarine", height = "4em", width = "4em"))
+DataTasks <- apply(X = DataTasks, MARGIN = 2, FUN = gsub, pattern = "VBA", replacement = fontawesome::fa("fas fa-database", fill = "aquamarine", height = "4em", width = "4em"))
+DataTasks <- apply(X = DataTasks, MARGIN = 2, FUN = gsub, pattern = "Development", replacement = fontawesome::fa("fas fa-clock", fill = "aquamarine", height = "4em", width = "4em"))
+DataTasks <- apply(X = DataTasks, MARGIN = 2, FUN = gsub, pattern = "Contractor", replacement = fontawesome::fa("fas fa-handshake-simple", fill = "aquamarine", height = "4em", width = "4em"))
+
+
+DataTasks <- kable(DataTasks, format = "simple", col.names = gsub("[.]"," ",colnames(DataTasks)), align = c("l",paste0(rep("c", times = ncol(DataTasks)))), full.width = TRUE) 
+
+```
+
+`r DataTasks`
+\
+```{r legend, echo = FALSE}
+Legend <- as.data.frame(matrix(nrow=4, ncol=2))
+Legend[,1] <- c("Completed","MS Access Tools","Contractor Provided","In Progress")
+Legend[,2] <- c(fontawesome::fa("fas fa-circle-check", fill = "aquamarine"), fontawesome::fa("fas fa-database", fill = "aquamarine"), fontawesome::fa("fas fa-handshake-simple", fill = "aquamarine"), fontawesome::fa("fas fa-clock", fill = "aquamarine"))
+
+Legend <- kableExtra::kable(Legend, format = "simple", col.names = c("",""), caption = "Legend", align = c("l","r")) 
+
+```
+
+`r Legend`
+

@@ -1,0 +1,11 @@
+Protocol,Collection,Processing,QAQC,Data Pkg,Auto Summaries,Visualizer
+Amphibians,Complete,Complete,Complete,NA,NA,NA
+Bats,Complete,Complete,Complete,NA,NA,NA
+Climate,NA,Contractor,Contractor,NA,NA,Contractor
+Contaminants (Eagles),NA,VBA,VBA,NA,NA,NA
+Contaminants (Dragonflies),Contractor,Contractor,Contractor,NA,NA,Contractor
+Landbirds,Complete,Development,Development,Development,NA,NA
+Landscape Dynamics,Complete,Complete,Complete,Development,NA,NA
+Vegetation,Complete,VBA,VBA,NA,Development,NA
+WQ: Lakes & Rivers,Complete,Development,Complete,Complete,NA,Complete
+WQ: Inverts,NA,Complete,,Complete,NA,NA
