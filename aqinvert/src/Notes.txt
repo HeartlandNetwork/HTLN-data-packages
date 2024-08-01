@@ -1,7 +1,9 @@
 
 
+20240731
 
 
+conda install -y seaborn
 
 
 
