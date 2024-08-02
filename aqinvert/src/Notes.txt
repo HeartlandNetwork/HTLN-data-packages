@@ -1,12 +1,15 @@
 
 
+
+20240801
+
+finished  measured_discharge.csv
+
+
 20240731
 
 
 conda install -y seaborn
-
-
-
 
 
 
