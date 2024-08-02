@@ -1,5 +1,0 @@
-ParkName,ParkCode,LocationType,StreamName,TributaryName,County,StretchNumber,ReachID,ReachLength_m,StreamWatershedArea_sqkm,PeriodID,Season,StartDate,EndDate,EventID,Units,DischargeNo,DistanceFromBank_m,Depth_cm,Velocity_ms,Comments,
-Buffalo National River,BUFF,Mainstem,Buffalo River,,Searcy,69,BUFFM04,,,BUFFRMINVE2005NOV29,2005,11/29/2005 0:00,12/14/2005 0:00,BUFFRMINVE2005DEC01,meters,1,0,8,0,,
-Buffalo National River,BUFF,Mainstem,Buffalo River,,Searcy,69,BUFFM04,,,BUFFRMINVE2005NOV29,2005,11/29/2005 0:00,12/14/2005 0:00,BUFFRMINVE2005DEC01,meters,2,2,20,0.19,,
-Buffalo National River,BUFF,Mainstem,Buffalo River,,Searcy,69,BUFFM04,,,BUFFRMINVE2005NOV29,2005,11/29/2005 0:00,12/14/2005 0:00,BUFFRMINVE2005DEC01,meters,3,4,17,0.26,,
-Buffalo National River,BUFF,Mainstem,Buffalo River,,Searcy,69,BUFFM04,,,BUFFRMINVE2005NOV29,2005,11/29/2005 0:00,12/14/2005 0:00,BUFFRMINVE2005DEC01,meters,4,6,16,0.22,,
