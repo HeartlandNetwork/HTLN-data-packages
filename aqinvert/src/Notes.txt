@@ -1,4 +1,20 @@
 
+20240805
+
+left off....
+
+redo the measured discharge and still need to do the gauage discharge
+
+then check again for stuff not done...
+
+completed scripts...
+    location_details
+    measured_discharge
+    periods_events
+    reach-coordinates
+    riffle_cover_class
+    riffle_water_quality
+    taxa_info    
 
 
 20240801
@@ -8,9 +24,7 @@ finished  measured_discharge.csv
 
 20240731
 
-
 conda install -y seaborn
-
 
 
 20240730
